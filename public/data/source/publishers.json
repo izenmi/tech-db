@@ -645,5 +645,23 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jitsumu-kyoiku",
+    "name": "実務教育出版",
+    "nameKana": "じつむきょういくしゅっぱん",
+    "description": "資格試験や公務員試験の対策書を刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "socius-japan",
+    "name": "ソキウス・ジャパン",
+    "nameKana": "そきうすじゃぱん",
+    "description": "IT資格試験の教材制作を手がける日本の企業。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

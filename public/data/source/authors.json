@@ -8689,5 +8689,284 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hyuga-shunji",
+    "name": "日向俊二",
+    "nameKana": "ひゅうがしゅんじ",
+    "description": "日本の技術者・著述家。プログラミング言語の入門書を数多く執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "iwata-takashi",
+    "name": "岩田宇史",
+    "nameKana": "いわたたかし",
+    "description": "日本のWebエンジニア・講師。JavaScriptの入門講座を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suzuki-takanori",
+    "name": "鈴木たかのり",
+    "nameKana": "すずきたかのり",
+    "description": "日本のPythonエンジニア。PyCon JPの運営に長く関わり、入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ishikawa-hidekazu",
+    "name": "石川栄和",
+    "nameKana": "いしかわひでかず",
+    "description": "日本のWeb制作者。WordPressのテーマ開発と教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kameda-shigeyuki",
+    "name": "亀田重幸",
+    "nameKana": "かめだしげゆき",
+    "description": "日本のITコンサルタント。デジタル変革の推進支援に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shibata-boyo",
+    "name": "柴田望洋",
+    "nameKana": "しばたぼうよう",
+    "description": "日本の研究者・著述家。福岡工業大学准教授で、明解シリーズの入門書で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "imagawa-miho",
+    "name": "今川美保",
+    "nameKana": "いまがわみほ",
+    "description": "日本の技術者。Javaの入門書の執筆に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ito-yuichi",
+    "name": "伊藤裕一",
+    "nameKana": "いとうゆういち",
+    "description": "日本の技術者。Pythonとネットワーク自動化に関する解説を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tom-hombergs",
+    "name": "トム・ホンバーグス",
+    "nameKana": "とむほんばーぐす",
+    "description": "ドイツのソフトウェアエンジニア。ヘキサゴナルアーキテクチャの実装解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kanahiro-kazumi",
+    "name": "金宏和實",
+    "nameKana": "かなひろかずみ",
+    "description": "日本の技術者・著述家。Excelと Pythonによる業務効率化の解説書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takahashi-noriaki",
+    "name": "高橋宣成",
+    "nameKana": "たかはしのりあき",
+    "description": "日本の技術者。Google Apps ScriptとVBAによる業務効率化の教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "casey-reas",
+    "name": "ケイシー・リース",
+    "nameKana": "けいしーりーす",
+    "description": "アメリカのアーティスト・研究者。プログラミング環境Processingの共同開発者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsushita-kotaro",
+    "name": "松下孝太郎",
+    "nameKana": "まつしたこうたろう",
+    "description": "日本の研究者。東京情報大学教授で、プログラミング教育と画像処理を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "switch-education",
+    "name": "スイッチエデュケーション編集部",
+    "nameKana": "すいっちえでゅけーしょんへんしゅうぶ",
+    "description": "教育用マイコンの普及に取り組む日本の企業の編集部門。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "akaishi-masanori",
+    "name": "赤石雅典",
+    "nameKana": "あかいしまさのり",
+    "description": "日本の技術者。日本IBMで機械学習の実装支援に携わり、入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ito-makoto",
+    "name": "伊藤真",
+    "nameKana": "いとうまこと",
+    "description": "日本の研究者・技術者。機械学習を数式と実装の両面から解説する教科書を執筆した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ogata-shinya",
+    "name": "小縣信也",
+    "nameKana": "おがたしんや",
+    "description": "日本のデータサイエンティスト。深層学習の資格教材の執筆に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jdla",
+    "name": "日本ディープラーニング協会",
+    "nameKana": "にほんでぃーぷらーにんぐきょうかい",
+    "description": "深層学習の人材育成と資格認定を行う日本の団体。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jss-shuppan",
+    "name": "日本統計学会出版企画委員会",
+    "nameKana": "にほんとうけいがっかいしゅっぱんきかくいいんかい",
+    "description": "日本統計学会が統計検定の公式教材を編纂するために設けた委員会。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kaneko-norihiko",
+    "name": "金子則彦",
+    "nameKana": "かねこのりひこ",
+    "description": "日本の技術者・講師。情報処理技術者試験の高度区分の対策書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kato-akira",
+    "name": "加藤昭",
+    "nameKana": "かとうあきら",
+    "description": "日本の技術者・講師。情報処理技術者試験の過去問題解説を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamamoto-mitsuo",
+    "name": "山本三雄",
+    "nameKana": "やまもとみつお",
+    "description": "日本の技術者・講師。基本情報技術者試験の対策書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nihon-third-party",
+    "name": "日本サード・パーティ",
+    "nameKana": "にほんさーどぱーてぃ",
+    "description": "日本の技術教育・検証サービス企業。IT資格試験の教材を制作している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakano-masaharu",
+    "name": "中野雅晴",
+    "nameKana": "なかのまさはる",
+    "description": "日本のクラウド技術者。AWS認定資格の教材制作に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sutani-satoshi",
+    "name": "須谷聡史",
+    "nameKana": "すたにさとし",
+    "description": "日本のクラウド技術者。Microsoft Azureの導入支援と資格教材の執筆に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "umeuchi-tsubasa",
+    "name": "梅内翼",
+    "nameKana": "うめうちつばさ",
+    "description": "日本のセキュリティ技術者。CTFの競技者として活動し、攻略技術の解説を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yoshida-shingo",
+    "name": "吉田真吾",
+    "nameKana": "よしだしんご",
+    "description": "日本のソフトウェアエンジニア。サーバーレスと生成AIを用いたシステム構築の解説を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "charles-spurgeon",
+    "name": "チャールズ・E・スパージョン",
+    "nameKana": "ちゃーるずいーすぱーじょん",
+    "description": "アメリカのネットワーク技術者。イーサネットの仕様と運用に関する解説書で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hirayama-tsuyoshi",
+    "name": "平山毅",
+    "nameKana": "ひらやまつよし",
+    "description": "日本のクラウドアーキテクト。大規模システムの設計とAWS資格教材の執筆に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jeff-gothelf",
+    "name": "ジェフ・ゴーセルフ",
+    "nameKana": "じぇふごーせるふ",
+    "description": "アメリカのデザイナー・コンサルタント。デザインとアジャイル開発を統合する実践を提唱している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "iso-masahiro",
+    "name": "磯賢大",
+    "nameKana": "いそまさひろ",
+    "description": "日本のインフラエンジニア。Kubernetesの拡張機構に関する解説を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
