@@ -8527,5 +8527,167 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06",
     "birthYear": 1975
+  },
+  {
+    "id": "sowmya-vajjala",
+    "name": "サウミャ・ヴァッジャラ",
+    "nameKana": "さうみゃう゛ぁっじゃら",
+    "description": "インド出身の研究者。自然言語処理システムの実務適用を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kobayashi-kyohei",
+    "name": "小林恭平",
+    "nameKana": "こばやしきょうへい",
+    "description": "日本のエンジニア。Web技術の基礎を平易にまとめた入門書を共同執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kihashi-masahiro",
+    "name": "きはしまさひろ",
+    "nameKana": "きはしまさひろ",
+    "description": "日本のインフラエンジニア。サーバー運用の入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "miyamoto-kunio",
+    "name": "みやもとくにお",
+    "nameKana": "みやもとくにお",
+    "description": "日本のセキュリティ技術者。情報セキュリティの入門解説を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nishimura-yasuhiro",
+    "name": "西村泰洋",
+    "nameKana": "にしむらやすひろ",
+    "description": "日本のITコンサルタント。システム基盤やデジタル技術の解説書を数多く執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mitsumura-naoki",
+    "name": "三津村直貴",
+    "nameKana": "みつむらなおき",
+    "description": "日本のライター。人工知能をはじめとする先端技術の解説記事を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sakagami-kodai",
+    "name": "坂上幸大",
+    "nameKana": "さかがみこうだい",
+    "description": "日本のエンジニア。データベースの基礎を図解する入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tamita-masato",
+    "name": "民田雅人",
+    "nameKana": "たみためさと",
+    "description": "日本のDNS技術者。日本レジストリサービスでドメイン名システムの運用に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "noda-yuki",
+    "name": "野田ユウキ",
+    "nameKana": "のだゆうき",
+    "description": "日本のライター。Windows Serverの構築と運用に関する解説書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "naka-hiroyuki",
+    "name": "中寛之",
+    "nameKana": "なかひろゆき",
+    "description": "日本のITサービスマネジメント実務者。ITILの導入支援と教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "amino-eiji",
+    "name": "網野衛二",
+    "nameKana": "あみのえいじ",
+    "description": "日本のネットワーク技術者。ネットワークの基礎を平易に解説する入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "pmaj",
+    "name": "日本プロジェクトマネジメント協会",
+    "nameKana": "にほんぷろじぇくとまねじめんときょうかい",
+    "description": "P2M標準の策定と資格認定を行う日本の団体。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "thomas-davenport",
+    "name": "トーマス・H・ダベンポート",
+    "nameKana": "とーますえいちだべんぽーと",
+    "description": "アメリカの経営学者。分析力を競争優位の源泉として論じた研究で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "viktor-mayer-schonberger",
+    "name": "ビクター・マイヤー=ショーンベルガー",
+    "nameKana": "びくたーまいやーしょーんべるがー",
+    "description": "オーストリア出身の研究者。データが社会に与える影響を論じている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "oya-masanori",
+    "name": "大矢雅則",
+    "nameKana": "おおやまさのり",
+    "description": "日本の数学者。東京理科大学で情報数理と量子情報を研究した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "okumura-haruhiko",
+    "name": "奥村晴彦",
+    "nameKana": "おくむらはるひこ",
+    "description": "日本の研究者。三重大学名誉教授で、アルゴリズム事典とLaTeXの解説書で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fujiwara-hirofumi",
+    "name": "藤原博文",
+    "nameKana": "ふじわらひろふみ",
+    "description": "日本のプログラマ。実際のコードを添削する形式でC言語の作法を説いた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamaguchi-kazunori",
+    "name": "山口和紀",
+    "nameKana": "やまぐちかずのり",
+    "description": "日本の計算機科学者。東京大学でUNIXと情報教育に長く携わった。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

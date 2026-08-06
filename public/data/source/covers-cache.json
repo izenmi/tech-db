@@ -211,6 +211,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T22:09:18.201Z"
   },
+  "ai-jiten": {
+    "title": "AI事典",
+    "isbn": "9784764906044",
+    "matchedTitle": "AI事典第3版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6044/9784764906044.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:41:13.294Z"
+  },
   "ai-modern-approach": {
     "title": "エージェントアプローチ人工知能",
     "isbn": "9784320125940",
@@ -234,6 +242,14 @@
     "coverUrl": "https://www.oreilly.co.jp/books/images/picture_large978-4-87311-323-4.jpeg",
     "source": "oreilly-japan",
     "resolvedAt": "2026-08-06T20:38:49.906Z"
+  },
+  "algorithm-jiten": {
+    "title": "C言語による標準アルゴリズム事典",
+    "isbn": "9784774196909",
+    "matchedTitle": "C言語による標準アルゴリズム事典改訂新版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6909/9784774196909.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:41:15.614Z"
   },
   "algorithm-no-ehon": {
     "title": "アルゴリズムの絵本",
@@ -563,6 +579,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:26:28.087Z"
   },
+  "awk-programming-language": {
+    "title": "プログラミング言語AWK",
+    "isbn": "9784814400706",
+    "matchedTitle": "プログラミング言語AWK（第2版）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0706/9784814400706_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:41:40.372Z"
+  },
   "aws-gyomu-system-guide": {
     "title": "Amazon Web Services業務システム設計・移行ガイド",
     "isbn": "9784797392562",
@@ -707,6 +731,12 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:21:54.669Z"
   },
+  "big-data": {
+    "title": "ビッグデータの正体",
+    "isbn": "9784062180610",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:41:11.984Z"
+  },
   "bigdata-sql-recipe": {
     "title": "ビッグデータ分析・活用のためのSQLレシピ",
     "isbn": null,
@@ -798,6 +828,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4642/9784798064642_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:08:47.285Z"
+  },
+  "c-programming-shindanshitsu": {
+    "title": "Cプログラミング診断室",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:41:38.034Z"
   },
   "ceh-white-hacker-mondaishu": {
     "title": "CEH認定ホワイトハッカー問題集",
@@ -938,6 +974,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6545/9784774156545.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T20:55:49.948Z"
+  },
+  "competing-on-analytics": {
+    "title": "分析力を武器とする企業",
+    "isbn": null,
+    "matchedTitle": "分析力を武器とする企業",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2652/2000000212652.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:40:46.603Z"
   },
   "competing-with-unicorns": {
     "title": "ユニコーン企業のひみつ",
@@ -1098,6 +1142,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9731/9784873119731_1_3.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:25:12.829Z"
+  },
+  "daikibo-service-gijutsu": {
+    "title": "Web開発者のための大規模サービス技術入門",
+    "isbn": "9784774143071",
+    "matchedTitle": "Web開発者のための大規模サービス技術入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3071/9784774143071.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:17.415Z"
   },
   "dainekketsu-assembler": {
     "title": "大熱血!アセンブラ入門",
@@ -2603,6 +2655,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:47:48.958Z"
   },
+  "itil4-kihon": {
+    "title": "ITIL4の基本図解と実践",
+    "isbn": "9784296112524",
+    "matchedTitle": "ITIL(R) 4の基本　図解と実践",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2524/9784296112524_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:37.214Z"
+  },
   "java-concurrency-in-practice": {
     "title": "Java並行処理プログラミング",
     "isbn": null,
@@ -2718,6 +2778,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3957/9784798153957_1_30.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:28:58.185Z"
+  },
+  "jissen-dns": {
+    "title": "実践DNS",
+    "isbn": null,
+    "matchedTitle": "実践DNS　DNSSEC時代のDNSの設定と運用",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4537/2000001834537.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:40:33.690Z"
   },
   "jissen-flutter-firebase": {
     "title": "実践FlutterとFirebaseを使ったアプリ開発",
@@ -2936,6 +3004,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7645/9784873117645.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:31:22.231Z"
+  },
+  "kantan-network-shikumi": {
+    "title": "今すぐ使えるかんたんネットワークのしくみ超入門",
+    "isbn": "9784774180816",
+    "matchedTitle": "今すぐ使えるかんたんネットワークのしくみ超入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0816/9784774180816.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:39.541Z"
+  },
+  "keisanki-system-gairon": {
+    "title": "計算機システム概論",
+    "isbn": "9784781912509",
+    "matchedTitle": "計算機システム概論",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2509/9784781912509.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:36.050Z"
   },
   "keisanron-lambda": {
     "title": "計算論",
@@ -3457,6 +3541,54 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:54:31.719Z"
   },
+  "maruwakari-ai": {
+    "title": "図解まるわかりAIのしくみ",
+    "isbn": "9784798170138",
+    "matchedTitle": "図解まるわかり AIのしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0138/9784798170138_1_50.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:26.679Z"
+  },
+  "maruwakari-cloud": {
+    "title": "図解まるわかりクラウドのしくみ",
+    "isbn": "9784798166544",
+    "matchedTitle": "図解まるわかり クラウドのしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6544/9784798166544.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:27.841Z"
+  },
+  "maruwakari-database": {
+    "title": "図解まるわかりデータベースのしくみ",
+    "isbn": "9784798166056",
+    "matchedTitle": "図解まるわかり データベースのしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6056/9784798166056.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:29.021Z"
+  },
+  "maruwakari-network": {
+    "title": "図解まるわかりネットワークのしくみ",
+    "isbn": "9784798157498",
+    "matchedTitle": "図解まるわかり ネットワークのしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7498/9784798157498.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:23.233Z"
+  },
+  "maruwakari-programming": {
+    "title": "図解まるわかりプログラミングのしくみ",
+    "isbn": "9784798163284",
+    "matchedTitle": "図解まるわかり プログラミングのしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3284/9784798163284.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:25.548Z"
+  },
+  "maruwakari-server": {
+    "title": "図解まるわかりサーバーのしくみ",
+    "isbn": "9784798160054",
+    "matchedTitle": "図解まるわかり サーバーのしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0054/9784798160054.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:24.384Z"
+  },
   "mastering-bitcoin-3": {
     "title": "マスタリング・ビットコイン",
     "isbn": "9784814401444",
@@ -3763,6 +3895,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:12:01.869Z"
   },
+  "network-no-kihon": {
+    "title": "この一冊で全部わかるネットワークの基本",
+    "isbn": "9784815617677",
+    "matchedTitle": "イラスト図解式　この一冊で全部わかるネットワークの基本 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7677/9784815617677_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:22.068Z"
+  },
   "network-programmability-automation": {
     "title": "ネットワーク自動化とプログラマビリティ",
     "isbn": "9784873119816",
@@ -4029,6 +4169,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:54:22.477Z"
   },
+  "p2m-guidebook": {
+    "title": "P2Mプログラム&プロジェクトマネジメント標準ガイドブック",
+    "isbn": "9784800592590",
+    "matchedTitle": "改訂4版 P2Mプログラム＆プロジェクトマネジメント標準ガイドブック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2590/9784800592590_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:41.925Z"
+  },
   "packet-capture-kyokasho": {
     "title": "パケットキャプチャの教科書",
     "isbn": null,
@@ -4201,6 +4349,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T09:25:00.388Z"
   },
+  "practical-nlp": {
+    "title": "実践自然言語処理",
+    "isbn": "9784873119724",
+    "matchedTitle": "実践　自然言語処理",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9724/9784873119724_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:16.231Z"
+  },
   "practical-opentelemetry": {
     "title": "実践OpenTelemetry",
     "isbn": "9784814401031",
@@ -4338,6 +4494,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0197/9784296000197.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:11:59.537Z"
+  },
+  "program-no-ehon": {
+    "title": "プログラムの絵本",
+    "isbn": "9784798146744",
+    "matchedTitle": "プログラムの絵本 プログラミングの基本がわかる9つの扉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6744/9784798146744.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:40.710Z"
   },
   "programmer-no-sugaku-2": {
     "title": "プログラマの数学",
@@ -5037,6 +5201,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T20:57:07.060Z"
   },
+  "security-no-kihon": {
+    "title": "この一冊で全部わかるセキュリティの基本",
+    "isbn": "9784815629373",
+    "matchedTitle": "イラスト図解式 この一冊で全部わかるセキュリティの基本 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9373/9784815629373_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:20.902Z"
+  },
   "sed-and-awk": {
     "title": "sed & awkプログラミング",
     "isbn": null,
@@ -5098,6 +5270,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5663/9784774135663.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:48:57.412Z"
+  },
+  "server-no-kihon": {
+    "title": "この一冊で全部わかるサーバーの基本",
+    "isbn": "9784815615741",
+    "matchedTitle": "イラスト図解式 この一冊で全部わかるサーバーの基本 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5741/9784815615741_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:19.753Z"
   },
   "serverless-architectures-on-aws": {
     "title": "AWSによるサーバーレスアーキテクチャ",
@@ -5591,6 +5771,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T20:55:11.804Z"
   },
+  "suri-joho-kagaku-jiten": {
+    "title": "数理情報科学事典",
+    "isbn": "9784254121612",
+    "matchedTitle": "数理情報科学事典新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2541/25412161.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:41:14.465Z"
+  },
   "swift-jissen-nyumon": {
     "title": "Swift実践入門",
     "isbn": "9784297112134",
@@ -5706,6 +5894,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-06T21:58:02.765Z"
+  },
+  "tcpip-no-ehon": {
+    "title": "TCP/IPの絵本",
+    "isbn": "9784798155159",
+    "matchedTitle": "TCP/IPの絵本 第2版 ネットワークを学ぶ新しい9つの扉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5159/9784798155159.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:38.369Z"
   },
   "tdd-by-example": {
     "title": "テスト駆動開発",
@@ -5975,6 +6171,20 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T21:10:44.912Z"
   },
+  "unix-programming-environment": {
+    "title": "UNIXプログラミング環境",
+    "isbn": "9784048930574",
+    "matchedTitle": "UNIXプログラミング環境",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0574/9784048930574_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:41:39.230Z"
+  },
+  "unix-super-text": {
+    "title": "新the UNIX super text",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:41:48.216Z"
+  },
   "unyo-kaizen-kyokasho": {
     "title": "運用改善の教科書",
     "isbn": "9784297120702",
@@ -6129,6 +6339,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T21:49:02.931Z"
   },
+  "web-gijutsu-no-kihon": {
+    "title": "この一冊で全部わかるWeb技術の基本",
+    "isbn": "9784815625948",
+    "matchedTitle": "イラスト図解式 この一冊で全部わかるWeb技術の基本 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5948/9784815625948_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:18.585Z"
+  },
   "web-haishin-no-gijutsu": {
     "title": "Web配信の技術",
     "isbn": "9784297119256",
@@ -6206,6 +6424,14 @@
     "coverUrl": "https://www.oreilly.co.jp/books/images/picture_large978-4-87311-593-1.jpeg",
     "source": "oreilly-japan",
     "resolvedAt": "2026-08-06T21:57:18.054Z"
+  },
+  "windows-server-2022": {
+    "title": "Windows Server2022パーフェクトマスター",
+    "isbn": "9784798072104",
+    "matchedTitle": "Windows Server 2022パーフェクトマスター［Windows Server 2022/2019対応最新版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2104/9784798072104_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:40:34.858Z"
   },
   "wordpress-design-kyokasho": {
     "title": "WordPress仕事の現場でサッと使える!デザイン教科書",
