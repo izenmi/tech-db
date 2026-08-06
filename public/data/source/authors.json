@@ -6337,5 +6337,349 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hidaka-masahiro",
+    "name": "日高正博",
+    "nameKana": "ひだかまさひろ",
+    "description": "日本のモバイルアプリ開発者。Android技術書の執筆と技術書典の運営に関わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ishikawa-yosuke",
+    "name": "石川洋資",
+    "nameKana": "いしかわようすけ",
+    "description": "日本のiOSエンジニア。Swiftの言語仕様に踏み込んだ解説書を共同執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hirata-toshiyuki",
+    "name": "平田敏之",
+    "nameKana": "ひらたとしゆき",
+    "description": "日本のモバイルエンジニア。iOSアプリのテスト自動化に関する知見を発信している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nanri-yuki",
+    "name": "南里勇気",
+    "nameKana": "なんりゆうき",
+    "description": "日本のモバイルエンジニア。Flutterによるアプリ開発の実践書を共同執筆した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mattn",
+    "name": "mattn",
+    "nameKana": "まっとん",
+    "description": "日本のソフトウェアエンジニア。Go言語とVimのコミュニティで活動し、多数のツールを公開している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shimizu-yoichiro",
+    "name": "清水陽一郎",
+    "nameKana": "しみずよういちろう",
+    "description": "日本のソフトウェアエンジニア。GoによるWebアプリケーション開発の解説を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hiraoka-kazuyuki",
+    "name": "平岡和幸",
+    "nameKana": "ひらおかかずゆき",
+    "description": "日本の技術者・著述家。数学をプログラマの直感に結び付ける解説書で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "george-heineman",
+    "name": "ジョージ・T・ハイネマン",
+    "nameKana": "じょーじてぃーはいねまん",
+    "description": "アメリカの計算機科学者。アルゴリズムの実装と評価を扱う著作がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "john-bentley",
+    "name": "ジョン・ベントリー",
+    "nameKana": "じょんべんとりー",
+    "description": "アメリカの計算機科学者。ベル研究所でプログラミング技法に関する連載を執筆した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "iri-masao",
+    "name": "伊理正夫",
+    "nameKana": "いりまさお",
+    "description": "日本の数理工学者。東京大学名誉教授で、数値計算と最適化を専門とした。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1933
+  },
+  {
+    "id": "aoki-eita",
+    "name": "青木栄太",
+    "nameKana": "あおきえいた",
+    "description": "日本のエンジニア。ゲームAIコンテストでの経験をもとに探索アルゴリズムの解説を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "srini-devadas",
+    "name": "スリニヴァス・デヴァダス",
+    "nameKana": "すりにう゛ぁすでう゛ぁだす",
+    "description": "アメリカの計算機科学者。MIT教授で、計算機構成とセキュリティを研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "stefan-buttcher",
+    "name": "ステファン・ビュットヒャー",
+    "nameKana": "すてふぁんびゅっとひゃー",
+    "description": "ドイツの計算機科学者。情報検索システムの実装と評価を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takashima-ryoichi",
+    "name": "高島遼一",
+    "nameKana": "たかしまりょういち",
+    "description": "日本の研究者。神戸大学で音声情報処理を研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tarumoto-tetsuya",
+    "name": "樽本徹也",
+    "nameKana": "たるもとてつや",
+    "description": "日本のユーザビリティエンジニア。ユーザー調査とUXの実務手法を紹介している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "watanabe-keita",
+    "name": "渡邊恵太",
+    "nameKana": "わたなべけいた",
+    "description": "日本の研究者。明治大学准教授で、インタフェースと身体感覚の関係を研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "donald-norman",
+    "name": "ドナルド・A・ノーマン",
+    "nameKana": "どなるどえーのーまん",
+    "description": "アメリカの認知科学者。人間中心設計の考え方を広め、ユーザビリティ研究の基礎を築いた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1935
+  },
+  {
+    "id": "alan-cooper",
+    "name": "アラン・クーパー",
+    "nameKana": "あらんくーぱー",
+    "description": "アメリカのソフトウェア設計者。Visual Basicの原型を作り、ペルソナ手法を提唱した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ezaki-takahiro",
+    "name": "江崎貴裕",
+    "nameKana": "えざきたかひろ",
+    "description": "日本の研究者。東京大学でデータ解析と数理モデリングを研究し、方法論の解説書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matt-lemay",
+    "name": "マット・ルメイ",
+    "nameKana": "まっとるめい",
+    "description": "アメリカのプロダクトマネージャー・コンサルタント。組織全体でのアジャイル実践を論じている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tanya-reilly",
+    "name": "ターニャ・ライリー",
+    "nameKana": "たーにゃらいりー",
+    "description": "アイルランド出身のソフトウェアエンジニア。GoogleやSquareで上級技術職を務めた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sato-daisuke",
+    "name": "佐藤大典",
+    "nameKana": "さとうだいすけ",
+    "description": "日本のエンジニアリングマネージャー。技術組織の運営に関する解説を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "james-stanier",
+    "name": "ジェームズ・スタニアー",
+    "nameKana": "じぇーむずすたにあー",
+    "description": "イギリスのエンジニアリングマネージャー。マネージャーの日常業務を具体的に記述した著作がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ushio-tsuyoshi",
+    "name": "牛尾剛",
+    "nameKana": "うしおつよし",
+    "description": "日本のソフトウェアエンジニア。マイクロソフトの米国本社でAzure Functionsの開発に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ishii-ryosuke",
+    "name": "石井遼介",
+    "nameKana": "いしいりょうすけ",
+    "description": "日本の研究者・経営者。組織開発と行動分析の知見をチームづくりに応用している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "roger-pressman",
+    "name": "ロジャー・S・プレスマン",
+    "nameKana": "ろじゃーえすぷれすまん",
+    "description": "アメリカのソフトウェア工学者。標準的な教科書の著者として知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dean-leffingwell",
+    "name": "ディーン・レフィングウェル",
+    "nameKana": "でぃーんれふぃんぐうぇる",
+    "description": "アメリカのソフトウェア技術者。大規模組織向けのアジャイル要求管理とSAFeを提唱した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "thoughtworks",
+    "name": "ThoughtWorks",
+    "nameKana": "そうとわーくす",
+    "description": "アジャイル開発とコンサルティングを手がける国際的なソフトウェア企業。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "david-bernstein",
+    "name": "デイビッド・スコット・バーンスタイン",
+    "nameKana": "でいびっどすこっとばーんすたいん",
+    "description": "アメリカの技術コーチ。レガシーコードを生まないための実践を体系化した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "chris-birchall",
+    "name": "クリス・バーチャル",
+    "nameKana": "くりすばーちゃる",
+    "description": "イギリスのソフトウェアエンジニア。既存システムの改善手法に関する著作がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "brian-okken",
+    "name": "ブライアン・オッケン",
+    "nameKana": "ぶらいあんおっけん",
+    "description": "アメリカのテストエンジニア。pytestによるテストの実践を解説し、ポッドキャストも運営している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "beproud",
+    "name": "ビープラウド",
+    "nameKana": "びーぷらうど",
+    "description": "Pythonを主軸とする日本のソフトウェア開発会社。技術書の執筆や学習サービスの運営も行っている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "okamoto-takashi",
+    "name": "岡本隆史",
+    "nameKana": "おかもとたかし",
+    "description": "日本のソフトウェアエンジニア。バージョン管理と開発基盤に関する解説を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "minatogawa-ai",
+    "name": "湊川あい",
+    "nameKana": "みなとがわあい",
+    "description": "日本のWebデザイナー・漫画家。技術をイラストと漫画で説明する入門書を制作している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "harayama-michiko",
+    "name": "原山美知子",
+    "nameKana": "はらやまみちこ",
+    "description": "日本の研究者。岐阜大学でネットワークと情報システムを教えている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ivan-ristic",
+    "name": "イワン・リスティック",
+    "nameKana": "いわんりすてぃっく",
+    "description": "クロアチア出身のセキュリティ技術者。SSL Labsを立ち上げ、TLSの運用実態を調査してきた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsubara-keiji",
+    "name": "松原敬二",
+    "nameKana": "まつばらけいじ",
+    "description": "日本の技術者・講師。情報処理技術者試験の対策書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "teiva-harsanyi",
+    "name": "テイバ・ハルサニ",
+    "nameKana": "ていばはるさに",
+    "description": "フランスのソフトウェアエンジニア。Goでの開発でよくある誤りを収集し解説している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

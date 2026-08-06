@@ -512,5 +512,42 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1948
+  },
+  {
+    "id": "peaks",
+    "name": "PEAKS",
+    "nameKana": "ぴーくす",
+    "description": "技術書のクラウドファンディング出版を行う日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bungeishunju",
+    "name": "文藝春秋",
+    "nameKana": "ぶんげいしゅんじゅう",
+    "description": "日本の総合出版社。雑誌『文藝春秋』を中心に、ノンフィクションや実用書も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1923
+  },
+  {
+    "id": "bnn",
+    "name": "ビー・エヌ・エヌ新社",
+    "nameKana": "びーえぬえぬしんしゃ",
+    "description": "デザイン・アート・Web関連の書籍を刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shinyosha",
+    "name": "新曜社",
+    "nameKana": "しんようしゃ",
+    "description": "心理学・認知科学・社会学を中心に刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

@@ -2140,5 +2140,68 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kurokawa-toshiaki",
+    "name": "黒川利明",
+    "nameKana": "くろかわとしあき",
+    "description": "日本の技術者・翻訳者。アルゴリズムやソフトウェア工学の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kobayashi-kenichiro",
+    "name": "小林健一郎",
+    "nameKana": "こばやしけんいちろう",
+    "description": "日本の研究者・翻訳者。プログラミングの古典的著作を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "umezawa-katsuyuki",
+    "name": "梅澤克之",
+    "nameKana": "うめざわかつゆき",
+    "description": "日本の研究者。情報検索やセキュリティ分野の書籍の翻訳に参加している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "okamoto-akira",
+    "name": "岡本明",
+    "nameKana": "おかもとあきら",
+    "description": "日本の研究者。認知科学とインタフェース分野の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sociomedia",
+    "name": "ソシオメディア",
+    "nameKana": "そしおめでぃあ",
+    "description": "日本のUXデザインコンサルティング会社。インタラクションデザインの書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sepa-project",
+    "name": "SEPA翻訳プロジェクト",
+    "nameKana": "えすいーぴーえーほんやくぷろじぇくと",
+    "description": "ソフトウェア工学の教科書を翻訳するために組まれた日本の翻訳チーム。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "saito-takamichi-tr",
+    "name": "齋藤孝道",
+    "nameKana": "さいとうたかみち",
+    "description": "日本の研究者。明治大学教授で、セキュリティ関連書の監訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
