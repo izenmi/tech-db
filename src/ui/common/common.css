@@ -575,6 +575,47 @@ h1 {
   margin: 0 0 10px;
 }
 
+/* ---- Tech stack list (/techs) ----
+   The categories carry this page: a flat A-Z run of "Rust / PostgreSQL / アルゴリズム / Docker" is
+   hard to scan, so a heading has to read as a divider and not as one more row. Reusing
+   .home-section__heading did not do that — its 10px bottom margin was the only thing between the
+   previous category's cards and the next category's title, so the two ran together. A rule plus
+   real space above the heading fixes it without adding shadows or gradients. */
+.tech-section {
+  margin-top: 22px;
+}
+
+.tech-section + .tech-section {
+  margin-top: 32px;
+  padding-top: 18px;
+  border-top: 1px solid var(--color-outline);
+}
+
+/* Wider tracks than the shared .entity-list default (200px): technology names here are long
+   compound katakana ("コンピュータアーキテクチャ", "リレーショナルデータベース") and at 200px they
+   wrapped with a single orphaned character on the second line. */
+.tech-section .entity-list {
+  grid-template-columns: repeat(auto-fill, minmax(min(250px, 100%), 1fr));
+}
+
+.tech-section__heading {
+  display: flex;
+  align-items: baseline;
+  gap: 9px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--color-teal-deep);
+  margin: 0 0 12px;
+  letter-spacing: 0.02em;
+}
+
+.tech-section__count {
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: var(--color-text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
 .home-section__more {
   display: inline-block;
   margin-top: 10px;

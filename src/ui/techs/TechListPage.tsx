@@ -31,8 +31,11 @@ export function TechListPage() {
             const items = state.data.filter((t) => t.category === category);
             if (items.length === 0) return null;
             return (
-              <section key={category}>
-                <h2 className="home-section__heading font-display">{TECH_CATEGORY_LABEL[category]}</h2>
+              <section className="tech-section" key={category}>
+                <h2 className="tech-section__heading font-display">
+                  {TECH_CATEGORY_LABEL[category]}
+                  <span className="tech-section__count">{items.length}件</span>
+                </h2>
                 <ul className="entity-list">
                   {items.map((t) => (
                     <li className="entity-list__item" key={t.id}>
