@@ -22,7 +22,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -201,10 +201,15 @@ def main():
 
     # NDLは1件5〜18秒かかる(待ちの大半はレスポンス待ち)ので、少数のワーカーで並行に投げる。
     if workers > 1:
+        # 完了順に出す(pool.map だと全件終わるまで1行も出ず、進捗が見えない)
+        results = []
         with ThreadPoolExecutor(max_workers=workers) as pool:
-            results = list(pool.map(lambda t: probe_one(*t), enumerate(cands, 1)))
-        for r in results:
-            print(render(r), flush=True)
+            futures = [pool.submit(probe_one, i, c) for i, c in enumerate(cands, 1)]
+            for f in as_completed(futures):
+                r = f.result()
+                results.append(r)
+                print(render(r), flush=True)
+        results.sort(key=lambda r: r["n"])
     else:
         results = []
         for i, cand in enumerate(cands, 1):

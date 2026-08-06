@@ -82,14 +82,60 @@ ITエンジニア向けの技術書を技術スタック・対象レベル・著
 
 ## データ拡充時の作業フロー
 
-**必ず小バッチ(10〜15冊程度)で作業し、バッチごとに即コミット・push**する。
+**小バッチ(30冊程度まで)で作業し、バッチごとに即コミット・push**する。
+**サブエージェントの並列実行はしない**(ranobe-dbでのユーザー指示を姉妹サイト全体に適用)。
 
-1. 候補をリストアップ
-2. 上記の順で裏取り(**サブエージェントの並列実行はしない**。ranobe-dbでのユーザー指示を姉妹サイト全体に適用)
-3. `scripts/apply_batch.py` で反映。batch.jsonのキーは `newAuthors` / `newTechs` / `newTranslators` / `newPublishers` / `newThemes` / `newAwards` / `works`。`generate-manifest.mjs`と同じルールで検証し、通らない要素はレポートしてスキップする
-4. `npm run fetch-covers`(ISBNを入れてあれば1発で解決する)
-5. `npm run build` が通ることを確認
-6. `git add public/data/source && git commit && git push`
+1. 候補タイトルを1行1件のテキストにする
+2. `python3 scripts/probe.py <candidates.txt> <probe.json> --sleep 2 --workers 3` で一括下調べ
+3. probe.json のOKだけを見ながら注釈 `annot.json` を書く(下記)
+4. `python3 scripts/merge_batch.py <probe.json> <annot.json> <batch.json>`
+5. `python3 scripts/apply_batch.py <batch.json>`。batch.jsonのキーは `newAuthors` / `newTechs` /
+   `newTranslators` / `newPublishers` / `newThemes` / `newAwards` / `works`。`generate-manifest.mjs`
+   と同じルールで検証し、通らない要素はレポートしてスキップする
+6. `npm run fetch-covers`(ISBNを入れてあれば1発で解決する)
+7. `PRERENDER_PORT=4381 npm run build` が通ることを確認
+8. `git add public/data/source && git commit && git push`
+
+### scripts/probe.py — 候補の一括下調べ(2026-08-06 新設)
+
+国立国会図書館サーチAPI(opensearch)に候補タイトルを投げ、**書名・書名の読み・責任表示(著/訳の別)・
+出版社・刊行年・ISBN13・原タイトル・同書名の最古年**をまとめて取ってくる。これ1本で裏取りが済むので、
+手で書くのは id・著者・技術スタック・レベル・テーマ・あらすじだけになる。
+
+- **works.json と正規化タイトルで照合し、既登録の候補は詳しく調べる前に `DUP` として弾く**。
+  ただし副題の有無で長さが大きく違うと取りこぼす(「達人に学ぶDB設計」で既存の
+  「達人に学ぶDB設計徹底指南書」を検出できなかった)ので、OK行の書名も目視すること
+- **`mediatype=1` を付けると図書のヒットが0件になる**。指定しないこと(実際に踏んだ)
+- NDLは1件あたり5〜18秒かかる。`--workers 3` の並行取得で429は出なかった
+- **タイトル検索は似た書名の別の本を拾うことがある**(「スッキリわかるJava入門」で実践編、
+  「プログラミング作法」でExcel VBAの本がヒットした)。OK行の書名・著者・出版社を必ず確認する
+- 学位論文や医学書など無関係な本が混じることもある。採用しない候補は annot.json に書かなければよい
+
+### scripts/merge_batch.py — 注釈とマージして batch.json を作る
+
+annot.json では短いキーで最小限だけ書く(`n` は probe.json の候補番号)。
+
+```json
+{"works": [{"n": 2, "id": "programmers-brain", "a": ["felienne-hermans"],
+            "tr": ["mizuno-takaaki"], "t": ["python"], "lv": "intermediate",
+            "th": ["essay-career"], "o": "ov", "ot": "The Programmer's Brain",
+            "fy": 2021, "ed": "第2版", "syn": "…"}]}
+```
+
+タイトル・読み・ISBN・出版社・刊行年・`latestEditionYear`・`jpPublishedYear`・sourceNote は
+probe.json から機械的に埋まる。出版社はNDLの表記から自動解決する(「日経BP社」→`nikkei-bp` のような
+表記ゆれは吸収するが、「マイナビ」と「マイナビ出版」のように別語なら `p` で明示する)。
+
+- **翻訳書(`o":"ov"`)は原著初版年 `fy` が必須**。NDLの `first_year` は同書名の別の本を拾って
+  でたらめな年になることがあるので、`fy` は自分で確かめて書くこと
+- 同じ人物が著者と訳者の両方で登場する場合、**authors と translators は別のエンティティ**なので
+  両方に登録する(既存の `saito-koki` / `saito-koki-tr` と同じ流儀。`mick-tr` などを追加済み)
+
+### scripts/verify_titles.py — 反映後の突き合わせ
+
+`RAKUTEN_APP_ID=… RAKUTEN_ACCESS_KEY=… python3 scripts/verify_titles.py [work-id …]` で、
+登録済みISBNを楽天ブックスに直引きして書名・版のズレを洗い出す。NDLのタイトル検索の取り違えは
+これで見つかる。副題の有無による差分も出るので、出力は「要確認」であって「誤り」ではない。
 
 ## 受賞歴(awards)の方針
 
@@ -161,7 +207,10 @@ mystery-dbの構成をそのまま移植している。
 
 ## データ規模
 
-27冊(初回、2026-08-06)。著者38・技術スタック20・翻訳者21・出版社9・テーマ12・アワード1。翻訳書16冊・日本語オリジナル11冊。表紙は27/27(100%)がISBN直引きで解決済み。
+314冊(2026-08-06 時点)。著者460・技術スタック84・翻訳者180・出版社45・テーマ13・アワード1。
+表紙は291/314(93%)が解決済み。未解決は絶版で楽天・Koboに在庫がない古い本が中心。
+
+初回は27冊で公開し、同日に `scripts/probe.py` の一括下調べを使って287冊を追加した。
 
 ## 公開まわりの設定状況(2026-08-06 時点ですべて完了)
 
@@ -173,7 +222,14 @@ mystery-dbの構成をそのまま移植している。
 
 ## 既知の未着手事項
 
-- **フレームワーク(`framework`)とツール(`tool`)カテゴリの技術スタックが0件**。React・Django・Rails・Git・Docker等を扱う本を追加すれば埋まる
-- **受賞歴がITエンジニア本大賞のみ**。大川出版賞などは未登録
-- **データが27冊と少ない**。姉妹サイトは数百件規模なので、「データ拡充時の作業フロー」の節に沿って
-  10〜15冊ずつのバッチで増やしていくのが次の作業になる
+- **受賞歴がITエンジニア本大賞のみ**。大川出版賞などは未登録。既存314冊にも受賞歴は
+  ほとんど付いていないので、遡って埋める作業が残っている
+- **データ拡充の継続**。姉妹サイトは数百件規模で並んだが、まだ手薄な領域がある:
+  Perl/Elm/Zig などの言語、Azure・GCPの各サービス、ネットワーク機器(Cisco)、FPGA・論理設計、
+  会計/業務システム、DX・IT戦略系。「データ拡充時の作業フロー」の節に沿って増やす
+- **あらすじが規定の150〜250字より短い**。`WorkSource.synopsis` のコメントは150〜250字としているが、
+  実際は初回27冊が平均147字(最短131)、2026-08-06に追加した305冊が平均116字(最短89)。
+  意味の通る要約にはなっているが、規定に合わせるなら書き足す作業が残っている
+- **一部の `firstPublishedYear` は NDL の同名異書に引きずられている可能性がある**。probe.py の
+  `first_year` は同じ書名の全版から最古の年を取るため、似た書名の別の本が混じると古すぎる年になる。
+  気づいた範囲では `fy` を明示して直したが、全件は検証していない

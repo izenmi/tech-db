@@ -189,5 +189,279 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1909
+  },
+  {
+    "id": "jmam",
+    "name": "日本能率協会マネジメントセンター",
+    "nameKana": "にほんのうりつきょうかいまねじめんとせんたー",
+    "description": "日本の出版社・教育研修会社。経営やマネジメントの書籍を中心に、組織設計やプロダクトマネジメントの翻訳書も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1991
+  },
+  {
+    "id": "hakuyosha",
+    "name": "白揚社",
+    "nameKana": "はくようしゃ",
+    "description": "日本の出版社。科学・技術と社会をテーマにしたノンフィクションを中心に刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1933
+  },
+  {
+    "id": "php-kenkyusho",
+    "name": "PHP研究所",
+    "nameKana": "ぴーえいちぴーけんきゅうじょ",
+    "description": "日本の出版社。ビジネス書や新書を幅広く手がけ、情報技術の入門的な解説書も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1946
+  },
+  {
+    "id": "sotech",
+    "name": "ソーテック社",
+    "nameKana": "そーてっくしゃ",
+    "description": "日本の出版社。パソコンとWeb制作の入門書を中心に刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1988
+  },
+  {
+    "id": "socym",
+    "name": "ソシム",
+    "nameKana": "そしむ",
+    "description": "日本の出版社。Web制作・デザイン・ビジネス分野の実用書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1994
+  },
+  {
+    "id": "born-digital",
+    "name": "ボーンデジタル",
+    "nameKana": "ぼーんでじたる",
+    "description": "日本の出版社。コンピュータグラフィックスとデザイン分野の専門書・翻訳書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 2002
+  },
+  {
+    "id": "kindai-kagakusha",
+    "name": "近代科学社",
+    "nameKana": "きんだいかがくしゃ",
+    "description": "日本の学術出版社。情報科学と数学の専門書・翻訳書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1959
+  },
+  {
+    "id": "kyoritsu",
+    "name": "共立出版",
+    "nameKana": "きょうりつしゅっぱん",
+    "description": "日本の理工系出版社。数学と計算機科学の教科書・専門書を数多く刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1926
+  },
+  {
+    "id": "sib-access",
+    "name": "エスアイビー・アクセス",
+    "nameKana": "えすあいびーあくせす",
+    "description": "日本の出版社。コンピュータアーキテクチャとデジタル設計の翻訳教科書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "cutt",
+    "name": "カットシステム",
+    "nameKana": "かっとしすてむ",
+    "description": "日本の出版社。プログラミングと組み込み技術の実践的な書籍を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1994
+  },
+  {
+    "id": "mdn",
+    "name": "エムディエヌコーポレーション",
+    "nameKana": "えむでぃえぬこーぽれーしょん",
+    "description": "日本の出版社。デザインとWeb制作分野の書籍・雑誌を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1992
+  },
+  {
+    "id": "nikkagiren",
+    "name": "日科技連出版社",
+    "nameKana": "にっかぎれんしゅっぱんしゃ",
+    "description": "日本の出版社。品質管理とソフトウェア品質に関する専門書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1963
+  },
+  {
+    "id": "impress-np",
+    "name": "インプレスNextPublishing",
+    "nameKana": "いんぷれすねくすとぱぶりっしんぐ",
+    "description": "インプレスグループのレーベル。オンデマンド出版で専門性の高い技術書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 2014
+  },
+  {
+    "id": "itec",
+    "name": "アイテック",
+    "nameKana": "あいてっく",
+    "description": "日本の教育出版社。情報処理技術者試験の教材と研修事業を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1975
+  },
+  {
+    "id": "tac-shuppan",
+    "name": "TAC出版",
+    "nameKana": "たっくしゅっぱん",
+    "description": "資格予備校TACの出版部門。各種資格試験の教材を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1980
+  },
+  {
+    "id": "nippon-hyoronsha",
+    "name": "日本評論社",
+    "nameKana": "にほんひょうろんしゃ",
+    "description": "日本の出版社。数学・物理・経済学の専門書と啓蒙書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1918
+  },
+  {
+    "id": "kohgakusha",
+    "name": "工学社",
+    "nameKana": "こうがくしゃ",
+    "description": "日本の出版社。電子工作・マイコン・プログラミング分野の実用書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1976
+  },
+  {
+    "id": "tdu-press",
+    "name": "東京電機大学出版局",
+    "nameKana": "とうきょうでんきだいがくしゅっぱんきょく",
+    "description": "東京電機大学の出版部門。電気・電子・情報工学の教科書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1907
+  },
+  {
+    "id": "adcom-media",
+    "name": "アドコム・メディア",
+    "nameKana": "あどこむめでぃあ",
+    "description": "日本の出版社。画像工学と光技術分野の専門書・雑誌を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "cg-arts",
+    "name": "画像情報教育振興協会",
+    "nameKana": "がぞうじょうほうきょういくしんこうきょうかい",
+    "description": "日本の公益財団法人。CGや画像処理分野の検定と教材の制作を行っている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1991
+  },
+  {
+    "id": "ascii-mw",
+    "name": "アスキー・メディアワークス",
+    "nameKana": "あすきーめでぃあわーくす",
+    "description": "日本の出版社。アスキーとメディアワークスの統合により生まれ、技術書と雑誌を刊行していた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 2008
+  },
+  {
+    "id": "chikuma",
+    "name": "筑摩書房",
+    "nameKana": "ちくましょぼう",
+    "description": "日本の出版社。人文書と新書を中心に、文章術や学びに関する書籍も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1940
+  },
+  {
+    "id": "techie-media",
+    "name": "テッキーメディア",
+    "nameKana": "てっきーめでぃあ",
+    "description": "日本の出版社。インフラや運用分野の実践的な技術書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ric-telecom",
+    "name": "リックテレコム",
+    "nameKana": "りっくてれこむ",
+    "description": "日本の出版社。通信・ネットワーク・データベース分野の専門書と雑誌を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1971
+  },
+  {
+    "id": "kke",
+    "name": "構造計画研究所",
+    "nameKana": "こうぞうけいかくけんきゅうしょ",
+    "description": "日本のエンジニアリング企業。出版部門でソフトウェア工学とシミュレーション関連書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1959
+  },
+  {
+    "id": "pearson-education",
+    "name": "ピアソン・エデュケーション",
+    "nameKana": "ぴあそんえでゅけーしょん",
+    "description": "教育出版大手ピアソンの日本法人。計算機科学の翻訳教科書を数多く刊行していた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ankoku-tsushindan",
+    "name": "暗黒通信団",
+    "nameKana": "あんこくつうしんだん",
+    "description": "日本の同人出版サークル。数学と計算機科学の小冊子を刊行し、一般流通にも乗せている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "makino-shoten",
+    "name": "牧野書店",
+    "nameKana": "まきのしょてん",
+    "description": "日本の出版社。数学と数値計算の専門書・教科書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
