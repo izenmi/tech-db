@@ -2401,5 +2401,41 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "miyoshi-kaoru",
+    "name": "三好かおる",
+    "nameKana": "みよしかおる",
+    "description": "日本の翻訳者。ユーザビリティとデザイン分野の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fujiwara-yuzuru",
+    "name": "藤原譲",
+    "nameKana": "ふじわらゆずる",
+    "description": "日本の研究者。データベース分野の教科書の監訳を務めた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakashima-hideyuki",
+    "name": "中島秀之",
+    "nameKana": "なかしまひでゆき",
+    "description": "日本の人工知能研究者。公立はこだて未来大学の学長を務め、標準的な教科書の監訳を担当した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ishibashi-keiichiro",
+    "name": "石橋啓一郎",
+    "nameKana": "いしばしけいいちろう",
+    "description": "日本の技術者。ネットワークとセキュリティ分野の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

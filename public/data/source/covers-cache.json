@@ -15,6 +15,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:47:29.518Z"
   },
+  "1satsu-html-css": {
+    "title": "1冊ですべて身につくHTML & CSSとWebデザイン入門講座",
+    "isbn": "9784815618469",
+    "matchedTitle": "1冊ですべて身につくHTML & CSSとWebデザイン入門講座［第2版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8469/9784815618469_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:19:51.542Z"
+  },
   "30nichi-os-jisaku": {
     "title": "OS自作入門",
     "isbn": null,
@@ -181,6 +189,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T22:09:18.201Z"
   },
+  "ai-modern-approach": {
+    "title": "エージェントアプローチ人工知能",
+    "isbn": "9784320125940",
+    "matchedTitle": "エージェントアプローチ人工知能",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5940/9784320125940_1_12.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:21:11.794Z"
+  },
   "ajax-design-patterns": {
     "title": "Ajaxデザインパターン",
     "isbn": "9784873113234",
@@ -258,6 +274,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4216/9784627084216_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:59:08.381Z"
+  },
+  "ango-zero-chishiki-suron": {
+    "title": "暗号・ゼロ知識証明・数論",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:22:43.735Z"
   },
   "angular-application-programming": {
     "title": "Angularアプリケーションプログラミング",
@@ -456,6 +478,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4145/9784781914145.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:45:56.325Z"
+  },
+  "atomic-design": {
+    "title": "Atomic Design",
+    "isbn": "9784774197050",
+    "matchedTitle": "Atomic　Design",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7050/9784774197050.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:20:00.649Z"
   },
   "attacking-network-protocols": {
     "title": "ネットワークプロトコルハッカーズガイド",
@@ -731,6 +761,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:38:32.072Z"
   },
+  "chef-jissen-nyumon": {
+    "title": "Chef実践入門",
+    "isbn": null,
+    "matchedTitle": "Chef実践入門ーーコードによるインフラ構成の自動化",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3965/2000006873965.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:20:46.419Z"
+  },
   "china-cybersecurity-law": {
     "title": "ITビジネスの現場で役立つ中国サイバーセキュリティ法&個人情報保護法実践対策ガイド",
     "isbn": "9784798173733",
@@ -952,6 +990,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8399/83990986.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T12:25:27.668Z"
+  },
+  "cryptography-network-security": {
+    "title": "暗号とネットワークセキュリティ",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:22:19.347Z"
   },
   "csharp-async-parallel": {
     "title": "C#非同期・並列プログラミング入門",
@@ -1777,6 +1821,12 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:18:53.472Z"
   },
+  "genba-de-tsukaeru-test": {
+    "title": "現場で使えるソフトウェアテスト",
+    "isbn": "9784798114637",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:21:32.523Z"
+  },
   "genba-system-sekkei": {
     "title": "現場で役立つシステム設計の原則",
     "isbn": "9784774190877",
@@ -1954,6 +2004,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6554/2000002156554.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T12:42:57.562Z"
+  },
+  "hacker-playbook-2": {
+    "title": "サイバーセキュリティテスト完全ガイド",
+    "isbn": "9784839959555",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:21:42.944Z"
   },
   "hackers-and-painters": {
     "title": "ハッカーと画家",
@@ -2175,6 +2231,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:58:18.593Z"
   },
+  "html-css-webdesign-1satsu": {
+    "title": "HTML & CSSとWebデザインが1冊できちんと身につく本",
+    "isbn": "9784297125103",
+    "matchedTitle": "HTML＆CSSとWebデザインが1冊できちんと身につく本［増補改訂版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5103/9784297125103_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:19:50.405Z"
+  },
   "html-kaitai-shinsho": {
     "title": "HTML解体新書",
     "isbn": "9784862465276",
@@ -2303,6 +2367,12 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:45:43.775Z"
   },
+  "introduction-to-database-systems": {
+    "title": "データベース・システム概論",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:21:10.487Z"
+  },
   "ios-test-kyokasho": {
     "title": "iOSアプリ開発自動テストの教科書",
     "isbn": "9784297106294",
@@ -2318,6 +2388,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6714/9784627856714.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:19:22.964Z"
+  },
+  "iot-security-nyumon": {
+    "title": "IoTセキュリティ技術入門",
+    "isbn": "9784526080234",
+    "matchedTitle": "IoTセキュリティ技術入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0234/9784526080234.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:22:20.556Z"
   },
   "ippanka-senkei-model-nyumon": {
     "title": "平均・分散から始める一般化線形モデル入門",
@@ -2343,6 +2421,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:37:26.603Z"
   },
+  "iso27017-cloud-security": {
+    "title": "ISO/IEC 27017クラウドセキュリティ管理策と実践の徹底解説",
+    "isbn": "9784817196163",
+    "matchedTitle": "ISO/IEC 27017　クラウドセキュリティ管理策と実践の徹底解説",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6163/9784817196163.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:22:21.707Z"
+  },
   "isshukan-ccna": {
     "title": "1週間でCCNAの基礎が学べる本",
     "isbn": "9784295010739",
@@ -2350,6 +2436,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0739/9784295010739.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:31:01.018Z"
+  },
+  "isshukan-csharp": {
+    "title": "1週間でC#の基礎が学べる本",
+    "isbn": "9784295022787",
+    "matchedTitle": "1週間でC#の基礎が学べる本 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2787/9784295022787_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:19:42.715Z"
   },
   "isshukan-lpic": {
     "title": "1週間でLPICの基礎が学べる本",
@@ -2593,6 +2687,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:26:24.599Z"
   },
+  "joho-design-no-kyoshitsu": {
+    "title": "情報デザインの教室",
+    "isbn": "9784621082720",
+    "matchedTitle": "情報デザインの教室",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2720/9784621082720.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:20:28.086Z"
+  },
   "joho-kagaku-ni-okeru-ronri": {
     "title": "情報科学における論理",
     "isbn": null,
@@ -2604,6 +2706,22 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-06T22:09:58.200Z"
+  },
+  "joho-riron-no-kiso": {
+    "title": "情報理論の基礎",
+    "isbn": "9784274224201",
+    "matchedTitle": "情報理論の基礎（第2版）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4201/9784274224201.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:20:51.065Z"
+  },
+  "joho-security-kiso-chishiki": {
+    "title": "情報セキュリティの基礎知識",
+    "isbn": "9784774188072",
+    "matchedTitle": "情報セキュリティの基礎知識",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8072/9784774188072.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:21:57.420Z"
   },
   "jquery-saiko-kyokasho": {
     "title": "jQuery最高の教科書",
@@ -2739,6 +2857,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:26:33.877Z"
   },
+  "kiso-data-kozo-algorithm": {
+    "title": "基礎から学ぶデータ構造とアルゴリズム",
+    "isbn": "9784320124912",
+    "matchedTitle": "基礎から学ぶデータ構造とアルゴリズム 改訂版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4912/9784320124912_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:20:48.751Z"
+  },
   "kiso-kara-manabu-quantum": {
     "title": "基礎から学ぶ量子コンピューティング",
     "isbn": "9784274230509",
@@ -2816,6 +2942,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0242/2000007680242.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T12:44:17.206Z"
+  },
+  "korekara-webdesign": {
+    "title": "これからはじめるWebデザインの本",
+    "isbn": "9784297100148",
+    "matchedTitle": "これからはじめるWebデザインの本改訂2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0148/9784297100148.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:19:54.969Z"
   },
   "korenara-wakaru-deep-learning": {
     "title": "これならわかる深層学習入門",
@@ -3243,6 +3377,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T20:55:44.221Z"
   },
+  "microinteractions": {
+    "title": "マイクロインタラクション",
+    "isbn": "9784873116594",
+    "matchedTitle": "マイクロインタラクション",
+    "coverUrl": "https://www.oreilly.co.jp/books/images/picture_large978-4-87311-659-4.jpeg",
+    "source": "oreilly-japan",
+    "resolvedAt": "2026-08-06T22:20:26.892Z"
+  },
   "microservices-patterns": {
     "title": "マイクロサービスパターン",
     "isbn": null,
@@ -3559,6 +3701,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:28:57.049Z"
   },
+  "nuxtjs-beginners-guide": {
+    "title": "Nuxt.jsビギナーズガイド",
+    "isbn": null,
+    "matchedTitle": "Nuxt.jsビギナーズガイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3105/2000006833105.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:19:59.505Z"
+  },
   "nyumon-continuous-delivery": {
     "title": "入門継続的デリバリー",
     "isbn": "9784814400690",
@@ -3645,6 +3795,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T21:47:52.385Z"
   },
+  "os-no-kiso": {
+    "title": "オペレーティングシステムの基礎",
+    "isbn": "9784274218330",
+    "matchedTitle": "オペレーティングシステムの基礎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8330/9784274218330.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:20:52.229Z"
+  },
   "os-shikumi-no-ehon": {
     "title": "OS(オペレーティングシステム)の仕組みの絵本",
     "isbn": "9784798124629",
@@ -3722,6 +3880,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0459/2000006520459.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T22:00:07.955Z"
+  },
+  "pentest-kyokasho": {
+    "title": "ペネトレーションテストの教科書",
+    "isbn": "9784781702582",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:21:55.082Z"
   },
   "peopleware-3": {
     "title": "ピープルウエア",
@@ -4277,6 +4441,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:51:22.958Z"
   },
+  "python-furigana": {
+    "title": "スラスラ読める Pythonふりがなプログラミング 改訂3版",
+    "isbn": "9784295025795",
+    "matchedTitle": "スラスラ読める Pythonふりがなプログラミング 改訂3版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5795/9784295025795.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:19:41.579Z"
+  },
   "python-jikeiretsu-bunseki": {
     "title": "Pythonによる時系列分析",
     "isbn": "9784274230615",
@@ -4502,6 +4674,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1975/9784774171975.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:50:32.129Z"
+  },
+  "risan-sugaku-nyumon": {
+    "title": "離散数学入門",
+    "isbn": "9784065181782",
+    "matchedTitle": "離散数学入門　整数の誕生から「無限」まで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1782/9784065181782.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:20:49.914Z"
   },
   "risc-v-reader": {
     "title": "RISC-V原典",
@@ -4738,6 +4918,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5663/9784774135663.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:48:57.412Z"
+  },
+  "serverless-architectures-on-aws": {
+    "title": "AWSによるサーバーレスアーキテクチャ",
+    "isbn": "9784798155166",
+    "matchedTitle": "AWSによるサーバーレスアーキテクチャ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5166/9784798155166.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:20:47.589Z"
   },
   "sg-shiken-mondaishu": {
     "title": "情報セキュリティマネジメント試験によくでる問題集",
@@ -5353,6 +5541,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T21:30:26.925Z"
   },
+  "test-giho-renshucho": {
+    "title": "ソフトウェアテスト技法練習帳",
+    "isbn": "9784297110611",
+    "matchedTitle": "ソフトウェアテスト技法練習帳　〜知識を経験に変える40問〜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0611/9784297110611.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:21:12.961Z"
+  },
   "test-jidouka-jissen-guide": {
     "title": "テスト自動化実践ガイド",
     "isbn": "9784798172354",
@@ -5423,6 +5619,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T21:21:05.467Z"
   },
+  "tsukurinagara-html-css": {
+    "title": "作りながら学ぶHTML/CSSデザインの教科書",
+    "isbn": null,
+    "matchedTitle": "作りながら学ぶ HTML/CSSデザインの教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8228/2000001848228.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:19:49.267Z"
+  },
   "tsukutte-manabu-computer-architecture": {
     "title": "作って学ぶコンピュータアーキテクチャ",
     "isbn": "9784297129149",
@@ -5452,6 +5656,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9163/9784297129163_1_4.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:44:20.672Z"
+  },
+  "ugoku-webdesign-idea": {
+    "title": "動くWebデザインアイディア帳",
+    "isbn": "9784802612289",
+    "matchedTitle": "動くWebデザインアイディア帳",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2289/9784802612289.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:19:53.818Z"
   },
   "ui-design-kyokasho-2": {
     "title": "UIデザインの教科書",
@@ -5543,6 +5755,20 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:10:44.076Z"
   },
+  "usability-engineering": {
+    "title": "ユーザビリティエンジニアリング原論",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:20:41.674Z"
+  },
+  "user-interview-kyokasho": {
+    "title": "ユーザーインタビューのやさしい教科書",
+    "isbn": null,
+    "matchedTitle": "ユーザーインタビューのやさしい教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1153/2000010291153.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:20:33.831Z"
+  },
   "user-story-mapping": {
     "title": "ユーザーストーリーマッピング",
     "isbn": "9784873117324",
@@ -5550,6 +5776,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7324/9784873117324.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:41:26.575Z"
+  },
+  "ux-design-kyokasho": {
+    "title": "UXデザインの教科書",
+    "isbn": "9784621300374",
+    "matchedTitle": "UXデザインの教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0374/9784621300374.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:20:29.221Z"
   },
   "ux-research-toolbox": {
     "title": "UXリサーチの道具箱",
@@ -5715,11 +5949,27 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T09:25:15.478Z"
   },
+  "webdesign-ryoshitsu-mihoncho": {
+    "title": "Webデザイン良質見本帳",
+    "isbn": "9784815609092",
+    "matchedTitle": "Webデザイン良質見本帳［第2版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9092/9784815609092_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:19:52.686Z"
+  },
   "weinberg-systems-thinking": {
     "title": "ワインバーグのシステム思考法",
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-06T21:08:49.421Z"
+  },
+  "white-hacker-nyumon": {
+    "title": "ホワイトハッカー入門",
+    "isbn": "9784295018957",
+    "matchedTitle": "ホワイトハッカー入門 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8957/9784295018957_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:21:56.305Z"
   },
   "why-programs-fail": {
     "title": "デバッグの理論と実践",
@@ -5774,6 +6024,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8849/9784822258849.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:03:31.367Z"
+  },
+  "yokuwakaru-html5-css3": {
+    "title": "よくわかるHTML5+CSS3の教科書",
+    "isbn": "9784839965471",
+    "matchedTitle": "よくわかるHTML5+CSS3の教科書【第3版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5471/9784839965471_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:19:43.852Z"
   },
   "zabbix-jissen-nyumon-3": {
     "title": "Zabbix統合監視実践入門",

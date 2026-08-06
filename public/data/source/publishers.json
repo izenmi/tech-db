@@ -617,5 +617,24 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "datahouse",
+    "name": "データハウス",
+    "nameKana": "でーたはうす",
+    "description": "コンピュータやセキュリティ分野の書籍を刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nikkan-kogyo",
+    "name": "日刊工業新聞社",
+    "nameKana": "にっかんこうぎょうしんぶんしゃ",
+    "description": "製造業と技術分野の専門書・新聞を発行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1915
   }
 ]

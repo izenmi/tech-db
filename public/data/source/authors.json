@@ -8072,5 +8072,269 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kameda-kenji",
+    "name": "亀田健司",
+    "nameKana": "かめだけんじ",
+    "description": "日本の技術者・講師。プログラミング初学者向けの入門書を数多く執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takahashi-tomoyo",
+    "name": "高橋朋代",
+    "nameKana": "たかはしともよ",
+    "description": "日本のWebデザイナー。制作の手順に沿ったHTML/CSSの入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hattori-yuki",
+    "name": "服部雄樹",
+    "nameKana": "はっとりゆうき",
+    "description": "日本のWebデザイナー・講師。デザインと実装を横断した入門書を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mana",
+    "name": "Mana",
+    "nameKana": "まな",
+    "description": "日本のWebクリエイター。海外での制作経験をもとにWeb制作の入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kubota-ryoko",
+    "name": "久保田涼子",
+    "nameKana": "くぼたりょうこ",
+    "description": "日本のWebデザイナー。目的別に引けるデザイン事例集を制作している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "rokunana-workshop",
+    "name": "ロクナナワークショップ",
+    "nameKana": "ろくななわーくしょっぷ",
+    "description": "日本のWeb制作スクール。実務者向けの講座と入門書を提供している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "goto-yusuke",
+    "name": "五藤佑典",
+    "nameKana": "ごとうゆうすけ",
+    "description": "日本のフロントエンドエンジニア。コンポーネント設計とデザインシステムの実践を紹介している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dan-saffer",
+    "name": "ダン・サファー",
+    "nameKana": "だんさふぁー",
+    "description": "アメリカのインタラクションデザイナー。細部の操作体験を主題にした著作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "joho-design-forum",
+    "name": "情報デザインフォーラム",
+    "nameKana": "じょうほうでざいんふぉーらむ",
+    "description": "情報デザインの研究者と実務者による日本の集まり。教育と実践の事例を発信している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ando-masaya",
+    "name": "安藤昌也",
+    "nameKana": "あんどうまさや",
+    "description": "日本の研究者。千葉工業大学教授で、UXデザインと人間中心設計を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "okuizumi-naoko",
+    "name": "奥泉直子",
+    "nameKana": "おくいずみなおこ",
+    "description": "日本のユーザー調査の専門家。インタビューと行動観察の実務に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jakob-nielsen",
+    "name": "ヤコブ・ニールセン",
+    "nameKana": "やこぶにーるせん",
+    "description": "デンマーク出身のユーザビリティ研究者。ヒューリスティック評価の提唱で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1957
+  },
+  {
+    "id": "anada-yuichi",
+    "name": "穴田有一",
+    "nameKana": "あなだゆういち",
+    "description": "日本の研究者。北海道科学大学でプログラミングとアルゴリズムを教えている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yoshizawa-mitsuo",
+    "name": "芳沢光雄",
+    "nameKana": "よしざわみつお",
+    "description": "日本の数学者。桜美林大学教授で、数学教育に関する著作を多数持つ。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ozawa-kazumasa",
+    "name": "小沢一雅",
+    "nameKana": "おざわかずまさ",
+    "description": "日本の研究者。情報理論と符号理論の教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yoshizawa-yasufumi",
+    "name": "吉澤康文",
+    "nameKana": "よしざわやすふみ",
+    "description": "日本の研究者。東京農工大学名誉教授で、オペレーティングシステムと性能評価を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "chris-date",
+    "name": "C・J・デイト",
+    "nameKana": "しーじぇーでいと",
+    "description": "イギリスの計算機科学者。リレーショナルモデルの解説と教育に長く取り組んできた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1941
+  },
+  {
+    "id": "stuart-russell",
+    "name": "スチュアート・ラッセル",
+    "nameKana": "すちゅあーとらっせる",
+    "description": "イギリス出身の計算機科学者。カリフォルニア大学バークレー校教授で、人工知能の標準的な教科書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1962
+  },
+  {
+    "id": "umezu-masahiro",
+    "name": "梅津正洋",
+    "nameKana": "うめづまさひろ",
+    "description": "日本のソフトウェアテスト技術者。テスト技法の教育と演習教材の作成に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "machida-yoshifumi",
+    "name": "町田欣史",
+    "nameKana": "まちだよしふみ",
+    "description": "日本のソフトウェア品質技術者。テストプロセスの改善と実務教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "peter-kim",
+    "name": "ピーター・キム",
+    "nameKana": "ぴーたーきむ",
+    "description": "アメリカのセキュリティ技術者。攻撃者視点の実践的なテスト手法をまとめている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kawata-masahiro",
+    "name": "川田柾浩",
+    "nameKana": "かわたまさひろ",
+    "description": "日本のセキュリティ技術者。ペネトレーションテストの実務と教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "abe-hiroki",
+    "name": "阿部ひろき",
+    "nameKana": "あべひろき",
+    "description": "日本のセキュリティ技術者。倫理的ハッキングの資格教育を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakamura-yukihiro",
+    "name": "中村行宏",
+    "nameKana": "なかむらゆきひろ",
+    "description": "日本のセキュリティ技術者。情報セキュリティの啓発と入門書の執筆に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "william-stallings",
+    "name": "ウィリアム・スターリングス",
+    "nameKana": "うぃりあむすたーりんぐす",
+    "description": "アメリカの技術書著者。ネットワークとセキュリティの教科書を多数執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsui-toshihiro",
+    "name": "松井俊浩",
+    "nameKana": "まついとしひろ",
+    "description": "日本の研究者。産業技術総合研究所などでIoTと制御システムの安全性を研究してきた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "okamoto-tatsuaki",
+    "name": "岡本竜明",
+    "nameKana": "おかもとたつあき",
+    "description": "日本の暗号研究者。NTTで公開鍵暗号やゼロ知識証明の研究に長く従事した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hanaya-takuma",
+    "name": "花谷拓磨",
+    "nameKana": "はなやたくま",
+    "description": "日本のフロントエンドエンジニア。Vue.jsとNuxt.jsの解説を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "peter-sbarski",
+    "name": "ピーター・スバルスキー",
+    "nameKana": "ぴーたーすばるすきー",
+    "description": "オーストラリアの技術者。サーバーレスアーキテクチャの設計と教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
