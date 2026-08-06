@@ -579,5 +579,24 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1953
+  },
+  {
+    "id": "nikkei-bp-softpress",
+    "name": "日経BPソフトプレス",
+    "nameKana": "にっけいびーぴーそふとぷれす",
+    "description": "マイクロソフト関連書や翻訳技術書を刊行していた日本の出版社。日経BPのグループ会社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "utp",
+    "name": "東京大学出版会",
+    "nameKana": "とうきょうだいがくしゅっぱんかい",
+    "description": "東京大学の出版部門として学術書と教科書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1951
   }
 ]
