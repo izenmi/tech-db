@@ -163,9 +163,17 @@ mystery-dbの構成をそのまま移植している。
 
 27冊(初回、2026-08-06)。著者38・技術スタック20・翻訳者21・出版社9・テーマ12・アワード1。翻訳書16冊・日本語オリジナル11冊。表紙は27/27(100%)がISBN直引きで解決済み。
 
+## 公開まわりの設定状況(2026-08-06 時点ですべて完了)
+
+- **GitHub Pages**: 有効化済み。`gh api -X POST repos/izenmi/tech-db/pages -f build_type=workflow` で
+  Source を GitHub Actions に設定した(Settings画面での手動操作は不要だった。次に姉妹サイトを作るときも
+  この方法が使える)
+- **Google Analytics**: 設定済み(測定ID `G-FKN7MFW3HQ`、上記「SEO / SSG」の節を参照)
+- **Google Search Console**: sitemap 登録済み(ユーザーが実施)
+
 ## 既知の未着手事項
 
-- **GitHub PagesのSettings→Pages→Source を GitHub Actions にする操作**はユーザー自身のGitHub操作が必要
-- **Google Search Consoleへのsitemap登録**は未実施(任意)
 - **フレームワーク(`framework`)とツール(`tool`)カテゴリの技術スタックが0件**。React・Django・Rails・Git・Docker等を扱う本を追加すれば埋まる
 - **受賞歴がITエンジニア本大賞のみ**。大川出版賞などは未登録
+- **データが27冊と少ない**。姉妹サイトは数百件規模なので、「データ拡充時の作業フロー」の節に沿って
+  10〜15冊ずつのバッチで増やしていくのが次の作業になる
