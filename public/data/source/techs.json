@@ -1106,5 +1106,16 @@
     "externalLinks": {},
     "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fsharp",
+    "name": "F#",
+    "nameKana": "えふしゃーぷ",
+    "category": "language",
+    "description": ".NET上で動く関数型プログラミング言語。OCamlの流れを汲み、型推論とパターンマッチを備えつつC#の資産をそのまま利用できる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2005
   }
 ]

@@ -1861,5 +1861,86 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "programming-system-sha",
+    "name": "プログラミングシステム社",
+    "nameKana": "ぷろぐらみんぐしすてむしゃ",
+    "description": "技術書の翻訳を手がける日本の制作会社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "urabe-shohei",
+    "name": "卜部昌平",
+    "nameKana": "うらべしょうへい",
+    "description": "日本のプログラマ。Ruby本体のコミッタとして処理系の開発に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takahashi-masayoshi-tr",
+    "name": "高橋征義",
+    "nameKana": "たかはしまさよし",
+    "description": "日本のプログラマ。日本Rubyの会代表。Ruby関連書の監訳も手がける。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kobayashi-kenichi",
+    "name": "小林健一",
+    "nameKana": "こばやしけんいち",
+    "description": "日本の技術者。Ruby関連書の翻訳に参加している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suzuki-yukitoshi",
+    "name": "鈴木幸敏",
+    "nameKana": "すずきゆきとし",
+    "description": "日本の技術者。.NET系プログラミング書の翻訳・技術監修を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sakakibara-akira",
+    "name": "榊原彰",
+    "nameKana": "さかきばらあきら",
+    "description": "日本のITアーキテクト。日本IBMやマイクロソフトで技術部門を率い、開発方法論の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "asagi-reiko",
+    "name": "浅木麗子",
+    "nameKana": "あさぎれいこ",
+    "description": "日本の翻訳者。アジャイル開発とコーチングの書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yoda-mitsue",
+    "name": "依田光江",
+    "nameKana": "よだみつえ",
+    "description": "日本の翻訳者。IT・ビジネス分野のノンフィクションを幅広く訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ichitani-toshihiro-tr",
+    "name": "市谷聡啓",
+    "nameKana": "いちたにとしひろ",
+    "description": "日本のアジャイル実践者。レッドジャーニー代表。現場改善の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

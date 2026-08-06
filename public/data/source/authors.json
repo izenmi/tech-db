@@ -5281,5 +5281,375 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "inoue-seiichiro",
+    "name": "井上誠一郎",
+    "nameKana": "いのうえせいいちろう",
+    "description": "日本のソフトウェアエンジニア。技術評論社「パーフェクト」シリーズでJava・JavaScriptの言語解説を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tsuyuki-makoto",
+    "name": "露木誠",
+    "nameKana": "つゆきまこと",
+    "description": "日本のソフトウェアエンジニア。Pythonの言語仕様と標準ライブラリを扱う解説書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ishii-makoto",
+    "name": "石井真",
+    "nameKana": "いしいまこと",
+    "description": "日本の技術者・講師。カサレアルでJavaの研修講師を務め、入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takahashi-masayoshi",
+    "name": "高橋征義",
+    "nameKana": "たかはしまさよし",
+    "description": "日本のプログラマ。日本Rubyの会の代表を務め、達人出版会を創業した。Rubyの入門書で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "goto-yuzo",
+    "name": "後藤裕蔵",
+    "nameKana": "ごとうゆうぞう",
+    "description": "日本のプログラマ。『たのしいRuby』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yugui",
+    "name": "Yugui",
+    "nameKana": "ゆぐい",
+    "description": "日本のプログラマ。Ruby 1.9系のリリースマネージャを務めた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "david-flanagan",
+    "name": "デイビッド・フラナガン",
+    "nameKana": "でいびっどふらながん",
+    "description": "アメリカのプログラマ・著述家。オライリーのJavaScript・Java・Rubyのリファレンス書を多数手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsumoto-yukihiro",
+    "name": "まつもとゆきひろ",
+    "nameKana": "まつもとゆきひろ",
+    "description": "プログラミング言語Rubyの作者。1993年からRubyを開発し、その設計思想を語る文章も多い。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1965
+  },
+  {
+    "id": "gregory-brown",
+    "name": "グレゴリー・ブラウン",
+    "nameKana": "ぐれごりーぶらうん",
+    "description": "アメリカのプログラマ。Ruby製PDF生成ライブラリPrawnの作者で、実践的なRuby書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ethan-brown",
+    "name": "イーサン・ブラウン",
+    "nameKana": "いーさんぶらうん",
+    "description": "アメリカのソフトウェアエンジニア。JavaScriptとNode.jsの入門書・実践書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "azu",
+    "name": "azu",
+    "nameKana": "あず",
+    "description": "日本のフロントエンドエンジニア。JavaScriptの標準仕様に沿った学習教材やツールを公開している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "cody-lindley",
+    "name": "コディ・リンドレー",
+    "nameKana": "こでぃりんどれー",
+    "description": "アメリカのフロントエンドエンジニア。JavaScriptとDOMの言語仕様を掘り下げる解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ikeda-yasunobu",
+    "name": "池田泰延",
+    "nameKana": "いけだやすのぶ",
+    "description": "日本のフロントエンドエンジニア。ICS代表として表現寄りのWeb技術記事とレシピ集を発信している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nicholas-zakas",
+    "name": "ニコラス・C・ザカス",
+    "nameKana": "にこらすしーざかす",
+    "description": "アメリカのフロントエンドエンジニア。ESLintの作者で、JavaScriptの性能と設計に関する著書がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "michael-mahemoff",
+    "name": "マイケル・マヘモフ",
+    "nameKana": "まいけるまへもふ",
+    "description": "イギリスのソフトウェアエンジニア。Ajax黎明期にWeb UIのパターン集をまとめた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hatsuda-naoya",
+    "name": "初田直也",
+    "nameKana": "はつだなおや",
+    "description": "日本のソフトウェアエンジニア。Rustコミュニティで活動し、入門書の執筆に加わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "toyoda-yuki",
+    "name": "豊田優貴",
+    "nameKana": "とよだゆうき",
+    "description": "日本のソフトウェアエンジニア。Rustによるサーバサイド開発の実務経験をもとに執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ian-griffiths",
+    "name": "イアン・グリフィス",
+    "nameKana": "いあんぐりふぃす",
+    "description": "イギリスの開発者・講師。オライリーのC#リファレンス『Programming C#』を長年担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gary-mclean-hall",
+    "name": "ゲイリー・マクリーン・ホール",
+    "nameKana": "げいりーまくりーんほーる",
+    "description": "イギリスのソフトウェアエンジニア。C#による設計原則とアジャイル開発の実践書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "chris-smith",
+    "name": "クリス・スミス",
+    "nameKana": "くりすすみす",
+    "description": "アメリカのソフトウェアエンジニア。MicrosoftのF#開発チームに在籍し、公式解説書を執筆した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "arai-shozo",
+    "name": "荒井省三",
+    "nameKana": "あらいしょうぞう",
+    "description": "日本の技術者。マイクロソフトで.NETの技術啓発に携わり、F#の入門書を書いた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tani-hiroki",
+    "name": "谷拓樹",
+    "nameKana": "たにひろき",
+    "description": "日本のフロントエンドエンジニア。CSSの設計手法とコンポーネント指向の解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamazaki-yasushi",
+    "name": "山崎泰史",
+    "nameKana": "やまざきやすし",
+    "description": "日本のインフラエンジニア。データベースとITインフラの仕組みを図解する書籍を共同執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "oda-keiji",
+    "name": "小田圭二",
+    "nameKana": "おだけいじ",
+    "description": "日本のエンジニア。日本オラクルなどでインフラ技術に携わり、「絵で見てわかる」シリーズを監修している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tarusawa-hiroyuki",
+    "name": "樽澤広亨",
+    "nameKana": "たるさわひろゆき",
+    "description": "日本のITアーキテクト。日本IBMでクラウドネイティブ技術の啓発に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lisa-crispin",
+    "name": "リサ・クリスピン",
+    "nameKana": "りさくりすぴん",
+    "description": "アメリカのアジャイルテスター。テストをチーム全体の活動として捉える実践を提唱している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "janet-gregory",
+    "name": "ジャネット・グレゴリー",
+    "nameKana": "じゃねっとぐれごりー",
+    "description": "カナダのアジャイルテストコンサルタント。リサ・クリスピンと共著でアジャイルテストの体系をまとめた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "robert-galen",
+    "name": "ロバート・L・ゲイレン",
+    "nameKana": "ろばーとえるげいれん",
+    "description": "アメリカのアジャイルコーチ。コーチングの実務と失敗談を率直に語る著作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mary-poppendieck",
+    "name": "メアリー・ポッペンディーク",
+    "nameKana": "めありーぽっぺんでぃーく",
+    "description": "アメリカの技術者。トヨタ生産方式をソフトウェア開発に持ち込んだリーン開発の提唱者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tom-poppendieck",
+    "name": "トム・ポッペンディーク",
+    "nameKana": "とむぽっぺんでぃーく",
+    "description": "アメリカのソフトウェア技術者。メアリー・ポッペンディークと共にリーン開発の著作を発表している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "henrik-kniberg",
+    "name": "ヘンリック・クニバーグ",
+    "nameKana": "へんりっくくにばーぐ",
+    "description": "スウェーデンのアジャイルコーチ。SpotifyやLEGOでの支援経験を現場報告としてまとめている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "saito-takamichi",
+    "name": "齋藤孝道",
+    "nameKana": "さいとうたかみち",
+    "description": "日本の研究者。明治大学教授で、ネットワークセキュリティを専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fukunaga-yuji",
+    "name": "福永勇二",
+    "nameKana": "ふくながゆうじ",
+    "description": "日本のテクニカルライター。ネットワーク技術を平易に説明する入門書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gene",
+    "name": "Gene",
+    "nameKana": "じーん",
+    "description": "日本のネットワーク技術者・講師。ネットワークの基礎を解説するサイト「ネットワークのおべんきょしませんか?」を運営している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kimura-meiji",
+    "name": "木村明治",
+    "nameKana": "きむらめいじ",
+    "description": "日本のデータベースエンジニア。データベース製品の解説と入門書の執筆を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "steve-souders",
+    "name": "スティーブ・サウダーズ",
+    "nameKana": "すてぃーぶさうだーず",
+    "description": "アメリカのエンジニア。YahooやGoogleでWeb性能の研究に取り組み、高速化の指針をまとめた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "venkat-subramaniam",
+    "name": "ヴェンカット・サブラマニアム",
+    "nameKana": "べんかっとさぶらまにあむ",
+    "description": "アメリカの開発者・講師。Java・Scala・Kotlinなどの関数型スタイルを扱う著作が多い。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "paolo-perrotta",
+    "name": "パオロ・ペロッタ",
+    "nameKana": "ぱおろぺろった",
+    "description": "イタリアのプログラマ。Rubyのメタプログラミングを体系化した解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "pat-shaughnessy",
+    "name": "パット・シャウネシー",
+    "nameKana": "ぱっとしゃうねしー",
+    "description": "アメリカのプログラマ。Ruby処理系の内部構造を図解する記事と書籍を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "peter-jones",
+    "name": "ピーター・J・ジョーンズ",
+    "nameKana": "ぴーたーじぇいじょーんず",
+    "description": "アメリカのソフトウェア開発者。Rubyの実務的な落とし穴を集めた著作がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "russ-olsen",
+    "name": "ラス・オルセン",
+    "nameKana": "らすおるせん",
+    "description": "アメリカのソフトウェア開発者。デザインパターンをRubyらしく書き直す解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
