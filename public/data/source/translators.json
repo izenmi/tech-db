@@ -1996,5 +1996,149 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ito-masahiro",
+    "name": "伊藤真浩",
+    "nameKana": "いとうまさひろ",
+    "description": "日本の技術者。言語処理系に関する書籍の翻訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "izuhara-yumi",
+    "name": "伊豆原弓",
+    "nameKana": "いずはらゆみ",
+    "description": "日本の翻訳者。デマルコやワインバーグの著作を数多く訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kimura-izumi",
+    "name": "木村泉",
+    "nameKana": "きむらいずみ",
+    "description": "日本の計算機科学者。東京工業大学名誉教授で、ワインバーグの著作の訳者として知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ono-junro",
+    "name": "大野徇郎",
+    "nameKana": "おおのじゅんろう",
+    "description": "日本の技術者。ソフトウェア品質管理に関する書籍の監訳を務めた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "koyama-hiroshi",
+    "name": "小山裕司",
+    "nameKana": "こやまひろし",
+    "description": "日本の研究者。情報系の教育に携わり、技術書の監訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sako-hiroshi",
+    "name": "酒匂寛",
+    "nameKana": "さこうひろし",
+    "description": "日本の技術者・翻訳者。形式手法やコンピュータ史に関する書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "oki-atsuo",
+    "name": "大木敦雄",
+    "nameKana": "おおきあつお",
+    "description": "日本の研究者。UNIX系プログラミング書の翻訳・監修を務めている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yoshio-katsura",
+    "name": "芳尾桂",
+    "nameKana": "よしおかつら",
+    "description": "日本の翻訳者。UNIXの思想に関する書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "motouchi-toya",
+    "name": "元内柊也",
+    "nameKana": "もとうちとうや",
+    "description": "日本のエンジニア。クラウド基盤に関する書籍の翻訳に参加している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "narita-shoji",
+    "name": "成田昇司",
+    "nameKana": "なりたしょうじ",
+    "description": "日本の技術者。データベースや分散システムの書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sato-rieko",
+    "name": "佐藤理絵子",
+    "nameKana": "さとうりえこ",
+    "description": "日本の翻訳者。ゲーム開発やデザイン分野の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsuda-koichi",
+    "name": "松田晃一",
+    "nameKana": "まつだこういち",
+    "description": "日本の研究者・翻訳者。グラフィックスやゲーム分野の技術書を数多く訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakamura-tatsuya",
+    "name": "中村達也",
+    "nameKana": "なかむらたつや",
+    "description": "日本の技術者。ゲームプログラミング関連書の翻訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kano-tomohide",
+    "name": "狩野智英",
+    "nameKana": "かのうともひで",
+    "description": "日本の翻訳者。3Dグラフィックスと数学の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sato-yoshio",
+    "name": "佐藤義雄",
+    "nameKana": "さとうよしお",
+    "description": "日本の研究者。コンピュータグラフィックスの教科書の監訳を務めた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takeuchi-satoru-tr",
+    "name": "武内覚",
+    "nameKana": "たけうちさとる",
+    "description": "日本のLinuxエンジニア。カーネルまわりの書籍の翻訳も手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

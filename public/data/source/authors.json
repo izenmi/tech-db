@@ -5984,5 +5984,358 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "paul-graham",
+    "name": "ポール・グレアム",
+    "nameKana": "ぽーるぐれあむ",
+    "description": "アメリカのプログラマ・投資家。Lispでの開発経験をもとにしたエッセイとYコンビネータの創業で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "terence-parr",
+    "name": "テレンス・パー",
+    "nameKana": "てれんすぱー",
+    "description": "アメリカの研究者。構文解析器生成系ANTLRの作者で、言語処理系の実装を教えている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "joshua-kerievsky",
+    "name": "ジョシュア・ケリーエブスキー",
+    "nameKana": "じょしゅあけりーえぶすきー",
+    "description": "アメリカのソフトウェア開発者。リファクタリングとデザインパターンを結び付ける手法を提唱した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gerald-weinberg",
+    "name": "ジェラルド・M・ワインバーグ",
+    "nameKana": "じぇらるどえむわいんばーぐ",
+    "description": "アメリカのソフトウェア技術者・コンサルタント。技術者の心理や組織の力学を主題にした著作を数多く残した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1933
+  },
+  {
+    "id": "donald-gause",
+    "name": "ドナルド・C・ゴース",
+    "nameKana": "どなるどしーごーす",
+    "description": "アメリカの技術者・教育者。ワインバーグとの共著で問題発見と要求定義を論じた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wladston-ferreira-filho",
+    "name": "ウラジストン・フェレイラ・フィリョ",
+    "nameKana": "うらじすとんふぇれいらふぃりょ",
+    "description": "ブラジルの技術者。コンピュータ科学の基礎を圧縮して伝える入門書を書いた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "alan-biermann",
+    "name": "アラン・W・ビアマン",
+    "nameKana": "あらんだぶりゅーびあまん",
+    "description": "アメリカの計算機科学者。デューク大学教授として計算機科学の教養教育に携わった。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "charles-petzold",
+    "name": "チャールズ・ペゾルド",
+    "nameKana": "ちゃーるずぺぞるど",
+    "description": "アメリカの技術書著者。Windowsプログラミングの定番書とコンピュータの原理を語る著作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tanigawa-hiroshi",
+    "name": "谷川寛",
+    "nameKana": "たにがわひろし",
+    "description": "日本の技術者。電子工作を通じてデジタル回路を教える書籍を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kimura-masayuki",
+    "name": "木村優之",
+    "nameKana": "きむらまさゆき",
+    "description": "日本のソフトウェアエンジニア。コンパイラとプロセッサを自作する題材で執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "andrew-waterman",
+    "name": "アンドリュー・ウォーターマン",
+    "nameKana": "あんどりゅーうぉーたーまん",
+    "description": "アメリカの計算機科学者。RISC-V命令セットの設計に中心的に関わった。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bunnie-huang",
+    "name": "アンドリュー・バニー・ファン",
+    "nameKana": "あんどりゅーばにーふぁん",
+    "description": "アメリカのハードウェアハッカー。Xbox の解析や深圳の製造現場に関する著作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "igor-zhirkov",
+    "name": "イゴール・ジルコフ",
+    "nameKana": "いごーるじるこふ",
+    "description": "ロシアの計算機科学者。低水準プログラミングとシステムソフトウェアを教えている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ikeda-munehiro",
+    "name": "池田宗広",
+    "nameKana": "いけだむねひろ",
+    "description": "日本のカーネル技術者。Linuxカーネルの解析と改善に関する記事を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "robert-love",
+    "name": "ロバート・ラブ",
+    "nameKana": "ろばーとらぶ",
+    "description": "アメリカのカーネル開発者。Linuxカーネルとシステムプログラミングの解説書で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "richard-stevens",
+    "name": "W・リチャード・スティーヴンス",
+    "nameKana": "だぶりゅーりちゃーどすてぃーう゛んす",
+    "description": "アメリカの技術者・著述家。UNIXとTCP/IPの実装を精密に記述した一連の著作を残した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1951
+  },
+  {
+    "id": "stephen-rago",
+    "name": "スティーヴン・A・ラーゴ",
+    "nameKana": "すてぃーう゛んえーらーご",
+    "description": "アメリカのシステム技術者。スティーヴンスの著作を引き継いで改訂している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mike-gancarz",
+    "name": "マイク・ガンカーズ",
+    "nameKana": "まいくがんかーず",
+    "description": "アメリカの技術者。X Window Systemの開発に携わり、UNIXの設計思想を言語化した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fujita-akito",
+    "name": "藤田昭人",
+    "nameKana": "ふじたあきと",
+    "description": "日本の技術者・研究者。UNIXの歴史とインターネット黎明期の技術史を調査している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mokhtar-ebrahim",
+    "name": "モフタール・エブラヒム",
+    "nameKana": "もふたーるえぶらひむ",
+    "description": "エジプトのシステム管理者。Linuxの運用と自動化に関する著作がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "moriwaka-kazuo",
+    "name": "森若和雄",
+    "nameKana": "もりわかかずお",
+    "description": "日本のLinuxエンジニア。レッドハットに在籍し、システム管理まわりの解説を発信している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jennifer-davis",
+    "name": "ジェニファー・デイビス",
+    "nameKana": "じぇにふぁーでいびす",
+    "description": "アメリカのエンジニア。DevOpsを組織文化の問題として扱う著作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dave-farley",
+    "name": "デイビッド・ファーリー",
+    "nameKana": "でいびっどふぁーりー",
+    "description": "イギリスのソフトウェア技術者。継続的デリバリーの共同提唱者で、開発を工学として論じている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ajay-chankramath",
+    "name": "アジャイ・チャンクラマス",
+    "nameKana": "あじゃいちゃんくらます",
+    "description": "アメリカの技術者。開発者向け基盤の構築を専門とし、プラットフォームエンジニアリングの実務書を執筆した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "david-blank-edelman",
+    "name": "デイビッド・N・ブランク=エデルマン",
+    "nameKana": "でいびっどえぬぶらんくえでるまん",
+    "description": "アメリカのシステム管理者・編者。SREの実践事例を集めた書籍を編纂している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "alex-petrov",
+    "name": "アレックス・ペトロフ",
+    "nameKana": "あれっくすぺとろふ",
+    "description": "データベースの内部実装を専門とする技術者。分散データシステムの解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yehonathan-sharvit",
+    "name": "イェホナタン・シャルビット",
+    "nameKana": "いぇほなたんしゃるびっと",
+    "description": "イスラエルのソフトウェア技術者。データと振る舞いを分離する設計手法を提唱している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kasaki-nagato",
+    "name": "加嵜長門",
+    "nameKana": "かさきながと",
+    "description": "日本のデータエンジニア。大規模データの分析基盤とSQLによる集計手法を扱っている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "cathy-tanimura",
+    "name": "キャシー・タニムラ",
+    "nameKana": "きゃしーたにむら",
+    "description": "アメリカのデータアナリスト。SQLだけで分析を完結させる手法をまとめた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "miyake-yoichiro",
+    "name": "三宅陽一郎",
+    "nameKana": "みやけよういちろう",
+    "description": "日本のゲームAI研究者。デジタルゲームにおける人工知能の設計と実装を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jesse-schell",
+    "name": "ジェシー・シェル",
+    "nameKana": "じぇしーしぇる",
+    "description": "アメリカのゲームデザイナー・研究者。カーネギーメロン大学で教え、ゲームデザインの体系書を著した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mat-buckland",
+    "name": "マット・バックランド",
+    "nameKana": "まっとばっくらんど",
+    "description": "イギリスのゲームプログラマ。ゲームAIの実装技法を具体的なコードで解説している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "christer-ericson",
+    "name": "クリスター・エリクソン",
+    "nameKana": "くりすたーえりくそん",
+    "description": "スウェーデンのゲーム技術者。ソニーのスタジオで技術部門を率い、衝突判定の体系書を書いた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "eric-lengyel",
+    "name": "エリック・レンジェル",
+    "nameKana": "えりっくれんじぇる",
+    "description": "アメリカのゲーム技術者・数学者。ゲームエンジン開発と3D数学の著作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nishikawa-zenji",
+    "name": "西川善司",
+    "nameKana": "にしかわぜんじ",
+    "description": "日本の技術ジャーナリスト。ゲームグラフィックスと映像技術の解説記事を長く執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "james-foley",
+    "name": "ジェームズ・D・フォーリー",
+    "nameKana": "じぇーむずでぃーふぉーりー",
+    "description": "アメリカの計算機科学者。コンピュータグラフィックスの標準的な教科書の主著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "dave-shreiner",
+    "name": "デーブ・シュライナー",
+    "nameKana": "でーぶしゅらいなー",
+    "description": "アメリカのグラフィックス技術者。OpenGLの公式ガイドの執筆に長く関わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "christian-ciceri",
+    "name": "クリスチャン・チチェリ",
+    "nameKana": "くりすちゃんちちぇり",
+    "description": "ソフトウェアアーキテクト。アーキテクチャを測る指標について論じた共著書がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "michael-hausenblas",
+    "name": "マイケル・ハウゼンブラス",
+    "nameKana": "まいけるはうぜんぶらす",
+    "description": "オーストリアの技術者。AWSでクラウドネイティブ技術の啓発に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
