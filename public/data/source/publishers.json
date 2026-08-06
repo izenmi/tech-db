@@ -1,0 +1,93 @@
+[
+  {
+    "id": "oreilly-japan",
+    "name": "オライリー・ジャパン",
+    "nameKana": "おらいりーじゃぱん",
+    "description": "米O'Reilly Mediaの日本法人として1995年に設立。動物の木版画を表紙にあしらった「アニマル本」で知られ、翻訳書と日本語オリジナル書の双方を刊行している。",
+    "externalLinks": {
+      "officialUrl": "https://www.oreilly.co.jp/"
+    },
+    "sourceNote": "社名・刊行物は楽天ブックスAPIの書誌および公式サイトで確認。設立年は公式サイトの会社案内による。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ohmsha",
+    "name": "オーム社",
+    "nameKana": "おーむしゃ",
+    "description": "1914年創業の理工学書出版社。電気・機械などの工学書に加え、ソフトウェア開発の翻訳書も多く手がける。",
+    "externalLinks": {
+      "officialUrl": "https://www.ohmsha.co.jp/"
+    },
+    "sourceNote": "社名は楽天ブックスAPIの書誌(『達人プログラマー』『テスト駆動開発』ほか)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "gijutsu-hyoronsha",
+    "name": "技術評論社",
+    "nameKana": "ぎじゅつひょうろんしゃ",
+    "description": "1969年創業。雑誌『Software Design』や「WEB+DB PRESS plus」「Software Design plus」などの叢書を通じて、現場のエンジニアが書いた実践書を数多く刊行している。",
+    "externalLinks": {
+      "officialUrl": "https://gihyo.jp/"
+    },
+    "sourceNote": "社名は楽天ブックスAPIおよび国立国会図書館サーチの書誌で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shoeisha",
+    "name": "翔泳社",
+    "nameKana": "しょうえいしゃ",
+    "description": "1985年創業。技術書のほかIT系情報サイトを運営し、読者投票による「ITエンジニア本大賞」を主催している。",
+    "externalLinks": {
+      "officialUrl": "https://www.shoeisha.co.jp/"
+    },
+    "sourceNote": "社名および「ITエンジニア本大賞」の主催者であることを同社サイトで確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sb-creative",
+    "name": "SBクリエイティブ",
+    "nameKana": "えすびーくりえいてぃぶ",
+    "description": "ソフトバンクグループの出版社。旧社名はソフトバンクパブリッシング、ソフトバンククリエイティブ。技術書のほか新書レーベルも持つ。",
+    "externalLinks": {},
+    "sourceNote": "旧社名は国立国会図書館サーチの書誌で確認(『暗号技術入門』初版2003年はソフトバンクパブリッシング、2008年の新版はソフトバンククリエイティブ、2015年の第3版はSBクリエイティブ名義)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "impress",
+    "name": "インプレス",
+    "nameKana": "いんぷれす",
+    "description": "1992年創業。IT系の書籍・Webメディアを幅広く手がけ、クラウドやインフラの実務書を多く刊行している。",
+    "externalLinks": {
+      "officialUrl": "https://book.impress.co.jp/"
+    },
+    "sourceNote": "社名は楽天ブックスAPIおよび国立国会図書館サーチの書誌(『Kubernetes完全ガイド』)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "maruzen",
+    "name": "丸善出版",
+    "nameKana": "まるぜんしゅっぱん",
+    "description": "丸善の出版部門が2011年に分社して発足。理工学の専門書・翻訳書を刊行しており、ソフトウェア分野の古典の版元でもある。",
+    "externalLinks": {},
+    "sourceNote": "社名は楽天ブックスAPIの書誌(『人月の神話』『Effective Java』)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mynavi",
+    "name": "マイナビ出版",
+    "nameKana": "まいなびしゅっぱん",
+    "description": "旧・毎日コミュニケーションズの出版部門。2014年にマイナビ出版として分社した。プログラミング入門書から専門書まで扱う。",
+    "externalLinks": {},
+    "sourceNote": "旧社名は国立国会図書館サーチの書誌で確認(『プログラミングコンテストチャレンジブック』初版2010年は毎日コミュニケーションズ、第2版2012年はマイナビ名義)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "zen-university-press",
+    "name": "ZEN大学出版会",
+    "nameKana": "ぜんだいがくしゅっぱんかい",
+    "description": "ZEN大学の出版部門。KADOKAWA/アスキードワンゴ系の技術書レーベルの刊行物を引き継いでいる。",
+    "externalLinks": {},
+    "sourceNote": "『Clean Architecture』2026年7月刊の版元として楽天ブックスAPIの書誌で確認。同書の以前の版元については未確認のためsourceNoteに記載していない。",
+    "updatedAt": "2026-08-06"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "kado-masanori",
+    "name": "角征典",
+    "nameKana": "かどまさのり",
+    "description": "アジャイル開発や設計分野の技術書を数多く翻訳している。ワイクル株式会社代表。",
+    "externalLinks": {},
+    "sourceNote": "訳者であることは国立国会図書館サーチAPIの書誌(『リーダブルコード』『Team Geek』の creator 欄)および楽天ブックスAPI(BooksBook/Search)の書誌で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "murakami-masaaki",
+    "name": "村上雅章",
+    "nameKana": "むらかみまさあき",
+    "description": "ソフトウェア開発分野の翻訳者。『達人プログラマー』などを手がける。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takizawa-toru",
+    "name": "滝沢徹",
+    "nameKana": "たきざわとおる",
+    "description": "『人月の神話』の訳者の一人。",
+    "externalLinks": {},
+    "sourceNote": "訳者であることは国立国会図書館サーチAPIの書誌(1996年アジソン・ウェスレイ版以降の creator 欄)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "makino-yuko",
+    "name": "牧野祐子",
+    "nameKana": "まきのゆうこ",
+    "description": "『人月の神話』の訳者の一人。",
+    "externalLinks": {},
+    "sourceNote": "訳者であることは国立国会図書館サーチAPIの書誌(2002年ピアソン・エデュケーション版の creator 欄)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takagi-masahiro",
+    "name": "高木正弘",
+    "nameKana": "たかぎまさひろ",
+    "description": "設計・アーキテクチャ分野の技術書の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wada-takuto",
+    "name": "和田卓人",
+    "nameKana": "わだたくと",
+    "description": "テスト駆動開発の国内における第一人者。翻訳・監訳と講演を通じて自動テストの実践を広めている。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kojima-osamu",
+    "name": "児島修",
+    "nameKana": "こじまおさむ",
+    "description": "技術書・ビジネス書の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nishiwaki-yasuhiro",
+    "name": "西脇靖紘",
+    "nameKana": "にしわきやすひろ",
+    "description": "システムパフォーマンス分野の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nagao-takahiro",
+    "name": "長尾高弘",
+    "nameKana": "ながおたかひろ",
+    "description": "コンピュータ書を中心に多数の翻訳を手がける翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "saito-koki-tr",
+    "name": "斎藤康毅",
+    "nameKana": "さいとうこうき",
+    "description": "『ゼロから作るDeep Learning』シリーズの著者。『コンピュータシステムの理論と実装』第2版では訳者を務めている。",
+    "externalLinks": {},
+    "sourceNote": "著者としての項目(saito-koki)とは別に、訳者としての項目を設けている(当サイトは著者と翻訳者を別のエンティティとして持つため)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsuura-hayato",
+    "name": "松浦隼人",
+    "nameKana": "まつうらはやと",
+    "description": "インフラ・運用分野の技術書の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sato-naoki",
+    "name": "佐藤直生",
+    "nameKana": "さとうなおき",
+    "description": "クラウド・分散システム分野の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kinoshita-tetsuya",
+    "name": "木下哲也",
+    "nameKana": "きのしたてつや",
+    "description": "コンピュータ書を中心とする翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shibata-yoshiki",
+    "name": "柴田芳樹",
+    "nameKana": "しばたよしき",
+    "description": "Java関連の技術書を長く翻訳しているソフトウェア技術者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakata-hideki",
+    "name": "中田秀基",
+    "nameKana": "なかたひでき",
+    "description": "並列・分散処理を専門とする研究者で、技術書の翻訳も手がける。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takayama-taiki",
+    "name": "高山泰基",
+    "nameKana": "たかやまたいき",
+    "description": "『オブジェクト指向設計実践ガイド』の訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nishimura-naoto",
+    "name": "西村直人",
+    "nameKana": "にしむらなおと",
+    "description": "アジャイル開発の実践者。『アジャイルサムライ』の監訳を担当した。",
+    "externalLinks": {},
+    "sourceNote": "訳者であることは国立国会図書館サーチAPIの書誌の creator 欄で確認。同書では監訳の位置づけ。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kakutani-shintaro",
+    "name": "角谷信太郎",
+    "nameKana": "かくたにしんたろう",
+    "description": "Rubyコミュニティで活動する技術者。『アジャイルサムライ』の監訳を担当した。",
+    "externalLinks": {},
+    "sourceNote": "訳者であることは国立国会図書館サーチAPIの書誌の creator 欄で確認。同書では監訳の位置づけ。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kondo-shuhei",
+    "name": "近藤修平",
+    "nameKana": "こんどうしゅうへい",
+    "description": "『アジャイルサムライ』の訳者の一人。",
+    "externalLinks": {},
+    "sourceNote": "訳者であることは国立国会図書館サーチAPIの書誌の creator 欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tsunokake-takumi",
+    "name": "角掛拓未",
+    "nameKana": "つのかけたくみ",
+    "description": "『アジャイルサムライ』の訳者の一人。",
+    "externalLinks": {},
+    "sourceNote": "訳者であることは国立国会図書館サーチAPIの書誌の creator 欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suda-tomoyuki",
+    "name": "須田智之",
+    "nameKana": "すだともゆき",
+    "description": "『単体テストの考え方/使い方』の訳者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  }
+]

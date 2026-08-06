@@ -1,0 +1,344 @@
+[
+  {
+    "id": "dustin-boswell",
+    "name": "ダスティン・ボズウェル",
+    "nameKana": "だすてぃんぼずうぇる",
+    "description": "『リーダブルコード』の共著者。Googleでの勤務経験を持ち、コードの読みやすさを主題にした執筆で知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "trevor-foucher",
+    "name": "トレバー・フォシェ",
+    "nameKana": "とればーふぉしぇ",
+    "description": "『リーダブルコード』の共著者。MicrosoftやGoogleでソフトウェア開発に携わった。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "andrew-hunt",
+    "name": "アンドリュー・ハント",
+    "nameKana": "あんどりゅーはんと",
+    "description": "『達人プログラマー』の共著者で、アジャイルソフトウェア開発宣言の起草者の一人。技術書レーベル The Pragmatic Bookshelf の創設者でもある。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "david-thomas",
+    "name": "デビッド・トーマス",
+    "nameKana": "でびっどとーます",
+    "description": "『達人プログラマー』の共著者。アンドリュー・ハントとともにアジャイルソフトウェア開発宣言に名を連ねた。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "frederick-brooks",
+    "name": "フレデリック・P・ブルックス Jr.",
+    "nameKana": "ふれでりっくぶるっくす",
+    "description": "IBM System/360のOS開発を率いたコンピュータ科学者。その経験から書かれた『人月の神話』でソフトウェア工学に決定的な影響を与えた。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄(フレデリック・フィリップス・ブルックス)および国立国会図書館サーチAPIの書誌で確認。表記は原著の一般的な日本語表記に合わせた。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "brian-fitzpatrick",
+    "name": "ブライアン・W・フィッツパトリック",
+    "nameKana": "ぶらいあんふぃっつぱとりっく",
+    "description": "Google/Apacheでの開発経験をもとに『Team Geek』を共著。Subversionの開発にも関わった。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ben-collins-sussman",
+    "name": "ベン・コリンズ・サスマン",
+    "nameKana": "べんこりんずさすまん",
+    "description": "Subversionの開発者の一人で、『Team Geek』の共著者。Googleでチーム開発の文化づくりに携わった。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "robert-c-martin",
+    "name": "ロバート・C・マーチン",
+    "nameKana": "ろばーとまーちん",
+    "description": "「アンクル・ボブ」の通称で知られるソフトウェアエンジニア。アジャイルソフトウェア開発宣言の起草者の一人で、SOLID原則の提唱者としても知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄(Robert C. Martin)および英語版Wikipediaの記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "bill-karwin",
+    "name": "ビル・カーウィン",
+    "nameKana": "びるかーうぃん",
+    "description": "MySQLやZend Frameworkの開発に携わったデータベース技術者。SQLの設計・実装で繰り返し現れる失敗を体系化した。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "brendan-gregg",
+    "name": "ブレンダン・グレッグ",
+    "nameKana": "ぶれんだんぐれっぐ",
+    "description": "システムパフォーマンス分析の第一人者。NetflixやSun Microsystemsで大規模環境の性能分析手法を確立し、可視化手法のフレームグラフでも知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "noam-nisan",
+    "name": "ノーム・ニサン",
+    "nameKana": "のーむにさん",
+    "description": "ヘブライ大学の計算機科学者。論理回路からOSまでを自作する講義を設計し、その教材が『コンピュータシステムの理論と実装』になった。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shimon-schocken",
+    "name": "シモン・ショッケン",
+    "nameKana": "しもんしょっけん",
+    "description": "『コンピュータシステムの理論と実装』の共著者。ノーム・ニサンとともにNand to Tetrisプロジェクトを立ち上げた。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mike-julian",
+    "name": "マイク・ジュリアン",
+    "nameKana": "まいくじゅりあん",
+    "description": "監視分野のコンサルタント。ツール導入よりも「何をどう監視するか」の設計を重視する立場から『入門 監視』を著した。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sam-newman",
+    "name": "サム・ニューマン",
+    "nameKana": "さむにゅーまん",
+    "description": "マイクロサービスに関する著作で知られる技術コンサルタント。分割の利点だけでなく分散システムとしての難しさも扱う。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "joshua-bloch",
+    "name": "ジョシュア・ブロック",
+    "nameKana": "じょしゅあぶろっく",
+    "description": "Javaのコレクションフレームワークなどの設計を主導したソフトウェアエンジニア。その設計経験を項目形式でまとめた『Effective Java』の著者。",
+    "externalLinks": {},
+    "sourceNote": "氏名・経歴は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄および英語版Wikipediaの記事で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jim-blandy",
+    "name": "ジム・ブランディ",
+    "nameKana": "じむぶらんでぃ",
+    "description": "GNU EmacsやGDBの開発に携わったプログラマ。Mozillaでの経験をもとに『プログラミングRust』を共著した。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jason-orendorff",
+    "name": "ジェイソン・オレンドルフ",
+    "nameKana": "じぇいそんおれんどるふ",
+    "description": "MozillaでSpiderMonkey JavaScriptエンジンの開発に携わった。『プログラミングRust』共著者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "leonora-tindall",
+    "name": "レオノーラ・F・S・ティンダル",
+    "nameKana": "れおのらてぃんだる",
+    "description": "『プログラミングRust』第2版の共著者。Rustコミュニティでの活動で知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kent-beck",
+    "name": "ケント・ベック",
+    "nameKana": "けんとべっく",
+    "description": "エクストリーム・プログラミングとテスト駆動開発の提唱者。アジャイルソフトウェア開発宣言の起草者の一人でもある。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sandi-metz",
+    "name": "サンディ・メッツ",
+    "nameKana": "さんでぃめっつ",
+    "description": "Rubyコミュニティで知られるオブジェクト指向設計の教育者。変更しやすさを軸に設計原則を語る。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jonathan-rasmusson",
+    "name": "ジョナサン・ラスマセン",
+    "nameKana": "じょなさんらすません",
+    "description": "ThoughtWorksなどでアジャイル開発を実践してきたコンサルタント。現場で使える形にかみ砕いた解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "vladimir-khorikov",
+    "name": "ウラジミール・コリコフ",
+    "nameKana": "うらじみーるこりこふ",
+    "description": "単体テストの設計を主題に執筆・登壇するソフトウェアエンジニア。テストの価値をどう測るかという観点を提示した。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "akiba-takuya",
+    "name": "秋葉拓哉",
+    "nameKana": "あきばたくや",
+    "description": "競技プログラミングの世界大会に出場した経歴を持つ研究者・エンジニア。アルゴリズム分野の解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "iwata-yoichi",
+    "name": "岩田陽一",
+    "nameKana": "いわたよういち",
+    "description": "競技プログラミング出身の研究者。『プログラミングコンテストチャレンジブック』を共著した。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kitagawa-yoshitoshi",
+    "name": "北川宜稔",
+    "nameKana": "きたがわよしとし",
+    "description": "『プログラミングコンテストチャレンジブック』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は国立国会図書館サーチAPIの書誌の著者表示で確認(楽天ブックス側の著者欄は上位2名までしか表示されない)。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "inoue-naoya",
+    "name": "井上直也",
+    "nameKana": "いのうえなおや",
+    "description": "『マスタリングTCP/IP 入門編』第6版の共著者。ネットワーク技術の解説にあたる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "murayama-yukihiro",
+    "name": "村山公保",
+    "nameKana": "むらやまゆきひろ",
+    "description": "ネットワーク分野の研究者。『マスタリングTCP/IP 入門編』を版を重ねて共著している。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takeshita-takafumi",
+    "name": "竹下隆史",
+    "nameKana": "たけしたたかふみ",
+    "description": "『マスタリングTCP/IP 入門編』の初版から関わる共著者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。国立国会図書館サーチAPI側の書誌では「竹下, 降史」と表記されているが、楽天および書影の表記に合わせて「竹下隆史」を採用した。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "arai-toru",
+    "name": "荒井透",
+    "nameKana": "あらいとおる",
+    "description": "『マスタリングTCP/IP 入門編』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "karita-yukio",
+    "name": "苅田幸雄",
+    "nameKana": "かりたゆきお",
+    "description": "『マスタリングTCP/IP 入門編』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yuki-hiroshi",
+    "name": "結城浩",
+    "nameKana": "ゆうきひろし",
+    "description": "『数学ガール』シリーズや一連のプログラミング入門書で知られる著述家。難しい主題を対話や図で段階的に解きほぐす書き方を特徴とする。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "saito-koki",
+    "name": "斎藤康毅",
+    "nameKana": "さいとうこうき",
+    "description": "『ゼロから作るDeep Learning』シリーズの著者。ライブラリに頼らず自分で実装することで仕組みを理解させる構成で知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamamoto-yohei",
+    "name": "山本陽平",
+    "nameKana": "やまもとようへい",
+    "description": "Webの標準仕様とアーキテクチャに詳しい技術者。HTTPやURIの設計思想を実務の設計判断に結びつけて解説する。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ito-junichi",
+    "name": "伊藤淳一",
+    "nameKana": "いとうじゅんいち",
+    "description": "Rubyプログラマ。初学者がつまずく箇所を踏まえた丁寧な解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mick",
+    "name": "ミック",
+    "nameKana": "みっく",
+    "description": "データベースエンジニア。SQLとリレーショナルモデルに関する解説・翻訳を数多く手がけている。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takeuchi-satoru",
+    "name": "武内覚",
+    "nameKana": "たけうちさとる",
+    "description": "Linuxカーネル開発の経験を持つエンジニア。実験して確かめるスタイルでOSの動作を解説する。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tokumaru-hiroshi",
+    "name": "徳丸浩",
+    "nameKana": "とくまるひろし",
+    "description": "Webアプリケーションセキュリティの専門家。脆弱性が生まれる原理を実際に手を動かして確かめさせる解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aoyama-shinya",
+    "name": "青山真也",
+    "nameKana": "あおやましんや",
+    "description": "Kubernetesに関する国内の第一人者の一人。大規模なコンテナ基盤の設計・運用の知見を持つ。",
+    "externalLinks": {},
+    "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
+    "updatedAt": "2026-08-06"
+  }
+]

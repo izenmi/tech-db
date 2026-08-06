@@ -1,0 +1,225 @@
+[
+  {
+    "id": "java",
+    "name": "Java",
+    "nameKana": "じゃゔぁ",
+    "description": "サン・マイクロシステムズが公開したオブジェクト指向言語。仮想マシン上で動く移植性の高さと後方互換性の重視から、企業システムやAndroidアプリの開発基盤として長く使われている。",
+    "externalLinks": {
+      "officialUrl": "https://www.java.com/ja/"
+    },
+    "sourceNote": "登場年は一般に知られた1995年の公開を採用した。",
+    "updatedAt": "2026-08-06",
+    "category": "language",
+    "releasedYear": 1995
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "nameKana": "るびー",
+    "description": "まつもとゆきひろ氏が開発した日本発のスクリプト言語。書きやすさと読みやすさを重視した設計で、Webフレームワークの Ruby on Rails とともに広まった。",
+    "externalLinks": {
+      "officialUrl": "https://www.ruby-lang.org/ja/"
+    },
+    "sourceNote": "登場年は公式サイトが記す1995年の公開を採用した。",
+    "updatedAt": "2026-08-06",
+    "category": "language",
+    "releasedYear": 1995
+  },
+  {
+    "id": "rust",
+    "name": "Rust",
+    "nameKana": "らすと",
+    "description": "所有権と借用という仕組みでメモリ安全性をコンパイル時に保証するシステムプログラミング言語。ガベージコレクションなしで安全性と実行速度を両立させる点が特徴。",
+    "externalLinks": {
+      "officialUrl": "https://www.rust-lang.org/ja"
+    },
+    "sourceNote": "登場年は安定版1.0が公開された2015年を採用した(開発自体はそれ以前から続いている)。",
+    "updatedAt": "2026-08-06",
+    "category": "language",
+    "releasedYear": 2015
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "nameKana": "ぱいそん",
+    "description": "可読性を重視した汎用スクリプト言語。豊富な数値計算・機械学習ライブラリを背景に、データ分析や研究用途でも標準的な選択肢になっている。",
+    "externalLinks": {
+      "officialUrl": "https://www.python.org/"
+    },
+    "sourceNote": "登場年は一般に知られた1991年の初公開を採用した。",
+    "updatedAt": "2026-08-06",
+    "category": "language",
+    "releasedYear": 1991
+  },
+  {
+    "id": "cpp",
+    "name": "C++",
+    "nameKana": "しーぷらすぷらす",
+    "description": "C言語にオブジェクト指向やテンプレートを加えた言語。実行速度と低レベル制御が要求される領域や、競技プログラミングで広く使われている。",
+    "externalLinks": {},
+    "sourceNote": "登場年は一般に知られた1985年の登場を採用した。",
+    "updatedAt": "2026-08-06",
+    "category": "language",
+    "releasedYear": 1985
+  },
+  {
+    "id": "php",
+    "name": "PHP",
+    "nameKana": "ぴーえいちぴー",
+    "description": "Webページの生成に特化して生まれたサーバサイド言語。導入の手軽さから広く普及し、Webアプリケーションのセキュリティを論じる際の題材にもなりやすい。",
+    "externalLinks": {
+      "officialUrl": "https://www.php.net/"
+    },
+    "sourceNote": "登場年は一般に知られた1995年の公開を採用した。",
+    "updatedAt": "2026-08-06",
+    "category": "language",
+    "releasedYear": 1995
+  },
+  {
+    "id": "sql",
+    "name": "SQL",
+    "nameKana": "えすきゅーえる",
+    "description": "リレーショナルデータベースを操作するための問い合わせ言語。標準化されている一方で製品ごとの方言があり、書き方しだいで性能が大きく変わる。",
+    "externalLinks": {},
+    "sourceNote": "登場年は一般に知られた1970年代前半の登場(1974年)を採用した。",
+    "updatedAt": "2026-08-06",
+    "category": "language",
+    "releasedYear": 1974
+  },
+  {
+    "id": "linux",
+    "name": "Linux",
+    "nameKana": "りなっくす",
+    "description": "リーナス・トーバルズが公開したUNIX系のオープンソースOSカーネル、およびそれを中心とするOS。サーバやクラウド基盤の事実上の標準になっている。",
+    "externalLinks": {
+      "officialUrl": "https://www.kernel.org/"
+    },
+    "sourceNote": "登場年は一般に知られた1991年の初公開を採用した。",
+    "updatedAt": "2026-08-06",
+    "category": "infra",
+    "releasedYear": 1991
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "nameKana": "くーばねてぃす",
+    "description": "コンテナ化したアプリケーションのデプロイ・スケーリング・運用を自動化するオーケストレーション基盤。Googleの社内システムの知見をもとに公開された。",
+    "externalLinks": {
+      "officialUrl": "https://kubernetes.io/ja/"
+    },
+    "sourceNote": "登場年は公式サイトが記す2014年の公開を採用した。",
+    "updatedAt": "2026-08-06",
+    "category": "infra",
+    "releasedYear": 2014
+  },
+  {
+    "id": "relational-database",
+    "name": "リレーショナルデータベース",
+    "nameKana": "りれーしょなるでーたべーす",
+    "description": "データを表(リレーション)の集合として扱うデータベース。正規化やトランザクションといった理論的な裏付けを持ち、業務システムの中核であり続けている。",
+    "externalLinks": {},
+    "sourceNote": "製品固有ではなく方式としての項目。特定の製品公式サイトは持たない。",
+    "updatedAt": "2026-08-06",
+    "category": "database"
+  },
+  {
+    "id": "algorithm",
+    "name": "アルゴリズム・データ構造",
+    "nameKana": "あるごりずむでーたこうぞう",
+    "description": "問題を解く手順とデータの持ち方の設計。計算量の見積もりを通じて、動くコードと現実的な時間で終わるコードの差を埋める土台になる。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "network",
+    "name": "ネットワーク・TCP/IP",
+    "nameKana": "ねっとわーくてぃーしーぴーあいぴー",
+    "description": "コンピュータ同士を接続する技術とその通信規約。TCP/IPを中心とした階層モデルの理解は、アプリケーション層の不具合を切り分ける際にも効いてくる。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "operating-system",
+    "name": "オペレーティングシステム",
+    "nameKana": "おぺれーてぃんぐしすてむ",
+    "description": "プロセス管理・メモリ管理・ファイルシステムなど、ハードウェアとアプリケーションの間を取り持つ基盤ソフトウェアの仕組み。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "security",
+    "name": "セキュリティ・暗号",
+    "nameKana": "せきゅりてぃあんごう",
+    "description": "システムを攻撃から守るための技術。暗号やデジタル署名といった基礎理論から、実装上の脆弱性とその対策までを含む。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "web",
+    "name": "Web・HTTP",
+    "nameKana": "うぇぶえいちてぃーてぃーぴー",
+    "description": "URI・HTTP・HTMLを土台とする分散システムとしてのWeb。仕様の成り立ちを踏まえることが、APIやWebサービスの設計判断に直結する。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "deep-learning",
+    "name": "ディープラーニング",
+    "nameKana": "でぃーぷらーにんぐ",
+    "description": "多層のニューラルネットワークを用いた機械学習の手法。画像認識や自然言語処理で成果を上げ、フレームワークの内側を理解する需要も生んだ。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "computer-architecture",
+    "name": "コンピュータアーキテクチャ",
+    "nameKana": "こんぴゅーたあーきてくちゃ",
+    "description": "論理回路からCPU、アセンブラ、OS、コンパイラへと積み上がる計算機の階層構造。各層がどう次の層を支えているかを扱う。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "microservices",
+    "name": "マイクロサービス",
+    "nameKana": "まいくろさーびす",
+    "description": "システムを独立してデプロイ可能な小さなサービス群に分割する設計様式。分割によって得られる自律性と、分散システムとしての難しさが表裏になる。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "software-architecture",
+    "name": "ソフトウェアアーキテクチャ",
+    "nameKana": "そふとうぇああーきてくちゃ",
+    "description": "変更に強い構造をどう選ぶかという設計上の意思決定。依存関係の向き、境界の引き方、何を先に決めて何を遅らせるかといった判断が対象になる。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  },
+  {
+    "id": "observability",
+    "name": "監視・オブザーバビリティ",
+    "nameKana": "かんしおぶざーばびりてぃ",
+    "description": "動いているシステムの状態を外から把握するための仕組み。メトリクス・ログ・アラート設計を通じて、障害に気づき原因にたどり着く力を扱う。",
+    "externalLinks": {},
+    "sourceNote": "",
+    "updatedAt": "2026-08-06",
+    "category": "concept"
+  }
+]

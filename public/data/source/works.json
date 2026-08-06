@@ -1,0 +1,853 @@
+[
+  {
+    "id": "readable-code",
+    "title": "リーダブルコード",
+    "titleKana": "りーだぶるこーど",
+    "authorIds": [
+      "dustin-boswell",
+      "trevor-foucher"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "kado-masanori"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "readability",
+      "practice",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "beginner",
+    "isbn": "9784873115658",
+    "firstPublishedYear": 2011,
+    "synopsis": "コードは他人が最短時間で理解できるように書くべきだ、という一点を軸に据えた本。命名、コメントの書き方、制御フローの単純化、巨大な式の分割、無関係な下位問題の抽出といった小さな技法を、改善前後のコードを並べながら積み上げていく。特定の言語に縛られず、章も短いので、チームで読み合わせる最初の一冊として選ばれることが多い。",
+    "externalLinks": {},
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2012年6月、ISBN 9784873115658)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。訳者が角征典であることは国立国会図書館サーチAPIの書誌で確認。原著 The Art of Readable Code の初版年2011年はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "The Art of Readable Code",
+    "jpPublishedYear": 2012
+  },
+  {
+    "id": "pragmatic-programmer-2",
+    "title": "達人プログラマー 第2版",
+    "titleKana": "たつじんぷろぐらまー",
+    "authorIds": [
+      "andrew-hunt",
+      "david-thomas"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "murakami-masaaki"
+    ],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "essay-career",
+      "practice",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784274226298",
+    "firstPublishedYear": 1999,
+    "synopsis": "腕のいいプログラマが日々どう考え、どう振る舞っているかを100項目近い短いトピックにまとめた本。曳光弾開発、DRY原則、直交性、契約による設計といった考え方が、たとえ話とともに次々に示される。原著刊行から20年を経た第2版では、並行性や関数型の話題を含めて全面的に見直されている。",
+    "externalLinks": {},
+    "sourceNote": "邦訳第2版の書誌(オーム社、2020年11月、ISBN 9784274226298)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。同書誌の紹介文に「The Pragmatic Programmer 20th Anniversary Edition (Addison Wesley、2019)の日本語版」と明記されている。原著初版1999年10月刊は英語版Wikipediaで確認。ITエンジニア本大賞2022の技術書部門でプレゼン大会に進出したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "The Pragmatic Programmer: Your Journey to Mastery",
+    "jpPublishedYear": 2020,
+    "edition": "第2版",
+    "latestEditionYear": 2020,
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2022,
+        "result": "技術書部門ベスト10(プレゼン大会進出)"
+      }
+    ]
+  },
+  {
+    "id": "mythical-man-month",
+    "title": "人月の神話",
+    "titleKana": "にんげつのしんわ",
+    "authorIds": [
+      "frederick-brooks"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "takizawa-toru",
+      "makino-yuko"
+    ],
+    "publisherId": "maruzen",
+    "themeIds": [
+      "essay-career",
+      "team-process",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784621066089",
+    "firstPublishedYear": 1975,
+    "synopsis": "遅れているプロジェクトに人員を追加すると、さらに遅れる——ブルックスの法則として知られる指摘を中心に据えたソフトウェア工学の古典。大規模OS開発の当事者だった著者が、見積りの難しさ、コンセプトの一貫性、セカンドシステム症候群などを論じる。半世紀近く前の本でありながら、いま読んでも身に覚えのある話が並ぶ。",
+    "externalLinks": {},
+    "sourceNote": "邦訳新装版の書誌(丸善出版、2014年4月、ISBN 9784621066089)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。訳者(滝沢徹・牧野祐子)は国立国会図書館サーチAPIの書誌で確認。原著1975年刊(1982年・1995年に改訂)は英語版Wikipediaで確認。邦訳は1996年アジソン・ウェスレイ、2002年ピアソン・エデュケーションを経て現在の丸善出版版に至る(国立国会図書館サーチAPIで確認)。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "The Mythical Man-Month: Essays on Software Engineering",
+    "jpPublishedYear": 2014,
+    "edition": "新装版",
+    "latestEditionYear": 2014
+  },
+  {
+    "id": "team-geek",
+    "title": "Team Geek",
+    "titleKana": "ちーむぎーく",
+    "authorIds": [
+      "brian-fitzpatrick",
+      "ben-collins-sussman"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "kado-masanori"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "team-process",
+      "essay-career"
+    ],
+    "origin": "overseas",
+    "level": "beginner",
+    "isbn": "9784873116303",
+    "firstPublishedYear": 2012,
+    "synopsis": "ソフトウェア開発でいちばん難しいのは技術ではなく人だ、という前提から書かれた本。謙虚・尊敬・信頼の三つを土台に、チームの文化のつくり方、有害な振る舞いへの向き合い方、上司や組織との付き合い方を語る。Googleでの経験に基づく具体的な失敗談が多く、抽象論に終わらない。",
+    "externalLinks": {},
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2013年7月、ISBN 9784873116303)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。訳者が角征典であることは国立国会図書館サーチAPIの書誌のcreator欄で確認。原著2012年刊はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Team Geek: A Software Developer's Guide to Working Well with Others",
+    "jpPublishedYear": 2013
+  },
+  {
+    "id": "clean-architecture",
+    "title": "Clean Architecture 達人に学ぶソフトウェアの構造と設計",
+    "titleKana": "くりーんあーきてくちゃ",
+    "authorIds": [
+      "robert-c-martin"
+    ],
+    "techIds": [
+      "software-architecture"
+    ],
+    "translatorIds": [
+      "kado-masanori",
+      "takagi-masahiro"
+    ],
+    "publisherId": "zen-university-press",
+    "themeIds": [
+      "design-architecture",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784049012033",
+    "firstPublishedYear": 2017,
+    "synopsis": "どんな種類のシステムでもソフトウェアアーキテクチャのルールは同じである、という主張を軸にした一冊。プログラミングパラダイムの整理から始まり、SOLID原則、コンポーネントの凝集性と結合、そして境界線をどこに引きどちらへ依存させるかという設計判断へと話を進める。フレームワークやDBを詳細として外側に追いやる構成が繰り返し説明される。",
+    "externalLinks": {},
+    "sourceNote": "邦訳版の書誌(ZEN大学出版会、2026年7月、ISBN 9784049012033、訳: 角征典・高木正弘)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著2017年刊はOpenLibraryで確認。当サイトでは現在入手できる版を登録しており、それ以前の邦訳版の版元・刊行年は未確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+    "jpPublishedYear": 2026
+  },
+  {
+    "id": "sql-antipatterns-2",
+    "title": "SQLアンチパターン 第2版",
+    "titleKana": "えすきゅーえるあんちぱたーん",
+    "authorIds": [
+      "bill-karwin"
+    ],
+    "techIds": [
+      "sql",
+      "relational-database"
+    ],
+    "translatorIds": [
+      "wada-takuto",
+      "kojima-osamu"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784814400744",
+    "firstPublishedYear": 2010,
+    "synopsis": "リレーショナルデータベースの設計と利用で繰り返し現れる失敗を、症状・原因・見分け方・正しい解法という一定の型で並べた本。カンマ区切りで複数値を一列に詰める、隣接リストで木構造を表す、といった具体例が名前つきで整理されるため、レビューの場で共通語として使いやすい。第2版では章が追加され内容も大きく見直された。",
+    "externalLinks": {},
+    "sourceNote": "邦訳第2版の書誌(オライリー・ジャパン、2025年7月、ISBN 9784814400744、訳: 和田卓人・児島修)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著初版2010年はOpenLibraryで確認(原著側も2022年にVolume 1として改訂されている)。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "SQL Antipatterns",
+    "jpPublishedYear": 2025,
+    "edition": "第2版",
+    "latestEditionYear": 2025
+  },
+  {
+    "id": "systems-performance-2",
+    "title": "詳解 システム・パフォーマンス 第2版",
+    "titleKana": "しょうかいしすてむぱふぉーまんす",
+    "authorIds": [
+      "brendan-gregg"
+    ],
+    "techIds": [
+      "linux",
+      "operating-system"
+    ],
+    "translatorIds": [
+      "nishiwaki-yasuhiro",
+      "nagao-takahiro"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "performance",
+      "reference",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "isbn": "9784814400072",
+    "firstPublishedYear": 2013,
+    "synopsis": "CPU・メモリ・ファイルシステム・ディスク・ネットワークという層ごとに、何をどう計測し、どこにボトルネックがあると判断するかを体系立てて解説する大著。勘に頼らず方法論から入る姿勢が一貫しており、USEメソッドのような手順が示される。第2版ではLinux系の記述とコンテナ環境の扱いが大きく増補された。",
+    "externalLinks": {},
+    "sourceNote": "邦訳第2版の書誌(オライリー・ジャパン、2023年1月、ISBN 9784814400072、訳: 西脇靖紘・長尾高弘)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著初版2013年・第2版2020年はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Systems Performance: Enterprise and the Cloud",
+    "jpPublishedYear": 2023,
+    "edition": "第2版",
+    "latestEditionYear": 2023
+  },
+  {
+    "id": "nand2tetris-2",
+    "title": "コンピュータシステムの理論と実装 第2版",
+    "titleKana": "こんぴゅーたしすてむのりろんとじっそう",
+    "authorIds": [
+      "noam-nisan",
+      "shimon-schocken"
+    ],
+    "techIds": [
+      "computer-architecture",
+      "operating-system"
+    ],
+    "translatorIds": [
+      "saito-koki-tr"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "build-to-learn",
+      "theory",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784814400874",
+    "firstPublishedYear": 2005,
+    "synopsis": "NANDゲートひとつから出発して、論理回路、CPU、アセンブラ、仮想マシン、コンパイラ、OSまでを順に自作し、最後に自分の作った計算機の上でアプリケーションを動かすところまで進む本。各章が仕様と課題の形になっており、読むだけでなく実際に作ることが前提になっている。コンピュータの階層構造を一本の線でつなぐ体験ができる。",
+    "externalLinks": {},
+    "sourceNote": "邦訳第2版の書誌(オライリー・ジャパン、2024年12月、ISBN 9784814400874、訳: 斎藤康毅)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著初版2005年はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "The Elements of Computing Systems",
+    "jpPublishedYear": 2024,
+    "edition": "第2版",
+    "latestEditionYear": 2024
+  },
+  {
+    "id": "practical-monitoring",
+    "title": "入門 監視",
+    "titleKana": "にゅうもんかんし",
+    "authorIds": [
+      "mike-julian"
+    ],
+    "techIds": [
+      "observability"
+    ],
+    "translatorIds": [
+      "matsuura-hayato"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice",
+      "intro",
+      "team-process"
+    ],
+    "origin": "overseas",
+    "level": "beginner",
+    "isbn": "9784873118642",
+    "firstPublishedYear": 2017,
+    "synopsis": "監視ツールを何にするかではなく、何をどう監視すべきかを主題にした本。ツール中心主義やチェックボックス監視といったアンチパターンをまず示したうえで、ユーザー体験から逆算して監視項目を決める考え方、意味のあるアラートの設計、オンコール体制の作り方へと進む。インフラ担当以外の開発者にも読める分量にまとまっている。",
+    "externalLinks": {},
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2019年1月、ISBN 9784873118642、訳: 松浦隼人)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著 Practical Monitoring 2017年刊はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Practical Monitoring",
+    "jpPublishedYear": 2019
+  },
+  {
+    "id": "building-microservices-2",
+    "title": "マイクロサービスアーキテクチャ 第2版",
+    "titleKana": "まいくろさーびすあーきてくちゃ",
+    "authorIds": [
+      "sam-newman"
+    ],
+    "techIds": [
+      "microservices",
+      "software-architecture"
+    ],
+    "translatorIds": [
+      "sato-naoki",
+      "kinoshita-tetsuya"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "design-architecture",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "isbn": "9784814400010",
+    "firstPublishedYear": 2015,
+    "synopsis": "システムを独立してデプロイできる小さなサービスに分ける設計を、利点と代償の両面から扱う本。モデリングと境界の決め方、サービス間通信の選択、データの分割、デプロイとテスト、監視、組織構造との関係までを順に論じる。第2版では第1版以降に定着した技法や事例が加わり、安易な分割への注意も厚くなった。",
+    "externalLinks": {},
+    "sourceNote": "邦訳第2版の書誌(オライリー・ジャパン、2022年12月、ISBN 9784814400010、訳: 佐藤直生・木下哲也)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著初版2015年はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Building Microservices",
+    "jpPublishedYear": 2022,
+    "edition": "第2版",
+    "latestEditionYear": 2022
+  },
+  {
+    "id": "effective-java-3",
+    "title": "Effective Java 第3版",
+    "titleKana": "えふぇくてぃぶじゃゔぁ",
+    "authorIds": [
+      "joshua-bloch"
+    ],
+    "techIds": [
+      "java"
+    ],
+    "translatorIds": [
+      "shibata-yoshiki"
+    ],
+    "publisherId": "maruzen",
+    "themeIds": [
+      "practice",
+      "reference",
+      "readability"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784621303252",
+    "firstPublishedYear": 2001,
+    "synopsis": "Javaで良い設計・良い実装を選ぶための指針を、独立した項目の集まりとして示す本。各項目は「なぜそうすべきか」を実際の落とし穴とともに説明する形をとる。第3版ではJava 8で導入されたラムダとストリームの章が加わり、Optionalやデフォルトメソッド、モジュールなども扱って全90項目になった。",
+    "externalLinks": {},
+    "sourceNote": "邦訳第3版の書誌(丸善出版、2018年10月、ISBN 9784621303252、訳: 柴田芳樹)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。同書誌の紹介文に第2版の78項目から90項目に増えた旨が記されている。原著初版2001年は英語版Wikipedia(Joshua Blochの記事)で確認。対象バージョンは紹介文が触れているJava 9までの機能を踏まえた記述。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Effective Java",
+    "jpPublishedYear": 2018,
+    "edition": "第3版",
+    "latestEditionYear": 2018,
+    "targetVersion": "Java 9"
+  },
+  {
+    "id": "programming-rust-2",
+    "title": "プログラミングRust 第2版",
+    "titleKana": "ぷろぐらみんぐらすと",
+    "authorIds": [
+      "jim-blandy",
+      "jason-orendorff",
+      "leonora-tindall"
+    ],
+    "techIds": [
+      "rust"
+    ],
+    "translatorIds": [
+      "nakata-hideki"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "reference",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784873119786",
+    "firstPublishedYear": 2017,
+    "synopsis": "Rustの所有権・借用・ライフタイムという中心的な仕組みを、なぜその制約が必要なのかから説き起こす解説書。型システム、トレイト、エラー処理、並行性、unsafeの扱いまでを網羅し、分量も相応にある。言語仕様を腰を据えて理解したい人向けで、他言語の経験があることが前提になっている。",
+    "externalLinks": {},
+    "sourceNote": "邦訳第2版の書誌(オライリー・ジャパン、2022年1月、ISBN 9784873119786、訳: 中田秀基)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著初版2017年・第2版2021年はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Programming Rust",
+    "jpPublishedYear": 2022,
+    "edition": "第2版",
+    "latestEditionYear": 2022
+  },
+  {
+    "id": "tdd-by-example",
+    "title": "テスト駆動開発",
+    "titleKana": "てすとくどうかいはつ",
+    "authorIds": [
+      "kent-beck"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "wada-takuto"
+    ],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "testing",
+      "classic",
+      "build-to-learn"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784274217883",
+    "firstPublishedYear": 2002,
+    "synopsis": "テストを先に書き、失敗させ、通し、整理するという小さな循環を、著者自身が題材を実装しながら見せていく本。多国通貨の例とxUnitの自作という二つの実装を通して、リズムと歩幅の取り方が具体的に伝わる構成になっている。日本語版は訳者による解説が付され、原典が書かれた文脈も補われている。",
+    "externalLinks": {},
+    "sourceNote": "邦訳版の書誌(オーム社、2017年10月、ISBN 9784274217883、訳: 和田卓人)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。同書誌の紹介文に“Test-Driven Development By Example”の日本語版であると明記されている。原著2002年刊はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Test-Driven Development By Example",
+    "jpPublishedYear": 2017
+  },
+  {
+    "id": "poodr",
+    "title": "オブジェクト指向設計実践ガイド",
+    "titleKana": "おぶじぇくとしこうせっけいじっせんがいど",
+    "authorIds": [
+      "sandi-metz"
+    ],
+    "techIds": [
+      "ruby"
+    ],
+    "translatorIds": [
+      "takayama-taiki"
+    ],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "design-architecture",
+      "readability",
+      "testing"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "isbn": "9784774183619",
+    "firstPublishedYear": 2012,
+    "synopsis": "変更しやすさを唯一の評価軸に据えて、オブジェクト指向設計を組み立て直す本。単一責任、依存関係の向きの管理、柔軟なインタフェース、ダックタイピング、継承と合成の使い分けといった主題を、Rubyの短いコードを少しずつ直しながら説明する。原則の暗記ではなく、なぜその形に落ち着くのかが追える。",
+    "externalLinks": {},
+    "sourceNote": "邦訳版の書誌(技術評論社、2016年10月、ISBN 9784774183619、訳: 高山泰基)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著2012年刊はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Practical Object-Oriented Design in Ruby",
+    "jpPublishedYear": 2016
+  },
+  {
+    "id": "agile-samurai",
+    "title": "アジャイルサムライ",
+    "titleKana": "あじゃいるさむらい",
+    "authorIds": [
+      "jonathan-rasmusson"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "nishimura-naoto",
+      "kakutani-shintaro",
+      "kondo-shuhei",
+      "tsunokake-takumi"
+    ],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "team-process",
+      "intro",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "beginner",
+    "isbn": "9784274068560",
+    "firstPublishedYear": 2010,
+    "synopsis": "アジャイル開発をこれから始めるチームに向けて、プロジェクトの立ち上げから日々の運用までを一通り見せる入門書。インセプションデッキで関係者の認識をそろえ、ユーザーストーリーで要求を扱い、見積りと計画づくりを繰り返すという流れが、イラストと軽い語り口で説明される。個々の技法よりも全体像をつかむのに向く。",
+    "externalLinks": {},
+    "sourceNote": "邦訳版の書誌(オーム社、2011年7月、ISBN 9784274068560)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。訳者(西村直人・角谷信太郎の監訳、近藤修平・角掛拓未の訳)は国立国会図書館サーチAPIの書誌のcreator欄で確認。原著2010年刊はOpenLibraryで確認。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "The Agile Samurai: How Agile Masters Deliver Great Software",
+    "jpPublishedYear": 2011
+  },
+  {
+    "id": "unit-testing-principles",
+    "title": "単体テストの考え方/使い方",
+    "titleKana": "たんたいてすとのかんがえかたつかいかた",
+    "authorIds": [
+      "vladimir-khorikov"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "suda-tomoyuki"
+    ],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "testing",
+      "design-architecture",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "isbn": "9784839981723",
+    "firstPublishedYear": 2020,
+    "synopsis": "テストを増やすこと自体を目的にせず、どのテストに価値があるのかを判断する基準を示す本。退行の検出、偽陽性への耐性、実行速度、保守しやすさという四つの観点でテストを評価し、モックをどこまで使うか、何を単体とみなすかという長年の論点に一つの立場から答えを出していく。",
+    "externalLinks": {},
+    "sourceNote": "邦訳版の書誌(マイナビ出版、2022年12月、ISBN 9784839981723、訳: 須田智之)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著2020年刊はOpenLibraryで確認。ITエンジニア本大賞2024の技術書部門でプレゼン大会に進出したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。",
+    "updatedAt": "2026-08-06",
+    "originalTitle": "Unit Testing Principles, Practices, and Patterns",
+    "jpPublishedYear": 2022,
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2024,
+        "result": "技術書部門ベスト10(プレゼン大会進出)"
+      }
+    ]
+  },
+  {
+    "id": "progcon-challenge-2",
+    "title": "プログラミングコンテストチャレンジブック 第2版",
+    "titleKana": "ぷろぐらみんぐこんてすとちゃれんじぶっく",
+    "authorIds": [
+      "akiba-takuya",
+      "iwata-yoichi",
+      "kitagawa-yoshitoshi"
+    ],
+    "techIds": [
+      "algorithm",
+      "cpp"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "theory",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784839941062",
+    "firstPublishedYear": 2010,
+    "synopsis": "プログラミングコンテストの問題を題材に、探索・貪欲法・動的計画法・グラフ・数学的手法といったアルゴリズムを難易度順に学ぶ本。通称「蟻本」。解ける・解けないの分かれ目が計算量にあることを、実際の問題を通して繰り返し体感させる構成になっている。競技者以外にも、アルゴリズムの実装力を鍛える教材として読まれている。",
+    "externalLinks": {},
+    "sourceNote": "第2版の書誌(マイナビ出版、2012年1月、ISBN 9784839941062)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。初版が2010年9月に毎日コミュニケーションズから刊行されたこと、および著者が秋葉拓哉・岩田陽一・北川宜稔の3名であることは国立国会図書館サーチAPIの書誌で確認。",
+    "updatedAt": "2026-08-06",
+    "edition": "第2版",
+    "latestEditionYear": 2012
+  },
+  {
+    "id": "mastering-tcpip-6",
+    "title": "マスタリングTCP/IP 入門編 第6版",
+    "titleKana": "ますたりんぐてぃーしーぴーあいぴーにゅうもんへん",
+    "authorIds": [
+      "inoue-naoya",
+      "murayama-yukihiro",
+      "takeshita-takafumi",
+      "arai-toru",
+      "karita-yukio"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "intro",
+      "reference",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784274224478",
+    "firstPublishedYear": 1994,
+    "synopsis": "TCP/IPを中心にネットワークの基礎を解説する定番書。データリンク層から始めてIP、TCP/UDP、ルーティングプロトコル、アプリケーションプロトコル、セキュリティへと階層を上がっていく構成で、図が多く独学しやすい。初版から四半世紀にわたり改訂が重ねられており、第6版では近年の技術動向を踏まえて内容が刷新されている。",
+    "externalLinks": {},
+    "sourceNote": "第6版の書誌(オーム社、2019年12月、ISBN 9784274224478)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。初版が1994年6月にオーム社から刊行されたこと、および版を重ねている経緯(1998年・2002年・2007年・2012年・2019年)は国立国会図書館サーチAPIの書誌で確認。",
+    "updatedAt": "2026-08-06",
+    "edition": "第6版",
+    "latestEditionYear": 2019
+  },
+  {
+    "id": "ango-nyumon-3",
+    "title": "暗号技術入門 第3版 秘密の国のアリス",
+    "titleKana": "あんごうぎじゅつにゅうもん",
+    "authorIds": [
+      "yuki-hiroshi"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "theory",
+      "classic"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784797382228",
+    "firstPublishedYear": 2003,
+    "synopsis": "対称暗号、公開鍵暗号、一方向ハッシュ関数、メッセージ認証コード、デジタル署名、証明書、そしてそれらを組み合わせたSSL/TLSやPGPまでを、図とやさしい言葉で順に解説する本。数式に踏み込みすぎず、各技術が「何を守れて何を守れないか」を押さえていく構成で、非専門家でも通読できる。",
+    "externalLinks": {},
+    "sourceNote": "第3版の書誌(SBクリエイティブ、2015年8月、ISBN 9784797382228)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。初版が2003年9月にソフトバンクパブリッシングから、2008年12月の新版がソフトバンククリエイティブから刊行されたことは国立国会図書館サーチAPIの書誌で確認。ITエンジニア本大賞2017の技術書部門でプレゼン大会に進出したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。",
+    "updatedAt": "2026-08-06",
+    "edition": "第3版",
+    "latestEditionYear": 2015,
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2017,
+        "result": "技術書部門ベスト10(プレゼン大会進出)"
+      }
+    ]
+  },
+  {
+    "id": "zero-deep-learning",
+    "title": "ゼロから作るDeep Learning",
+    "titleKana": "ぜろからつくるでぃーぷらーにんぐ",
+    "authorIds": [
+      "saito-koki"
+    ],
+    "techIds": [
+      "python",
+      "deep-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "build-to-learn",
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784873117584",
+    "firstPublishedYear": 2016,
+    "synopsis": "外部のディープラーニングフレームワークを使わず、NumPyだけでニューラルネットワークを一から組み上げていく本。パーセプトロンから始めて、活性化関数、誤差逆伝播法、最適化手法、畳み込みニューラルネットワークへと進む。数式と実装コードが常に並んで示されるため、ブラックボックスだった部分が順に開いていく。",
+    "externalLinks": {},
+    "sourceNote": "書誌(オライリー・ジャパン、2016年9月、ISBN 9784873117584)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。ITエンジニア本大賞2017の技術書部門でプレゼン大会に進出したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。",
+    "updatedAt": "2026-08-06",
+    "seriesName": "ゼロから作るDeep Learningシリーズ",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2017,
+        "result": "技術書部門ベスト10(プレゼン大会進出)"
+      }
+    ]
+  },
+  {
+    "id": "zero-deep-learning-2",
+    "title": "ゼロから作るDeep Learning ❷ 自然言語処理編",
+    "titleKana": "ぜろからつくるでぃーぷらーにんぐつー",
+    "authorIds": [
+      "saito-koki"
+    ],
+    "techIds": [
+      "python",
+      "deep-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "build-to-learn",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784873118369",
+    "firstPublishedYear": 2018,
+    "synopsis": "前作と同じく自前の実装を積み上げる方針で、対象を自然言語処理に移した続編。単語の分散表現からword2vec、リカレントニューラルネットワーク、LSTM、seq2seq、そしてAttentionへと段階的に進む。系列データを扱うときに何が難しく、各手法がその何を解決したのかが実装を通して見えてくる。",
+    "externalLinks": {},
+    "sourceNote": "書誌(オライリー・ジャパン、2018年7月、ISBN 9784873118369)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。ITエンジニア本大賞2019の技術書部門でプレゼン大会に進出したこと、および同年に特別ゲスト永瀬美穂氏の特別賞を受賞したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。",
+    "updatedAt": "2026-08-06",
+    "seriesName": "ゼロから作るDeep Learningシリーズ",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2019,
+        "result": "技術書部門ベスト10(プレゼン大会進出)"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2019,
+        "result": "特別賞"
+      }
+    ]
+  },
+  {
+    "id": "web-wo-sasaeru-gijutsu",
+    "title": "Webを支える技術",
+    "titleKana": "うぇぶをささえるぎじゅつ",
+    "authorIds": [
+      "yamamoto-yohei"
+    ],
+    "techIds": [
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "theory",
+      "design-architecture",
+      "classic"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784774142043",
+    "firstPublishedYear": 2010,
+    "synopsis": "HTTP・URI・HTMLという三つの仕様を、成り立ちと設計思想までさかのぼって解説し、そのうえでWebサービスをどう設計するかへ話を進める本。望ましいURIの決め方、HTTPメソッドの使い分け、クライアントとサーバの責務分担といった判断が、RESTというアーキテクチャスタイルの文脈に位置づけられていく。",
+    "externalLinks": {},
+    "sourceNote": "書誌(技術評論社、2010年5月、ISBN 9784774142043)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ruby-nyumon-2",
+    "title": "プロを目指す人のためのRuby入門 改訂2版",
+    "titleKana": "ぷろをめざすひとのためのるびーにゅうもん",
+    "authorIds": [
+      "ito-junichi"
+    ],
+    "techIds": [
+      "ruby"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "testing",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297124373",
+    "firstPublishedYear": 2017,
+    "synopsis": "Rubyの文法を一通り押さえたうえで、実務で必要になる知識まで橋渡しする入門書。各章が例題を解く形で進み、テストを書きながらコードを育てる流れやデバッグの手順も本文に組み込まれている。エラーメッセージの読み方など初学者がつまずく箇所を丁寧に扱う点が特徴。改訂2版ではRuby 3.0の変更に対応している。",
+    "externalLinks": {},
+    "sourceNote": "改訂2版の書誌(技術評論社、2021年12月、ISBN 9784297124373)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。第1版が2017年に刊行されたことは同書誌の紹介文(「第1版（2017年11月発行）」)および国立国会図書館サーチAPIの書誌(2017年12月)で確認。対象バージョンは紹介文が触れている2020年末のRubyの更新への対応による。",
+    "updatedAt": "2026-08-06",
+    "edition": "改訂2版",
+    "latestEditionYear": 2021,
+    "targetVersion": "Ruby 3.0"
+  },
+  {
+    "id": "db-sekkei-shinansho-2",
+    "title": "達人に学ぶDB設計徹底指南書 第2版",
+    "titleKana": "たつじんにまなぶでぃーびーせっけいてっていしなんしょ",
+    "authorIds": [
+      "mick"
+    ],
+    "techIds": [
+      "sql",
+      "relational-database"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "design-architecture",
+      "practice",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784798186627",
+    "firstPublishedYear": 2012,
+    "synopsis": "リレーショナルデータベースの論理設計と物理設計を、初級者が中級へ進むための土台として解説する本。正規化をどこまで進めるか、非正規化と性能のトレードオフをどう扱うか、バックアップやインデックスをどう考えるかといった実務上の判断を、避けるべき設計とあわせて示していく。",
+    "externalLinks": {},
+    "sourceNote": "第2版の書誌(翔泳社、2024年8月、ISBN 9784798186627)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。初版が2012年3月に翔泳社から刊行されたことは国立国会図書館サーチAPIの書誌で確認。",
+    "updatedAt": "2026-08-06",
+    "edition": "第2版",
+    "latestEditionYear": 2024
+  },
+  {
+    "id": "linux-no-shikumi",
+    "title": "[試して理解]Linuxのしくみ 増補改訂版",
+    "titleKana": "ためしてりかいりなっくすのしくみ",
+    "authorIds": [
+      "takeuchi-satoru"
+    ],
+    "techIds": [
+      "linux",
+      "operating-system"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "build-to-learn",
+      "theory",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784297131487",
+    "firstPublishedYear": 2018,
+    "synopsis": "プロセス管理、スケジューラ、メモリ管理、記憶階層、ファイルシステムといったLinuxの中核を、実際にプログラムを動かして測りながら確かめていく本。図とグラフで挙動を可視化するため、教科書的な説明で終わらない。増補改訂版では仮想化機能とコンテナの章が加わっている。",
+    "externalLinks": {},
+    "sourceNote": "増補改訂版の書誌(技術評論社、2022年10月、ISBN 9784297131487)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。初版が2018年3月に技術評論社から刊行されたことは国立国会図書館サーチAPIの書誌で確認(初版の副題は「実験と図解で学ぶOSとハードウェアの基礎知識」)。",
+    "updatedAt": "2026-08-06",
+    "edition": "増補改訂版",
+    "latestEditionYear": 2022
+  },
+  {
+    "id": "tokumaru-bon-2",
+    "title": "体系的に学ぶ 安全なWebアプリケーションの作り方 第2版",
+    "titleKana": "たいけいてきにまなぶあんぜんなうぇぶあぷりけーしょんのつくりかた",
+    "authorIds": [
+      "tokumaru-hiroshi"
+    ],
+    "techIds": [
+      "security",
+      "web",
+      "php"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "practice",
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784797393163",
+    "firstPublishedYear": 2011,
+    "synopsis": "Webアプリケーションの脆弱性がなぜ生まれるのかを原理から説明し、手元の仮想環境で実際に攻撃を試しながら対策を学ぶ本。クロスサイトスクリプティングやSQLインジェクションなどを、サンプルアプリへの攻撃を通して確かめられる。通称「徳丸本」。第2版ではOWASP Top 10 - 2017に対応し大幅に増補された。",
+    "externalLinks": {},
+    "sourceNote": "第2版の書誌(SBクリエイティブ、2018年6月、ISBN 9784797393163)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。初版が2011年3月にソフトバンククリエイティブから刊行されたことは国立国会図書館サーチAPIの書誌で確認。OWASP Top 10 - 2017対応であることは同書誌の紹介文による。",
+    "updatedAt": "2026-08-06",
+    "edition": "第2版",
+    "latestEditionYear": 2018
+  },
+  {
+    "id": "kubernetes-kanzen-guide-2",
+    "title": "Kubernetes完全ガイド 第2版",
+    "titleKana": "くーばねてぃすかんぜんがいど",
+    "authorIds": [
+      "aoyama-shinya"
+    ],
+    "techIds": [
+      "kubernetes"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784295009795",
+    "firstPublishedYear": 2018,
+    "synopsis": "Kubernetesのリソースと機能を網羅的に扱う国内の定番リファレンス。PodやServiceといった基本リソースから、スケジューリング、オートスケーリング、セキュリティ、マニフェストの管理手法までを、実際に試せる形で解説する。分量が多く通読よりも必要な箇所を引く使い方に向いている。",
+    "externalLinks": {},
+    "sourceNote": "第2版の書誌(インプレス、2020年8月、ISBN 9784295009795)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。初版が2018年9月にインプレスから刊行されたことは国立国会図書館サーチAPIの書誌で確認。",
+    "updatedAt": "2026-08-06",
+    "edition": "第2版",
+    "latestEditionYear": 2020
+  }
+]
