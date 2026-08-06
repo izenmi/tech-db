@@ -187,5 +187,104 @@
     "externalLinks": {},
     "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mizuno-takaaki",
+    "name": "水野貴明",
+    "nameKana": "みずのたかあき",
+    "description": "日本の技術者・翻訳者。Web技術やプログラミングに関する書籍の翻訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mizuno-izumi",
+    "name": "水野いずみ",
+    "nameKana": "みずのいずみ",
+    "description": "日本の翻訳者。技術書の監訳・翻訳に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tamagawa-ryuji",
+    "name": "玉川竜司",
+    "nameKana": "たまがわりゅうじ",
+    "description": "日本の翻訳者。オライリー・ジャパンのデータ基盤・分散システム系書籍を多く訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "saito-taro",
+    "name": "斉藤太郎",
+    "nameKana": "さいとうたろう",
+    "description": "日本のソフトウェアエンジニア。データベースと分散処理を専門とし、『データ指向アプリケーションデザイン』を監訳した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "imazeki-tsuyoshi",
+    "name": "今関剛",
+    "nameKana": "いまぜきつよし",
+    "description": "日本のソフトウェア技術者。ドメイン駆動設計の国内紹介に関わり、エヴァンス本を監訳した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wachi-yuke",
+    "name": "和智右桂",
+    "nameKana": "わちゆうけい",
+    "description": "日本のソフトウェア技術者・翻訳者。設計論やアジャイル関連の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "imamura-kenji",
+    "name": "今村謙士",
+    "nameKana": "いまむらけんじ",
+    "description": "日本のソフトウェアエンジニア。TypeScript関連書籍の監訳を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hara-takafumi",
+    "name": "原隆文",
+    "nameKana": "はらたかふみ",
+    "description": "日本の翻訳者。プログラミング言語やWeb開発の技術書を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suzuki-shun",
+    "name": "鈴木駿",
+    "nameKana": "すずきしゅん",
+    "description": "日本のソフトウェアエンジニア・翻訳者。Python関連書籍の翻訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "makino-satoshi",
+    "name": "牧野聡",
+    "nameKana": "まきのさとし",
+    "description": "日本の翻訳者。オライリー・ジャパンのプログラミング言語書を多く訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mick-tr",
+    "name": "ミック",
+    "nameKana": "みっく",
+    "description": "日本のデータベースエンジニア。SQLに関する著作と翻訳・監訳を数多く手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

@@ -340,5 +340,212 @@
     "externalLinks": {},
     "sourceNote": "氏名は楽天ブックスAPI(BooksBook/Search)の書誌の著者欄で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "felienne-hermans",
+    "name": "フェリエンヌ・ヘルマンス",
+    "nameKana": "ふぇりえんぬへるまんす",
+    "description": "オランダの計算機科学者。ライデン大学教授で、プログラミング教育と認知科学の交点を研究している。『プログラマー脳』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shibukawa-yoshiki",
+    "name": "渋川よしき",
+    "nameKana": "しぶかわよしき",
+    "description": "日本のソフトウェアエンジニア。Go言語とWeb技術に関する著作・翻訳が多く、『Goならわかるシステムプログラミング』『Real World HTTP』を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "martin-kleppmann",
+    "name": "マーティン・クレップマン",
+    "nameKana": "まーてぃんくれっぷまん",
+    "description": "英国の計算機科学者。ケンブリッジ大学で分散システムを研究し、『データ指向アプリケーションデザイン』で分散データ基盤の原理を体系化した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "eric-evans",
+    "name": "エリック・エヴァンス",
+    "nameKana": "えりっくえゔぁんす",
+    "description": "米国のソフトウェア設計者。2003年の『Domain-Driven Design』でドメイン駆動設計という語と方法論を確立した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aoki-atsuo",
+    "name": "青木淳夫",
+    "nameKana": "あおきあつお",
+    "description": "日本のソフトウェアエンジニア。ドメイン駆動設計の実装面をテーマにした入門書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "naruse-masanobu",
+    "name": "成瀬允宣",
+    "nameKana": "なるせまさのぶ",
+    "description": "日本のソフトウェアエンジニア。ドメイン駆動設計を初学者向けに解きほぐす『ドメイン駆動設計入門』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hirasawa-akira",
+    "name": "平澤章",
+    "nameKana": "ひらさわあきら",
+    "description": "日本のソフトウェア技術者。オブジェクト指向の考え方を歴史的経緯から説明する『オブジェクト指向でなぜつくるのか』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yazawa-hisao",
+    "name": "矢沢久雄",
+    "nameKana": "やざわひさお",
+    "description": "日本のソフトウェア技術者・技術ライター。「なぜ動くのか」シリーズでコンピュータの基礎を平易に解説している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tone-tsutomu",
+    "name": "戸根勤",
+    "nameKana": "とねつとむ",
+    "description": "日本のネットワーク技術者。ブラウザのアドレス欄に入力してから画面が出るまでを追う『ネットワークはなぜつながるのか』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "boris-cherny",
+    "name": "ボリス・チェルニー",
+    "nameKana": "ぼりすちぇるにー",
+    "description": "米国のソフトウェアエンジニア。TypeScriptの型システムを実務の観点から解説した『プログラミングTypeScript』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suzuki-ryota",
+    "name": "鈴木僚太",
+    "nameKana": "すずきりょうた",
+    "description": "日本のフロントエンドエンジニア。TypeScriptの型を軸に据えた入門書『プロを目指す人のためのTypeScript入門』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakayama-kiyotaka",
+    "name": "中山清喬",
+    "nameKana": "なかやまきよたか",
+    "description": "日本のIT技術者・教育者。株式会社フレアリンクの代表として「スッキリわかる」シリーズを手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamada-yoshihiro",
+    "name": "山田祥寛",
+    "nameKana": "やまだよしひろ",
+    "description": "日本の技術ライター。Webアプリケーション開発を中心に「独習」シリーズなど多数の入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suyama-rei",
+    "name": "陶山嶺",
+    "nameKana": "すやまれい",
+    "description": "日本のソフトウェアエンジニア。Pythonコミュニティで活動し、言語機能を実務に結びつける『Python実践入門』を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "brett-slatkin",
+    "name": "ブレット・スラットキン",
+    "nameKana": "ぶれっとすらっときん",
+    "description": "米国のソフトウェアエンジニア。Google在籍時の経験をもとにPythonの実践的な書き方を項目形式でまとめた『Effective Python』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "luciano-ramalho",
+    "name": "ルシアーノ・ラマーリョ",
+    "nameKana": "るしあーのらまーりょ",
+    "description": "ブラジルのソフトウェアエンジニア。Pythonのデータモデルを掘り下げた『Fluent Python』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "joe-celko",
+    "name": "ジョー・セルコ",
+    "nameKana": "じょーせるこ",
+    "description": "米国のデータベース技術者。SQL標準化委員会に長く関わり、SQLの書き方を主題にした著作を多数持つ。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamada-akinori",
+    "name": "山田明憲",
+    "nameKana": "やまだあきのり",
+    "description": "日本のソフトウェアエンジニア。コンテナ技術の実践的な入門書『Docker/Kubernetes実践コンテナ開発入門』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tokunaga-kohei",
+    "name": "徳永航平",
+    "nameKana": "とくながこうへい",
+    "description": "日本のソフトウェアエンジニア。コンテナランタイムの研究開発に携わり、図解を軸にした入門書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sano-yutaka",
+    "name": "佐野裕",
+    "nameKana": "さのゆたか",
+    "description": "日本のインフラエンジニア。事業会社での運用経験をもとに『インフラエンジニアの教科書』を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aoki-minero",
+    "name": "青木峰郎",
+    "nameKana": "あおきみねろう",
+    "description": "日本のプログラマ。Ruby処理系や書籍執筆で知られ、UNIXの考え方に沿ってC言語を教える『ふつうのLinuxプログラミング』の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "miyake-hideaki",
+    "name": "三宅英明",
+    "nameKana": "みやけひであき",
+    "description": "日本のソフトウェアエンジニア。Linuxのコマンドライン操作を体系立てて教える『新しいLinuxの教科書』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "osumi-yusuke",
+    "name": "大角祐介",
+    "nameKana": "おおすみゆうすけ",
+    "description": "日本のソフトウェアエンジニア。『新しいLinuxの教科書』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

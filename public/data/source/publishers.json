@@ -89,5 +89,45 @@
     "externalLinks": {},
     "sourceNote": "『Clean Architecture』2026年7月刊の版元として楽天ブックスAPIの書誌で確認。同書の以前の版元については未確認のためsourceNoteに記載していない。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shuwa-system",
+    "name": "秀和システム",
+    "nameKana": "しゅうわしすてむ",
+    "description": "東京の出版社。コンピュータ関連書と実用書を幅広く手がけ、翻訳技術書も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1977
+  },
+  {
+    "id": "lambdanote",
+    "name": "ラムダノート",
+    "nameKana": "らむだのーと",
+    "description": "2015年設立の技術書出版社。少部数でも専門性の高い書籍を丁寧に編集して刊行する方針を取っている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 2015
+  },
+  {
+    "id": "nikkei-bp",
+    "name": "日経BP",
+    "nameKana": "にっけいびーぴー",
+    "description": "日本経済新聞社グループの出版社。「日経ソフトウエア」などの雑誌と、「なぜ動くのか」シリーズをはじめとする技術書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1969
+  },
+  {
+    "id": "cr-kenkyusho",
+    "name": "シーアンドアール研究所",
+    "nameKana": "しーあんどあーるけんきゅうしょ",
+    "description": "新潟県の出版社。プログラミングやインフラ運用を中心とした実務向け技術書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1990
   }
 ]

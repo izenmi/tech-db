@@ -849,5 +849,718 @@
     "updatedAt": "2026-08-06",
     "edition": "第2版",
     "latestEditionYear": 2020
+  },
+  {
+    "id": "programmers-brain",
+    "title": "プログラマー脳",
+    "titleKana": "ぷろぐらまーのう",
+    "authorIds": [
+      "felienne-hermans"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "mizuno-takaaki",
+      "mizuno-izumi"
+    ],
+    "publisherId": "shuwa-system",
+    "themeIds": [
+      "essay-career",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2021,
+    "synopsis": "コードを読むときに脳の中で何が起きているのかを、認知科学の知見から説明した本。長期記憶・短期記憶・ワーキングメモリの三つの働きで「読めない」原因を分解し、チャンク化や意図的な写経といった対処法に結びつける。命名がなぜ効くのか、新人が既存コードに詰まるのはなぜかといった日常の疑問に、経験則ではない裏づけを与えてくれる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798068534",
+    "latestEditionYear": 2023,
+    "jpPublishedYear": 2023,
+    "originalTitle": "The Programmer's Brain",
+    "sourceNote": "邦訳版の書誌(秀和システム、2023年、ISBN 9784798068534)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Felienne Hermans 著,水野貴明 訳,水野いずみ 監訳」による。原著の初版年2021年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "go-system-programming-2",
+    "title": "Goならわかるシステムプログラミング",
+    "titleKana": "goならわかるしすてむぷろぐらみんぐ",
+    "authorIds": [
+      "shibukawa-yoshiki"
+    ],
+    "techIds": [
+      "go",
+      "operating-system",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "lambdanote",
+    "themeIds": [
+      "theory",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2017,
+    "synopsis": "Goのコードを書きながら、その下でOSが何をしているかを掘り下げていく本。ファイル入出力、ソケット、シグナル、プロセス、メモリ、並行処理といったシステムコールに近い領域を、Goの標準ライブラリがどう包んでいるかという角度から読み解く。普段は隠れている層に手を届かせたいときの足がかりになる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784908686122",
+    "edition": "第2版",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(ラムダノート、2022年、ISBN 9784908686122)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「渋川よしき 著」による。初版の刊行年2017年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "real-world-http-3",
+    "title": "Real World HTTP",
+    "titleKana": "りあるわーるどえいちてぃーてぃーぴー",
+    "authorIds": [
+      "shibukawa-yoshiki"
+    ],
+    "techIds": [
+      "web",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "reference",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2017,
+    "synopsis": "HTTPをバージョンごとの歴史として追いながら、各機能が何を解決するために足されたのかを説明する本。ヘッダー、クッキー、キャッシュ、認証、CORS、HTTP/2やHTTP/3までを、Goの短いコードで実際に叩いて確かめる構成になっている。仕様書を読む前の見取り図として使える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814400669",
+    "edition": "第3版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(オライリー・ジャパン、2024年、ISBN 9784814400669)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「渋川よしき 著」による。初版の刊行年2017年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "designing-data-intensive-applications",
+    "title": "データ指向アプリケーションデザイン",
+    "titleKana": "でーたしこうあぷりけーしょんでざいん",
+    "authorIds": [
+      "martin-kleppmann"
+    ],
+    "techIds": [
+      "distributed-systems",
+      "relational-database",
+      "software-architecture"
+    ],
+    "translatorIds": [
+      "saito-taro",
+      "tamagawa-ryuji"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "theory",
+      "design-architecture",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2017,
+    "synopsis": "データを扱うシステムを、信頼性・拡張性・保守性という三つの軸で設計するための原理をまとめた本。ストレージエンジンの内部構造から、レプリケーション、パーティショニング、トランザクション、分散合意、バッチとストリーム処理までを、個別製品ではなく仕組みの水準で比較する。特定のミドルウェアが古びても残る知識が得られる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873118703",
+    "latestEditionYear": 2019,
+    "jpPublishedYear": 2019,
+    "originalTitle": "Designing Data-Intensive Applications",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2019年、ISBN 9784873118703)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Martin Kleppmann 著,斉藤太郎 監訳,玉川竜司 訳」による。原著の初版年2017年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "ddd-evans",
+    "title": "エリック・エヴァンスのドメイン駆動設計",
+    "titleKana": "えりっくえゔぁんすのどめいんくどうせっけい",
+    "authorIds": [
+      "eric-evans"
+    ],
+    "techIds": [
+      "ddd",
+      "software-architecture"
+    ],
+    "translatorIds": [
+      "imazeki-tsuyoshi",
+      "wachi-yuke",
+      "makino-yuko"
+    ],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "design-architecture",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2003,
+    "synopsis": "ドメイン駆動設計という言葉を生んだ本。業務の知識をモデルとしてコードに映し取り、開発者と業務側が同じ言葉で話せる状態を保つことを設計の中心に据える。エンティティ・値オブジェクト・集約・リポジトリといった構成要素から、境界づけられたコンテキストによる大規模構造の切り分けまでを扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798121963",
+    "latestEditionYear": 2011,
+    "jpPublishedYear": 2011,
+    "originalTitle": "Domain-Driven Design",
+    "sourceNote": "邦訳版の書誌(翔泳社、2011年、ISBN 9784798121963)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「エリック・エヴァンス 著,今関剛 監訳,和智右桂, 牧野祐子 訳」による。原著の初版年2003年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "ddd-jissou-nyumon",
+    "title": "「実践ドメイン駆動設計」から学ぶDDDの実装入門",
+    "titleKana": "じっせんどめいんくどうせっけいからまなぶでぃーでぃーでぃーのじっそうにゅうもん",
+    "authorIds": [
+      "aoki-atsuo"
+    ],
+    "techIds": [
+      "ddd",
+      "csharp"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "design-architecture",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "ドメイン駆動設計の考え方を、実際に動くコードへ落とし込む手順に絞って解説した本。値オブジェクトやエンティティの実装、集約の境界の決め方、リポジトリやアプリケーションサービスの置き方を、小さなサンプルを積み上げながら示す。理論書を読んで手が止まった段階で読むと橋渡しになる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798161501",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(翔泳社、2019年、ISBN 9784798161501)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「青木淳夫 著,山田祥寛 監修」による。初版の刊行年2015年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "ddd-nyumon",
+    "title": "ドメイン駆動設計入門",
+    "titleKana": "どめいんくどうせっけいにゅうもん",
+    "authorIds": [
+      "naruse-masanobu"
+    ],
+    "techIds": [
+      "ddd",
+      "csharp"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "intro",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2020,
+    "synopsis": "ドメイン駆動設計を、パターン一つずつをボトムアップに積み上げる形で説明した入門書。値オブジェクトから始めて、エンティティ、ドメインサービス、リポジトリ、ファクトリ、集約へと順に足していき、それぞれが何の問題を解いているのかを先に示す。全体像から入る本で挫折した人に向いている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798150727",
+    "latestEditionYear": 2020,
+    "sourceNote": "書誌(翔泳社、2020年、ISBN 9784798150727)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「成瀬允宣 著」による。"
+  },
+  {
+    "id": "oop-naze-tsukuru-3",
+    "title": "オブジェクト指向でなぜつくるのか",
+    "titleKana": "おぶじぇくとしこうでなぜつくるのか",
+    "authorIds": [
+      "hirasawa-akira"
+    ],
+    "techIds": [
+      "oop"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2004,
+    "synopsis": "オブジェクト指向を、機械語からの言語の進化という流れの中に置いて説明した本。クラス・ポリモーフィズム・継承がプログラミングのどんな面倒を減らすために現れたのかを、メモリ上の動きまで含めて示す。用語の定義から入って腑に落ちなかった読者に、なぜこの仕組みなのかという理由を与えてくれる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296000180",
+    "edition": "第3版",
+    "latestEditionYear": 2021,
+    "sourceNote": "書誌(日経BP、2021年、ISBN 9784296000180)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「平澤章 著」による。初版の刊行年2004年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "program-naze-ugoku-3",
+    "title": "プログラムはなぜ動くのか",
+    "titleKana": "ぷろぐらむわなぜうごくのか",
+    "authorIds": [
+      "yazawa-hisao"
+    ],
+    "techIds": [
+      "computer-architecture"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2001,
+    "synopsis": "書いたプログラムがCPUとメモリの上でどう動くのかを、初心者向けに一段ずつ降りていく本。二進数、CPUの構造、メモリとディスク、コンパイルとリンク、アセンブリの読み方までを扱い、高級言語の一行が最終的に何になるのかを追えるようにする。低レイヤに進む前の入り口として長く読まれている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296000197",
+    "edition": "第3版",
+    "latestEditionYear": 2021,
+    "sourceNote": "書誌(日経BP、2021年、ISBN 9784296000197)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「矢沢久雄 著」による。初版の刊行年2001年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "computer-naze-ugoku-2",
+    "title": "コンピュータはなぜ動くのか",
+    "titleKana": "こんぴゅーたわなぜうごくのか",
+    "authorIds": [
+      "yazawa-hisao"
+    ],
+    "techIds": [
+      "computer-architecture"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2003,
+    "synopsis": "コンピュータの全体像を、ハードウェアからOS、ネットワーク、データベース、そして人工知能までひと通り見渡す本。個々の技術を深追いするのではなく、部品どうしがどうつながって一台の機械として動いているのかを掴ませることを狙っている。分野を絞る前に地図を持ちたいときに向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296001231",
+    "edition": "第2版",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(日経BP、2022年、ISBN 9784296001231)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「矢沢久雄 著」による。初版の刊行年2003年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "network-naze-tsunagaru-2",
+    "title": "ネットワークはなぜつながるのか",
+    "titleKana": "ねっとわーくわなぜつながるのか",
+    "authorIds": [
+      "tone-tsutomu"
+    ],
+    "techIds": [
+      "network",
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2002,
+    "synopsis": "ブラウザにURLを入力してからページが表示されるまでを、一本の道筋として最初から最後までたどる本。DNSの問い合わせ、TCPの接続、LANケーブルと信号、ルーターとプロバイダ、そしてサーバー側の受け取りまでを順に通る。層ごとに分割された教科書では像を結ばなかった読者に効く構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784822283117",
+    "edition": "第2版",
+    "latestEditionYear": 2007,
+    "sourceNote": "書誌(日経BP社、2007年、ISBN 9784822283117)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「戸根勤 著,日経network 監修」による。初版の刊行年2002年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "programming-typescript",
+    "title": "プログラミングTypeScript",
+    "titleKana": "ぷろぐらみんぐたいぷすくりぷと",
+    "authorIds": [
+      "boris-cherny"
+    ],
+    "techIds": [
+      "typescript"
+    ],
+    "translatorIds": [
+      "imamura-kenji",
+      "hara-takafumi"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "reference"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "TypeScriptの型システムを、規模の大きなアプリケーションを支える道具として解説した本。型の絞り込み、ジェネリクス、条件型といった機能を、どんな設計上の要求から使うのかという順で並べる。エラーハンドリングや非同期処理、既存のJavaScript資産との付き合い方まで含めて実務寄りにまとまっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873119045",
+    "latestEditionYear": 2020,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Programming TypeScript",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2020年、ISBN 9784873119045)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Boris Cherny 著,今村謙士 監訳,原隆文 訳」による。原著の初版年2019年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "pro-typescript-nyumon",
+    "title": "プロを目指す人のためのTypeScript入門",
+    "titleKana": "ぷろおめざすひとのためのたいぷすくりぷとにゅうもん",
+    "authorIds": [
+      "suzuki-ryota"
+    ],
+    "techIds": [
+      "typescript"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2022,
+    "synopsis": "TypeScriptを「型のある言語」として最初から教える入門書。JavaScriptを先に覚えてから型を後付けするのではなく、型の宣言と推論を基礎として据え、安全なコードの書き方から高度な型操作までを一冊で通す。他言語の経験があってフロントエンドに入る人にも読みやすい構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297127473",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(技術評論社、2022年、ISBN 9784297127473)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「鈴木僚太 著」による。"
+  },
+  {
+    "id": "dokushu-python-2",
+    "title": "独習Python",
+    "titleKana": "どくしゅうぱいそん",
+    "authorIds": [
+      "yamada-yoshihiro"
+    ],
+    "techIds": [
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2020,
+    "synopsis": "Pythonの文法と標準ライブラリを、独学で通読できるように整理した入門書。データ型、制御構文、関数、クラス、モジュール、例外処理までを順に押さえ、節ごとの練習問題で理解を確かめる作りになっている。あとから引き直せる密度があるので、入門を終えた後も手元に置いて使える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798189499",
+    "edition": "第2版",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(翔泳社、2025年、ISBN 9784798189499)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「山田祥寛 著」による。初版の刊行年2016年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "python-jissen-nyumon",
+    "title": "Python実践入門",
+    "titleKana": "ぱいそんじっせんにゅうもん",
+    "authorIds": [
+      "suyama-rei"
+    ],
+    "techIds": [
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2020,
+    "synopsis": "文法を一通り覚えた人が、Pythonらしい書き方と開発の進め方を身につけるための本。イテレータやデコレータ、型ヒント、パッケージング、テストや静的解析といった、実務で必要になるが入門書では扱われにくい領域をまとめている。言語の設計思想に触れながら道具立てを整えられる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297111113",
+    "latestEditionYear": 2020,
+    "sourceNote": "書誌(技術評論社、2020年、ISBN 9784297111113)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「陶山嶺 著」による。"
+  },
+  {
+    "id": "effective-python-3",
+    "title": "Effective Python",
+    "titleKana": "えふぇくてぃゔぱいそん",
+    "authorIds": [
+      "brett-slatkin"
+    ],
+    "techIds": [
+      "python"
+    ],
+    "translatorIds": [
+      "suzuki-shun"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice",
+      "reference"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2015,
+    "synopsis": "Pythonの書き方を項目単位で示す本。「こう書くべき」という結論だけでなく、素朴な書き方が抱える問題と、言語仕様のどこがそれを生むのかを対にして説明する。内包表記、ジェネレータ、クラス設計、並行処理、テストまで幅広く、通読しても必要な項目だけ引いても使える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814401338",
+    "edition": "第3版",
+    "latestEditionYear": 2025,
+    "jpPublishedYear": 2025,
+    "originalTitle": "Effective Python",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2025年、ISBN 9784814401338)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Brett Slatkin 著,鈴木駿 訳」による。原著の初版年2015年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "fluent-python-2",
+    "title": "Fluent Python",
+    "titleKana": "ふるーえんとぱいそん",
+    "authorIds": [
+      "luciano-ramalho"
+    ],
+    "techIds": [
+      "python"
+    ],
+    "translatorIds": [
+      "makino-satoshi"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "reference",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2015,
+    "synopsis": "Pythonのデータモデルを軸に、言語の仕組みを深く掘り下げる本。特殊メソッドがどう呼ばれるか、シーケンスや辞書の内部、デコレータとクロージャ、コルーチンや非同期処理、メタプログラミングまでを扱う。他言語の癖のまま書いてしまう段階を抜けて、Pythonの流儀で書きたい人に向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814401284",
+    "edition": "第2版",
+    "latestEditionYear": 2025,
+    "jpPublishedYear": 2025,
+    "originalTitle": "Fluent Python",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2025年、ISBN 9784814401284)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Luciano Ramalho 著,牧野聡 訳」による。原著の初版年2015年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "tatsujin-sql-2",
+    "title": "達人に学ぶSQL徹底指南書",
+    "titleKana": "たつじんにまなぶえすきゅーえるてっていしなんしょ",
+    "authorIds": [
+      "mick"
+    ],
+    "techIds": [
+      "sql",
+      "relational-database"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "practice",
+      "classic"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2008,
+    "synopsis": "手続き型の発想で書かれがちなSQLを、集合指向の考え方に切り替えるための本。CASE式やウィンドウ関数、自己結合、HAVING句の使いどころを題材に、ループを使わずに書く型を身につけさせる。後半ではリレーショナルモデルの理論的な背景にも触れ、なぜその書き方が自然なのかを裏づける。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798157825",
+    "edition": "第2版",
+    "latestEditionYear": 2018,
+    "sourceNote": "書誌(翔泳社、2018年、ISBN 9784798157825)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ミック 著」による。初版の刊行年2008年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "sql-jissen-nyumon",
+    "title": "SQL実践入門",
+    "titleKana": "えすきゅーえるじっせんにゅうもん",
+    "authorIds": [
+      "mick"
+    ],
+    "techIds": [
+      "sql",
+      "relational-database"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "performance",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2015,
+    "synopsis": "読みやすさと速さの両方を満たすSQLを書くための本。実行計画の読み方から入り、結合やサブクエリ、ソート、インデックスの効き方が処理時間にどう跳ね返るかを説明する。DBMSがクエリをどう解釈するかを踏まえて書き換える手順が示されるので、遅いクエリに当たったときの手がかりになる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297151904",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(技術評論社、2025年、ISBN 9784297151904)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ミック 著」による。初版の刊行年2015年は同APIで同書名の全版を引いて確認。",
+    "edition": "改訂新版"
+  },
+  {
+    "id": "sql-graph-genron",
+    "title": "プログラマのためのSQLグラフ原論",
+    "titleKana": "ぷろぐらまのためのえすきゅーえるぐらふげんろん",
+    "authorIds": [
+      "joe-celko"
+    ],
+    "techIds": [
+      "sql",
+      "relational-database",
+      "algorithm"
+    ],
+    "translatorIds": [
+      "mick-tr"
+    ],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2004,
+    "synopsis": "木構造やグラフといった階層データを、リレーショナルデータベースの上でどう表現するかを主題にした本。隣接リスト、経路列挙、入れ子集合モデルなどの表現方法を挙げ、それぞれの検索・更新のしやすさを比較する。組織図や部品表のように再帰的な構造を扱うときの選択肢が整理できる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798144573",
+    "latestEditionYear": 2016,
+    "jpPublishedYear": 2016,
+    "originalTitle": "Joe Celko's Trees and Hierarchies in SQL for Smarties",
+    "sourceNote": "邦訳版の書誌(翔泳社、2016年、ISBN 9784798144573)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョー・セルコ 著,ミック 監訳」による。原著の初版年2004年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "docker-kubernetes-jissen-2",
+    "title": "Docker/Kubernetes実践コンテナ開発入門",
+    "titleKana": "どっかーくーべねてぃすじっせんこんてなかいはつにゅうもん",
+    "authorIds": [
+      "yamada-akinori"
+    ],
+    "techIds": [
+      "docker",
+      "kubernetes"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2018,
+    "synopsis": "Dockerでコンテナを作るところから、Kubernetesで複数のコンテナを運用するところまでを一続きで扱う本。イメージの作り方、Compose による複数コンテナの構成、Kubernetesのリソース定義とデプロイを、手を動かしながら順に進める。コンテナを業務で使い始める段階の足場になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297140175",
+    "edition": "改訂新版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(技術評論社、2024年、ISBN 9784297140175)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「山田明憲 著」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "illust-docker-kubernetes-2",
+    "title": "イラストでわかるDockerとKubernetes",
+    "titleKana": "いらすとでわかるどっかーとくーばねてぃす",
+    "authorIds": [
+      "tokunaga-kohei"
+    ],
+    "techIds": [
+      "docker",
+      "kubernetes",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2020,
+    "synopsis": "コンテナが実際には何なのかを、図を中心に説明した本。名前空間やcgroupといったLinuxの機能、コンテナランタイムの層構造、イメージの中身、Kubernetesが何を管理しているのかを、操作手順ではなく仕組みの側から解く。コマンドは動かせるが中身が見えていない段階に効く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297140557",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(技術評論社、2024年、ISBN 9784297140557)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「徳永航平 著」による。初版の刊行年2020年は同APIで同書名の全版を引いて確認。",
+    "edition": "改訂新版"
+  },
+  {
+    "id": "infra-engineer-kyokasho",
+    "title": "インフラエンジニアの教科書",
+    "titleKana": "いんふらえんじにあのきょうかしょ",
+    "authorIds": [
+      "sano-yutaka"
+    ],
+    "techIds": [
+      "linux",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2013,
+    "synopsis": "インフラエンジニアが日々向き合う対象を、一冊で見渡せるようにまとめた本。サーバー機材の選定、データセンターとラック、ネットワーク機器、OSとミドルウェア、監視や障害対応、さらに購買や契約といった実務の周辺までを扱う。この職種で何を知っている必要があるかの地図になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784863544338",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(シーアンドアール研究所、2023年、ISBN 9784863544338)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「佐野裕 著」による。初版の刊行年2013年は同APIで同書名の全版を引いて確認。",
+    "edition": "改訂新版"
+  },
+  {
+    "id": "futsuu-linux-programming-2",
+    "title": "ふつうのLinuxプログラミング",
+    "titleKana": "ふつうのりなっくすぷろぐらみんぐ",
+    "authorIds": [
+      "aoki-minero"
+    ],
+    "techIds": [
+      "linux",
+      "c",
+      "operating-system"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2005,
+    "synopsis": "LinuxをC言語から触るための入門書。ファイルとプロセスとストリームという三つの見方でUNIXの世界観を説明し、システムコールを直接呼びながら小さなコマンドを自作していく。標準ライブラリの向こう側でOSが何を提供しているのかを、実際に書いて確かめられる構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784797386479",
+    "edition": "第2版",
+    "latestEditionYear": 2017,
+    "sourceNote": "書誌(SBクリエイティブ、2017年、ISBN 9784797386479)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「青木峰郎 著」による。初版の刊行年2005年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "atarashii-linux-kyokasho-2",
+    "title": "新しいLinuxの教科書",
+    "titleKana": "あたらしいりなっくすのきょうかしょ",
+    "authorIds": [
+      "miyake-hideaki",
+      "osumi-yusuke"
+    ],
+    "techIds": [
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2015,
+    "synopsis": "Linuxのコマンドライン操作を基礎から積み上げる入門書。ディレクトリ構造とパーミッション、テキスト処理、パイプとリダイレクト、シェルスクリプト、そしてGitによるバージョン管理までを扱う。GUIに慣れた人が端末で仕事を進められるようになるまでを、順を追って導く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815624316",
+    "edition": "第2版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(SBクリエイティブ、2024年、ISBN 9784815624316)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「三宅英明, 大角祐介 著」による。初版の刊行年2015年は同APIで同書名の全版を引いて確認。"
   }
 ]

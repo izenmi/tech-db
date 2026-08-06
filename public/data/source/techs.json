@@ -221,5 +221,91 @@
     "sourceNote": "",
     "updatedAt": "2026-08-06",
     "category": "concept"
+  },
+  {
+    "id": "go",
+    "name": "Go",
+    "nameKana": "ごー",
+    "category": "language",
+    "description": "Googleが開発した静的型付けのプログラミング言語。並行処理を言語機能として持ち、単一バイナリに固められることからサーバーサイドやCLIツールの実装に広く使われている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2009
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "nameKana": "たいぷすくりぷと",
+    "category": "language",
+    "description": "JavaScriptに静的型付けを加えたMicrosoft製の言語。実行時はJavaScriptに変換され、大規模なフロントエンド開発で型による安全性を得る目的で使われる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2012
+  },
+  {
+    "id": "c",
+    "name": "C言語",
+    "nameKana": "しーげんご",
+    "category": "language",
+    "description": "1972年に生まれた手続き型言語。OSやミドルウェアの実装言語として使われ続けており、メモリとハードウェアに近い層を学ぶための土台にもなっている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 1972
+  },
+  {
+    "id": "csharp",
+    "name": "C#",
+    "nameKana": "しーしゃーぷ",
+    "category": "language",
+    "description": "Microsoftが開発したオブジェクト指向言語。.NET上で動き、業務システムやUnityによるゲーム開発で広く使われている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2000
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "nameKana": "どっかー",
+    "category": "tool",
+    "description": "アプリケーションとその実行環境をコンテナとしてまとめ、どこでも同じように動かすためのツール。開発環境の再現とデプロイの単位を揃える目的で使われる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2013
+  },
+  {
+    "id": "ddd",
+    "name": "ドメイン駆動設計",
+    "nameKana": "どめいんくどうせっけい",
+    "category": "concept",
+    "description": "業務のドメインを表すモデルをコードの中心に据え、そのモデルを共通言語として設計と実装を進める考え方。エリック・エヴァンスが2003年に体系化した。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2003
+  },
+  {
+    "id": "oop",
+    "name": "オブジェクト指向",
+    "nameKana": "おぶじぇくとしこう",
+    "category": "concept",
+    "description": "データと手続きをオブジェクトという単位にまとめ、カプセル化・継承・多態性で大きなプログラムを構造化する考え方。多くの言語の設計に影響を与えている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "distributed-systems",
+    "name": "分散システム",
+    "nameKana": "ぶんさんしすてむ",
+    "category": "concept",
+    "description": "複数のマシンに処理とデータを分散させて動かすシステムの設計領域。レプリケーション・パーティショニング・合意といった、単体では起きない問題を扱う。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
