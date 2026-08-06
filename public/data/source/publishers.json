@@ -636,5 +636,14 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1915
+  },
+  {
+    "id": "kadokawa",
+    "name": "KADOKAWA",
+    "nameKana": "かどかわ",
+    "description": "日本の大手総合出版社。新書や実用書のほか、技術系の一般向け書籍も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

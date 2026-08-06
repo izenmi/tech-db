@@ -23,6 +23,12 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:19:51.542Z"
   },
+  "201-principles": {
+    "title": "ソフトウェア開発201の鉄則",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:31:56.035Z"
+  },
   "30nichi-os-jisaku": {
     "title": "OS自作入門",
     "isbn": null,
@@ -83,6 +89,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T20:39:18.388Z"
   },
+  "adrenaline-junkies": {
+    "title": "アドレナリンジャンキー",
+    "isbn": "9784822284015",
+    "matchedTitle": "アドレナリンジャンキー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4015/9784822284015.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:31:57.220Z"
+  },
   "advanced-computer-network": {
     "title": "Advancedコンピュータネットワーク",
     "isbn": "9784320124400",
@@ -106,6 +120,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9842/2000002089842.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T21:10:43.759Z"
+  },
+  "agile-conversations": {
+    "title": "組織を変える5つの対話",
+    "isbn": "9784814400645",
+    "matchedTitle": "組織を変える5つの対話",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0645/9784814400645_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:24.324Z"
   },
   "agile-estimating-planning": {
     "title": "アジャイルな見積りと計画づくり",
@@ -197,6 +219,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:21:11.794Z"
   },
+  "ai-wa-ningen-wo-koeruka": {
+    "title": "人工知能は人間を超えるか",
+    "isbn": "9784040800202",
+    "matchedTitle": "人工知能は人間を超えるか ディープラーニングの先にあるもの",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0202/9784040800202.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:52.223Z"
+  },
   "ajax-design-patterns": {
     "title": "Ajaxデザインパターン",
     "isbn": "9784873113234",
@@ -220,6 +250,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2439/9784798172439_1_130.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:45:44.933Z"
+  },
+  "algorithmic-puzzles": {
+    "title": "アルゴリズムパズル",
+    "isbn": "9784873116693",
+    "matchedTitle": "アルゴリズムパズル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6693/9784873116693.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:31:59.547Z"
   },
   "algorithms-in-a-nutshell": {
     "title": "アルゴリズムクイックリファレンス",
@@ -335,6 +373,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T13:00:01.845Z"
   },
+  "api-design-patterns": {
+    "title": "APIデザイン・パターン",
+    "isbn": "9784839979393",
+    "matchedTitle": "APIデザイン・パターン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9393/9784839979393_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:28.086Z"
+  },
   "application-wo-tsukuru-eigo": {
     "title": "アプリケーションをつくる英語",
     "isbn": "9784844332848",
@@ -408,6 +454,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8017/9784873118017.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:11:04.426Z"
+  },
+  "art-of-leadership": {
+    "title": "リーダーの作法",
+    "isbn": "9784873119892",
+    "matchedTitle": "リーダーの作法",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9892/9784873119892_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:25.478Z"
   },
   "art-of-project-management": {
     "title": "アート・オブ・プロジェクトマネジメント",
@@ -815,6 +869,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T09:24:55.416Z"
   },
+  "clean-code": {
+    "title": "Clean code",
+    "isbn": null,
+    "matchedTitle": "Clean Code　アジャイルソフトウェア達人の技",
+    "coverUrl": "https://c.bookwalker.jp/8425872/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-06T22:32:16.170Z"
+  },
   "clean-coder": {
     "title": "Clean Coder",
     "isbn": null,
@@ -1131,6 +1193,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:54:25.941Z"
   },
+  "db-specialist-shoeisha": {
+    "title": "データベーススペシャリスト",
+    "isbn": "9784798196251",
+    "matchedTitle": "情報処理教科書 データベーススペシャリスト 2026〜2027年版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6251/9784798196251_1_88.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:22.024Z"
+  },
   "ddd-evans": {
     "title": "エリック・エヴァンスのドメイン駆動設計",
     "isbn": "9784798121963",
@@ -1154,6 +1224,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0727/9784798150727_1_3.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:11:57.226Z"
+  },
+  "deep-learning-katsuyo": {
+    "title": "ディープラーニング活用の教科書",
+    "isbn": null,
+    "matchedTitle": "ディープラーニング活用の教科書",
+    "coverUrl": "https://c.bookwalker.jp/2614513/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-06T22:32:50.940Z"
   },
   "deep-learning-to-butsurigaku": {
     "title": "ディープラーニングと物理学",
@@ -1216,6 +1294,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8703/9784873118703.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:11:49.019Z"
+  },
+  "designing-distributed-systems": {
+    "title": "分散システムデザインパターン",
+    "isbn": "9784873118758",
+    "matchedTitle": "分散システムデザインパターン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8758/9784873118758.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:29.239Z"
   },
   "designing-interfaces-2": {
     "title": "デザイニング・インターフェース",
@@ -1619,6 +1705,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:51:19.525Z"
   },
+  "feature-engineering-for-ml": {
+    "title": "機械学習のための特徴量エンジニアリング",
+    "isbn": "9784873118680",
+    "matchedTitle": "機械学習のための特徴量エンジニアリング",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8680/9784873118680.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:30.392Z"
+  },
   "firebase-serverless-spa": {
     "title": "Firebaseによるサーバーレスシングルページアプリケーション",
     "isbn": null,
@@ -1951,6 +2045,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T22:00:37.257Z"
   },
+  "gradle-tettei-nyumon": {
+    "title": "Gradle徹底入門",
+    "isbn": "9784798136431",
+    "matchedTitle": "Gradle徹底入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6431/9784798136431.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:31:19.906Z"
+  },
   "grafana-genba": {
     "title": "図解と実践で現場で使えるGrafana",
     "isbn": null,
@@ -2018,6 +2120,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2740/27406597.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T21:06:58.220Z"
+  },
+  "hackers-delight": {
+    "title": "ハッカーのたのしみ",
+    "isbn": "9784434201592",
+    "matchedTitle": "OD＞ハッカーのたのしみOD版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1592/9784434201592.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:00.721Z"
   },
   "hacking-apis": {
     "title": "ハッキングAPI",
@@ -2198,6 +2308,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9595/9784873119595_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:47:58.136Z"
+  },
+  "high-output-management": {
+    "title": "HIGH OUTPUT MANAGEMENT",
+    "isbn": "9784822255015",
+    "matchedTitle": "HIGH OUTPUT MANAGEMENT 人を育て、成果を最大にするマネジメント",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5015/9784822255015.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:31:39.428Z"
   },
   "high-performance-browser-networking": {
     "title": "ハイパフォーマンスブラウザネットワーキング",
@@ -2468,6 +2586,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3448/9784865753448_1_3.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:47:47.794Z"
+  },
+  "it-service-manager-mondai": {
+    "title": "ITサービスマネージャ総仕上げ問題集",
+    "isbn": "9784865753325",
+    "matchedTitle": "2025-2026　ITサービスマネージャ　総仕上げ問題集",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3325/9784865753325_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:19.696Z"
   },
   "it-strategist-allinone": {
     "title": "ITストラテジストALL IN ONEパーフェクトマスター",
@@ -2747,6 +2873,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:09:31.087Z"
   },
+  "junit-jissen-nyumon": {
+    "title": "JUnit実践入門",
+    "isbn": "9784774153773",
+    "matchedTitle": "JUnit実践入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3773/9784774153773.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:31:21.059Z"
+  },
   "jupyter-notebook-programming": {
     "title": "Jupyter Notebookで始めるプログラミング",
     "isbn": "9784780611595",
@@ -2794,6 +2928,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3346/9784798153346.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:41:20.781Z"
+  },
+  "kanban-in-action": {
+    "title": "カンバン仕事術",
+    "isbn": "9784873117645",
+    "matchedTitle": "カンバン仕事術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7645/9784873117645.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:31:22.231Z"
   },
   "keisanron-lambda": {
     "title": "計算論",
@@ -2856,6 +2998,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7903/9784815637903.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:26:33.877Z"
+  },
+  "kikai-gakushu-zukan": {
+    "title": "機械学習図鑑",
+    "isbn": "9784798155654",
+    "matchedTitle": "見て試してわかる機械学習アルゴリズムの仕組み 機械学習図鑑",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5654/9784798155654.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:31.555Z"
   },
   "kiso-data-kozo-algorithm": {
     "title": "基礎から学ぶデータ構造とアルゴリズム",
@@ -3243,6 +3393,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:54:29.432Z"
   },
+  "lpic-level2": {
+    "title": "LPICレベル2",
+    "isbn": "9784798151250",
+    "matchedTitle": "Linux教科書 LPICレベル2 Version 4.5対応",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1250/9784798151250.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:17.389Z"
+  },
   "m5stack-denshi-kosaku": {
     "title": "「M5Stack」ではじめる電子工作",
     "isbn": "9784777520787",
@@ -3621,6 +3779,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:54:24.785Z"
   },
+  "network-specialist-mondai": {
+    "title": "ネットワークスペシャリスト総仕上げ問題集",
+    "isbn": "9784865753295",
+    "matchedTitle": "2025-2026　ネットワークスペシャリスト　総仕上げ問題集",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3295/9784865753295_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:23.174Z"
+  },
   "network-yokuwakaru-kyokasho": {
     "title": "ネットワークがよくわかる教科書",
     "isbn": "9784815629441",
@@ -3748,6 +3914,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0126/9784814400126_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:02:57.879Z"
+  },
+  "okr-kihon-jissen": {
+    "title": "最新目標管理フレームワークOKRの基本と実践がよ～くわかる本",
+    "isbn": "9784798060958",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:31:38.210Z"
   },
   "oop-naze-tsukuru-3": {
     "title": "オブジェクト指向でなぜつくるのか",
@@ -4076,6 +4248,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4033/9784873114033.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:07:38.629Z"
+  },
+  "principle-of-programming": {
+    "title": "プリンシプルオブプログラミング",
+    "isbn": "9784798046143",
+    "matchedTitle": "プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6143/9784798046143.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:01.914Z"
   },
   "prml-no-gakushu": {
     "title": "パターン認識と機械学習の学習",
@@ -5149,6 +5329,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:37:24.312Z"
   },
+  "software-meicho-wo-yomu": {
+    "title": "ソフトウェア開発の名著を読む",
+    "isbn": null,
+    "matchedTitle": "ソフトウェア開発の名著を読む【第二版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3322/2000013143322.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:31:44.130Z"
+  },
   "software-mistakes-tradeoffs": {
     "title": "ソフトウェア設計のトレードオフと誤り",
     "isbn": "9784814400317",
@@ -5197,6 +5385,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:31:34.909Z"
   },
+  "spring-boot3-nyumon": {
+    "title": "Spring Boot 3プログラミング入門",
+    "isbn": "9784798069166",
+    "matchedTitle": "Spring Boot 3 プログラミング入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9166/9784798069166_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:31:18.752Z"
+  },
   "spring-tettei-nyumon-2": {
     "title": "Spring徹底入門",
     "isbn": "9784798181349",
@@ -5228,6 +5424,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0201/9784814400201_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:11:02.130Z"
+  },
+  "sql-for-smarties": {
+    "title": "プログラマのためのSQL",
+    "isbn": "9784798128023",
+    "matchedTitle": "プログラマのためのSQL第4版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8023/9784798128023.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:31:58.384Z"
   },
   "sql-graph-genron": {
     "title": "プログラマのためのSQLグラフ原論",
@@ -5403,6 +5607,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T12:43:43.421Z"
   },
+  "system-architect-mondai": {
+    "title": "システムアーキテクト総仕上げ問題集",
+    "isbn": "9784865753318",
+    "matchedTitle": "2025-2026　システムアーキテクト　総仕上げ問題集",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3318/9784865753318_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:18.542Z"
+  },
   "system-design-interview": {
     "title": "システム設計の面接試験",
     "isbn": "9784802614061",
@@ -5410,6 +5622,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4061/9784802614061_1_4.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:03:51.180Z"
+  },
+  "system-kansa-mondai": {
+    "title": "システム監査技術者総仕上げ問題集",
+    "isbn": "9784865753554",
+    "matchedTitle": "2026　システム監査技術者　総仕上げ問題集",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3554/9784865753554_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:20.856Z"
   },
   "system-shogai-taio": {
     "title": "システム障害対応の教科書",
@@ -5556,6 +5776,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2354/9784798172354_1_104.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:52:00.400Z"
+  },
+  "testing-web-apis": {
+    "title": "Web APIテスト技法",
+    "isbn": "9784798179728",
+    "matchedTitle": "Web APIテスト技法",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9728/9784798179728_1_87.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:32:26.609Z"
   },
   "thoughtworks-anthology": {
     "title": "ThoughtWorksアンソロジー",
@@ -6008,6 +6236,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-06T21:09:17.689Z"
+  },
+  "yasashiku-manabu-ml-math": {
+    "title": "やさしく学ぶ機械学習を理解するための数学のきほん",
+    "isbn": null,
+    "matchedTitle": "やさしく学ぶ 機械学習を理解するための数学のきほん アヤノ＆ミオと一緒に学ぶ 機械学習の理論と数学、実装まで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6352/2000005496352.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:32:36.846Z"
   },
   "yoi-code-warui-code": {
     "title": "良いコード/悪いコードで学ぶ設計入門",

@@ -22231,5 +22231,827 @@
     "updatedAt": "2026-08-06",
     "latestEditionYear": 1995,
     "sourceNote": "書誌(共立出版、1995年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「岡本竜明, 太田和夫 共編」による。"
+  },
+  {
+    "id": "spring-boot3-nyumon",
+    "title": "Spring Boot 3プログラミング入門",
+    "titleKana": "すぷりんぐぶーとすりーぷろぐらみんぐにゅうもん",
+    "authorIds": [
+      "shoda-tsuyano"
+    ],
+    "techIds": [
+      "spring",
+      "java"
+    ],
+    "translatorIds": [],
+    "publisherId": "shuwa-system",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2023,
+    "synopsis": "Spring Boot 3を使ってWebアプリケーションを組み立てる入門書。プロジェクトの生成、コントローラとテンプレート、データベース連携、セキュリティ、REST APIまでを順に作りながら学ぶ。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798069166",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(秀和システム、2023年、ISBN 9784798069166)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「掌田津耶乃 著」による。"
+  },
+  {
+    "id": "gradle-tettei-nyumon",
+    "title": "Gradle徹底入門",
+    "titleKana": "ぐれいどるてっていにゅうもん",
+    "authorIds": [
+      "watahiki-takuma"
+    ],
+    "techIds": [
+      "java",
+      "devops"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2014,
+    "synopsis": "ビルドツールGradleを、タスクの記述、依存関係の管理、マルチプロジェクト構成、プラグインの作成という順に解説する本。ビルドを自動化の基盤として設計するための考え方を扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798136431",
+    "latestEditionYear": 2014,
+    "sourceNote": "書誌(翔泳社、2014年、ISBN 9784798136431)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「綿引琢磨, 須江信洋, 林政利, 今井勝信 著」による。"
+  },
+  {
+    "id": "junit-jissen-nyumon",
+    "title": "JUnit実践入門",
+    "titleKana": "じぇいゆにっとじっせんにゅうもん",
+    "authorIds": [
+      "watanabe-shuji"
+    ],
+    "techIds": [
+      "java"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "testing"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2012,
+    "synopsis": "JUnitを使ったユニットテストを、書き方だけでなく設計との関係から体系的に説明する本。テストしやすい構造への直し方、モックの使いどころ、テストの粒度の決め方までを扱っている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784774153773",
+    "latestEditionYear": 2012,
+    "sourceNote": "書誌(技術評論社、2012年、ISBN 9784774153773)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「渡辺修司 著」による。"
+  },
+  {
+    "id": "kanban-in-action",
+    "title": "カンバン仕事術",
+    "titleKana": "かんばんしごとじゅつ",
+    "authorIds": [
+      "marcus-hammarberg"
+    ],
+    "techIds": [
+      "agile"
+    ],
+    "translatorIds": [
+      "harada-kiro",
+      "yasui-tsutomu",
+      "takagi-masahiro"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "team-process",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2014,
+    "synopsis": "仕事の流れを見えるようにして詰まりを直していくカンバンの実践書。ボードの作り方、WIP制限、指標の取り方を、架空のチームが導入していく物語と手引きの両面で説明する。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873117645",
+    "latestEditionYear": 2016,
+    "jpPublishedYear": 2016,
+    "originalTitle": "Kanban in Action",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2016年、ISBN 9784873117645)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Marcus Hammarberg, Joakim Sundén 著,原田騎郎, 安井力, 吉羽龍太郎, 角征典, 髙木正弘 訳」による。原著の初版年2014年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "okr-kihon-jissen",
+    "title": "最新目標管理フレームワークOKRの基本と実践がよ～くわかる本",
+    "titleKana": "さいしんもくひょうかんりふれーむわーくおーけーあーるのきほんとじっせんがよーくわかるほん",
+    "authorIds": [
+      "resily"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "shuwa-system",
+    "themeIds": [
+      "team-process"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2018,
+    "synopsis": "目標管理の枠組みOKRを、設定の仕方、運用の頻度、評価との切り離し方という観点で解説する本。導入時によくある失敗と、組織の規模に応じた進め方の違いにも触れている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798060958",
+    "latestEditionYear": 2020,
+    "sourceNote": "書誌(秀和システム、2020年、ISBN 9784798060958)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Resily株式会社 著」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "high-output-management",
+    "title": "HIGH OUTPUT MANAGEMENT",
+    "titleKana": "はいあうとぷっとまねじめんと",
+    "authorIds": [
+      "andrew-grove"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "kobayashi-kaoru"
+    ],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "team-process",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 1983,
+    "synopsis": "マネージャーの成果を「自分のチームと影響を与えた組織の出力」と定義し、そこから会議、意思決定、評価、育成といった仕事を捉え直す本。製造の比喩を使った説明が一貫している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784822255015",
+    "latestEditionYear": 2017,
+    "jpPublishedYear": 2017,
+    "originalTitle": "High Output Management",
+    "sourceNote": "邦訳版の書誌(日経BP社、2017年、ISBN 9784822255015)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アンドリュー・S・グローブ 著,小林薫 訳」による。原著の初版年1983年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "software-meicho-wo-yomu",
+    "title": "ソフトウェア開発の名著を読む",
+    "titleKana": "そふとうぇあかいはつのめいちょおよむ",
+    "authorIds": [
+      "shibata-yoshiki-a"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "essay-career",
+      "classic"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2006,
+    "synopsis": "ソフトウェア開発の古典的な書籍を取り上げ、何が書かれていて現在どう読むべきかを紹介する本。多くの名著への入口になると同時に、技術書の読み方そのものについても示唆がある。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784774140179",
+    "latestEditionYear": 2009,
+    "sourceNote": "書誌(技術評論社、2009年、ISBN 9784774140179)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「柴田芳樹 著」による。初版の刊行年2006年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "201-principles",
+    "title": "ソフトウェア開発201の鉄則",
+    "titleKana": "そふとうぇあかいはつにひゃくいちのてっそく",
+    "authorIds": [
+      "alan-davis"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "matsubara-tomoo"
+    ],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "team-process",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 1995,
+    "synopsis": "ソフトウェア開発の原則を201項目に整理し、要求、設計、コーディング、テスト、管理といった段階ごとに短く提示する本。根拠となる文献が添えられており、議論の出発点として使える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "latestEditionYear": 1996,
+    "jpPublishedYear": 1996,
+    "originalTitle": "201 Principles of Software Development",
+    "sourceNote": "邦訳版の書誌(日経BP社、1996年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アラン M.デービス 著,松原友夫 訳」による。原著の初版年1995年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "adrenaline-junkies",
+    "title": "アドレナリンジャンキー",
+    "titleKana": "あどれなりんじゃんきー",
+    "authorIds": [
+      "tom-demarco"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "izuhara-yumi"
+    ],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "team-process"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2008,
+    "synopsis": "プロジェクトの現場で繰り返し現れる状況を86のパターンとして名付けた本。危険な兆候も健全な兆候も同じ形式で並べており、自分たちの状態を言葉にして議論するための道具になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784822284015",
+    "latestEditionYear": 2009,
+    "jpPublishedYear": 2009,
+    "originalTitle": "Adrenaline Junkies and Template Zombies",
+    "sourceNote": "邦訳版の書誌(日経BP社、2009年、ISBN 9784822284015)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「トム・デマルコ, ピーター・フルシュカ, ティム・リスター, スティーブ・マクメナミン, ジェームズ・ロバートソン, スザンヌ・ロバートソン 著,伊豆原弓 訳」による。原著の初版年2008年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "sql-for-smarties",
+    "title": "プログラマのためのSQL",
+    "titleKana": "ぷろぐらまのためのえすきゅーえる",
+    "authorIds": [
+      "joe-celko"
+    ],
+    "techIds": [
+      "sql",
+      "relational-database"
+    ],
+    "translatorIds": [
+      "mick-tr"
+    ],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "reference",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 1995,
+    "synopsis": "SQLを集合指向の言語として使い切るための技法を網羅した本。副問い合わせ、集合演算、ウィンドウ関数、木構造の扱いなどを、標準SQLの規定と実装の差に触れながら深く掘り下げる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798128023",
+    "edition": "第4版",
+    "latestEditionYear": 2013,
+    "jpPublishedYear": 2013,
+    "originalTitle": "Joe Celko's SQL for Smarties",
+    "sourceNote": "邦訳版の書誌(翔泳社、2013年、ISBN 9784798128023)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョー・セルコ 著,ミック 監訳」による。原著の初版年1995年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "algorithmic-puzzles",
+    "title": "アルゴリズムパズル",
+    "titleKana": "あるごりずむぱずる",
+    "authorIds": [
+      "anany-levitin"
+    ],
+    "techIds": [
+      "algorithm",
+      "math"
+    ],
+    "translatorIds": [
+      "matsuzaki-kiminori"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "theory",
+      "build-to-learn"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2011,
+    "synopsis": "アルゴリズム的な考え方を鍛えるためのパズルを難易度順に集めた本。総当たり、分割統治、貪欲法、不変量といった発想の型ごとに問題が整理され、解答では計算量まで議論される。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873116693",
+    "latestEditionYear": 2014,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Algorithmic Puzzles",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2014年、ISBN 9784873116693)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Anany Levitin, Maria Levitin 著,黒川洋, 松崎公紀 訳」による。原著の初版年2011年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "hackers-delight",
+    "title": "ハッカーのたのしみ",
+    "titleKana": "はっかーのたのしみ",
+    "authorIds": [
+      "henry-warren"
+    ],
+    "techIds": [
+      "algorithm",
+      "assembly"
+    ],
+    "translatorIds": [
+      "takizawa-toru"
+    ],
+    "publisherId": "sib-access",
+    "themeIds": [
+      "theory",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2002,
+    "synopsis": "ビット演算を駆使して計算を速く行う技法を集めた本。符号の扱い、除算の置き換え、ビット数え、CRCや浮動小数点の小技まで、機械語に近い層での最適化の引き出しが並んでいる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784434201592",
+    "edition": "第2版",
+    "latestEditionYear": 2014,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Hacker's Delight",
+    "sourceNote": "邦訳版の書誌(エスアイビー・アクセス、2014年、ISBN 9784434201592)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ヘンリー・S・ウォーレン、ジュニア 著,滝沢徹, 鈴木貢, 赤池英夫, 葛毅, 藤波順久, 玉井浩 訳」による。原著の初版年2002年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "principle-of-programming",
+    "title": "プリンシプルオブプログラミング",
+    "titleKana": "ぷりんしぷるおぶぷろぐらみんぐ",
+    "authorIds": [
+      "ueda-isao"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "shuwa-system",
+    "themeIds": [
+      "readability",
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2016,
+    "synopsis": "プログラミングの原理原則101項目を、名著からの引用を軸に整理した本。KISSやDRYといった標語の背景と適用範囲を短くまとめており、若手が判断の物差しを持つための入口になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798046143",
+    "latestEditionYear": 2016,
+    "sourceNote": "書誌(秀和システム、2016年、ISBN 9784798046143)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「上田勲 著」による。"
+  },
+  {
+    "id": "clean-code",
+    "title": "Clean code",
+    "titleKana": "cleancode",
+    "authorIds": [
+      "robert-c-martin"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "hanai-shisei"
+    ],
+    "publisherId": "ascii-mw",
+    "themeIds": [
+      "readability",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2008,
+    "synopsis": "読みやすいコードとは何かを、命名、関数、コメント、書式、エラー処理といった観点から具体的なコード例で示す本。後半では実際のコードを段階的に改善していく過程が収められている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784048676885",
+    "latestEditionYear": 2009,
+    "jpPublishedYear": 2009,
+    "originalTitle": "Clean Code",
+    "sourceNote": "邦訳版の書誌(アスキー・メディアワークス、2009年、ISBN 9784048676885)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Robert C.Martin 著,花井志生 訳」による。原著の初版年2008年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "lpic-level2",
+    "title": "LPICレベル2",
+    "titleKana": "えるぴっくれべるつー",
+    "authorIds": [
+      "nakajima-yoshikazu"
+    ],
+    "techIds": [
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2004,
+    "synopsis": "Linux技術者認定試験LPICレベル2の学習書。カーネル、ファイルシステム、ネットワーク、各種サーバーの構築と運用を対象に、出題範囲の知識を実際の設定例とともに整理している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798151250",
+    "latestEditionYear": 2017,
+    "sourceNote": "書誌(翔泳社、2017年、ISBN 9784798151250)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中島能和 著,濱野賢一朗 監修」による。初版の刊行年2004年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "system-architect-mondai",
+    "title": "システムアーキテクト総仕上げ問題集",
+    "titleKana": "しすてむあーきてくとそうしあげもんだいしゅう",
+    "authorIds": [
+      "itec-hr"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "itec",
+    "themeIds": [
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2022,
+    "synopsis": "システムアーキテクト試験の総仕上げ問題集。午前の知識問題から午後の事例解析、論述までを収め、要求の整理とアーキテクチャ設計を答案としてどう表現するかを解説している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784865753318",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(アイテック、2024年、ISBN 9784865753318)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アイテックIT人材教育研究部 編著」による。初版の刊行年2022年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "it-service-manager-mondai",
+    "title": "ITサービスマネージャ総仕上げ問題集",
+    "titleKana": "あいてぃーさーびすまねーじゃそうしあげもんだいしゅう",
+    "authorIds": [
+      "itec-hr"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "itec",
+    "themeIds": [
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2022,
+    "synopsis": "ITサービスマネージャ試験の総仕上げ問題集。サービスの運用設計、インシデントと問題の管理、可用性やコストの管理といった論点を、過去問題の演習を通して確認できる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784865753325",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(アイテック、2024年、ISBN 9784865753325)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アイテックIT人材教育研究部 編著」による。初版の刊行年2022年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "system-kansa-mondai",
+    "title": "システム監査技術者総仕上げ問題集",
+    "titleKana": "しすてむかんさぎじゅつしゃそうしあげもんだいしゅう",
+    "authorIds": [
+      "itec-hr"
+    ],
+    "techIds": [
+      "it-governance"
+    ],
+    "translatorIds": [],
+    "publisherId": "itec",
+    "themeIds": [
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2021,
+    "synopsis": "システム監査技術者試験の総仕上げ問題集。監査の計画と実施、内部統制、法令やガイドラインへの適合といった範囲を、事例問題と論述の演習で仕上げる構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784865753554",
+    "latestEditionYear": 2026,
+    "sourceNote": "書誌(アイテック、2026年、ISBN 9784865753554)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アイテックIT人材教育研究部 編著」による。初版の刊行年2021年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "db-specialist-shoeisha",
+    "title": "データベーススペシャリスト",
+    "titleKana": "でーたべーすすぺしゃりすと",
+    "authorIds": [
+      "miyoshi-yasuyuki"
+    ],
+    "techIds": [
+      "relational-database",
+      "sql"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2008,
+    "synopsis": "データベーススペシャリスト試験の対策書。概念データモデルの作成、正規化、SQLの読み書き、性能設計といった午後試験の中心となる技術を、解法の手順とともに解説している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798196251",
+    "latestEditionYear": 2026,
+    "sourceNote": "書誌(翔泳社、2026年、ISBN 9784798196251)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ITのプロ46, 三好康之 著」による。初版の刊行年2008年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "network-specialist-mondai",
+    "title": "ネットワークスペシャリスト総仕上げ問題集",
+    "titleKana": "ねっとわーくすぺしゃりすとそうしあげもんだいしゅう",
+    "authorIds": [
+      "itec-hr"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "itec",
+    "themeIds": [
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2022,
+    "synopsis": "ネットワークスペシャリスト試験の総仕上げ問題集。ルーティングやスイッチング、VPN、負荷分散、セキュリティといった出題範囲を、事例問題を解きながら確認できるようにまとめている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784865753295",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(アイテック、2024年、ISBN 9784865753295)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アイテックIT人材教育研究部 編著」による。初版の刊行年2022年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "agile-conversations",
+    "title": "組織を変える5つの対話",
+    "titleKana": "そしきおかえるいつつのたいわ",
+    "authorIds": [
+      "douglas-squirrel"
+    ],
+    "techIds": [
+      "agile"
+    ],
+    "translatorIds": [
+      "miyazawa-asuka",
+      "wachi-yuke"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "team-process"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2020,
+    "synopsis": "組織の文化は日々の会話の積み重ねで決まるという前提に立ち、信頼・不安・なぜ・コミットメント・説明責任という五つの対話を扱う本。会話の記録を分析して改善する方法を示している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814400645",
+    "latestEditionYear": 2024,
+    "jpPublishedYear": 2024,
+    "originalTitle": "Agile Conversations",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2024年、ISBN 9784814400645)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Douglas Squirrel, Jeffrey Fredrick 著,宮澤明日香, 中西健人, 和智右桂 訳」による。原著の初版年2020年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "art-of-leadership",
+    "title": "リーダーの作法",
+    "titleKana": "りーだーのさほう",
+    "authorIds": [
+      "michael-lopp"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "wachi-yuke"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "team-process",
+      "essay-career"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2020,
+    "synopsis": "技術組織のリーダーが日々行う小さな振る舞いに注目した本。名前を覚える、話を最後まで聞く、約束を守るといった行動が信頼を作るという立場から、規模ごとの課題を語っている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873119892",
+    "latestEditionYear": 2022,
+    "jpPublishedYear": 2022,
+    "originalTitle": "The Art of Leadership",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2022年、ISBN 9784873119892)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Michael Lopp 著,和智右桂 訳」による。原著の初版年2020年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "testing-web-apis",
+    "title": "Web APIテスト技法",
+    "titleKana": "うぇぶえーぴーあいてすとぎほう",
+    "authorIds": [
+      "mark-winteringham"
+    ],
+    "techIds": [
+      "api-design",
+      "web"
+    ],
+    "translatorIds": [
+      "nagao-takahiro"
+    ],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "testing"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2022,
+    "synopsis": "Web APIのテストを、単体から契約テスト、性能、セキュリティまで層に分けて設計する方法を扱う本。何をどこで確かめるかという戦略と、自動化の道具立てを結び付けて説明している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798179728",
+    "latestEditionYear": 2023,
+    "jpPublishedYear": 2023,
+    "originalTitle": "Testing Web APIs",
+    "sourceNote": "邦訳版の書誌(翔泳社、2023年、ISBN 9784798179728)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Mark Winteringham 著,長尾高弘 訳」による。原著の初版年2022年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "api-design-patterns",
+    "title": "APIデザイン・パターン",
+    "titleKana": "えーぴーあいでざいんぱたーん",
+    "authorIds": [
+      "jj-geewax"
+    ],
+    "techIds": [
+      "api-design",
+      "web"
+    ],
+    "translatorIds": [
+      "matsuda-koichi"
+    ],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "design-architecture"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2021,
+    "synopsis": "Web APIの設計を、命名や識別子の付け方といった基本から、一覧取得、部分更新、長時間処理、バッチ、バージョン管理までパターンとして整理した本。判断の理由が丁寧に述べられている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784839979393",
+    "latestEditionYear": 2022,
+    "jpPublishedYear": 2022,
+    "originalTitle": "API Design Patterns",
+    "sourceNote": "邦訳版の書誌(マイナビ出版、2022年、ISBN 9784839979393)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「JJ Geewax 著,松田晃一 訳」による。原著の初版年2021年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "designing-distributed-systems",
+    "title": "分散システムデザインパターン",
+    "titleKana": "ぶんさんしすてむでざいんぱたーん",
+    "authorIds": [
+      "brendan-burns"
+    ],
+    "techIds": [
+      "distributed-systems",
+      "kubernetes",
+      "docker"
+    ],
+    "translatorIds": [
+      "matsuura-hayato"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "design-architecture"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "分散システムをコンテナの組み合わせとして設計するためのパターン集。サイドカーやアダプタといった単一ノードのパターンから、複製、シャーディング、バッチ処理までを扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873118758",
+    "latestEditionYear": 2019,
+    "jpPublishedYear": 2019,
+    "originalTitle": "Designing Distributed Systems",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2019年、ISBN 9784873118758)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Brendan Burns 著,松浦隼人 訳」による。原著の初版年2018年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "feature-engineering-for-ml",
+    "title": "機械学習のための特徴量エンジニアリング",
+    "titleKana": "きかいがくしゅうのためのとくちょうりょうえんじにありんぐ",
+    "authorIds": [
+      "alice-zheng"
+    ],
+    "techIds": [
+      "machine-learning",
+      "python"
+    ],
+    "translatorIds": [
+      "hoxo-m"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "theory",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "モデルに入力する特徴量をどう作るかを主題にした本。数値の変換、カテゴリ変数の符号化、テキストや画像の表現、次元削減までを、なぜその処理が効くのかという説明とともに扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873118680",
+    "latestEditionYear": 2019,
+    "jpPublishedYear": 2019,
+    "originalTitle": "Feature Engineering for Machine Learning",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2019年、ISBN 9784873118680)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Alice Zheng, Amanda Casari 著,ホクソエム 訳」による。原著の初版年2018年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "kikai-gakushu-zukan",
+    "title": "機械学習図鑑",
+    "titleKana": "きかいがくしゅうずかん",
+    "authorIds": [
+      "akiba-shinya",
+      "terada-manabu"
+    ],
+    "techIds": [
+      "machine-learning",
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2019,
+    "synopsis": "機械学習の代表的なアルゴリズムを、図と短いコードで一つずつ紹介する本。手法ごとに向いている場面と結果の見方が示されており、全体像を掴んでから深く学ぶための地図になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798155654",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(翔泳社、2019年、ISBN 9784798155654)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「加藤公一 監修,秋庭伸也, 杉山阿聖, 寺田学 共著」による。"
+  },
+  {
+    "id": "yasashiku-manabu-ml-math",
+    "title": "やさしく学ぶ機械学習を理解するための数学のきほん",
+    "titleKana": "やさしくまなぶきかいがくしゅうおりかいするためのすうがくのきほん",
+    "authorIds": [
+      "tateishi-kengo"
+    ],
+    "techIds": [
+      "machine-learning",
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2017,
+    "synopsis": "機械学習を理解するのに必要な数学を、会話形式で必要な分だけ学ぶ入門書。回帰と分類を題材に、微分やベクトルがどう使われるのかを式の意味から説明し、Pythonでの実装まで進む。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784839963521",
+    "latestEditionYear": 2017,
+    "sourceNote": "書誌(マイナビ出版、2017年、ISBN 9784839963521)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「立石賢吾 著」による。"
+  },
+  {
+    "id": "deep-learning-katsuyo",
+    "title": "ディープラーニング活用の教科書",
+    "titleKana": "でぃーぷらーにんぐかつようのきょうかしょ",
+    "authorIds": [
+      "nikkei-xtrend"
+    ],
+    "techIds": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "essay-career",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2018,
+    "synopsis": "深層学習を実際の事業に取り入れた企業の事例を集めた本。技術の詳細よりも、どの課題に適用し、どんな体制で進め、何が壁になったのかという導入の実務に焦点が当てられている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296104543",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(日経BP、2019年、ISBN 9784296104543)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「日経クロストレンド 編,日本ディープラーニング協会 監修」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "ai-wa-ningen-wo-koeruka",
+    "title": "人工知能は人間を超えるか",
+    "titleKana": "じんこうちのうわにんげんおこえるか",
+    "authorIds": [
+      "matsuo-yutaka"
+    ],
+    "techIds": [
+      "machine-learning",
+      "deep-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "essay-career",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2015,
+    "synopsis": "人工知能研究の歴史を三度のブームとして整理し、深層学習が何を突破したのかを一般読者に向けて説明する本。技術の限界と社会への影響についても、研究者の立場から見通しを述べている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784040800202",
+    "latestEditionYear": 2015,
+    "sourceNote": "書誌(KADOKAWA、2015年、ISBN 9784040800202)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松尾豊 [著]」による。"
   }
 ]

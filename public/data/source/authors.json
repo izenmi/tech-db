@@ -8336,5 +8336,196 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "watanabe-shuji",
+    "name": "渡辺修司",
+    "nameKana": "わたなべしゅうじ",
+    "description": "日本のソフトウェアエンジニア。Javaのユニットテスト実践に関する解説を執筆した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "watahiki-takuma",
+    "name": "綿引琢磨",
+    "nameKana": "わたひきたくま",
+    "description": "日本のソフトウェアエンジニア。ビルドツールやドメイン駆動設計に関する執筆・翻訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "marcus-hammarberg",
+    "name": "マーカス・ハマーバーグ",
+    "nameKana": "まーかすはまーばーぐ",
+    "description": "スウェーデンのアジャイルコーチ。カンバンによる業務の可視化を実践的にまとめた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "resily",
+    "name": "Resily",
+    "nameKana": "りしりー",
+    "description": "目標管理の支援ツールを提供する日本の企業。OKRの導入事例をまとめている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "andrew-grove",
+    "name": "アンドリュー・S・グローブ",
+    "nameKana": "あんどりゅーえすぐろーぶ",
+    "description": "ハンガリー出身の経営者。インテルの最高経営責任者を務め、経営手法を体系化した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1936
+  },
+  {
+    "id": "shibata-yoshiki-a",
+    "name": "柴田芳樹",
+    "nameKana": "しばたよしき",
+    "description": "日本のソフトウェアエンジニア。技術書の翻訳と後進の育成に長く携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "alan-davis",
+    "name": "アラン・M・デービス",
+    "nameKana": "あらんえむでーびす",
+    "description": "アメリカのソフトウェア工学者。要求工学と開発原則に関する著作で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "anany-levitin",
+    "name": "アナニー・レビティン",
+    "nameKana": "あなにーれびてぃん",
+    "description": "アメリカの計算機科学者。アルゴリズム設計の教科書とパズル集を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "henry-warren",
+    "name": "ヘンリー・S・ウォーレン",
+    "nameKana": "へんりーえすうぉーれん",
+    "description": "アメリカの技術者。IBMでコンパイラと計算機構成に携わり、ビット演算の技法を集めた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ueda-isao",
+    "name": "上田勲",
+    "nameKana": "うえだいさお",
+    "description": "日本のソフトウェアエンジニア。プログラミングの原理原則を整理した著作がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "miyoshi-yasuyuki",
+    "name": "三好康之",
+    "nameKana": "みよしやすゆき",
+    "description": "日本の技術コンサルタント。情報処理技術者試験の指導と対策書の執筆に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "douglas-squirrel",
+    "name": "ダグラス・スクワイヤー",
+    "nameKana": "だぐらすすくわいやー",
+    "description": "アメリカの技術コンサルタント。組織における対話の質と成果の関係を論じている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "michael-lopp",
+    "name": "マイケル・ロップ",
+    "nameKana": "まいけるろっぷ",
+    "description": "アメリカのエンジニアリングマネージャー。Rands in Reposeの筆名で組織論を発信している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mark-winteringham",
+    "name": "マーク・ウィンターリンガム",
+    "nameKana": "まーくうぃんたーりんがむ",
+    "description": "イギリスのテストエンジニア。Web APIのテスト戦略を扱う著作がある。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jj-geewax",
+    "name": "JJ・ギーワックス",
+    "nameKana": "じぇいじぇいぎーわっくす",
+    "description": "アメリカのソフトウェアエンジニア。GoogleでAPI設計の指針づくりに携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "brendan-burns",
+    "name": "ブレンダン・バーンズ",
+    "nameKana": "ぶれんだんばーんず",
+    "description": "アメリカの技術者。Kubernetesの共同開発者で、分散システムの設計を論じている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "alice-zheng",
+    "name": "アリス・ジェン",
+    "nameKana": "ありすじぇん",
+    "description": "アメリカの機械学習研究者。特徴量設計の実践的な解説で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "akiba-shinya",
+    "name": "秋庭伸也",
+    "nameKana": "あきばしんや",
+    "description": "日本のデータサイエンティスト。機械学習アルゴリズムの図解に取り組んでいる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tateishi-kengo",
+    "name": "立石賢吾",
+    "nameKana": "たていしけんご",
+    "description": "日本のエンジニア。機械学習に必要な数学をやさしく解説する入門書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nikkei-xtrend",
+    "name": "日経クロストレンド",
+    "nameKana": "にっけいくろすとれんど",
+    "description": "日経BPが発行するビジネス・技術動向のメディア。特集を書籍化している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsuo-yutaka",
+    "name": "松尾豊",
+    "nameKana": "まつおゆたか",
+    "description": "日本の人工知能研究者。東京大学教授で、深層学習の社会実装と人材育成を牽引している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06",
+    "birthYear": 1975
   }
 ]
