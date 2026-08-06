@@ -2248,5 +2248,50 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fukuzaki-toshihiro",
+    "name": "福崎俊博",
+    "nameKana": "ふくざきとしひろ",
+    "description": "日本の翻訳者。UNIX系ツールの解説書を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sakakibara-kazuya",
+    "name": "榊原一矢",
+    "nameKana": "さかきばらかずや",
+    "description": "日本の技術者。関数型言語や並行処理の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ando-yasushi",
+    "name": "あんどうやすし",
+    "nameKana": "あんどうやすし",
+    "description": "日本のエンジニア・翻訳者。Web技術やグラフィックス関連書を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamazaki-kuniko",
+    "name": "山崎邦子",
+    "nameKana": "やまざきくにこ",
+    "description": "日本の翻訳者。データ分析と統計分野の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kawai-shiro-a",
+    "name": "川合史朗",
+    "nameKana": "かわいしろう",
+    "description": "日本のプログラマ。Scheme処理系Gaucheの作者で、翻訳・監修も手がける。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

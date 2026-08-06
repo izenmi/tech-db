@@ -569,5 +569,15 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1927
+  },
+  {
+    "id": "nihon-kajo",
+    "name": "日本加除出版",
+    "nameKana": "にほんかじょしゅっぱん",
+    "description": "法律・実務書を専門に刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1953
   }
 ]
