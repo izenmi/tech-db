@@ -144,7 +144,7 @@ mystery-dbの構成をそのまま移植している。
 - `scripts/prerender.mjs`(npm `postbuild`): Playwrightで全ルートをクロールし`dist/<route>/index.html`を書き出し、最後に`dist/index.html`を`dist/404.html`にコピー
 - `public/sitemap.xml`は`generate-manifest.mjs`の末尾で生成(`.gitignore`対象)
 - **静的ルートを追加したら4箇所に追記が必要**: `src/App.tsx` / `src/ui/common/TopNav.tsx` / `scripts/prerender.mjs`の`routes` / `scripts/generate-manifest.mjs`の`sitemapEntries`
-- **Google Analyticsは未設定**。姉妹サイトはそれぞれ固有のGA4プロパティを持ち測定IDの使い回しは禁止なので、tech-db用のプロパティを作成してから`index.html`にgtagスニペットを置くこと(該当箇所にコメントを残してある)
+- Google Analytics: `index.html`にGA4のgtagスニペットを直書きしている(測定ID `G-FKN7MFW3HQ`)。**姉妹サイトはそれぞれ固有のプロパティを持つ**(ranobe-db `G-2NR0M8VN1N` / manga-db `G-01FCSJVHQX` / mystery-db `G-JM8SW0R904` / game-db `G-V6407CNZ8Y`)ので、サイト間でIDを流用しないこと
 
 ## 5サイト横断検索 `/search`
 
@@ -165,7 +165,6 @@ mystery-dbの構成をそのまま移植している。
 
 ## 既知の未着手事項
 
-- **Google Analytics未設定**(上記)
 - **GitHub PagesのSettings→Pages→Source を GitHub Actions にする操作**はユーザー自身のGitHub操作が必要
 - **Google Search Consoleへのsitemap登録**は未実施(任意)
 - **フレームワーク(`framework`)とツール(`tool`)カテゴリの技術スタックが0件**。React・Django・Rails・Git・Docker等を扱う本を追加すれば埋まる

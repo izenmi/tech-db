@@ -36,8 +36,16 @@
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;800&family=M+PLUS+Rounded+1c:wght@700;800&display=swap"
       rel="stylesheet"
     />
-    <!-- Google Analytics: 姉妹サイトはサイトごとに固有の GA4 プロパティを持ち、測定IDの使い回しは禁止。
-         技術書DB 用のプロパティを作成して測定IDが決まり次第、姉妹サイトと同じ gtag スニペットをここに置く。 -->
+    <!-- Google tag (gtag.js). 測定IDはサイトごとに固有 — 姉妹サイトのIDを流用しないこと
+         (ranobe-db G-2NR0M8VN1N / manga-db G-01FCSJVHQX / mystery-db G-JM8SW0R904 / game-db G-V6407CNZ8Y)。 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FKN7MFW3HQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-FKN7MFW3HQ');
+    </script>
   </head>
   <body>
     <div id="root"></div>
