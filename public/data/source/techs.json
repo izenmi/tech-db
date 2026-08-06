@@ -1086,5 +1086,25 @@
     "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
     "updatedAt": "2026-08-06",
     "releasedYear": 2011
+  },
+  {
+    "id": "assembly",
+    "name": "アセンブリ言語",
+    "nameKana": "あせんぶりげんご",
+    "category": "language",
+    "description": "機械語の命令に一対一で対応する低水準言語。CPUの動作を直接記述するため、アーキテクチャごとに書き方が異なる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "it-governance",
+    "name": "IT契約・ガバナンス",
+    "nameKana": "あいてぃーけいやくがばなんす",
+    "category": "concept",
+    "description": "システムの調達・委託・法令順守にまつわる領域。契約形態や責任分界、個人情報保護や監査への対応を扱う。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

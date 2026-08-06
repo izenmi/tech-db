@@ -11050,5 +11050,352 @@
     "jpPublishedYear": 2016,
     "originalTitle": "Python for Probability, Statistics, and Machine Learning",
     "sourceNote": "邦訳版の書誌(エヌ・ティー・エス、2016年、ISBN 9784860434717)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「José Unpingco 著,石井一夫, 加藤公一, 小川史恵 訳」による。原著の初版年2016年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "it-keiyaku-jitsumu-2",
+    "title": "システム開発を成功させるIT契約の実務",
+    "titleKana": "しすてむかいはつおせいこうさせるあいてぃーけいやくのじつむ",
+    "authorIds": [
+      "ntt-data"
+    ],
+    "techIds": [
+      "it-governance"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokeizai",
+    "themeIds": [
+      "reference",
+      "team-process"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2013,
+    "synopsis": "システム開発の契約実務を、開発工程に沿って解説した本。請負と準委任の使い分け、要件が固まらない段階の進め方、追加変更の扱い、検収と瑕疵の責任、そして紛争になった事例までを扱う。技術者が知らずに踏む地雷を減らしてくれる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784502382116",
+    "edition": "第2版",
+    "latestEditionYear": 2021,
+    "sourceNote": "書誌(中央経済社、2021年、ISBN 9784502382116)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「NTTデータ 編」による。初版の刊行年2013年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "vendor-erabi-shippai",
+    "title": "御社のシステム発注は、なぜ「ベンダー選び」で失敗するのか",
+    "titleKana": "おんしゃのしすてむはっちゅうわなぜべんだーえらびでしっぱいするのか",
+    "authorIds": [
+      "tamura-shohei"
+    ],
+    "techIds": [
+      "it-governance"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "team-process",
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2022,
+    "synopsis": "システムの発注側が陥りやすい失敗を、実際の案件をもとに整理した本。要件の伝え方、見積りの読み方、ベンダーの選定基準、そして開発中の関わり方を、発注者に何ができるかという観点で示す。受注側が読んでも視点の補正になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297128166",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(技術評論社、2022年、ISBN 9784297128166)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「田村昇平 著」による。初版の刊行年2003年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "vendor-management-gokui",
+    "title": "ベンダー・マネジメントの極意",
+    "titleKana": "べんだーまねじめんとのごくい",
+    "authorIds": [
+      "nagao-seiichi"
+    ],
+    "techIds": [
+      "it-governance"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "team-process",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2009,
+    "synopsis": "外部委託先を管理してプロジェクトを完遂させるための実務書。委託範囲の切り方、契約と体制の設計、進捗と品質の把握、そして問題が起きたときの是正の進め方を扱う。自社だけで完結しない開発の現実を前提にした内容になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784822262358",
+    "latestEditionYear": 2009,
+    "sourceNote": "書誌(日経BP社、2009年、ISBN 9784822262358)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「長尾清一 著,日経コンピュータ 編」による。"
+  },
+  {
+    "id": "software-first",
+    "title": "ソフトウェアファースト",
+    "titleKana": "そふとうぇあふぁーすと",
+    "authorIds": [
+      "oikawa-takuya"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "essay-career",
+      "team-process"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2019,
+    "synopsis": "事業会社がソフトウェアを内製し、それを競争力の源にするという主張の本。外部委託中心の体制がなぜ限界を迎えるのか、技術者をどう採用し評価するのか、プロダクト志向の組織をどう作るのかを、国内外の事例とともに論じる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296002115",
+    "edition": "新装版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(日経BP、2024年、ISBN 9784296002115)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「及川卓也 著」による。初版の刊行年2019年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "china-cybersecurity-law",
+    "title": "ITビジネスの現場で役立つ中国サイバーセキュリティ法&個人情報保護法実践対策ガイド",
+    "titleKana": "あいてぃーびじねすのげんばでやくだつちゅうごくさいばーせきゅりてぃほうあんどこじんじょうほうほごほうじっせんたいさくがいど",
+    "authorIds": [
+      "terakawa-takaya"
+    ],
+    "techIds": [
+      "it-governance",
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2022,
+    "synopsis": "中国のサイバーセキュリティ法と個人情報保護法について、日本企業が実務で取るべき対応をまとめた本。データの越境移転、安全評価、現地でのシステム運用といった論点を、条文と実務の両面から解説する。中国向けにサービスを出す際の指針になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798173733",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(翔泳社、2022年、ISBN 9784798173733)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「寺川貴也 著」による。初版の刊行年2001年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "isms-27001-jissen",
+    "title": "ISO/IEC 27001情報セキュリティマネジメントシステム〈ISMS〉構築・運用の実践",
+    "titleKana": "いそあいいーしーにまんななせんいちじょうほうせきゅりてぃまねじめんとしすてむあいえすえむえすこうちくうんようのじっせん",
+    "authorIds": [
+      "haneda-takuro"
+    ],
+    "techIds": [
+      "security",
+      "it-governance"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkagiren",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2024,
+    "synopsis": "情報セキュリティマネジメントシステムの国際規格ISO/IEC 27001に沿って、仕組みを構築し運用するための実務書。適用範囲の決定、リスクアセスメント、管理策の選択、内部監査とマネジメントレビューまでを、審査を見据えて解説する。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784817197849",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(日科技連出版社、2024年、ISBN 9784817197849)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「羽田卓郎 著」による。初版の刊行年2003年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "digital-forensics-kiso",
+    "title": "基礎から学ぶデジタル・フォレンジック",
+    "titleKana": "きそからまなぶでじたるふぉれんじっく",
+    "authorIds": [
+      "yasutomi-kiyoshi",
+      "uehara-tetsutaro"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkagiren",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "デジタル・フォレンジックの考え方と手順を、技術と法務の両面から解説した本。証拠の保全と真正性の確保、ディスクやメモリの解析、ログの追跡といった技術面に加え、証拠として認められるための要件や社内対応の体制にも触れる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784817196682",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(日科技連出版社、2019年、ISBN 9784817196682)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「安冨潔, 上原哲太郎 編著,デジタル・フォレンジック研究会 著」による。初版の刊行年2008年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "jissen-web-pentest",
+    "title": "実践Webペネトレーションテスト",
+    "titleKana": "じっせんうぇぶぺねとれーしょんてすと",
+    "authorIds": [
+      "nishitani-kanta",
+      "yamazaki-keitaro",
+      "watanabe-yutaka"
+    ],
+    "techIds": [
+      "security",
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2025,
+    "synopsis": "Webアプリケーションの侵入テストを、攻撃者の手順に沿って解説した本。偵察から認証の回避、入力値を悪用した攻撃、権限昇格、そして報告書の書き方までを、演習環境で実際に試しながら進める。防御側が何を確かめるべきかも見えてくる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814401253",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(オライリー・ジャパン、2025年、ISBN 9784814401253)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西谷完太, 山崎啓太郎, 渡部裕 著」による。初版の刊行年2006年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "ceh-white-hacker-mondaishu",
+    "title": "CEH認定ホワイトハッカー問題集",
+    "titleKana": "しーいーえいちにんていほわいとはっかーもんだいしゅう",
+    "authorIds": [
+      "shiroma-akihiro"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2020,
+    "synopsis": "認定ホワイトハッカー資格CEHに対応した問題集。偵察、スキャン、システムへの侵入、マルウェア、盗聴、Webアプリケーションへの攻撃、無線とクラウドといった出題範囲を、問題と解説の形で押さえる。攻撃手法の網羅的な確認にも使える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295024767",
+    "edition": "改訂版",
+    "latestEditionYear": 2026,
+    "sourceNote": "書誌(インプレス、2026年、ISBN 9784295024767)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「城間暁洋 [ほか] 著,ソキウス・ジャパン 編」による。初版の刊行年2020年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "stepup-zeijakusei-shindan",
+    "title": "ステップアップ脆弱性診断",
+    "titleKana": "すてっぷあっぷぜいじゃくせいしんだん",
+    "authorIds": [
+      "matsumoto-takanori"
+    ],
+    "techIds": [
+      "security",
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress-np",
+    "themeIds": [
+      "practice",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2023,
+    "synopsis": "脆弱性診断を初級から中級へ引き上げることを狙った本。診断ツールの特性を比較しながら、自動診断で取りこぼす箇所をどう手動で補うか、検出結果をどう評価して報告するかを扱う。ツールを動かすだけの段階から先へ進める。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295601463",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(インプレスNextPublishing、2023年、ISBN 9784295601463)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松本隆則 著」による。初版の刊行年2001年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "nyumon-security-contest",
+    "title": "入門セキュリティコンテスト",
+    "titleKana": "にゅうもんせきゅりてぃこんてすと",
+    "authorIds": [
+      "nakajima-asuka"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2022,
+    "synopsis": "CTFの問題を解きながらセキュリティの実戦技術を学ぶ入門書。Web、暗号、リバースエンジニアリング、pwn(脆弱性攻撃)、フォレンジックといった分野ごとに、必要な知識と道具を示して実際に手を動かす。攻撃側の視点を得るための入り口になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297131807",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(技術評論社、2022年、ISBN 9784297131807)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「中島明日香 著」による。初版の刊行年2015年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "assembly-start-book",
+    "title": "アセンブリ言語スタートブック",
+    "titleKana": "あせんぶりげんごすたーとぶっく",
+    "authorIds": [
+      "takada-miki"
+    ],
+    "techIds": [
+      "assembly",
+      "computer-architecture"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2009,
+    "synopsis": "情報処理技術者試験で使われる仮想機械CASL 2とCOMET 2を題材に、アセンブリ言語を基礎から学ぶ入門書。レジスタとメモリ、命令の実行、分岐とサブルーチンといった概念を、実行の様子を追いながら理解できるようにしている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784774138428",
+    "latestEditionYear": 2009,
+    "sourceNote": "書誌(技術評論社、2009年、ISBN 9784774138428)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「高田美樹 著」による。初版の刊行年1960年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "shannon-joho-riron-nyumon",
+    "title": "シャノンの情報理論入門",
+    "titleKana": "しゃのんのじょうほうりろんにゅうもん",
+    "authorIds": [
+      "takaoka-eiko"
+    ],
+    "techIds": [
+      "math",
+      "computation-theory"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "theory",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2012,
+    "synopsis": "シャノンが確立した情報理論を、一般向けに解説した入門書。情報量とエントロピー、通信路の容量、データ圧縮、誤り訂正符号といった主題を、身近な例と最小限の数式で説明する。通信や符号化の背後にある考え方を掴める。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784062577953",
+    "latestEditionYear": 2012,
+    "sourceNote": "書誌(講談社、2012年、ISBN 9784062577953)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「高岡詠子 著」による。初版の刊行年1955年は同APIで同書名の全版を引いて確認。"
   }
 ]

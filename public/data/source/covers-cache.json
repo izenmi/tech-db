@@ -163,6 +163,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T12:42:04.524Z"
   },
+  "assembly-start-book": {
+    "title": "アセンブリ言語スタートブック",
+    "isbn": null,
+    "matchedTitle": "アセンブリ言語スタートブック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4915/2000003394915.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T13:37:40.567Z"
+  },
   "astro-kaihatsu-kyokasho": {
     "title": "Astroフロントエンド開発の教科書",
     "isbn": "9784297150082",
@@ -322,6 +330,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4642/9784798064642_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:08:47.285Z"
+  },
+  "ceh-white-hacker-mondaishu": {
+    "title": "CEH認定ホワイトハッカー問題集",
+    "isbn": "9784295024767",
+    "matchedTitle": "徹底攻略CEH 認定ホワイトハッカー問題集",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4767/9784295024767_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:30.081Z"
+  },
+  "china-cybersecurity-law": {
+    "title": "ITビジネスの現場で役立つ中国サイバーセキュリティ法&個人情報保護法実践対策ガイド",
+    "isbn": "9784798173733",
+    "matchedTitle": "ITビジネスの現場で役立つ 中国サイバーセキュリティ法＆個人情報保護法 実践対策ガイド［2022-2023年版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3733/9784798173733_1_61.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:25.455Z"
   },
   "chishiki-zero-software-test-4": {
     "title": "知識ゼロから学ぶソフトウェアテスト",
@@ -578,6 +602,14 @@
     "coverUrl": "https://c.bookwalker.jp/6798072/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-06T12:47:26.670Z"
+  },
+  "digital-forensics-kiso": {
+    "title": "基礎から学ぶデジタル・フォレンジック",
+    "isbn": "9784817196682",
+    "matchedTitle": "基礎から学ぶデジタル・フォレンジック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6682/9784817196682.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:27.754Z"
   },
   "directx12-madousho": {
     "title": "DirectX 12の魔導書",
@@ -1175,6 +1207,22 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:18:54.606Z"
   },
+  "isms-27001-jissen": {
+    "title": "ISO/IEC 27001情報セキュリティマネジメントシステム〈ISMS〉構築・運用の実践",
+    "isbn": "9784817197849",
+    "matchedTitle": "ISO/IEC 27001情報セキュリティマネジメントシステム（ISMS）構築・運用の実践【第2版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7849/9784817197849_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:26.603Z"
+  },
+  "it-keiyaku-jitsumu-2": {
+    "title": "システム開発を成功させるIT契約の実務",
+    "isbn": "9784502382116",
+    "matchedTitle": "システム開発を成功させるIT契約の実務",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2116/9784502382116.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:03.660Z"
+  },
   "java-concurrency-in-practice": {
     "title": "Java並行処理プログラミング",
     "isbn": null,
@@ -1276,6 +1324,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0821/2000007730821.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T12:25:18.573Z"
+  },
+  "jissen-web-pentest": {
+    "title": "実践Webペネトレーションテスト",
+    "isbn": "9784814401253",
+    "matchedTitle": "実践 Webペネトレーションテスト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1253/9784814401253_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:28.934Z"
   },
   "jissenteki-data-kiban-shohosen": {
     "title": "実践的データ基盤への処方箋",
@@ -1836,6 +1892,14 @@
     "coverUrl": "https://www.oreilly.co.jp/books/images/picture_large978-4-8144-0069-0.jpeg",
     "source": "oreilly-japan",
     "resolvedAt": "2026-08-06T12:25:07.060Z"
+  },
+  "nyumon-security-contest": {
+    "title": "入門セキュリティコンテスト",
+    "isbn": "9784297131807",
+    "matchedTitle": "入門セキュリティコンテストーーCTFを解きながら学ぶ実戦技術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1807/9784297131807.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:35.976Z"
   },
   "oauth-tettei-nyumon": {
     "title": "OAuth徹底入門",
@@ -2463,6 +2527,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:52:01.514Z"
   },
+  "shannon-joho-riron-nyumon": {
+    "title": "シャノンの情報理論入門",
+    "isbn": "9784062577953",
+    "matchedTitle": "シャノンの情報理論入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7953/9784062577953.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:41.711Z"
+  },
   "shell-programming-jitsuyo": {
     "title": "シェルプログラミング実用テクニック",
     "isbn": "9784774173443",
@@ -2579,6 +2651,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:41:17.268Z"
   },
+  "software-first": {
+    "title": "ソフトウェアファースト",
+    "isbn": "9784296002115",
+    "matchedTitle": "ソフトウェアファースト第2版　あらゆるビジネスを一変させる最強戦略",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2115/9784296002115.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:24.312Z"
+  },
   "software-test-293": {
     "title": "ソフトウェアテスト293の鉄則",
     "isbn": null,
@@ -2634,6 +2714,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7911/9784873117911.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:25:20.846Z"
+  },
+  "stepup-zeijakusei-shindan": {
+    "title": "ステップアップ脆弱性診断",
+    "isbn": null,
+    "matchedTitle": "ステップアップ脆弱性診断",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0940/2000012850940.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T13:37:34.828Z"
   },
   "streamlit-nyumon": {
     "title": "作ってわかる〈入門〉Streamlit",
@@ -2830,6 +2918,20 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7324/9784873117324.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:41:26.575Z"
+  },
+  "vendor-erabi-shippai": {
+    "title": "御社のシステム発注は、なぜ「ベンダー選び」で失敗するのか",
+    "isbn": "9784297128166",
+    "matchedTitle": "御社のシステム発注は、なぜ「ベンダー選び」で失敗するのか",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8166/9784297128166_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:37:04.812Z"
+  },
+  "vendor-management-gokui": {
+    "title": "ベンダー・マネジメントの極意",
+    "isbn": "9784822262358",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T13:37:23.128Z"
   },
   "vim-script-technique-bible": {
     "title": "Vim scriptテクニックバイブル",

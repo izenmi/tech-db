@@ -502,5 +502,15 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1950
+  },
+  {
+    "id": "chuokeizai",
+    "name": "中央経済社",
+    "nameKana": "ちゅうおうけいざいしゃ",
+    "description": "日本の出版社。会計・法務・経営分野の専門書を刊行しており、IT契約の実務書も扱う。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1948
   }
 ]

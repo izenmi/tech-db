@@ -5155,5 +5155,131 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tamura-shohei",
+    "name": "田村昇平",
+    "nameKana": "たむらしょうへい",
+    "description": "日本のITコンサルタント。システム開発の発注側支援とプロジェクト管理に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nagao-seiichi",
+    "name": "長尾清一",
+    "nameKana": "ながおせいいち",
+    "description": "日本のコンサルタント。プロジェクトマネジメントと外部委託先の管理を専門としている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "terakawa-takaya",
+    "name": "寺川貴也",
+    "nameKana": "てらかわたかや",
+    "description": "日本の法務専門家。中国の情報関連法規と日本企業の対応実務に詳しい。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "haneda-takuro",
+    "name": "羽田卓郎",
+    "nameKana": "はねだたくろう",
+    "description": "日本の情報セキュリティ実務家。ISMSの構築と審査に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yasutomi-kiyoshi",
+    "name": "安冨潔",
+    "nameKana": "やすとみきよし",
+    "description": "日本の法学者。慶應義塾大学名誉教授で、刑事訴訟法とデジタル証拠を研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "uehara-tetsutaro",
+    "name": "上原哲太郎",
+    "nameKana": "うえはらてつたろう",
+    "description": "日本の研究者。立命館大学教授で、デジタルフォレンジックと情報セキュリティを専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nishitani-kanta",
+    "name": "西谷完太",
+    "nameKana": "にしたにかんた",
+    "description": "日本のセキュリティエンジニア。Webアプリケーションの侵入テストに携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamazaki-keitaro",
+    "name": "山崎啓太郎",
+    "nameKana": "やまざきけいたろう",
+    "description": "日本のセキュリティエンジニア。ペネトレーションテストの実務に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "watanabe-yutaka",
+    "name": "渡部裕",
+    "nameKana": "わたなべゆたか",
+    "description": "日本のセキュリティエンジニア。『実践Webペネトレーションテスト』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shiroma-akihiro",
+    "name": "城間暁洋",
+    "nameKana": "しろまあきひろ",
+    "description": "日本のセキュリティ技術者。ホワイトハッカー資格の教材制作に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsumoto-takanori",
+    "name": "松本隆則",
+    "nameKana": "まつもとたかのり",
+    "description": "日本のセキュリティエンジニア。脆弱性診断の実務と教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakajima-asuka",
+    "name": "中島明日香",
+    "nameKana": "なかじまあすか",
+    "description": "日本のセキュリティ研究者。脆弱性の発見手法を専門とし、CTFの解説書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takada-miki",
+    "name": "高田美樹",
+    "nameKana": "たかだみき",
+    "description": "日本の技術者・著述家。アセンブリ言語の入門書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takaoka-eiko",
+    "name": "高岡詠子",
+    "nameKana": "たかおかえいこ",
+    "description": "日本の研究者。上智大学教授で、情報理論とデータベースの教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
