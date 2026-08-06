@@ -175,6 +175,12 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T21:21:43.110Z"
   },
+  "ai-for-game-developers": {
+    "title": "ゲーム開発者のためのAI入門",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:09:18.201Z"
+  },
   "ajax-design-patterns": {
     "title": "Ajaxデザインパターン",
     "isbn": "9784873113234",
@@ -552,6 +558,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2094/9784621312094_1_6.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T20:40:31.285Z"
+  },
+  "bayes-modeling-no-sekai": {
+    "title": "ベイズモデリングの世界",
+    "isbn": "9784000247986",
+    "matchedTitle": "ベイズモデリングの世界",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7986/9784000247986.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:20.911Z"
   },
   "bayes-riron-to-hoho": {
     "title": "ベイズ統計の理論と方法",
@@ -1097,6 +1111,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:11:57.226Z"
   },
+  "deep-learning-to-butsurigaku": {
+    "title": "ディープラーニングと物理学",
+    "isbn": "9784065162620",
+    "matchedTitle": "ディープラーニングと物理学　原理がわかる、応用ができる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2620/9784065162620_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:00.752Z"
+  },
   "deep-learning-with-python": {
     "title": "PythonとKerasによるディープラーニング",
     "isbn": "9784839964269",
@@ -1623,6 +1645,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:19:24.129Z"
   },
+  "framework-design-guidelines": {
+    "title": ".NETのクラスライブラリ設計",
+    "isbn": null,
+    "matchedTitle": ".NETのクラスライブラリ設計　改訂新版　開発チーム直伝の設計原則、コーディング標準、パターン",
+    "coverUrl": "https://c.bookwalker.jp/3781164/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-06T22:08:55.290Z"
+  },
   "free-software-free-society": {
     "title": "フリーソフトウェアと自由な社会",
     "isbn": null,
@@ -1957,6 +1987,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:30:15.721Z"
   },
+  "hajimete-android-programming": {
+    "title": "はじめてのAndroidプログラミング",
+    "isbn": null,
+    "matchedTitle": "はじめてのAndroidプログラミング 第5版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5791/2000009285791.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:09:35.493Z"
+  },
   "hajimete-automaton": {
     "title": "はじめて学ぶオートマトンと言語理論",
     "isbn": "9784627852914",
@@ -2064,6 +2102,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0935/9784814400935_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:04:30.744Z"
+  },
+  "hands-on-unsupervised-learning": {
+    "title": "Pythonではじめる教師なし学習",
+    "isbn": "9784873119106",
+    "matchedTitle": "Pythonではじめる教師なし学習",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9106/9784873119106.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:23.216Z"
   },
   "hardware-hacker": {
     "title": "ハードウェアハッカー",
@@ -2272,6 +2318,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6714/9784627856714.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:19:22.964Z"
+  },
+  "ippanka-senkei-model-nyumon": {
+    "title": "平均・分散から始める一般化線形モデル入門",
+    "isbn": "9784910612195",
+    "matchedTitle": "改訂版 平均・分散から始める一般化線形モデル入門　-Rで学ぶデータ解析の理論と実装ー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2195/9784910612195_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:19.760Z"
   },
   "ipv6-network-jisshu": {
     "title": "IPv6ネットワーク構築実習",
@@ -2544,6 +2598,12 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-06T21:40:25.618Z"
+  },
+  "joho-kensaku-to-gengo-shori": {
+    "title": "情報検索と言語処理",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:09:58.200Z"
   },
   "jquery-saiko-kyokasho": {
     "title": "jQuery最高の教科書",
@@ -2833,6 +2893,12 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:55:23.802Z"
   },
+  "kumikomi-software-kaihatsu": {
+    "title": "組込みソフトウェア開発技術",
+    "isbn": "9784789845489",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:10:41.675Z"
+  },
   "kyogi-programming-tessoku": {
     "title": "競技プログラミングの鉄則",
     "isbn": "9784839977504",
@@ -3107,6 +3173,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:55:00.285Z"
   },
+  "mastering-ethereum": {
+    "title": "マスタリング・イーサリアム",
+    "isbn": "9784873118963",
+    "matchedTitle": "マスタリング・イーサリアム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8963/9784873118963.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:09:29.736Z"
+  },
   "mastering-linux-shell-scripting": {
     "title": "マスタリングLinuxシェルスクリプト",
     "isbn": "9784814400119",
@@ -3144,6 +3218,14 @@
     "isbn": "9784434155918",
     "coverUrl": null,
     "resolvedAt": "2026-08-06T13:09:44.400Z"
+  },
+  "metaheuristics-no-suri": {
+    "title": "メタヒューリスティクスの数理",
+    "isbn": null,
+    "matchedTitle": "メタヒューリスティクスの数理",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7050/2000012877050.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T22:09:27.454Z"
   },
   "metaprogramming-ruby": {
     "title": "メタプログラミングRuby",
@@ -3429,6 +3511,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T22:00:27.921Z"
   },
+  "nlp-kihon-to-gijutsu": {
+    "title": "自然言語処理の基本と技術",
+    "isbn": "9784798128528",
+    "matchedTitle": "自然言語処理の基本と技術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8528/9784798128528.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:09:59.598Z"
+  },
   "nlp-with-transformers": {
     "title": "機械学習エンジニアのためのTransformers",
     "isbn": "9784873119953",
@@ -3560,6 +3650,14 @@
     "isbn": "9784798124629",
     "coverUrl": null,
     "resolvedAt": "2026-08-06T12:47:00.621Z"
+  },
+  "oss-license-kyokasho": {
+    "title": "OSSライセンスの教科書",
+    "isbn": "9784297100353",
+    "matchedTitle": "OSSライセンスの教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0353/9784297100353.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:09:30.881Z"
   },
   "ouchi-database": {
     "title": "おうちで学べるデータベースのきほん",
@@ -4195,6 +4293,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:12:07.662Z"
   },
+  "python-kyoka-gakushu": {
+    "title": "Pythonで学ぶ強化学習",
+    "isbn": "9784065172513",
+    "matchedTitle": "機械学習スタートアップシリーズ　Pythonで学ぶ強化学習　［改訂第2版］　入門から実践まで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2513/9784065172513_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:09:20.523Z"
+  },
   "python-ml-programming": {
     "title": "Python機械学習プログラミング",
     "isbn": "9784295015581",
@@ -4202,6 +4308,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5581/9784295015581.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:37:59.538Z"
+  },
+  "python-onsei-gosei": {
+    "title": "Pythonで学ぶ音声合成",
+    "isbn": "9784295012276",
+    "matchedTitle": "Pythonで学ぶ音声合成 機械学習実践シリーズ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2276/9784295012276_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:09:21.676Z"
   },
   "python-onsei-ninshiki": {
     "title": "Pythonで学ぶ音声認識",
@@ -4689,6 +4803,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:59:51.526Z"
   },
+  "shinka-keisan-nyumon": {
+    "title": "進化計算アルゴリズム入門",
+    "isbn": "9784274222382",
+    "matchedTitle": "進化計算アルゴリズム入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2382/9784274222382.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:09:28.599Z"
+  },
   "shinriteki-anzensei": {
     "title": "心理的安全性のつくりかた",
     "isbn": "9784820728245",
@@ -4777,6 +4899,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T21:08:02.016Z"
   },
+  "slam-nyumon": {
+    "title": "SLAM入門",
+    "isbn": "9784274232190",
+    "matchedTitle": "SLAM入門（改訂2版）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2190/9784274232190_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:09:19.387Z"
+  },
   "soft-skills": {
     "title": "SOFT SKILLS",
     "isbn": null,
@@ -4862,6 +4992,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7665/9784817197665_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:51:51.209Z"
+  },
+  "sokudo-kakuritsu-lebesgue": {
+    "title": "測度・確率・ルベーグ積分",
+    "isbn": "9784061565715",
+    "matchedTitle": "測度・確率・ルベーグ積分　応用への最短コース",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5715/9784061565715.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:18.609Z"
   },
   "spectral-graph-theory": {
     "title": "線形代数で考えるスペクトラル・グラフ理論入門",
@@ -4950,6 +5088,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0867/9784814400867_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:21:19.200Z"
+  },
+  "stan-r-bayes-modeling": {
+    "title": "StanとRでベイズ統計モデリング",
+    "isbn": "9784320112421",
+    "matchedTitle": "StanとRでベイズ統計モデリング",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2421/9784320112421.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:22.067Z"
   },
   "stepup-zeijakusei-shindan": {
     "title": "ステップアップ脆弱性診断",
@@ -5076,6 +5222,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4061/9784802614061_1_4.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:03:51.180Z"
+  },
+  "system-shogai-taio": {
+    "title": "システム障害対応の教科書",
+    "isbn": "9784297140120",
+    "matchedTitle": "【改訂新版】システム障害対応の教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0120/9784297140120_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:42.923Z"
   },
   "system-wo-tsukuraseru-gijutsu": {
     "title": "システムを作らせる技術",
@@ -5231,6 +5385,20 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T20:55:14.094Z"
   },
+  "tokei-no-tame-no-sugaku-30": {
+    "title": "統計学のための数学入門30講",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T22:10:17.408Z"
+  },
+  "tokeiteki-inga-tansaku": {
+    "title": "統計的因果探索",
+    "isbn": "9784061529250",
+    "matchedTitle": "統計的因果探索",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9250/9784061529250.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:09:22.837Z"
+  },
   "tokeru-design": {
     "title": "融けるデザイン",
     "isbn": null,
@@ -5367,6 +5535,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T21:10:44.912Z"
   },
+  "unyo-kaizen-kyokasho": {
+    "title": "運用改善の教科書",
+    "isbn": "9784297120702",
+    "matchedTitle": "運用改善の教科書　〜クラウド時代にも困らない、変化に迅速に対応するためのシステム運用ノウハウ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0702/9784297120702.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:44.076Z"
+  },
   "user-story-mapping": {
     "title": "ユーザーストーリーマッピング",
     "isbn": "9784873117324",
@@ -5436,6 +5612,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3430/9784863543430.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:22:01.491Z"
+  },
+  "wakariyasui-pattern-ninshiki": {
+    "title": "わかりやすいパターン認識",
+    "isbn": "9784274229473",
+    "matchedTitle": "続々・わかりやすいパターン認識",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9473/9784274229473_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T22:10:24.546Z"
   },
   "waltzing-with-bears": {
     "title": "熊とワルツを",

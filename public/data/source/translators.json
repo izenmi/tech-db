@@ -2392,5 +2392,14 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fujiwara-yusuke",
+    "name": "藤原雄介",
+    "nameKana": "ふじわらゆうすけ",
+    "description": "日本の技術者。.NET関連書の翻訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

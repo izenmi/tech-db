@@ -598,5 +598,24 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1951
+  },
+  {
+    "id": "iwanami",
+    "name": "岩波書店",
+    "nameKana": "いわなみしょてん",
+    "description": "学術書と教養書を幅広く刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1913
+  },
+  {
+    "id": "pleiades",
+    "name": "プレアデス出版",
+    "nameKana": "ぷれあですしゅっぱん",
+    "description": "統計・データ解析分野の実務書を刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

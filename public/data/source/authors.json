@@ -7883,5 +7883,194 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "krzysztof-cwalina",
+    "name": "クリストフ・クワリナ",
+    "nameKana": "くりすとふくわりな",
+    "description": "アメリカのソフトウェア技術者。Microsoftで.NETのAPI設計指針をまとめた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "david-bourg",
+    "name": "デイビッド・M・ボーグ",
+    "nameKana": "でいびっどえむぼーぐ",
+    "description": "アメリカの技術者。ゲームにおける物理演算と人工知能の実装を解説している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tomono-masahiro",
+    "name": "友納正裕",
+    "nameKana": "とものうまさひろ",
+    "description": "日本の研究者。移動ロボットの自己位置推定と地図構築を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kubo-takahiro",
+    "name": "久保隆宏",
+    "nameKana": "くぼたかひろ",
+    "description": "日本の機械学習エンジニア。強化学習と自然言語処理の実装解説を行っている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamamoto-ryuichi",
+    "name": "山本龍一",
+    "nameKana": "やまもとりゅういち",
+    "description": "日本の研究者・技術者。音声合成システムの実装と公開に取り組んでいる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shimizu-shohei",
+    "name": "清水昌平",
+    "nameKana": "しみずしょうへい",
+    "description": "日本の研究者。滋賀大学教授で、統計的因果探索の手法LiNGAMを提案した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kubo-mikio",
+    "name": "久保幹雄",
+    "nameKana": "くぼみきお",
+    "description": "日本の研究者。東京海洋大学教授で、数理最適化とロジスティクスを専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "otani-noriko",
+    "name": "大谷紀子",
+    "nameKana": "おおたにのりこ",
+    "description": "日本の研究者。東京都市大学教授で、進化計算と知的システムを研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ueda-osamu",
+    "name": "上田理",
+    "nameKana": "うえだおさむ",
+    "description": "日本の技術者。オープンソースソフトウェアのライセンス実務に詳しい。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tokunaga-takenobu",
+    "name": "徳永健伸",
+    "nameKana": "とくながたけのぶ",
+    "description": "日本の研究者。東京工業大学教授で、自然言語処理と情報検索を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "okuno-yo",
+    "name": "奥野陽",
+    "nameKana": "おくのよう",
+    "description": "日本の技術者。自然言語処理の実務適用に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tanaka-akinori",
+    "name": "田中章詞",
+    "nameKana": "たなかあきのり",
+    "description": "日本の研究者。理化学研究所で物理学と機械学習の接点を研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hara-keisuke",
+    "name": "原啓介",
+    "nameKana": "はらけいすけ",
+    "description": "日本の数学者。確率論と数理解析の教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "baba-shinya",
+    "name": "馬場真哉",
+    "nameKana": "ばばしんや",
+    "description": "日本のデータ分析者。統計モデリングの入門書を数多く執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "iba-yukito",
+    "name": "伊庭幸人",
+    "nameKana": "いばゆきと",
+    "description": "日本の研究者。統計数理研究所でモンテカルロ法とベイズ統計を研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsuura-kentaro",
+    "name": "松浦健太郎",
+    "nameKana": "まつうらけんたろう",
+    "description": "日本のデータ分析者。Stanを用いたベイズ統計モデリングの実践を広めた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ankur-patel",
+    "name": "アンクール・A・パテル",
+    "nameKana": "あんくーるえーぱてる",
+    "description": "アメリカの機械学習実務者。教師なし学習の応用を扱っている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ishii-kenichiro",
+    "name": "石井健一郎",
+    "nameKana": "いしいけんいちろう",
+    "description": "日本の研究者。名古屋大学名誉教授で、パターン認識と情報処理を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sawada-atsushi",
+    "name": "沢田篤史",
+    "nameKana": "さわだあつし",
+    "description": "日本の研究者。南山大学教授で、組込みソフトウェア工学を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kimura-nobuaki",
+    "name": "木村誠明",
+    "nameKana": "きむらのぶあき",
+    "description": "日本のITサービス実務者。システム障害対応の手順と訓練の設計に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kondo-seiji",
+    "name": "近藤誠司",
+    "nameKana": "こんどうせいじ",
+    "description": "日本のシステム運用技術者。運用設計と改善の実務書を執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

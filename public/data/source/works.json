@@ -20665,5 +20665,653 @@
     "isbn": "9784844328797",
     "latestEditionYear": 2010,
     "sourceNote": "書誌(インプレスジャパン、2010年、ISBN 9784844328797)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「WINGSプロジェクト, 高江賢, 森山絵美, 風田伸之, 山田奈美 著,山田祥寛 監修」による。初版の刊行年2003年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "framework-design-guidelines",
+    "title": ".NETのクラスライブラリ設計",
+    "titleKana": "どっとねっとのくらすらいぶらりせっけい",
+    "authorIds": [
+      "krzysztof-cwalina"
+    ],
+    "techIds": [
+      "csharp",
+      "api-design"
+    ],
+    "translatorIds": [
+      "fujiwara-yusuke"
+    ],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "design-architecture",
+      "reference"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2005,
+    "synopsis": ".NETの設計チームが自ら書いたライブラリ設計の指針。命名、型の選択、例外、拡張性の持たせ方などを「する・しない・検討する」の形で示し、公開APIが後から動かせないという前提に立って判断基準を与える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296080045",
+    "edition": "第3版",
+    "latestEditionYear": 2021,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Framework Design Guidelines",
+    "sourceNote": "邦訳版の書誌(日経BP、2021年、ISBN 9784296080045)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Krzysztof Cwalina, Jeremy Barton, Brad Abrams 著,猪股健太郎, 河合宜文 監訳,藤原雄介 訳」による。原著の初版年2005年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "ai-for-game-developers",
+    "title": "ゲーム開発者のためのAI入門",
+    "titleKana": "げーむかいはつしゃのためのaiにゅうもん",
+    "authorIds": [
+      "david-bourg"
+    ],
+    "techIds": [
+      "algorithm",
+      "unity"
+    ],
+    "translatorIds": [
+      "quipu"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "build-to-learn"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2004,
+    "synopsis": "ゲームに登場する敵や仲間の振る舞いを作るための技法を、追跡と回避、群れの動き、状態機械、経路探索、ニューラルネットワークまで実装例とともに紹介する本。数学的な下地も併せて説明される。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "latestEditionYear": 2005,
+    "jpPublishedYear": 2005,
+    "originalTitle": "AI for Game Developers",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2005年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「David M.Bourg, Glenn Seemann 著,クイープ 訳」による。原著の初版年2004年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "slam-nyumon",
+    "title": "SLAM入門",
+    "titleKana": "すらむにゅうもん",
+    "authorIds": [
+      "tomono-masahiro"
+    ],
+    "techIds": [
+      "robotics",
+      "math",
+      "computer-vision"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "theory",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "自己位置推定と地図構築を同時に行うSLAMを、確率的な定式化から実装まで扱う本。スキャンマッチング、ループ閉じ込み、グラフ最適化といった要素を、動くコードと対応させて説明している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784274232190",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(オーム社、2024年、ISBN 9784274232190)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「友納正裕 著」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "python-kyoka-gakushu",
+    "title": "Pythonで学ぶ強化学習",
+    "titleKana": "ぱいそんでまなぶきょうかがくしゅう",
+    "authorIds": [
+      "kubo-takahiro"
+    ],
+    "techIds": [
+      "python",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "intro",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "強化学習の基本的な枠組みから、価値ベース・方策ベースの手法、深層強化学習までをPythonの実装とともに学ぶ本。手法の弱点や実務で使う際の注意にも踏み込んで書かれている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784065172513",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(講談社、2019年、ISBN 9784065172513)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「久保隆宏 著」による。"
+  },
+  {
+    "id": "python-onsei-gosei",
+    "title": "Pythonで学ぶ音声合成",
+    "titleKana": "ぱいそんでまなぶおんせいごうせい",
+    "authorIds": [
+      "yamamoto-ryuichi"
+    ],
+    "techIds": [
+      "python",
+      "nlp",
+      "deep-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2021,
+    "synopsis": "音声合成の仕組みを、テキスト解析、音響モデル、ボコーダという構成に沿って実装しながら学ぶ本。深層学習を用いた現代的な手法を、日本語の音声を題材に動かして確認できる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295012276",
+    "latestEditionYear": 2021,
+    "sourceNote": "書誌(インプレス、2021年、ISBN 9784295012276)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「山本龍一, 高道慎之介 著」による。"
+  },
+  {
+    "id": "tokeiteki-inga-tansaku",
+    "title": "統計的因果探索",
+    "titleKana": "とうけいてきいんがたんさく",
+    "authorIds": [
+      "shimizu-shohei"
+    ],
+    "techIds": [
+      "machine-learning",
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2017,
+    "synopsis": "観測データから因果の向きを推定する統計的因果探索を解説する本。因果グラフの表現、識別可能性の条件、非ガウス性を利用したLiNGAMの考え方を、提案者自身が順を追って説明している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784061529250",
+    "latestEditionYear": 2017,
+    "sourceNote": "書誌(講談社、2017年、ISBN 9784061529250)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「清水昌平 著」による。"
+  },
+  {
+    "id": "metaheuristics-no-suri",
+    "title": "メタヒューリスティクスの数理",
+    "titleKana": "めたひゅーりすてぃくすのすうり",
+    "authorIds": [
+      "kubo-mikio"
+    ],
+    "techIds": [
+      "optimization",
+      "algorithm"
+    ],
+    "translatorIds": [],
+    "publisherId": "kyoritsu",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2009,
+    "synopsis": "厳密解を求めにくい組合せ最適化問題に対して、局所探索、タブー探索、焼きなまし法、遺伝的アルゴリズムといった発見的手法をどう設計するかを扱う本。実装上の工夫と評価方法も示される。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784320122352",
+    "latestEditionYear": 2009,
+    "sourceNote": "書誌(共立出版、2009年、ISBN 9784320122352)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「久保幹雄, J.P.ペドロソ 著」による。"
+  },
+  {
+    "id": "shinka-keisan-nyumon",
+    "title": "進化計算アルゴリズム入門",
+    "titleKana": "しんかけいさんあるごりずむにゅうもん",
+    "authorIds": [
+      "otani-noriko"
+    ],
+    "techIds": [
+      "optimization",
+      "algorithm",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2018,
+    "synopsis": "生物の進化や群れの行動を模した最適化アルゴリズムを紹介する入門書。遺伝的アルゴリズム、粒子群最適化、蟻コロニー最適化などの仕組みと適用例を、実装しやすい形で整理している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784274222382",
+    "latestEditionYear": 2018,
+    "sourceNote": "書誌(オーム社、2018年、ISBN 9784274222382)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大谷紀子 著」による。"
+  },
+  {
+    "id": "mastering-ethereum",
+    "title": "マスタリング・イーサリアム",
+    "titleKana": "ますたりんぐいーさりあむ",
+    "authorIds": [
+      "andreas-antonopoulos"
+    ],
+    "techIds": [
+      "blockchain"
+    ],
+    "translatorIds": [
+      "hatogai-junichiro"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "イーサリアムの仕組みを、アカウントとトランザクション、EVM、スマートコントラクトの記述、ガス、セキュリティという順に解説する本。分散アプリケーションを作る側に必要な内部知識を押さえている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873118963",
+    "latestEditionYear": 2019,
+    "jpPublishedYear": 2019,
+    "originalTitle": "Mastering Ethereum",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2019年、ISBN 9784873118963)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Andreas M.Antonopoulos, Gavin Wood 著,宇野雅晴, 鳩貝淳一郎 監訳,中城元臣, 落合渉悟 技術監修」による。原著の初版年2018年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "oss-license-kyokasho",
+    "title": "OSSライセンスの教科書",
+    "titleKana": "おーえすえすらいせんすのきょうかしょ",
+    "authorIds": [
+      "ueda-osamu"
+    ],
+    "techIds": [
+      "it-governance"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2018,
+    "synopsis": "オープンソースソフトウェアのライセンスを、開発現場で判断できる形に整理した本。GPLやMITなど主要ライセンスの条件、組み合わせたときの扱い、企業として整えるべき管理体制を扱っている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297100353",
+    "latestEditionYear": 2018,
+    "sourceNote": "書誌(技術評論社、2018年、ISBN 9784297100353)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「上田理 著,岩井久美子 監修」による。"
+  },
+  {
+    "id": "hajimete-android-programming",
+    "title": "はじめてのAndroidプログラミング",
+    "titleKana": "はじめてのあんどろいどぷろぐらみんぐ",
+    "authorIds": [
+      "kaneda-hiroaki"
+    ],
+    "techIds": [
+      "android",
+      "kotlin"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2009,
+    "synopsis": "Androidアプリ開発を初めて学ぶ人に向けた入門書。開発環境の準備から画面の作成、イベント処理、データの保存、非同期処理までを、動く小さなアプリを作りながら一つずつ確認していく。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815607968",
+    "latestEditionYear": 2020,
+    "sourceNote": "書誌(SBクリエイティブ、2020年、ISBN 9784815607968)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「金田浩明 著」による。初版の刊行年2009年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "joho-kensaku-to-gengo-shori",
+    "title": "情報検索と言語処理",
+    "titleKana": "じょうほうけんさくとげんごしょり",
+    "authorIds": [
+      "tokunaga-takenobu"
+    ],
+    "techIds": [
+      "search",
+      "nlp"
+    ],
+    "translatorIds": [],
+    "publisherId": "utp",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 1999,
+    "synopsis": "情報検索の基礎理論と自然言語処理の接点を扱う教科書。索引付け、検索モデル、評価尺度に加え、形態素解析や語の曖昧性解消といった言語処理の技術が検索にどう効くのかを論じている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "latestEditionYear": 1999,
+    "sourceNote": "書誌(東京大学出版会、1999年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「徳永健伸 著」による。"
+  },
+  {
+    "id": "nlp-kihon-to-gijutsu",
+    "title": "自然言語処理の基本と技術",
+    "titleKana": "しぜんげんごしょりのきほんとぎじゅつ",
+    "authorIds": [
+      "okuno-yo"
+    ],
+    "techIds": [
+      "nlp",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2016,
+    "synopsis": "自然言語処理の全体像を、形態素解析、構文解析、意味解析、機械翻訳、検索や対話といった応用まで一望する入門書。手法の名前と役割の対応が整理され、専門書に進む前の地図になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798128528",
+    "latestEditionYear": 2016,
+    "sourceNote": "書誌(翔泳社、2016年、ISBN 9784798128528)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「奥野陽, グラム・ニュービッグ, 萩原正人著」による。"
+  },
+  {
+    "id": "deep-learning-to-butsurigaku",
+    "title": "ディープラーニングと物理学",
+    "titleKana": "でぃーぷらーにんぐとぶつりがく",
+    "authorIds": [
+      "tanaka-akinori"
+    ],
+    "techIds": [
+      "deep-learning",
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2019,
+    "synopsis": "深層学習の仕組みを物理学の言葉で捉え直す本。統計力学との対応、ボルツマンマシン、繰り込み群との類似などを扱い、機械学習の手法がなぜうまく働くのかを別の角度から考える材料を与える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784065162620",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(講談社、2019年、ISBN 9784065162620)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「田中章詞, 富谷昭夫, 橋本幸士 著」による。"
+  },
+  {
+    "id": "tokei-no-tame-no-sugaku-30",
+    "title": "統計学のための数学入門30講",
+    "titleKana": "とうけいがくのためのすうがくにゅうもん30こう",
+    "authorIds": [
+      "nagata-yasushi"
+    ],
+    "techIds": [
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "asakura-shoten",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2005,
+    "synopsis": "統計学を学ぶために必要な数学を30講にまとめた本。微積分、行列、確率の基礎を、統計の文脈で使う場面に絞って解説しており、数学から離れていた読者が土台を作り直すのに向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "latestEditionYear": 2005,
+    "sourceNote": "書誌(朝倉書店、2005年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「永田靖 著」による。初版の刊行年1954年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "sokudo-kakuritsu-lebesgue",
+    "title": "測度・確率・ルベーグ積分",
+    "titleKana": "そくどかくりつるべーぐせきぶん",
+    "authorIds": [
+      "hara-keisuke"
+    ],
+    "techIds": [
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2017,
+    "synopsis": "測度論とルベーグ積分を、確率論を使う人が必要とする範囲に絞って解説する本。厳密さを保ちながら最短の道筋をとる構成で、機械学習や統計の理論書を読むための下地になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784061565715",
+    "latestEditionYear": 2017,
+    "sourceNote": "書誌(講談社、2017年、ISBN 9784061565715)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「原啓介 著」による。"
+  },
+  {
+    "id": "ippanka-senkei-model-nyumon",
+    "title": "平均・分散から始める一般化線形モデル入門",
+    "titleKana": "へいきんぶんさんからはじめるいっぱんかせんけいもでるにゅうもん",
+    "authorIds": [
+      "baba-shinya"
+    ],
+    "techIds": [
+      "math",
+      "r"
+    ],
+    "translatorIds": [],
+    "publisherId": "pleiades",
+    "themeIds": [
+      "theory",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2008,
+    "synopsis": "一般化線形モデルを、平均と分散の関係という視点から積み上げて解説する本。正規線形モデルからロジスティック回帰、ポアソン回帰へと進み、Rによる実装と結果の解釈を対応させている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784910612195",
+    "latestEditionYear": 2026,
+    "sourceNote": "書誌(プレアデス出版、2026年、ISBN 9784910612195)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「馬場真哉 著」による。初版の刊行年2008年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "bayes-modeling-no-sekai",
+    "title": "ベイズモデリングの世界",
+    "titleKana": "べいずもでりんぐのせかい",
+    "authorIds": [
+      "iba-yukito"
+    ],
+    "techIds": [
+      "math",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "iwanami",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "ベイズ統計によるモデリングを、複数の執筆者がそれぞれの応用分野から論じた本。階層モデル、マルコフ連鎖モンテカルロ法、モデル選択といった話題を、実際の研究例に即して扱っている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784000247986",
+    "latestEditionYear": 2018,
+    "sourceNote": "書誌(岩波書店、2018年、ISBN 9784000247986)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「伊庭幸人 編」による。"
+  },
+  {
+    "id": "stan-r-bayes-modeling",
+    "title": "StanとRでベイズ統計モデリング",
+    "titleKana": "stanとrでべいずとうけいもでりんぐ",
+    "authorIds": [
+      "matsuura-kentaro"
+    ],
+    "techIds": [
+      "r",
+      "math",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "kyoritsu",
+    "themeIds": [
+      "practice",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2016,
+    "synopsis": "確率的プログラミング言語StanとRを使い、統計モデルを組み立てて推定するまでを扱う本。モデルの書き方、収束の判断、階層モデルや時系列への拡張を、実データの例で丁寧に示している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784320112421",
+    "latestEditionYear": 2016,
+    "sourceNote": "書誌(共立出版、2016年、ISBN 9784320112421)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松浦健太郎著」による。"
+  },
+  {
+    "id": "hands-on-unsupervised-learning",
+    "title": "Pythonではじめる教師なし学習",
+    "titleKana": "ぱいそんではじめるきょうしなしがくしゅう",
+    "authorIds": [
+      "ankur-patel"
+    ],
+    "techIds": [
+      "python",
+      "machine-learning"
+    ],
+    "translatorIds": [
+      "nakata-hideki"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2019,
+    "synopsis": "ラベルのないデータから構造を取り出す手法を扱う本。次元削減、クラスタリング、異常検知、オートエンコーダ、生成モデルまでを、不正検知などの実データを使った実装で確認していく。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873119106",
+    "latestEditionYear": 2020,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Hands-On Unsupervised Learning Using Python",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2020年、ISBN 9784873119106)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Ankur A.Patel 著,中田秀基 訳」による。原著の初版年2019年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "wakariyasui-pattern-ninshiki",
+    "title": "わかりやすいパターン認識",
+    "titleKana": "わかりやすいぱたーんにんしき",
+    "authorIds": [
+      "ishii-kenichiro"
+    ],
+    "techIds": [
+      "machine-learning",
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "theory",
+      "classic"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 1998,
+    "synopsis": "パターン認識の基礎を、識別関数、ベイズ決定則、特徴抽出、クラスタリング、識別器の学習という順に解説する定番の教科書。数式の展開が丁寧で、機械学習の理論書に進む前の土台になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784274229473",
+    "edition": "第2版",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(オーム社、2022年、ISBN 9784274229473)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「石井健一郎, 前田英作 共著」による。初版の刊行年1998年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "kumikomi-software-kaihatsu",
+    "title": "組込みソフトウェア開発技術",
+    "titleKana": "くみこみそふとうぇあかいはつぎじゅつ",
+    "authorIds": [
+      "sawada-atsushi"
+    ],
+    "techIds": [
+      "embedded"
+    ],
+    "translatorIds": [],
+    "publisherId": "cq-shuppan",
+    "themeIds": [
+      "theory",
+      "team-process"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2008,
+    "synopsis": "組込みソフトウェアの開発を、要求分析、設計、実装、検証というプロセスの観点から整理した本。リアルタイム性や資源制約を前提とした設計手法と、品質を確保するための工程管理を扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784789845489",
+    "latestEditionYear": 2011,
+    "sourceNote": "書誌(CQ出版、2011年、ISBN 9784789845489)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「沢田篤史, 平山雅之 編著」による。初版の刊行年2008年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "system-shogai-taio",
+    "title": "システム障害対応の教科書",
+    "titleKana": "しすてむしょうがいたいおうのきょうかしょ",
+    "authorIds": [
+      "kimura-nobuaki"
+    ],
+    "techIds": [
+      "observability",
+      "devops"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "team-process"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2020,
+    "synopsis": "システム障害が起きたときの動き方を、検知、初動、指揮、復旧、事後分析という流れで体系化した本。技術というより組織の動きに焦点があり、訓練の設計や役割分担まで具体的に扱っている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297140120",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(技術評論社、2024年、ISBN 9784297140120)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「木村誠明 著」による。初版の刊行年2020年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "unyo-kaizen-kyokasho",
+    "title": "運用改善の教科書",
+    "titleKana": "うんようかいぜんのきょうかしょ",
+    "authorIds": [
+      "kondo-seiji"
+    ],
+    "techIds": [
+      "devops",
+      "observability"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2021,
+    "synopsis": "既存のシステム運用を少しずつ改善していく方法をまとめた本。作業の棚卸し、手順書の整備、自動化の順序、監視の見直しを扱い、クラウド移行で変わる部分にも触れている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297120702",
+    "latestEditionYear": 2021,
+    "sourceNote": "書誌(技術評論社、2021年、ISBN 9784297120702)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「近藤誠司 著」による。"
   }
 ]
