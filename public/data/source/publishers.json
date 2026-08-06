@@ -482,5 +482,25 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1954
+  },
+  {
+    "id": "nts",
+    "name": "エヌ・ティー・エス",
+    "nameKana": "えぬてぃーえす",
+    "description": "日本の出版社。理工学と先端技術分野の専門書・翻訳書を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1988
+  },
+  {
+    "id": "gakujutsu-tosho",
+    "name": "学術図書出版社",
+    "nameKana": "がくじゅつとしょしゅっぱんしゃ",
+    "description": "日本の出版社。大学の講義で使う理工系の教科書を中心に刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1950
   }
 ]

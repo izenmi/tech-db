@@ -1780,5 +1780,86 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kondo-yoshiyuki",
+    "name": "近藤嘉雪",
+    "nameKana": "こんどうよしゆき",
+    "description": "日本の翻訳者。Perlやアルゴリズムに関する書籍を数多く訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shimada-kenji",
+    "name": "嶋田健志",
+    "nameKana": "しまだけんじ",
+    "description": "日本のソフトウェアエンジニア・翻訳者。Perl関連書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yagi-no-sakura",
+    "name": "ヤギのさくらちゃん",
+    "nameKana": "やぎのさくらちゃん",
+    "description": "日本の翻訳者。関数型言語とフロントエンド関連の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kikuchi-akira",
+    "name": "菊池彰",
+    "nameKana": "きくちあきら",
+    "description": "日本の翻訳者。Pythonとデータサイエンス関連の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ishii-kazuo",
+    "name": "石井一夫",
+    "nameKana": "いしいかずお",
+    "description": "日本の研究者。バイオインフォマティクスとデータ解析を専門とし、関連書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ogawa-fumie",
+    "name": "小川史恵",
+    "nameKana": "おがわふみえ",
+    "description": "日本の翻訳者。科学技術計算関連の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ebihara-yuya",
+    "name": "蛯原裕弥",
+    "nameKana": "えびはらゆうや",
+    "description": "日本のデータエンジニア。データ基盤関連書籍の監訳を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sano-chihiro",
+    "name": "佐野千紘",
+    "nameKana": "さのちひろ",
+    "description": "日本のデータエンジニア。データ基盤関連書籍の監訳を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kato-koichi-tr",
+    "name": "加藤公一",
+    "nameKana": "かとうこういち",
+    "description": "日本の機械学習エンジニア。機械学習と科学技術計算の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

@@ -987,5 +987,104 @@
     "externalLinks": {},
     "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "perl",
+    "name": "Perl",
+    "nameKana": "ぱーる",
+    "category": "language",
+    "description": "テキスト処理に強いスクリプト言語。正規表現を言語に組み込んだ先駆けで、システム管理やCGIの時代のWeb開発を支えた。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 1987
+  },
+  {
+    "id": "elm",
+    "name": "Elm",
+    "nameKana": "えるむ",
+    "category": "language",
+    "description": "Webフロントエンド向けの純粋関数型言語。実行時例外が起きない設計を掲げ、状態と更新を一つの流れとして記述する。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2012
+  },
+  {
+    "id": "django",
+    "name": "Django",
+    "nameKana": "じゃんご",
+    "category": "framework",
+    "description": "PythonのWebアプリケーションフレームワーク。ORMや管理画面、認証を最初から備え、規約に沿って素早く構築できる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2005
+  },
+  {
+    "id": "svelte",
+    "name": "Svelte",
+    "nameKana": "すべると",
+    "category": "framework",
+    "description": "フロントエンドのフレームワーク。実行時ではなくビルド時に処理を済ませる方式で、仮想DOMを使わず軽量な出力を生む。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2016
+  },
+  {
+    "id": "astro",
+    "name": "Astro",
+    "nameKana": "あすとろ",
+    "category": "framework",
+    "description": "コンテンツ中心のWebサイト向けフレームワーク。既定でJavaScriptを配信せず、必要な部分だけを動的にする設計を取る。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2021
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "nameKana": "のーどじぇいえす",
+    "category": "framework",
+    "description": "サーバーサイドでJavaScriptを動かす実行環境。ノンブロッキングI/Oを基本とし、フロントエンドの道具立ての土台にもなっている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2009
+  },
+  {
+    "id": "nginx",
+    "name": "nginx",
+    "nameKana": "えんじんえっくす",
+    "category": "tool",
+    "description": "軽量なWebサーバー兼リバースプロキシ。少ないメモリで大量の同時接続を捌ける設計で、配信基盤の前段に広く置かれている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2004
+  },
+  {
+    "id": "webassembly",
+    "name": "WebAssembly",
+    "nameKana": "うぇぶあせんぶり",
+    "category": "concept",
+    "description": "ブラウザなどで高速に動く低水準のバイナリ形式。C++やRustから生成でき、ブラウザ外の実行環境の規格化も進んでいる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2017
+  },
+  {
+    "id": "kafka",
+    "name": "Apache Kafka",
+    "nameKana": "あぱっちかふか",
+    "category": "tool",
+    "description": "分散ストリーミングの基盤。イベントをログとして永続化し、多数の生産者と消費者で共有する。データ連携の中核に使われる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2011
   }
 ]

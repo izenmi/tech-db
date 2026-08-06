@@ -95,6 +95,22 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:00:49.027Z"
   },
+  "apache-iceberg-nyumon": {
+    "title": "Apache Iceberg活用入門",
+    "isbn": "9784295023159",
+    "matchedTitle": "Apache Iceberg活用入門 オープンテーブルフォーマットによるデータレイク＆データレイクハウス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3159/9784295023159_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:10.735Z"
+  },
+  "apache-kafka-hajimeru": {
+    "title": "Apache Kafkaをはじめる",
+    "isbn": null,
+    "matchedTitle": "Apache Kafkaをはじめる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6200/2000011846200.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T13:29:22.169Z"
+  },
   "api-design-for-cpp": {
     "title": "C++のためのAPIデザイン",
     "isbn": null,
@@ -146,6 +162,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-06T12:42:04.524Z"
+  },
+  "astro-kaihatsu-kyokasho": {
+    "title": "Astroフロントエンド開発の教科書",
+    "isbn": "9784297150082",
+    "matchedTitle": "Astro フロントエンド開発の教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0082/9784297150082_1_24.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:06.176Z"
   },
   "atarashii-linux-kyokasho-2": {
     "title": "新しいLinuxの教科書",
@@ -759,6 +783,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:12:09.971Z"
   },
+  "fluentd-jissen-nyumon": {
+    "title": "Fluentd実践入門",
+    "isbn": "9784297131098",
+    "matchedTitle": "Fluentd実践入門 ── 統合ログ基盤のためのデータ収集ツール",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1098/9784297131098_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:17.582Z"
+  },
   "foundations-quantum-programming": {
     "title": "量子プログラミングの基礎",
     "isbn": "9784320124059",
@@ -906,6 +938,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6610/9784297146610_1_37.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:51:16.104Z"
+  },
+  "grafana-genba": {
+    "title": "図解と実践で現場で使えるGrafana",
+    "isbn": null,
+    "matchedTitle": "図解と実践で現場で使えるGrafana",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9851/2000012189851.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T13:29:16.445Z"
   },
   "grokking-algorithms-2": {
     "title": "なっとく!アルゴリズム",
@@ -1181,6 +1221,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T12:47:13.291Z"
   },
+  "jissen-django": {
+    "title": "実践Django",
+    "isbn": "9784798153957",
+    "matchedTitle": "実践Django Pythonによる本格Webアプリケーション開発",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3957/9784798153957_1_30.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:28:58.185Z"
+  },
   "jissen-flutter-firebase": {
     "title": "実践FlutterとFirebaseを使ったアプリ開発",
     "isbn": null,
@@ -1213,6 +1261,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:43:19.452Z"
   },
+  "jissen-svelte-nyumon": {
+    "title": "実践Svelte入門",
+    "isbn": "9784297134952",
+    "matchedTitle": "実践 Svelte入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4952/9784297134952_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:05.044Z"
+  },
   "jissen-terraform": {
     "title": "実践Terraform AWSにおけるシステム設計とベストプラクティス",
     "isbn": null,
@@ -1244,6 +1300,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8195/9784065318195_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:09:31.087Z"
+  },
+  "jupyter-notebook-programming": {
+    "title": "Jupyter Notebookで始めるプログラミング",
+    "isbn": "9784780611595",
+    "matchedTitle": "Jupyter Notebookで始めるプログラミング ［増補版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1595/9784780611595.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:00.433Z"
   },
   "kaggle-de-katsu": {
     "title": "Kaggleで勝つデータ分析の技術",
@@ -1309,6 +1373,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:19:30.109Z"
   },
+  "kiso-kara-manabu-tailwind": {
+    "title": "基礎から学ぶTailwind CSS",
+    "isbn": "9784863544390",
+    "matchedTitle": "基礎から学ぶ Tailwind CSS",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4390/9784863544390_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:01.596Z"
+  },
   "kiso-kara-manabu-vuejs": {
     "title": "基礎から学ぶVue.js",
     "isbn": "9784863543232",
@@ -1316,6 +1388,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3232/9784863543232.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:44:18.355Z"
+  },
+  "kiso-kara-wakaru-elm": {
+    "title": "基礎からわかるElm",
+    "isbn": "9784863542228",
+    "matchedTitle": "基礎からわかるElm",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2228/9784863542228.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:28:54.746Z"
   },
   "kitami-kihon-joho": {
     "title": "キタミ式イラストIT塾基本情報技術者",
@@ -1418,6 +1498,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4905/9784295004905.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:41:18.459Z"
+  },
+  "learning-perl-7": {
+    "title": "初めてのPerl",
+    "isbn": "9784873118246",
+    "matchedTitle": "初めてのPerl 第7版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8246/9784873118246.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:28:48.957Z"
   },
   "learning-react-2": {
     "title": "Reactハンズオンラーニング",
@@ -1701,6 +1789,22 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T13:03:02.484Z"
   },
+  "nginx-jissen-nyumon": {
+    "title": "nginx実践入門",
+    "isbn": "9784774178660",
+    "matchedTitle": "nginx実践入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8660/9784774178660.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:09.603Z"
+  },
+  "nodejs-cho-nyumon-4": {
+    "title": "Node.js超入門",
+    "isbn": "9784798062433",
+    "matchedTitle": "Node.js超入門 第3版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2433/9784798062433.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-06T13:29:08.466Z"
+  },
   "non-designers-design-book-4": {
     "title": "ノンデザイナーズ・デザインブック",
     "isbn": "9784839955557",
@@ -1716,6 +1820,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6135/2000001856135.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T13:04:20.458Z"
+  },
+  "numpy-data-shori-nyumon-2": {
+    "title": "現場で使える!NumPyデータ処理入門",
+    "isbn": "9784798186429",
+    "matchedTitle": "現場で使える！NumPyデータ処理入門 第2版 機械学習・データサイエンスで役立つ高速処理手法",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6429/9784798186429_1_175.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:28:57.049Z"
   },
   "nyumon-continuous-delivery": {
     "title": "入門継続的デリバリー",
@@ -1818,6 +1930,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4626/9784297114626.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:43:09.056Z"
+  },
+  "perl-programming-lesson": {
+    "title": "Perl言語プログラミングレッスン",
+    "isbn": null,
+    "matchedTitle": "新版Perl言語プログラミングレッスン 入門編",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8246/2000001848246.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T13:28:52.416Z"
   },
   "pm-shiken-ronjutsu": {
     "title": "プロジェクトマネージャ試験科目B群記述・論述試験の徹底対策",
@@ -1997,6 +2117,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:43:11.372Z"
   },
+  "programming-elm": {
+    "title": "プログラミングElm",
+    "isbn": "9784839970048",
+    "matchedTitle": "プログラミングElm",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0048/9784839970048.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:28:53.597Z"
+  },
   "programming-gengo-kiso-gainen": {
     "title": "プログラミング言語の基礎概念",
     "isbn": "9784781912851",
@@ -2083,6 +2211,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:51:17.243Z"
   },
+  "python-data-science-handbook-2": {
+    "title": "Pythonデータサイエンスハンドブック",
+    "isbn": "9784814400638",
+    "matchedTitle": "Pythonデータサイエンスハンドブック 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0638/9784814400638_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:28:55.893Z"
+  },
   "python-for-data-analysis-3": {
     "title": "Pythonによるデータ分析入門",
     "isbn": "9784814400195",
@@ -2098,6 +2234,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1113/9784297111113.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:12:07.662Z"
+  },
+  "python-probability-statistics-ml": {
+    "title": "科学技術計算のためのPython",
+    "isbn": "9784860434717",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T13:29:39.296Z"
   },
   "python-suri-saitekika": {
     "title": "Pythonではじめる数理最適化",
@@ -2248,6 +2390,14 @@
     "coverUrl": "https://c.bookwalker.jp/9962113/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-06T13:00:43.253Z"
+  },
+  "sass-no-kyokasho-3": {
+    "title": "Web制作者のためのSassの教科書",
+    "isbn": "9784295020745",
+    "matchedTitle": "Web制作者のためのSassの教科書 改訂3版　Webデザインの現場で必須のCSSプリプロセッサ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0745/9784295020745_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:02.746Z"
   },
   "scaling-lean": {
     "title": "図解リーン・スタートアップ成長戦略",
@@ -2485,6 +2635,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:25:20.846Z"
   },
+  "streamlit-nyumon": {
+    "title": "作ってわかる〈入門〉Streamlit",
+    "isbn": "9784297147648",
+    "matchedTitle": "作ってわかる［入門］Streamlit　〜Pythonによる実践Webサービス開発",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7648/9784297147648_1_28.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:28:59.295Z"
+  },
   "sugaku-bunsho-saho": {
     "title": "数学文章作法",
     "isbn": "9784480095268",
@@ -2697,6 +2855,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:44:04.359Z"
   },
+  "wasi-nyumon": {
+    "title": "WebAssembly System Interface入門",
+    "isbn": "9784295603337",
+    "matchedTitle": "OD＞WebAssembly　System　Interface入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3337/9784295603337.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:03.889Z"
+  },
   "web-api-good-parts": {
     "title": "Web API:The Good Parts",
     "isbn": "9784873116860",
@@ -2750,6 +2916,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8849/9784822258849.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:03:31.367Z"
+  },
+  "zabbix-jissen-nyumon-3": {
+    "title": "Zabbix統合監視実践入門",
+    "isbn": "9784297106119",
+    "matchedTitle": "［改訂3版］Zabbix統合監視実践入門──障害通知、傾向分析、可視化による省力運用",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6119/9784297106119.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:29:11.877Z"
   },
   "zero-deep-learning": {
     "title": "ゼロから作るDeep Learning",

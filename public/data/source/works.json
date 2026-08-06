@@ -10417,5 +10417,638 @@
     "isbn": "9784274218644",
     "latestEditionYear": 2016,
     "sourceNote": "書誌(オーム社、2016年、ISBN 9784274218644)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「天野英晴 編」による。"
+  },
+  {
+    "id": "learning-perl-7",
+    "title": "初めてのPerl",
+    "titleKana": "はじめてのぱーる",
+    "authorIds": [
+      "randal-schwartz",
+      "brian-d-foy",
+      "tom-phoenix"
+    ],
+    "techIds": [
+      "perl"
+    ],
+    "translatorIds": [
+      "kondo-yoshiyuki",
+      "shimada-kenji"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "intro",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "beginner",
+    "firstPublishedYear": 1993,
+    "synopsis": "Perlを初めて学ぶ人向けの定番入門書。スカラー・配列・ハッシュという基本のデータ型から、正規表現、ファイル入出力、サブルーチン、モジュールの利用までを、演習を挟みながら順に扱う。テキスト処理の道具として使い始めるまでを短く導く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873118246",
+    "edition": "第7版",
+    "latestEditionYear": 2018,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Learning Perl",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2018年、ISBN 9784873118246)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Randal L.Schwartz, brian d foy, Tom Phoenix 著,近藤嘉雪, 嶋田健志 訳」による。原著の初版年1993年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "perl-programming-lesson",
+    "title": "Perl言語プログラミングレッスン",
+    "titleKana": "perlげんごぷろぐらみんぐれっすん",
+    "authorIds": [
+      "yuki-hiroshi"
+    ],
+    "techIds": [
+      "perl"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2001,
+    "synopsis": "Perlの文法を、初学者がつまずく箇所を先回りしながら丁寧に解説した入門書。変数と制御構造から、正規表現、リファレンス、オブジェクト指向までを、小さなプログラムを積み上げる形で扱う。説明の順序が練られており独学に向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "latestEditionYear": 2006,
+    "sourceNote": "書誌(ソフトバンククリエイティブ、2006年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「結城浩 著」による。初版の刊行年2001年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "programming-elm",
+    "title": "プログラミングElm",
+    "titleKana": "ぷろぐらみんぐえるむ",
+    "authorIds": [
+      "jeremy-fairbank"
+    ],
+    "techIds": [
+      "elm",
+      "javascript"
+    ],
+    "translatorIds": [
+      "yagi-no-sakura"
+    ],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "intro",
+      "design-architecture"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "Elmでフロントエンドを組み立てる方法を解説した本。モデル・更新・ビューという構造でアプリケーションを表現する考え方から、副作用の扱い、テスト、既存のJavaScriptとの連携、そして規模が大きくなったときの分割までを扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784839970048",
+    "latestEditionYear": 2021,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Programming Elm",
+    "sourceNote": "邦訳版の書誌(マイナビ出版、2021年、ISBN 9784839970048)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Jeremy Fairbank 著,ヤギのさくらちゃん 訳」による。原著の初版年2019年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "kiso-kara-wakaru-elm",
+    "title": "基礎からわかるElm",
+    "titleKana": "きそからわかるえるむ",
+    "authorIds": [
+      "torii-yosuke"
+    ],
+    "techIds": [
+      "elm",
+      "javascript"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2019,
+    "synopsis": "Elmを日本語で基礎から学べる入門書。関数型の書き方に慣れるところから始め、型システム、モデルと更新の流れ、HTTP通信、そして実際に動くアプリケーションの作成までを扱う。関数型言語が初めての読者を想定している。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784863542228",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(シーアンドアール研究所、2019年、ISBN 9784863542228)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「鳥居陽介 著」による。"
+  },
+  {
+    "id": "python-data-science-handbook-2",
+    "title": "Pythonデータサイエンスハンドブック",
+    "titleKana": "ぱいそんでーたさいえんすはんどぶっく",
+    "authorIds": [
+      "jake-vanderplas"
+    ],
+    "techIds": [
+      "python",
+      "machine-learning",
+      "data-engineering"
+    ],
+    "translatorIds": [
+      "kikuchi-akira"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2016,
+    "synopsis": "Pythonのデータ分析まわりの道具立てを一冊にまとめた参照書。Jupyterの使い方、NumPyの配列操作、pandasのデータフレーム、Matplotlibによる可視化、そしてscikit-learnによる機械学習までを、それぞれ独立して引ける形で解説する。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814400638",
+    "edition": "第2版",
+    "latestEditionYear": 2024,
+    "jpPublishedYear": 2024,
+    "originalTitle": "Python Data Science Handbook",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2024年、ISBN 9784814400638)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Jake VanderPlas 著,菊池彰 訳」による。原著の初版年2016年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "numpy-data-shori-nyumon-2",
+    "title": "現場で使える!NumPyデータ処理入門",
+    "titleKana": "げんばでつかえるなんぱいでーたしょりにゅうもん",
+    "authorIds": [
+      "yoshida-takuma",
+      "ohara-so"
+    ],
+    "techIds": [
+      "python",
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2018,
+    "synopsis": "NumPyの配列操作を体系立てて解説した本。形状の変換、ブロードキャスト、インデクシング、ユニバーサル関数、線形代数と乱数といった機能を、なぜ高速なのかという仕組みとともに扱う。ループを書かずに処理する発想が身につく。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798186429",
+    "edition": "改訂版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(翔泳社、2024年、ISBN 9784798186429)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「吉田拓真, 尾原颯 著」による。初版の刊行年2015年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "jissen-django",
+    "title": "実践Django",
+    "titleKana": "じっせんじゃんご",
+    "authorIds": [
+      "shibata-masashi"
+    ],
+    "techIds": [
+      "django",
+      "python",
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2021,
+    "synopsis": "DjangoでWebアプリケーションを本格的に開発するための実践書。モデルとORM、ビューとテンプレート、フォーム、認証といった基本に加え、テスト、非同期処理、デプロイ、設定の分離といった運用に必要な話題まで踏み込む。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798153957",
+    "latestEditionYear": 2021,
+    "sourceNote": "書誌(翔泳社、2021年、ISBN 9784798153957)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「芝田将 著」による。"
+  },
+  {
+    "id": "streamlit-nyumon",
+    "title": "作ってわかる〈入門〉Streamlit",
+    "titleKana": "つくってわかるにゅうもんすとりーむりっと",
+    "authorIds": [
+      "toyosawa-satoshi"
+    ],
+    "techIds": [
+      "python",
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "build-to-learn",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2024,
+    "synopsis": "StreamlitでPythonのコードからWebアプリケーションを作る入門書。入力部品と表示、状態の保持、グラフやデータフレームの描画、ファイルの受け渡しといった機能を、動く題材を通して順に扱う。分析結果を共有する道具として使える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297147648",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(技術評論社、2025年、ISBN 9784297147648)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「豊沢聡 著」による。初版の刊行年2024年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "jupyter-notebook-programming",
+    "title": "Jupyter Notebookで始めるプログラミング",
+    "titleKana": "じゅぴたーのーとぶっくではじめるぷろぐらみんぐ",
+    "authorIds": [
+      "kuwata-yoshitaka",
+      "ogawa-yukio",
+      "hayasaka-naruhito",
+      "ishizaka-toru"
+    ],
+    "techIds": [
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "gakujutsu-tosho",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2017,
+    "synopsis": "Jupyter Notebookを使ってプログラミングを学ぶ大学向けの教科書。環境の準備から、Pythonの基本文法、数値計算、データの可視化までを、実行結果を確かめながら進める形式で扱う。手を動かしながら読む構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784780611595",
+    "edition": "改訂版",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(学術図書出版社、2023年、ISBN 9784780611595)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「桑田喜隆, 小川祐紀雄, 早坂成人, 石坂徹 共著」による。初版の刊行年2017年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "kiso-kara-manabu-tailwind",
+    "title": "基礎から学ぶTailwind CSS",
+    "titleKana": "きそからまなぶているうぃんどしーえすえす",
+    "authorIds": [
+      "sano-daiki"
+    ],
+    "techIds": [
+      "html-css"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2022,
+    "synopsis": "ユーティリティクラスを組み合わせて画面を作るTailwind CSSの入門書。クラスの命名規則とレイアウト、レスポンシブ対応、テーマのカスタマイズ、コンポーネント化の考え方までを扱う。従来のCSS設計と何が違うのかが掴める。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784863544390",
+    "edition": "改訂版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(シーアンドアール研究所、2024年、ISBN 9784863544390)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「佐野大樹 [ほか] 著」による。初版の刊行年2022年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "sass-no-kyokasho-3",
+    "title": "Web制作者のためのSassの教科書",
+    "titleKana": "うぇぶせいさくしゃのためのさすのきょうかしょ",
+    "authorIds": [
+      "hirasawa-takashi",
+      "morita-so"
+    ],
+    "techIds": [
+      "html-css"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2014,
+    "synopsis": "CSSプリプロセッサSassの使い方をまとめた解説書。変数、ネスト、ミックスイン、関数、モジュールの分割といった機能を、実際の制作でどう使うかという観点で示す。素のCSSでは繰り返しになる記述を整理する手立てが得られる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295020745",
+    "edition": "第3版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(インプレス、2024年、ISBN 9784295020745)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「平澤隆, 森田壮 著」による。初版の刊行年2001年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "wasi-nyumon",
+    "title": "WebAssembly System Interface入門",
+    "titleKana": "うぇぶあせんぶりーしすてむいんたーふぇーすにゅうもん",
+    "authorIds": [
+      "yagi-asuka"
+    ],
+    "techIds": [
+      "webassembly"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress-np",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2024,
+    "synopsis": "WebAssemblyをブラウザの外で動かすための規格WASIを解説した本。ファイルやネットワークといったシステム資源への安全なアクセスをどう定義しているかを、0.1と0.2それぞれの仕様に沿って読み解く。日本語の資料が少ない領域を埋める。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295603337",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(インプレスNextPublishing、2024年、ISBN 9784295603337)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「八木明日香 著」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "jissen-svelte-nyumon",
+    "title": "実践Svelte入門",
+    "titleKana": "じっせんすべるとにゅうもん",
+    "authorIds": [
+      "kyohei-hamaguchi",
+      "koseki-yasuhiro"
+    ],
+    "techIds": [
+      "svelte",
+      "javascript",
+      "typescript"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2020,
+    "synopsis": "Svelteによるフロントエンド開発の入門書。コンポーネントの記述、リアクティブな値の扱い、ストアによる状態管理、そしてSvelteKitを使ったルーティングとサーバーサイド処理までを扱う。ビルド時に処理を寄せる方式の利点が見える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297134952",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(技術評論社、2023年、ISBN 9784297134952)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Kyohei Hamaguchi, 小関泰裕 著」による。初版の刊行年2020年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "astro-kaihatsu-kyokasho",
+    "title": "Astroフロントエンド開発の教科書",
+    "titleKana": "あすとろふろんとえんどかいはつのきょうかしょ",
+    "authorIds": [
+      "saito-shinzo",
+      "yamada-yoshihiro"
+    ],
+    "techIds": [
+      "astro",
+      "javascript",
+      "typescript"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2022,
+    "synopsis": "コンテンツ中心のサイト構築に向いたフレームワークAstroの教科書。ページとレイアウトの構成、コンテンツコレクション、必要な部分だけを動的にする仕組み、他のUIフレームワークとの併用までを扱う。配信するJavaScriptを減らす設計が学べる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297150082",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(技術評論社、2025年、ISBN 9784297150082)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「齊藤新三 著,山田祥寛 監修」による。初版の刊行年1973年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "nodejs-cho-nyumon-4",
+    "title": "Node.js超入門",
+    "titleKana": "のーどじぇいえすちょうにゅうもん",
+    "authorIds": [
+      "shoda-tsuyano"
+    ],
+    "techIds": [
+      "nodejs",
+      "javascript"
+    ],
+    "translatorIds": [],
+    "publisherId": "shuwa-system",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2017,
+    "synopsis": "Node.jsでサーバーサイドの処理を書き始めるための入門書。モジュールの仕組み、HTTPサーバーの構築、Expressによるルーティング、テンプレート、データベース連携までを、手を動かしながら順に扱う。JavaScriptの経験があれば読み進められる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798070285",
+    "edition": "第4版",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(秀和システム、2023年、ISBN 9784798070285)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「掌田津耶乃 著」による。初版の刊行年2017年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "nginx-jissen-nyumon",
+    "title": "nginx実践入門",
+    "titleKana": "えんじんえっくすじっせんにゅうもん",
+    "authorIds": [
+      "kubo-tatsuhiko",
+      "michii-shunsuke"
+    ],
+    "techIds": [
+      "nginx",
+      "linux",
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "performance"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2016,
+    "synopsis": "nginxを実運用で使うための解説書。設定ファイルの構造とディレクティブ、リバースプロキシとロードバランサとしての構成、キャッシュ、TLS、そして性能の測定と調整までを扱う。大量のリクエストを捌く前段をどう組むかが具体的に分かる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784774178660",
+    "latestEditionYear": 2016,
+    "sourceNote": "書誌(技術評論社、2016年、ISBN 9784774178660)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「久保達彦, 道井俊介 著」による。"
+  },
+  {
+    "id": "apache-iceberg-nyumon",
+    "title": "Apache Iceberg活用入門",
+    "titleKana": "あぱっちあいすばーぐかつようにゅうもん",
+    "authorIds": [
+      "tomer-shiran",
+      "jason-hughes",
+      "alex-merced"
+    ],
+    "techIds": [
+      "data-engineering",
+      "nosql"
+    ],
+    "translatorIds": [
+      "ebihara-yuya",
+      "sano-chihiro"
+    ],
+    "publisherId": "impress",
+    "themeIds": [
+      "theory",
+      "design-architecture"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2024,
+    "synopsis": "データレイク上のファイル群をテーブルとして扱うためのフォーマットIcebergを解説した本。スキーマ変更やタイムトラベルをどう実現しているかという内部構造から、各種クエリエンジンとの連携、移行の手順までを扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295023159",
+    "latestEditionYear": 2025,
+    "jpPublishedYear": 2025,
+    "originalTitle": "Apache Iceberg: The Definitive Guide",
+    "sourceNote": "邦訳版の書誌(インプレス、2025年、ISBN 9784295023159)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Tomer Shiran, Jason Hughes, Alex Merced 著,蛯原裕弥, 佐野千紘 訳・監修」による。原著の初版年2024年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "zabbix-jissen-nyumon-3",
+    "title": "Zabbix統合監視実践入門",
+    "titleKana": "ざびっくすとうごうかんしじっせんにゅうもん",
+    "authorIds": [
+      "terashima-kodai"
+    ],
+    "techIds": [
+      "observability",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2010,
+    "synopsis": "統合監視ツールZabbixの導入と運用をまとめた実践書。監視項目とトリガーの設計、障害通知の組み立て、傾向分析とグラフによる可視化、そして大規模構成での運用までを扱う。監視で何を見るべきかという設計面にも踏み込んでいる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297106119",
+    "edition": "第3版",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(技術評論社、2019年、ISBN 9784297106119)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「寺島広大 著」による。初版の刊行年2010年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "grafana-genba",
+    "title": "図解と実践で現場で使えるGrafana",
+    "titleKana": "ずかいとじっせんでげんばでつかえるぐらふぁな",
+    "authorIds": [
+      "hoshiba-yusuke"
+    ],
+    "techIds": [
+      "observability"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress-rd",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2022,
+    "synopsis": "可視化ツールGrafanaを運用の現場で使うための解説書。データソースの接続、ダッシュボードとパネルの設計、アラートの設定、そして権限管理や自動化までを図解とともに扱う。集めた指標を判断に使える形にする手立てが得られる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295601487",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(インプレスR&D、2022年、ISBN 9784295601487)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「干場雄介, 北崎恵凡, 青木敬樹, 高橋哲平, 八神祥司, 鶴岡浩平, 瀧川大樹 著」による。"
+  },
+  {
+    "id": "fluentd-jissen-nyumon",
+    "title": "Fluentd実践入門",
+    "titleKana": "ふるーえんとでぃーじっせんにゅうもん",
+    "authorIds": [
+      "tagomori-satoshi"
+    ],
+    "techIds": [
+      "observability",
+      "data-engineering"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2022,
+    "synopsis": "ログ収集ツールFluentdの主要開発者による解説書。入力・フィルタ・出力というプラグイン構成、バッファリングと再送の仕組み、複数ノードでの構成、そして障害時の挙動までを扱う。統合ログ基盤を設計するときの判断材料になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297131098",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(技術評論社、2022年、ISBN 9784297131098)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「田籠聡 著」による。"
+  },
+  {
+    "id": "apache-kafka-hajimeru",
+    "title": "Apache Kafkaをはじめる",
+    "titleKana": "あぱっちかふかおはじめる",
+    "authorIds": [
+      "sasaki-kentaro"
+    ],
+    "techIds": [
+      "kafka",
+      "distributed-systems",
+      "data-engineering"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress-rd",
+    "themeIds": [
+      "intro",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2016,
+    "synopsis": "Apache Kafkaの基本を、実際に動かしながら学ぶ入門書。トピックとパーティション、生産者と消費者、オフセット管理といった中核の概念を押さえたうえで、レプリケーションによる耐障害性やストリーム処理への発展を扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295601111",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(インプレスR&D、2022年、ISBN 9784295601111)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「佐々木健太朗 著」による。初版の刊行年2016年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "python-probability-statistics-ml",
+    "title": "科学技術計算のためのPython",
+    "titleKana": "かがくぎじゅつけいさんのためのぱいそん",
+    "authorIds": [
+      "jose-unpingco"
+    ],
+    "techIds": [
+      "python",
+      "math",
+      "machine-learning"
+    ],
+    "translatorIds": [
+      "ishii-kazuo",
+      "kato-koichi-tr",
+      "ogawa-fumie"
+    ],
+    "publisherId": "nts",
+    "themeIds": [
+      "theory",
+      "build-to-learn"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2016,
+    "synopsis": "確率・統計・機械学習の理論を、Pythonの実装と対にして解説した教科書。確率分布と推定、仮説検定といった土台から、正則化や交差検証、代表的な学習アルゴリズムまでを扱う。数式と動くコードを行き来しながら理解を固められる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784860434717",
+    "latestEditionYear": 2016,
+    "jpPublishedYear": 2016,
+    "originalTitle": "Python for Probability, Statistics, and Machine Learning",
+    "sourceNote": "邦訳版の書誌(エヌ・ティー・エス、2016年、ISBN 9784860434717)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「José Unpingco 著,石井一夫, 加藤公一, 小川史恵 訳」による。原著の初版年2016年はOpenLibrary/英語版Wikipediaの書誌による。"
   }
 ]
