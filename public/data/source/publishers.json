@@ -463,5 +463,24 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "impress-japan",
+    "name": "インプレスジャパン",
+    "nameKana": "いんぷれすじゃぱん",
+    "description": "インプレスグループの出版社。ネットワークとIT分野の技術書を刊行していた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "cq-shuppan",
+    "name": "CQ出版",
+    "nameKana": "しーきゅーしゅっぱん",
+    "description": "日本の出版社。『トランジスタ技術』『Interface』など電子工学と組み込み分野の雑誌・書籍を刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1954
   }
 ]

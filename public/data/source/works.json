@@ -9729,5 +9729,693 @@
     "jpPublishedYear": 2014,
     "originalTitle": "The Elements of Statistical Learning",
     "sourceNote": "邦訳版の書誌(共立出版、2014年、ISBN 9784320123625)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Trevor Hastie, Robert Tibshirani, Jerome Friedman 著,杉山将, 井手剛, 神嶌敏弘, 栗田多喜夫, 前田英作 監訳,井尻善久 他訳」による。原著の初版年2001年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "docker-jissen-guide-3",
+    "title": "Docker実践ガイド",
+    "titleKana": "どっかーじっせんがいど",
+    "authorIds": [
+      "koga-masazumi"
+    ],
+    "techIds": [
+      "docker",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "practice",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2015,
+    "synopsis": "Dockerを業務のインフラとして使うための実践書。イメージの設計とレジストリの運用、ネットワークとストレージの構成、監視とログ、そして本番環境での可用性の確保までを扱う。開発環境の話にとどまらない運用寄りの内容が中心になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295015895",
+    "edition": "第3版",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(インプレス、2023年、ISBN 9784295015895)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「古賀政純 著」による。初版の刊行年2015年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "kubernetes-container-security",
+    "title": "リスクから学ぶKubernetesコンテナセキュリティ",
+    "titleKana": "りすくからまなぶくーばねてすこんてなせきゅりてぃ",
+    "authorIds": [
+      "mochizuki-keita"
+    ],
+    "techIds": [
+      "kubernetes",
+      "docker",
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2023,
+    "synopsis": "コンテナ環境に固有のリスクを整理し、対策を段階的に示した本。イメージの脆弱性、権限とケーパビリティ、ネットワークポリシー、シークレットの扱い、そしてクラスタ自体の防御までを、攻撃の筋道と対で説明する。開発者が押さえるべき範囲に絞られている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798182780",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(翔泳社、2024年、ISBN 9784798182780)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「望月敬太 著」による。初版の刊行年2023年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "cloud-native-devops-kubernetes",
+    "title": "Kubernetesで実践するクラウドネイティブDevOps",
+    "titleKana": "くーばねてぃすでじっせんするくらうどねいてぃぶでゔおぷす",
+    "authorIds": [
+      "john-arundel",
+      "justin-domingus"
+    ],
+    "techIds": [
+      "kubernetes",
+      "devops",
+      "observability"
+    ],
+    "translatorIds": [
+      "suda-kazuki",
+      "watanabe-ryosuke"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice",
+      "team-process"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2019,
+    "synopsis": "Kubernetesを前提にした運用の進め方をまとめた本。クラスタの選択と構築、マニフェストの管理、設定とシークレット、デプロイ戦略、監視とオブザーバビリティ、そしてコストの最適化までを扱う。道具の使い方より運用設計に軸がある。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873119014",
+    "latestEditionYear": 2020,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Cloud Native DevOps with Kubernetes",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2020年、ISBN 9784873119014)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「John Arundel, Justin Domingus 著,須田一輝 監訳,渡邉了介 訳」による。原著の初版年2019年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "cloud-native-architectures",
+    "title": "クラウドネイティブ・アーキテクチャ",
+    "titleKana": "くらうどねいてぃぶあーきてくちゃ",
+    "authorIds": [
+      "tom-laszewski",
+      "kamal-arora",
+      "erik-farr",
+      "piyum-zonooz"
+    ],
+    "techIds": [
+      "aws",
+      "software-architecture"
+    ],
+    "translatorIds": [
+      "top-studio"
+    ],
+    "publisherId": "impress",
+    "themeIds": [
+      "design-architecture",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "クラウドを前提とした設計の原則をまとめた本。スケーラビリティと可用性、マネージドサービスの活用、疎結合な構成、そして費用対効果の考え方を、成熟度の段階に沿って整理する。既存システムをどう近づけていくかという移行の観点も扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295007753",
+    "latestEditionYear": 2019,
+    "jpPublishedYear": 2019,
+    "originalTitle": "Cloud Native Architectures",
+    "sourceNote": "邦訳版の書誌(インプレス、2019年、ISBN 9784295007753)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Tom Laszewski, Kamal Arora, Erik Farr, Piyum Zonooz 著,トップスタジオ 訳」による。原著の初版年2018年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "aws-ml-associate-text",
+    "title": "AWS認定資格試験テキスト　AWS認定マシンラーニングエンジニア - アソシエイト",
+    "titleKana": "えーだぶりゅーえすにんていしかくしけんてきすとえーだぶりゅーえすにんていましんらーにんぐえんじにああそしえいと",
+    "authorIds": [
+      "yamashita-mitsuhiro"
+    ],
+    "techIds": [
+      "aws",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2026,
+    "synopsis": "AWS認定マシンラーニングエンジニア アソシエイトの対策書。データの準備、モデルの学習とチューニング、デプロイと運用、そして監視とセキュリティという試験範囲を、対応するAWSサービスと結びつけて解説する。演習問題も収録されている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815631512",
+    "latestEditionYear": 2026,
+    "sourceNote": "書誌(ＳＢクリエイティブ、2026年、ISBN 9784815631512)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「山下光洋 著・文・その他」による。"
+  },
+  {
+    "id": "aws-gyomu-system-guide",
+    "title": "Amazon Web Services業務システム設計・移行ガイド",
+    "titleKana": "あまぞんうぇぶさーびすぎょうむしすてむせっけいいこうがいど",
+    "authorIds": [
+      "sasaki-takuro",
+      "hayashi-shinichiro",
+      "setojima-toshihiro",
+      "miyagawa-ryo",
+      "kanazawa-kei"
+    ],
+    "techIds": [
+      "aws"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "既存の業務システムをAWSへ移す際の設計と手順をまとめた本。ネットワークと権限の設計、可用性とバックアップ、移行方式の選択、運用体制と監査への対応までを扱う。オンプレミスの前提が通用しない箇所に焦点が当てられている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784797392562",
+    "latestEditionYear": 2018,
+    "sourceNote": "書誌(SBクリエイティブ、2018年、ISBN 9784797392562)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「佐々木拓郎, 林晋一郎, 瀬戸島敏宏, 宮川亮, 金澤圭 著」による。"
+  },
+  {
+    "id": "aws-kihon-shikumi-kyokasho",
+    "title": "AWSの基本・仕組み・重要用語が全部わかる教科書",
+    "titleKana": "えーだぶりゅーえすのきほんしくみじゅうようようごがぜんぶわかるきょうかしょ",
+    "authorIds": [
+      "kawabata-kohei",
+      "kikuchi-takaaki",
+      "manaka-toshiki"
+    ],
+    "techIds": [
+      "aws"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2022,
+    "synopsis": "AWSの主要サービスと用語を、図解中心に一つずつ説明した入門書。仮想サーバー、ストレージ、ネットワーク、データベース、権限管理といった基本要素の役割と関係を示す。個々の操作手順より、全体像を先に掴みたいときに向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815607852",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(SBクリエイティブ、2022年、ISBN 9784815607852)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「川畑光平, 菊地貴彰, 真中俊輝 著」による。"
+  },
+  {
+    "id": "azure-jissen-guide",
+    "title": "Microsoft Azure実践ガイド",
+    "titleKana": "まいくろそふとあじゅーるじっせんがいど",
+    "authorIds": [
+      "makabe-toru",
+      "matsui-ryohei",
+      "mizutani-hiromi",
+      "yokotani-shunsuke"
+    ],
+    "techIds": [
+      "azure"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "practice",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2017,
+    "synopsis": "Microsoft Azureを使ったシステム構築の実践書。仮想マシンとネットワークの設計、ストレージ、データベース、監視と自動化、そして既存のオンプレミス環境との接続を扱う。企業システムでの利用を前提にした構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784295002796",
+    "latestEditionYear": 2017,
+    "sourceNote": "書誌(インプレス、2017年、ISBN 9784295002796)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「真壁徹, 松井亮平, 水谷広巳, 横谷俊介 著」による。"
+  },
+  {
+    "id": "gcp-ace-text",
+    "title": "合格対策Google Cloud認定資格Associate Cloud Engineerテキスト&演習問題",
+    "titleKana": "ごうかくたいさくぐーぐるくらうどにんていしかくあそしえいとくらうどえんじにあてきすとあんどえんしゅうもんだい",
+    "authorIds": [
+      "sugimura-yuma",
+      "sasaki-shunta",
+      "fujioka-satomi"
+    ],
+    "techIds": [
+      "gcp"
+    ],
+    "translatorIds": [],
+    "publisherId": "ric-telecom",
+    "themeIds": [
+      "certification",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2021,
+    "synopsis": "Google Cloudの認定資格Associate Cloud Engineerに対応した対策書。コンピュート、ストレージ、ネットワーク、権限管理、監視といった出題範囲を解説し、演習問題で確認する。資格対策と並行してGCPの全体像を掴める。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784865944457",
+    "edition": "改訂版",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(リックテレコム、2025年、ISBN 9784865944457)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「杉村勇馬, 佐々木駿太, 藤岡里美 著」による。初版の刊行年2021年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "ipv6-network-jisshu",
+    "title": "IPv6ネットワーク構築実習",
+    "titleKana": "あいぴーゔいしっくすねっとわーくこうちくじっしゅう",
+    "authorIds": [
+      "maeno-joji",
+      "suzuta-ichiro",
+      "kobayashi-takayuki"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "kyoritsu",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2013,
+    "synopsis": "IPv6のネットワークを実際に構築しながら学ぶ実習書。アドレス体系と近隣探索、ルーティング設定、DNSとの連携、IPv4との共存といった項目を、機材や仮想環境での演習として進める。仕様の理解を手を動かして確かめられる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784320123359",
+    "latestEditionYear": 2013,
+    "sourceNote": "書誌(共立出版、2013年、ISBN 9784320123359)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「前野譲二, 鈴田伊知郎, 小林貴之 著」による。初版の刊行年1996年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "cisco-network-kyokasho",
+    "title": "Ciscoネットワーク構築教科書",
+    "titleKana": "しすこねっとわーくこうちくきょうかしょ",
+    "authorIds": [
+      "cisco-systems"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress-japan",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2002,
+    "synopsis": "シスコの機器を前提にしたネットワーク構築の教材。スイッチとルーターの基本設定、VLAN、ルーティングプロトコル、アクセス制御といった項目を、設定コマンドとともに解説する。企業ネットワークの現場で必要になる操作が中心。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784844333227",
+    "latestEditionYear": 2012,
+    "sourceNote": "書誌(インプレスジャパン、2012年、ISBN 9784844333227)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「シスコシステムズ合同会社 著」による。初版の刊行年2002年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "network-programmability-automation",
+    "title": "ネットワーク自動化とプログラマビリティ",
+    "titleKana": "ねっとわーくじどうかとぷろぐらまびりてぃ",
+    "authorIds": [
+      "jason-edelman",
+      "scott-lowe",
+      "matt-oswalt"
+    ],
+    "techIds": [
+      "network",
+      "python",
+      "ansible"
+    ],
+    "translatorIds": [
+      "tsuchiya-taiji",
+      "makino-satoshi"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "ネットワーク機器の設定を手作業からコードへ移すための本。PythonとJinja2によるテンプレート化、APIによる機器操作、AnsibleやTerraformの活用、そして構成のテストと継続的な検証までを扱う。運用の作法そのものを変える内容になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873119816",
+    "latestEditionYear": 2022,
+    "jpPublishedYear": 2022,
+    "originalTitle": "Network Programmability and Automation",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2022年、ISBN 9784873119816)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Jason Edelman, Scott S.Lowe, Matt Oswalt 著,土屋太二 監訳,牧野聡 訳」による。原著の初版年2018年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "network-dosa-shiken-nyumon",
+    "title": "インフラ/ネットワークエンジニアのためのネットワーク「動作試験」入門",
+    "titleKana": "いんふらねっとわーくえんじにあのためのねっとわーくどうさしけんにゅうもん",
+    "authorIds": [
+      "miyata-hiroshi"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "practice",
+      "testing"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2021,
+    "synopsis": "ネットワークが設計どおりに動くかを確かめる試験の進め方をまとめた本。単体試験から結合試験、性能試験、そして障害を意図的に起こす試験までを、何を確認したいのかという目的から組み立てる。構築の後工程で迷いがちな部分を埋める。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815609207",
+    "latestEditionYear": 2021,
+    "sourceNote": "書誌(SBクリエイティブ、2021年、ISBN 9784815609207)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「みやたひろし 著」による。初版の刊行年1996年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "internet-no-katachi",
+    "title": "インターネットのカタチ",
+    "titleKana": "いんたーねっとのかたち",
+    "authorIds": [
+      "akimichi",
+      "kuga-yohei"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "theory",
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2011,
+    "synopsis": "インターネットが多数の組織の緩やかな相互接続で成り立っていることを、実際に起きた障害の事例から描いた本。経路のハイジャック、海底ケーブルの切断、大規模な輻輳といった出来事を追い、脆さと粘り強さの両面を示す。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784274068249",
+    "latestEditionYear": 2011,
+    "sourceNote": "書誌(オーム社、2011年、ISBN 9784274068249)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「あきみち, 空閑洋平 共著」による。"
+  },
+  {
+    "id": "dns-kyokasho-2",
+    "title": "DNSがよくわかる教科書",
+    "titleKana": "でぃーえぬえすがよくわかるきょうかしょ",
+    "authorIds": [
+      "watanabe-yui"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2018,
+    "synopsis": "DNSの仕組みと運用を体系的に解説した本。名前解決の流れ、リソースレコードの種類、権威サーバーとキャッシュサーバーの役割、そしてDNSSECやトラブル対応までを扱う。何となく使っている状態から、設計と障害切り分けができる段階へ進める。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815622657",
+    "edition": "改訂版",
+    "latestEditionYear": 2026,
+    "sourceNote": "書誌(SBクリエイティブ、2026年、ISBN 9784815622657)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「渡邉結衣 [ほか] 著,森下泰宏 監修」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "professional-ipv6",
+    "title": "プロフェッショナルIPv6",
+    "titleKana": "ぷろふぇっしょなるipv6",
+    "authorIds": [
+      "ogawa-akitsugu"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "lambdanote",
+    "themeIds": [
+      "reference",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "IPv6の仕様を包括的に解説した本。アドレスの構造と割り当て、近隣探索、経路制御、DNSとの関係、IPv4との共存技術までを、RFCの記述をたどりながら扱う。日本語でIPv6を正確に押さえたいときの参照書になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784908686047",
+    "edition": "第2版",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(ラムダノート、2019年、ISBN 9784908686047)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「小川晃通著」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "iot-5g-dx-network-security",
+    "title": "IoT/5G/DXのネットワーク技術・セキュリティ技術",
+    "titleKana": "あいおーてぃーふぁいゔじーでぃーえっくすのねっとわーくぎじゅつせきゅりてぃぎじゅつ",
+    "authorIds": [
+      "miyaho-kenji",
+      "okada-kenji",
+      "kasama-takahiro"
+    ],
+    "techIds": [
+      "network",
+      "security",
+      "embedded"
+    ],
+    "translatorIds": [],
+    "publisherId": "morikita",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2021,
+    "synopsis": "IoTと5Gを支えるネットワーク技術と、それに伴うセキュリティ課題を整理した本。無線の方式やエッジ処理といった技術動向に加え、標準化と知的財産の観点まで扱う。個々の実装というより分野全体の見取り図を与える構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784627856714",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(森北出版、2022年、ISBN 9784627856714)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「宮保憲治, 岡田賢治, 笠間貴弘 共著」による。初版の刊行年2021年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "fpga-verilog-hdl-nyumon",
+    "title": "超入門!FPGAスタータ・キットDE0で始めるVerilog HDL",
+    "titleKana": "ちょうにゅうもんfpgaすたーたきっとde0ではじめるveriloghdl",
+    "authorIds": [
+      "serai-shigeki"
+    ],
+    "techIds": [
+      "fpga"
+    ],
+    "translatorIds": [],
+    "publisherId": "cq-shuppan",
+    "themeIds": [
+      "build-to-learn",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2011,
+    "synopsis": "FPGAの評価ボードを使い、Verilog HDLで回路を記述して動かす入門書。開発環境の導入から、組合せ回路と順序回路の記述、シミュレーション、実機での動作確認までを順に進める。ハードウェア記述を実物で覚えられる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784789831376",
+    "latestEditionYear": 2011,
+    "sourceNote": "書誌(CQ出版、2011年、ISBN 9784789831376)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「芹井滋喜 著」による。初版の刊行年1995年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "quantum-computer-ai",
+    "title": "量子コンピュータが人工知能を加速する",
+    "titleKana": "りょうしこんぴゅーたがじんこうちのうおかそくする",
+    "authorIds": [
+      "nishimori-hidetoshi",
+      "ozeki-masayuki"
+    ],
+    "techIds": [
+      "quantum",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2016,
+    "synopsis": "量子アニーリングの提唱者自身が、その原理と機械学習への応用を一般向けに語った本。組合せ最適化をどう量子的に解くのか、既存の計算機と何が違うのかを、数式を抑えて説明する。この分野の経緯を知る読み物としても読める。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784822251895",
+    "latestEditionYear": 2016,
+    "sourceNote": "書誌(日経BP社、2016年、ISBN 9784822251895)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「西森秀稔, 大関真之 著」による。"
+  },
+  {
+    "id": "kiso-kara-manabu-quantum",
+    "title": "基礎から学ぶ量子コンピューティング",
+    "titleKana": "きそからまなぶりょうしこんぴゅーてぃんぐ",
+    "authorIds": [
+      "kudo-kazue"
+    ],
+    "techIds": [
+      "quantum",
+      "optimization"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2023,
+    "synopsis": "量子コンピューティングを、イジングマシンの仕組みを中心に解説した入門書。量子ビットと重ね合わせの基礎を押さえたうえで、アニーリング方式による最適化問題の解き方と、ゲート方式との違いを扱う。応用側から入りたい読者に向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784274230509",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(オーム社、2023年、ISBN 9784274230509)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「工藤和恵 著」による。初版の刊行年2003年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "minna-no-quantum-computer",
+    "title": "みんなの量子コンピュータ",
+    "titleKana": "みんなのりょうしこんぴゅーた",
+    "authorIds": [
+      "chris-bernhardt"
+    ],
+    "techIds": [
+      "quantum",
+      "math"
+    ],
+    "translatorIds": [
+      "minato-yuichiro",
+      "nakata-maho"
+    ],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "量子計算の基礎理論を、線形代数の最小限の道具立てだけで説明する本。量子ビットとエンタングルメント、量子ゲート、そしてショアやグローバーのアルゴリズムまでを、比喩に頼らず数式で追う。物理の予備知識がなくても読み進められる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798163574",
+    "latestEditionYear": 2020,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Quantum Computing for Everyone",
+    "sourceNote": "邦訳版の書誌(翔泳社、2020年、ISBN 9784798163574)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Chris Bernhardt 著,湊雄一郎, 中田真秀 監修・翻訳」による。原著の初版年2019年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "blockchain-gijutsu-kyokasho",
+    "title": "ブロックチェーン技術の教科書",
+    "titleKana": "ぶろっくちぇーんぎじゅつのきょうかしょ",
+    "authorIds": [
+      "sato-masashi",
+      "hasegawa-keisuke",
+      "sako-kazue",
+      "namiki-yuta",
+      "kajigaya-keisuke",
+      "matsuo-shinichiro"
+    ],
+    "techIds": [
+      "blockchain",
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2018,
+    "synopsis": "ブロックチェーンの技術要素を、暗号研究者らが分担して解説した本。ハッシュと電子署名、合意形成のアルゴリズム、スマートコントラクト、そして安全性の議論と法制度までを扱う。仮想通貨の話題ではなく技術そのものが主題になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784863542433",
+    "latestEditionYear": 2018,
+    "sourceNote": "書誌(シーアンドアール研究所、2018年、ISBN 9784863542433)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「佐藤雅史, 長谷川佳祐, 佐古和恵, 並木悠太, 梶ケ谷圭祐, 松尾真一郎 著,セコム株式会社IS研究所, NEC 編」による。"
+  },
+  {
+    "id": "blockchain-web3-nyumon",
+    "title": "一歩目からのブロックチェーンとWeb3サービス入門",
+    "titleKana": "いっぽめからのぶろっくちぇーんとうぇぶすりーさーびすにゅうもん",
+    "authorIds": [
+      "matsumura-yuta"
+    ],
+    "techIds": [
+      "blockchain"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2023,
+    "synopsis": "ブロックチェーンを基盤としたサービス群を、実際に触りながら概観する入門書。暗号資産のウォレット、分散型金融、NFT、DAO、メタバースといった話題を、体験の手順とともに紹介する。全体像を掴んで用語の対応を取りたいときに向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784839980986",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(マイナビ出版、2023年、ISBN 9784839980986)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松村雄太 著」による。初版の刊行年2007年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "fpga-no-genri-to-kosei",
+    "title": "FPGAの原理と構成",
+    "titleKana": "えふぴーじーえーのげんりとこうせい",
+    "authorIds": [
+      "amano-hideharu-a"
+    ],
+    "techIds": [
+      "fpga",
+      "computer-architecture"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2016,
+    "synopsis": "FPGAの内部構造と設計の流れを解説した専門書。ルックアップテーブルと配線資源の構成、論理合成と配置配線、高位合成、そして応用事例までを扱う。書き換えられるハードウェアがなぜそう作られているのかを理解できる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784274218644",
+    "latestEditionYear": 2016,
+    "sourceNote": "書誌(オーム社、2016年、ISBN 9784274218644)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「天野英晴 編」による。"
   }
 ]

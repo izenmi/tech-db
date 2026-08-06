@@ -4426,5 +4426,464 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "koga-masazumi",
+    "name": "古賀政純",
+    "nameKana": "こがまさずみ",
+    "description": "日本のインフラ技術者。LinuxとコンテナのITアーキテクトとして、実践的な運用書を数多く書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mochizuki-keita",
+    "name": "望月敬太",
+    "nameKana": "もちづきけいた",
+    "description": "日本のセキュリティエンジニア。コンテナとKubernetesの安全性を主題に執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "john-arundel",
+    "name": "ジョン・アランデル",
+    "nameKana": "じょんあらんでる",
+    "description": "英国の技術者。クラウドインフラの自動化とコンサルティングに携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "justin-domingus",
+    "name": "ジャスティン・ドミンガス",
+    "nameKana": "じゃすてぃんどみんがす",
+    "description": "米国のSRE。Kubernetesを使った運用の実践を発信している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tom-laszewski",
+    "name": "トム・ラゼウスキ",
+    "nameKana": "とむらぜうすき",
+    "description": "AWSの技術者。エンタープライズのクラウド移行を支援している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kamal-arora",
+    "name": "カマル・アローラ",
+    "nameKana": "かまるあろーら",
+    "description": "AWSのソリューションアーキテクト。クラウドネイティブな設計原則を体系化した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "erik-farr",
+    "name": "エリック・ファー",
+    "nameKana": "えりっくふぁー",
+    "description": "クラウドアーキテクト。大規模システムのクラウド設計に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "piyum-zonooz",
+    "name": "ピユム・ゾヌーズ",
+    "nameKana": "ぴゆむぞぬーず",
+    "description": "クラウドアーキテクト。『クラウドネイティブ・アーキテクチャ』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sasaki-takuro",
+    "name": "佐々木拓郎",
+    "nameKana": "ささきたくろう",
+    "description": "日本のクラウドエンジニア。AWSを使った業務システムの設計と移行に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hayashi-shinichiro",
+    "name": "林晋一郎",
+    "nameKana": "はやししんいちろう",
+    "description": "日本のクラウドエンジニア。AWSによるシステム設計の解説書の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "setojima-toshihiro",
+    "name": "瀬戸島敏宏",
+    "nameKana": "せとじまとしひろ",
+    "description": "日本のクラウドエンジニア。AWSの導入支援に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "miyagawa-ryo",
+    "name": "宮川亮",
+    "nameKana": "みやがわりょう",
+    "description": "日本のクラウドエンジニア。AWSによるシステム移行の実務に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kanazawa-kei",
+    "name": "金澤圭",
+    "nameKana": "かなざわけい",
+    "description": "日本のクラウドエンジニア。AWSの設計・移行ガイドの共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamashita-mitsuhiro",
+    "name": "山下光洋",
+    "nameKana": "やましたみつひろ",
+    "description": "日本のクラウドエンジニア・講師。AWS認定資格の対策書を数多く書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kawabata-kohei",
+    "name": "川畑光平",
+    "nameKana": "かわばたこうへい",
+    "description": "日本のクラウドエンジニア。AWSの入門書と実践書を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kikuchi-takaaki",
+    "name": "菊地貴彰",
+    "nameKana": "きくちたかあき",
+    "description": "日本のクラウドエンジニア。AWSの解説書の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "manaka-toshiki",
+    "name": "真中俊輝",
+    "nameKana": "まなかとしき",
+    "description": "日本のクラウドエンジニア。AWSの解説書の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "makabe-toru",
+    "name": "真壁徹",
+    "nameKana": "まかべとおる",
+    "description": "日本のクラウドアーキテクト。Microsoft Azureの設計と運用に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsui-ryohei",
+    "name": "松井亮平",
+    "nameKana": "まついりょうへい",
+    "description": "日本のクラウドエンジニア。Azureの導入支援に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mizutani-hiromi",
+    "name": "水谷広巳",
+    "nameKana": "みずたにひろみ",
+    "description": "日本のクラウドエンジニア。『Microsoft Azure実践ガイド』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yokotani-shunsuke",
+    "name": "横谷俊介",
+    "nameKana": "よこたにしゅんすけ",
+    "description": "日本のクラウドエンジニア。『Microsoft Azure実践ガイド』の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sugimura-yuma",
+    "name": "杉村勇馬",
+    "nameKana": "すぎむらゆうま",
+    "description": "日本のクラウドエンジニア。Google Cloudの導入支援と資格対策書の執筆に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sasaki-shunta",
+    "name": "佐々木駿太",
+    "nameKana": "ささきしゅんた",
+    "description": "日本のクラウドエンジニア。Google Cloudの認定資格対策書の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "fujioka-satomi",
+    "name": "藤岡里美",
+    "nameKana": "ふじおかさとみ",
+    "description": "日本のクラウドエンジニア。Google Cloudの認定資格対策書の共著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "maeno-joji",
+    "name": "前野譲二",
+    "nameKana": "まえのじょうじ",
+    "description": "日本のネットワーク技術者。早稲田大学でネットワーク運用と教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suzuta-ichiro",
+    "name": "鈴田伊知郎",
+    "nameKana": "すずたいちろう",
+    "description": "日本のネットワーク技術者。IPv6の実装と運用に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kobayashi-takayuki",
+    "name": "小林貴之",
+    "nameKana": "こばやしたかゆき",
+    "description": "日本のネットワーク技術者。ネットワーク構築の教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "cisco-systems",
+    "name": "シスコシステムズ",
+    "nameKana": "しすこしすてむず",
+    "description": "米国のネットワーク機器メーカー。日本法人が国内向けの構築教材を制作している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "jason-edelman",
+    "name": "ジェイソン・エデルマン",
+    "nameKana": "じぇいそんえでるまん",
+    "description": "米国のネットワーク技術者。ネットワークの自動化とプログラマビリティを推進している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "scott-lowe",
+    "name": "スコット・S・ロウ",
+    "nameKana": "すこっとえすろう",
+    "description": "米国の技術者。仮想化とネットワーク自動化の分野で執筆と講演を行っている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matt-oswalt",
+    "name": "マット・オズワルト",
+    "nameKana": "まっとおずわると",
+    "description": "米国のネットワーク技術者。ネットワークの自動化とテストに携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "akimichi",
+    "name": "あきみち",
+    "nameKana": "あきみち",
+    "description": "日本のネットワーク技術者・著述家。インターネットの仕組みと運用について発信している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kuga-yohei",
+    "name": "空閑洋平",
+    "nameKana": "くがようへい",
+    "description": "日本のネットワーク研究者。インターネットの計測と運用を研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "watanabe-yui",
+    "name": "渡邉結衣",
+    "nameKana": "わたなべゆい",
+    "description": "日本のネットワーク技術者。DNSの運用と教育に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ogawa-akitsugu",
+    "name": "小川晃通",
+    "nameKana": "おがわあきつぐ",
+    "description": "日本のネットワーク技術者・著述家。IPv6とインターネットの仕組みについて執筆している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "miyaho-kenji",
+    "name": "宮保憲治",
+    "nameKana": "みやほけんじ",
+    "description": "日本の研究者。ネットワーク技術と情報セキュリティを専門としている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "okada-kenji",
+    "name": "岡田賢治",
+    "nameKana": "おかだけんじ",
+    "description": "日本の技術者・著述家。ネットワークと通信技術の解説に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kasama-takahiro",
+    "name": "笠間貴弘",
+    "nameKana": "かさまたかひろ",
+    "description": "日本の研究者。情報通信研究機構でサイバーセキュリティを研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "serai-shigeki",
+    "name": "芹井滋喜",
+    "nameKana": "せらいしげき",
+    "description": "日本の技術者。FPGAとハードウェア記述言語の入門書を書いている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nishimori-hidetoshi",
+    "name": "西森秀稔",
+    "nameKana": "にしもりひでとし",
+    "description": "日本の物理学者。量子アニーリングの理論を提唱し、量子計算の研究を牽引している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ozeki-masayuki",
+    "name": "大関真之",
+    "nameKana": "おおぜきまさゆき",
+    "description": "日本の物理学者。東北大学教授で、量子アニーリングと機械学習の研究を行っている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kudo-kazue",
+    "name": "工藤和恵",
+    "nameKana": "くどうかずえ",
+    "description": "日本の物理学者。お茶の水女子大学で量子計算とイジングマシンを研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "chris-bernhardt",
+    "name": "クリス・バーンハート",
+    "nameKana": "くりすばーんはーと",
+    "description": "米国の数学者。フェアフィールド大学教授で、量子計算を一般向けに解説した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sato-masashi",
+    "name": "佐藤雅史",
+    "nameKana": "さとうまさし",
+    "description": "日本のセキュリティ研究者。暗号技術とブロックチェーンを専門としている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hasegawa-keisuke",
+    "name": "長谷川佳祐",
+    "nameKana": "はせがわけいすけ",
+    "description": "日本の研究者。ブロックチェーン技術の実装と応用に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sako-kazue",
+    "name": "佐古和恵",
+    "nameKana": "さこかずえ",
+    "description": "日本の暗号研究者。早稲田大学教授で、電子投票や匿名認証を研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "namiki-yuta",
+    "name": "並木悠太",
+    "nameKana": "なみきゆうた",
+    "description": "日本の技術者。ブロックチェーンの実装と検証に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kajigaya-keisuke",
+    "name": "梶ケ谷圭祐",
+    "nameKana": "かじがやけいすけ",
+    "description": "日本の技術者。ブロックチェーン技術の研究開発に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsuo-shinichiro",
+    "name": "松尾真一郎",
+    "nameKana": "まつおしんいちろう",
+    "description": "日本の暗号研究者。ジョージタウン大学でブロックチェーンの研究と標準化に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "matsumura-yuta",
+    "name": "松村雄太",
+    "nameKana": "まつむらゆうた",
+    "description": "日本の著述家。Web3や生成AIなど新しい技術分野の入門書を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "amano-hideharu-a",
+    "name": "天野英晴",
+    "nameKana": "あまのひではる",
+    "description": "日本の計算機工学者。慶應義塾大学教授で、並列処理とリコンフィギャラブルシステムを研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

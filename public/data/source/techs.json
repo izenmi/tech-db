@@ -955,5 +955,37 @@
     "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
     "updatedAt": "2026-08-06",
     "releasedYear": 2015
+  },
+  {
+    "id": "azure",
+    "name": "Microsoft Azure",
+    "nameKana": "まいくろそふとあじゅーる",
+    "category": "infra",
+    "description": "Microsoftが提供するクラウドサービス群。Windows ServerやActive Directoryとの親和性が高く、企業システムの移行先として使われることが多い。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2010
+  },
+  {
+    "id": "gcp",
+    "name": "Google Cloud",
+    "nameKana": "ぐーぐるくらうど",
+    "category": "infra",
+    "description": "Googleが提供するクラウドサービス群。BigQueryをはじめとするデータ分析基盤と、Kubernetesの実行環境に強みを持つ。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2008
+  },
+  {
+    "id": "fpga",
+    "name": "FPGA・論理設計",
+    "nameKana": "えふぴーじーえーろんりせっけい",
+    "category": "concept",
+    "description": "回路構成を後から書き換えられる集積回路と、その設計手法。Verilog HDLなどのハードウェア記述言語で回路を記述し、合成して動かす。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

@@ -1726,5 +1726,59 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suda-kazuki",
+    "name": "須田一輝",
+    "nameKana": "すだかずき",
+    "description": "日本のソフトウェアエンジニア。Kubernetes関連書籍の監訳を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "watanabe-ryosuke",
+    "name": "渡邉了介",
+    "nameKana": "わたなべりょうすけ",
+    "description": "日本の翻訳者。クラウドとインフラ関連の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "top-studio",
+    "name": "トップスタジオ",
+    "nameKana": "とっぷすたじお",
+    "description": "日本の制作会社。IT分野の翻訳と編集を数多く手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tsuchiya-taiji",
+    "name": "土屋太二",
+    "nameKana": "つちやたいじ",
+    "description": "日本のネットワーク技術者。ネットワーク自動化関連書籍の監訳を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "minato-yuichiro",
+    "name": "湊雄一郎",
+    "nameKana": "みなとゆういちろう",
+    "description": "日本の技術者・経営者。量子計算のソフトウェア開発と普及に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nakata-maho",
+    "name": "中田真秀",
+    "nameKana": "なかたまほ",
+    "description": "日本の研究者。理化学研究所で量子化学計算と数値計算を研究している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

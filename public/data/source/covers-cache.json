@@ -179,6 +179,22 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:26:28.087Z"
   },
+  "aws-gyomu-system-guide": {
+    "title": "Amazon Web Services業務システム設計・移行ガイド",
+    "isbn": "9784797392562",
+    "matchedTitle": "Amazon Web Services 業務システム設計・移行ガイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2562/9784797392562.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:18:46.588Z"
+  },
+  "aws-kihon-shikumi-kyokasho": {
+    "title": "AWSの基本・仕組み・重要用語が全部わかる教科書",
+    "isbn": "9784815607852",
+    "matchedTitle": "AWSの基本・仕組み・重要用語が全部わかる教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7852/9784815607852_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:18:47.729Z"
+  },
   "aws-kiso-network-server": {
     "title": "Amazon Web Services基礎からのネットワーク&サーバー構築",
     "isbn": "9784296202041",
@@ -187,6 +203,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:25:19.706Z"
   },
+  "aws-ml-associate-text": {
+    "title": "AWS認定資格試験テキスト　AWS認定マシンラーニングエンジニア - アソシエイト",
+    "isbn": "9784815631512",
+    "matchedTitle": "AWS認定資格試験テキスト　AWS認定マシンラーニングエンジニア - アソシエイト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1512/9784815631512_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:18:45.440Z"
+  },
   "aws-saa-text": {
     "title": "AWS認定ソリューションアーキテクトアソシエイトテキスト&問題集",
     "isbn": "9784798194929",
@@ -194,6 +218,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4929/9784798194929_1_108.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:54:28.274Z"
+  },
+  "azure-jissen-guide": {
+    "title": "Microsoft Azure実践ガイド",
+    "isbn": null,
+    "matchedTitle": "Microsoft Azure実践ガイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8126/2000005778126.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T13:18:52.330Z"
   },
   "bayes-suiron-kikai-gakushu": {
     "title": "ベイズ推論による機械学習入門",
@@ -227,6 +259,22 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:25:26.525Z"
   },
+  "blockchain-gijutsu-kyokasho": {
+    "title": "ブロックチェーン技術の教科書",
+    "isbn": "9784863542433",
+    "matchedTitle": "ブロックチェーン技術の教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2433/9784863542433.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:32.434Z"
+  },
+  "blockchain-web3-nyumon": {
+    "title": "一歩目からのブロックチェーンとWeb3サービス入門",
+    "isbn": "9784839980986",
+    "matchedTitle": "一歩目からの ブロックチェーンとWeb3サービス入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0986/9784839980986_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:33.598Z"
+  },
   "building-evolutionary-architectures": {
     "title": "進化的アーキテクチャ",
     "isbn": "9784873118567",
@@ -259,6 +307,12 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:51:55.815Z"
   },
+  "cisco-network-kyokasho": {
+    "title": "Ciscoネットワーク構築教科書",
+    "isbn": "9784844333227",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T13:19:11.097Z"
+  },
   "clean-agile": {
     "title": "Clean Agile",
     "isbn": "9784048930741",
@@ -282,6 +336,20 @@
     "coverUrl": "https://c.bookwalker.jp/3592403/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-06T12:23:56.361Z"
+  },
+  "cloud-native-architectures": {
+    "title": "クラウドネイティブ・アーキテクチャ",
+    "isbn": "9784295007753",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-06T13:18:44.265Z"
+  },
+  "cloud-native-devops-kubernetes": {
+    "title": "Kubernetesで実践するクラウドネイティブDevOps",
+    "isbn": "9784873119014",
+    "matchedTitle": "Kubernetesで実践するクラウドネイティブDevOps",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9014/9784873119014.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:18:27.209Z"
   },
   "compilers-dragon-2": {
     "title": "コンパイラ",
@@ -495,6 +563,22 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:54:59.136Z"
   },
+  "dns-kyokasho-2": {
+    "title": "DNSがよくわかる教科書",
+    "isbn": "9784815622657",
+    "matchedTitle": "DNSがよくわかる教科書 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2657/9784815622657_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:19.341Z"
+  },
+  "docker-jissen-guide-3": {
+    "title": "Docker実践ガイド",
+    "isbn": "9784295015895",
+    "matchedTitle": "Docker実践ガイド 第3版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5895/9784295015895_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:18:24.906Z"
+  },
   "docker-kubernetes-jissen-2": {
     "title": "Docker/Kubernetes実践コンテナ開発入門",
     "isbn": "9784297140175",
@@ -683,6 +767,22 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:55:20.337Z"
   },
+  "fpga-no-genri-to-kosei": {
+    "title": "FPGAの原理と構成",
+    "isbn": "9784274218644",
+    "matchedTitle": "FPGAの原理と構成",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8644/9784274218644.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:34.777Z"
+  },
+  "fpga-verilog-hdl-nyumon": {
+    "title": "超入門!FPGAスタータ・キットDE0で始めるVerilog HDL",
+    "isbn": "9784789831376",
+    "matchedTitle": "超入門！FPGAスタータ・キットDE0で始めるVerilog　HDL",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1376/9784789831376.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:24.129Z"
+  },
   "frontend-performance-tuning": {
     "title": "Webフロントエンドハイパフォーマンスチューニング",
     "isbn": "9784774189673",
@@ -744,6 +844,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4786/9784903474786.gif?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:55:27.948Z"
+  },
+  "gcp-ace-text": {
+    "title": "合格対策Google Cloud認定資格Associate Cloud Engineerテキスト&演習問題",
+    "isbn": "9784865944457",
+    "matchedTitle": "合格対策 Google Cloud認定資格Associate Cloud Engineer テキスト＆演習問題",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4457/9784865944457_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:18:53.472Z"
   },
   "getting-started-with-arduino-4": {
     "title": "Arduinoをはじめよう",
@@ -987,6 +1095,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:44:27.631Z"
   },
+  "internet-no-katachi": {
+    "title": "インターネットのカタチ",
+    "isbn": null,
+    "matchedTitle": "インターネットのカタチ　もろさが織り成す粘り強い世界",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0813/2000006680813.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T13:19:18.189Z"
+  },
   "introduction-theory-computation-3": {
     "title": "計算理論の基礎",
     "isbn": "9784320125612",
@@ -1002,6 +1118,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6495/9784764906495_1_7.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:45:43.775Z"
+  },
+  "iot-5g-dx-network-security": {
+    "title": "IoT/5G/DXのネットワーク技術・セキュリティ技術",
+    "isbn": "9784627856714",
+    "matchedTitle": "IoT/5G/DXのネットワーク技術・セキュリティ技術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6714/9784627856714.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:22.964Z"
+  },
+  "ipv6-network-jisshu": {
+    "title": "IPv6ネットワーク構築実習",
+    "isbn": "9784320123359",
+    "matchedTitle": "IPv6ネットワーク構築実習",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3359/9784320123359_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:18:54.606Z"
   },
   "java-concurrency-in-practice": {
     "title": "Java並行処理プログラミング",
@@ -1169,6 +1301,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:26:33.877Z"
   },
+  "kiso-kara-manabu-quantum": {
+    "title": "基礎から学ぶ量子コンピューティング",
+    "isbn": "9784274230509",
+    "matchedTitle": "基礎から学ぶ 量子コンピューティング",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0509/9784274230509_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:30.109Z"
+  },
   "kiso-kara-manabu-vuejs": {
     "title": "基礎から学ぶVue.js",
     "isbn": "9784863543232",
@@ -1214,6 +1354,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0191/9784798160191.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:43:37.643Z"
+  },
+  "kubernetes-container-security": {
+    "title": "リスクから学ぶKubernetesコンテナセキュリティ",
+    "isbn": "9784798182780",
+    "matchedTitle": "リスクから学ぶ Kubernetesコンテナセキュリティ コンテナ開発者がおさえておくべき基礎知識",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2780/9784798182780_1_143.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:18:26.063Z"
   },
   "kubernetes-kanzen-guide-2": {
     "title": "Kubernetes完全ガイド 第2版",
@@ -1381,6 +1529,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:26:26.924Z"
   },
+  "minna-no-quantum-computer": {
+    "title": "みんなの量子コンピュータ",
+    "isbn": "9784798163574",
+    "matchedTitle": "みんなの量子コンピュータ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3574/9784798163574.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:31.270Z"
+  },
   "ml-design-patterns": {
     "title": "機械学習デザインパターン",
     "isbn": "9784873119564",
@@ -1505,6 +1661,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T09:24:59.208Z"
   },
+  "network-dosa-shiken-nyumon": {
+    "title": "インフラ/ネットワークエンジニアのためのネットワーク「動作試験」入門",
+    "isbn": "9784815609207",
+    "matchedTitle": "インフラ/ネットワークエンジニアのためのネットワーク「動作試験」入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9207/9784815609207_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:13.523Z"
+  },
   "network-naze-tsunagaru-2": {
     "title": "ネットワークはなぜつながるのか",
     "isbn": "9784822283117",
@@ -1512,6 +1676,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8222/82228311.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:12:01.869Z"
+  },
+  "network-programmability-automation": {
+    "title": "ネットワーク自動化とプログラマビリティ",
+    "isbn": "9784873119816",
+    "matchedTitle": "ネットワーク自動化とプログラマビリティ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9816/9784873119816_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-06T13:19:12.372Z"
   },
   "network-specialist-gokusen": {
     "title": "極選分析(ごくせん)ネットワークスペシャリスト予想問題集",
@@ -1763,6 +1935,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:42:05.752Z"
   },
+  "professional-ipv6": {
+    "title": "プロフェッショナルIPv6",
+    "isbn": "9784908686115",
+    "matchedTitle": "プロフェッショナルIPv6 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6115/9784908686115_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-06T13:19:21.797Z"
+  },
   "progcon-challenge-2": {
     "title": "プログラミングコンテストチャレンジブック 第2版",
     "isbn": "9784839941062",
@@ -1934,6 +2114,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0253/9784839970253.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:08:40.454Z"
+  },
+  "quantum-computer-ai": {
+    "title": "量子コンピュータが人工知能を加速する",
+    "isbn": null,
+    "matchedTitle": "量子コンピュータが人工知能を加速する",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1720/2000004851720.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-06T13:19:28.971Z"
   },
   "r-gazo-shori-ninshiki": {
     "title": "Rによる画像処理と画像認識",
