@@ -2293,5 +2293,50 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kondo-uchiro",
+    "name": "近藤宇智朗",
+    "nameKana": "こんどううちろう",
+    "description": "日本のソフトウェアエンジニア。コンテナ基盤やLinuxまわりの書籍の翻訳に参加している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "prosystem-loc",
+    "name": "プロシステムエルオーシー",
+    "nameKana": "ぷろしすてむえるおーしー",
+    "description": "技術書の翻訳を手がける日本の企業。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shimada-kenji-tr",
+    "name": "嶋田健志",
+    "nameKana": "しまだけんじ",
+    "description": "日本のエンジニア。Web技術やデータ分析の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "onoma-akira",
+    "name": "小野間彰",
+    "nameKana": "おのまあきら",
+    "description": "日本の技術者。ソフトウェアテスト分野の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "endo-miyoko",
+    "name": "遠藤美代子",
+    "nameKana": "えんどうみよこ",
+    "description": "日本の翻訳者。セキュリティや低レイヤ技術の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
