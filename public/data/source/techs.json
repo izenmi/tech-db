@@ -307,5 +307,100 @@
     "externalLinks": {},
     "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "lisp",
+    "name": "Lisp",
+    "nameKana": "りすぷ",
+    "category": "language",
+    "description": "1958年に生まれた関数型プログラミングの源流にあたる言語族。プログラムをリストとして扱う性質から、処理系や言語そのものを学ぶ教材としても使われ続けている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 1958
+  },
+  {
+    "id": "devops",
+    "name": "DevOps・継続的デリバリー",
+    "nameKana": "でぶおぷすけいぞくてきでりばりー",
+    "category": "concept",
+    "description": "開発と運用を分断させず、ビルドからテスト、リリースまでを自動化して小さく速く届け続けるための考え方と実践。CI/CDのパイプライン設計や組織のあり方まで含む。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "nameKana": "えーだぶりゅーえす",
+    "category": "infra",
+    "description": "Amazonが提供するクラウドサービス群。仮想サーバーやストレージ、データベース、コンテナ実行基盤などを従量課金で借りられ、インフラ構築の標準的な選択肢の一つになっている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2006
+  },
+  {
+    "id": "terraform",
+    "name": "Terraform",
+    "nameKana": "てらふぉーむ",
+    "category": "tool",
+    "description": "クラウド上のリソースを設定ファイルとして記述し、その通りの状態を作り出すツール。手作業の構築をコードに置き換え、変更内容を事前に確認してから適用できる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 2014
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "nameKana": "じゃばすくりぷと",
+    "category": "language",
+    "description": "Webブラウザ上で動く言語として生まれ、いまはサーバーサイドでも使われる動的型付け言語。フロントエンド開発の土台であり、TypeScriptもこの言語に変換される。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 1995
+  },
+  {
+    "id": "html-css",
+    "name": "HTML・CSS",
+    "nameKana": "えいちてぃーえむえるしーえすえす",
+    "category": "language",
+    "description": "Webページの構造を記述するHTMLと、見た目を指定するCSS。ブラウザが直接解釈する土台の技術で、アクセシビリティやレスポンシブ対応もここに関わる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 1993
+  },
+  {
+    "id": "machine-learning",
+    "name": "機械学習",
+    "nameKana": "きかいがくしゅう",
+    "category": "concept",
+    "description": "データから規則性を学び取って予測や分類を行う手法の総称。線形モデルから決定木、確率モデルまでを含み、深層学習もこの一分野にあたる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "llm",
+    "name": "大規模言語モデル",
+    "nameKana": "だいきぼげんごもでる",
+    "category": "concept",
+    "description": "大量のテキストで学習させた巨大なニューラルネットワーク。文章の生成や要約、分類に使われ、既存のアプリケーションへ組み込む形での利用が広がっている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "compiler",
+    "name": "コンパイラ・言語処理系",
+    "nameKana": "こんぱいらげんごしょりけい",
+    "category": "concept",
+    "description": "ソースコードを解析して実行可能な形に変換する仕組み。字句解析・構文解析・意味解析・最適化・コード生成という段階からなり、言語そのものを作る話にもつながる。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

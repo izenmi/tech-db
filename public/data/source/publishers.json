@@ -129,5 +129,65 @@
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06",
     "foundedYear": 1990
+  },
+  {
+    "id": "dwango",
+    "name": "ドワンゴ",
+    "nameKana": "どわんご",
+    "description": "日本の企業。動画配信事業のかたわら、ロバート・C・マーチンの著作をはじめとする技術書の出版も手がけていた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1997
+  },
+  {
+    "id": "impress-rd",
+    "name": "インプレスR&D",
+    "nameKana": "いんぷれすあーるあんどでぃー",
+    "description": "インプレスグループの出版社。オンデマンド印刷を活かして、専門性の高い技術書を少部数から刊行していた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 2005
+  },
+  {
+    "id": "ascii",
+    "name": "アスキー",
+    "nameKana": "あすきー",
+    "description": "日本の出版社。パソコン黎明期から雑誌『月刊アスキー』や技術書を刊行し、日本のコンピュータ文化に影響を与えた。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1977
+  },
+  {
+    "id": "science-sha",
+    "name": "サイエンス社",
+    "nameKana": "さいえんすしゃ",
+    "description": "日本の学術出版社。数学・情報科学の大学向け教科書を中心に刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1969
+  },
+  {
+    "id": "morikita",
+    "name": "森北出版",
+    "nameKana": "もりきたしゅっぱん",
+    "description": "日本の理工系出版社。大学の教科書や専門書を中心に、機械学習やパターン認識の定番書も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1953
+  },
+  {
+    "id": "kodansha",
+    "name": "講談社",
+    "nameKana": "こうだんしゃ",
+    "description": "日本の総合出版社。科学書のレーベルを通じて、機械学習やデータサイエンスの専門書も刊行している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1909
   }
 ]

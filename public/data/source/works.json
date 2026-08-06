@@ -1562,5 +1562,1241 @@
     "edition": "第2版",
     "latestEditionYear": 2024,
     "sourceNote": "書誌(SBクリエイティブ、2024年、ISBN 9784815624316)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「三宅英明, 大角祐介 著」による。初版の刊行年2015年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "clean-coder",
+    "title": "Clean Coder",
+    "titleKana": "くりーんこーだー",
+    "authorIds": [
+      "robert-c-martin"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "kado-masanori"
+    ],
+    "publisherId": "dwango",
+    "themeIds": [
+      "essay-career",
+      "team-process"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2011,
+    "synopsis": "技術ではなく職業倫理を主題にしたマーチンの一冊。「できません」と言うべき場面、見積りを約束にすり替えない話し方、締切前の残業が生む品質の劣化、練習と学習の続け方などを、自身の失敗談を交えて語る。プロとして振る舞うとはどういうことかを、具体的な場面に落として考えさせる本。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784048930642",
+    "latestEditionYear": 2018,
+    "jpPublishedYear": 2018,
+    "originalTitle": "The Clean Coder",
+    "sourceNote": "邦訳版の書誌(ドワンゴ、2018年、ISBN 9784048930642)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Robert C.Martin 著,角征典 訳」による。原著の初版年2011年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "clean-agile",
+    "title": "Clean Agile",
+    "titleKana": "くりーんあじゃいる",
+    "authorIds": [
+      "robert-c-martin"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "kado-masanori",
+      "kakutani-shintaro"
+    ],
+    "publisherId": "dwango",
+    "themeIds": [
+      "team-process",
+      "essay-career"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "アジャイルソフトウェア開発宣言の起草者の一人が、二十年を経て「本来これは何だったのか」を語り直した本。認定資格や大規模導入フレームワークが広まる中で失われた原点を、小さなチーム・短い反復・技術的規律という要素に戻して説明する。手法の導入で行き詰まったときに読むと効く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784048930741",
+    "latestEditionYear": 2020,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Clean Agile",
+    "sourceNote": "邦訳版の書誌(ドワンゴ、2020年、ISBN 9784048930741)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Robert C.Martin 著,角征典, 角谷信太郎 訳」による。原著の初版年2019年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "legacy-code-kaizen",
+    "title": "レガシーコード改善ガイド",
+    "titleKana": "れがしーこーどかいぜんがいど",
+    "authorIds": [
+      "michael-feathers"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "hirasawa-akira-tr",
+      "ochi-noriko",
+      "inaba-nobuyuki",
+      "tamura-tomohiko",
+      "kobori-masayoshi"
+    ],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "readability",
+      "testing",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2004,
+    "synopsis": "テストのないコードをレガシーコードと定義し、それを壊さずに変えていく手順をまとめた本。まず変更したい箇所をどう切り離してテスト可能にするか、依存関係をどこで断つか、といった作業を数十の技法として整理している。既存システムに手を入れる仕事が続くかぎり読み継がれる一冊。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798116839",
+    "latestEditionYear": 2009,
+    "jpPublishedYear": 2009,
+    "originalTitle": "Working Effectively with Legacy Code",
+    "sourceNote": "邦訳版の書誌(翔泳社、2009年、ISBN 9784798116839)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マイケル・C.フェザーズ 著,ウルシステムズ株式会社 監訳,平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義 訳」による。原著の初版年2004年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "engineering-soshikiron",
+    "title": "エンジニアリング組織論への招待",
+    "titleKana": "えんじにありんぐそしきろんえのしょうたい",
+    "authorIds": [
+      "hiroki-daichi"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "team-process",
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2018,
+    "synopsis": "開発の現場で起きる問題を「不確実性をどう減らすか」という一本の軸で読み解いた本。認知の歪み、情報の非対称性、技術的負債、組織構造とアーキテクチャの対応といった話題を、思考法と組織論の両面から扱う。個人の技術力では解けない詰まりに名前を与えてくれる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784774196053",
+    "latestEditionYear": 2018,
+    "sourceNote": "書誌(技術評論社、2018年、ISBN 9784774196053)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「広木大地 著」による。"
+  },
+  {
+    "id": "soft-skills",
+    "title": "SOFT SKILLS",
+    "titleKana": "そふとすきるず",
+    "authorIds": [
+      "john-sonmez"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "nagao-takahiro"
+    ],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "essay-career"
+    ],
+    "origin": "overseas",
+    "level": "beginner",
+    "firstPublishedYear": 2014,
+    "synopsis": "ソフトウェア開発者のキャリア・学習・生産性・健康・資産形成までを扱った本。転職や独立の考え方、自分を売り込む方法、学び方の型、集中の保ち方といった、コードを書く時間の外側にある話題を並べる。技術書ではないが、技術で食べていく期間を長くするための本として読まれている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296000500",
+    "latestEditionYear": 2022,
+    "jpPublishedYear": 2022,
+    "originalTitle": "Soft Skills",
+    "sourceNote": "邦訳版の書誌(日経BP、2022年、ISBN 9784296000500)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジョン・ソンメズ 著,長尾高弘 訳」による。原著の初版年2014年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "more-joel-on-software",
+    "title": "More Joel on software",
+    "titleKana": "morejoelonsoftware",
+    "authorIds": [
+      "joel-spolsky"
+    ],
+    "techIds": [],
+    "translatorIds": [
+      "aoki-yasushi"
+    ],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "essay-career",
+      "team-process"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2008,
+    "synopsis": "ソフトウェア会社を経営する立場から書かれたブログ記事を編んだ本。優秀な開発者の採用と定着、仕様書の書き方、価格の決め方、開発者を惹きつける職場環境といった話題を、経験に基づく具体例で語る。技術の解説書ではなく、ソフトウェアを作って売るという営みについての読み物。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798118925",
+    "latestEditionYear": 2009,
+    "jpPublishedYear": 2009,
+    "originalTitle": "More Joel on Software",
+    "sourceNote": "邦訳版の書誌(翔泳社、2009年、ISBN 9784798118925)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Joel Spolsky 著,青木靖 訳」による。原著の初版年2008年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "sicp",
+    "title": "計算機プログラムの構造と解釈",
+    "titleKana": "けいさんきぷろぐらむのこうぞうとかいしゃく",
+    "authorIds": [
+      "harold-abelson",
+      "gerald-jay-sussman",
+      "julie-sussman"
+    ],
+    "techIds": [
+      "lisp",
+      "algorithm"
+    ],
+    "translatorIds": [
+      "wada-eiichi"
+    ],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "classic",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 1985,
+    "synopsis": "Schemeを使って、プログラムを組み立てる方法そのものを教える教科書。手続きによる抽象化から始まり、データ抽象、状態と代入、ストリーム、メタ循環評価器、レジスタ機械の実装へと進み、最後は自分で言語処理系を作るところに至る。計算とは何かを問い直させる古典。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798135984",
+    "latestEditionYear": 2014,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Structure and Interpretation of Computer Programs",
+    "sourceNote": "邦訳版の書誌(翔泳社、2014年、ISBN 9784798135984)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Harold Abelson, Gerald Jay Sussman, Julie Sussman 著,和田英一 訳」による。原著の初版年1985年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "agile-software-development-ougi",
+    "title": "アジャイルソフトウェア開発の奥義",
+    "titleKana": "あじゃいるそふとうぇあかいはつのおうぎ",
+    "authorIds": [
+      "robert-c-martin",
+      "james-newkirk",
+      "robert-koss"
+    ],
+    "techIds": [
+      "oop",
+      "software-architecture"
+    ],
+    "translatorIds": [
+      "seya-keisuke"
+    ],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "design-architecture",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2002,
+    "synopsis": "アジャイルな進め方とオブジェクト指向設計の原則を一冊に収めた本。単一責任やオープン・クローズドといったSOLID原則を、実際の設計を改善していく事例の中で示し、デザインパターンの使いどころまでつなげる。原則を暗記するのではなく、判断の理由として使えるようにする構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784797347784",
+    "latestEditionYear": 2008,
+    "jpPublishedYear": 2008,
+    "originalTitle": "Agile Software Development: Principles, Patterns, and Practices",
+    "sourceNote": "邦訳版の書誌(ソフトバンククリエイティブ、2008年、ISBN 9784797347784)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ロバート・C.マーチン 著,ジェームス・W.ニューカーク, ロバート・S.コス 共著,瀬谷啓介 訳」による。原著の初版年2002年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "nyumon-continuous-delivery",
+    "title": "入門継続的デリバリー",
+    "titleKana": "にゅうもんけいぞくてきでりばりー",
+    "authorIds": [
+      "christie-wilson"
+    ],
+    "techIds": [
+      "devops"
+    ],
+    "translatorIds": [
+      "watanabe-koichi",
+      "inoue-wataru",
+      "shoji-yuma",
+      "toyama-yuji"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "team-process",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2022,
+    "synopsis": "コードを書いてから利用者に届くまでを、安全に自動化していくための入門書。バージョン管理の使い方、テストをどの段階で何のために走らせるか、パイプラインの組み立て、デプロイ戦略と設定管理までを、小さな題材で順に扱う。CI/CDを導入したいが何から手を付けるか分からない段階に向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814400690",
+    "latestEditionYear": 2024,
+    "jpPublishedYear": 2024,
+    "originalTitle": "Grokking Continuous Delivery",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2024年、ISBN 9784814400690)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Christie Wilson 著,渡辺光一 監訳,井上渉, 庄司祐馬, 遠山雄二 訳」による。原著の初版年2022年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "pro-web-gijutsu-nyumon",
+    "title": "プロになるためのWeb技術入門",
+    "titleKana": "ぷろになるためのうぇぶぎじゅつにゅうもん",
+    "authorIds": [
+      "komori-yusuke"
+    ],
+    "techIds": [
+      "web",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2010,
+    "synopsis": "Webシステムがどういう部品でできているかを、歴史をたどりながら説明した入門書。静的なページからCGI、セッション管理、フレームワークへと、必要になった理由の順に技術が現れる構成になっている。個々の道具の使い方は知っていても全体像が結ばない、という段階に効く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297145712",
+    "edition": "改訂新版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(技術評論社、2024年、ISBN 9784297145712)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「小森裕介 著」による。初版の刊行年2010年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "high-performance-browser-networking",
+    "title": "ハイパフォーマンスブラウザネットワーキング",
+    "titleKana": "はいぱふぉーまんすぶらうざねっとわーきんぐ",
+    "authorIds": [
+      "ilya-grigorik"
+    ],
+    "techIds": [
+      "network",
+      "web"
+    ],
+    "translatorIds": [
+      "wada-yuichiro"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "performance",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2013,
+    "synopsis": "Webアプリケーションの速さを、ネットワークの物理層から積み上げて説明した本。遅延と帯域の違い、TCPの輻輳制御、TLSのハンドシェイク、無線特有の事情を押さえたうえで、HTTPの各バージョンやWebSocketの挙動に降りていく。表面的な最適化の前に読む価値がある。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873116761",
+    "latestEditionYear": 2014,
+    "jpPublishedYear": 2014,
+    "originalTitle": "High Performance Browser Networking",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2014年、ISBN 9784873116761)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Ilya Grigorik 著,和田祐一郎, プログラミングシステム社 訳」による。原著の初版年2013年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "taiken-network-nyumon",
+    "title": "体験しながら学ぶネットワーク技術入門",
+    "titleKana": "たいけんしながらまなぶねっとわーくぎじゅつにゅうもん",
+    "authorIds": [
+      "miyata-hiroshi"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2024,
+    "synopsis": "ネットワークの仕組みを、手元で機器や仮想環境を動かしながら確かめていく入門書。パケットを実際に流し、キャプチャして中身を見るという手順を繰り返すことで、教科書の図が何を指していたのかを結びつける。座学で止まっていた理解を動かしたいときに向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815618599",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(SBクリエイティブ、2024年、ISBN 9784815618599)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「みやたひろし 著」による。"
+  },
+  {
+    "id": "zero-trust-networks-2",
+    "title": "ゼロトラストネットワーク",
+    "titleKana": "ぜろとらすとねっとわーく",
+    "authorIds": [
+      "razi-rais"
+    ],
+    "techIds": [
+      "security",
+      "network"
+    ],
+    "translatorIds": [
+      "suzuki-kengo"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "design-architecture",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2017,
+    "synopsis": "社内ネットワークだから安全、という前提を捨てた設計をどう組み立てるかを扱う本。すべての通信を検証対象とみなし、利用者・端末・アプリケーションそれぞれをどう認証し、信頼をどう数値化して判断に使うかを述べる。境界防御の限界に突き当たった組織向けの設計指針になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814401239",
+    "edition": "第2版",
+    "latestEditionYear": 2025,
+    "jpPublishedYear": 2025,
+    "originalTitle": "Zero Trust Networks",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2025年、ISBN 9784814401239)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Razi Rais [ほか] 著,鈴木研吾 訳」による。原著の初版年2017年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "cyber-security-programming-2",
+    "title": "サイバーセキュリティプログラミング",
+    "titleKana": "さいばーせきゅりてぃぷろぐらみんぐ",
+    "authorIds": [
+      "justin-seitz",
+      "tim-arnold"
+    ],
+    "techIds": [
+      "security",
+      "python"
+    ],
+    "translatorIds": [
+      "mantani-nobutaka",
+      "arai-yu",
+      "katou-hiroyuki",
+      "murakami-ryo"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2014,
+    "synopsis": "攻撃側が使う道具をPythonで自作しながら、その仕組みを理解していく本。ネットワークスニッファ、Webのクローラ、プロキシ、トロイの木馬の通信部分などを短いコードで組み立てる。防御側が何に備えるべきかを、実際に動くものを通して掴ませる構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873119731",
+    "edition": "第2版",
+    "latestEditionYear": 2022,
+    "jpPublishedYear": 2022,
+    "originalTitle": "Black Hat Python",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2022年、ISBN 9784873119731)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Justin Seitz, Tim Arnold 著,萬谷暢崇 監訳,新井悠, 加唐寛征, 村上涼 訳」による。原著の初版年2014年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "hacking-lab-no-tsukurikata",
+    "title": "ハッキング・ラボのつくりかた",
+    "titleKana": "はっきんぐらぼのつくりかた",
+    "authorIds": [
+      "ipusiron"
+    ],
+    "techIds": [
+      "security",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2018,
+    "synopsis": "自宅の仮想環境に攻撃側と防御側の両方の機械を用意し、安全に攻撃を試せる練習場を作る手順を解説した本。仮想化ソフトの設定からKali Linuxの導入、脆弱なサーバーの用意、実際の侵入手順までを扱う。法に触れずに手を動かして学ぶための土台を整えてくれる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798174570",
+    "edition": "改訂1版",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(翔泳社、2024年、ISBN 9784798174570)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「IPUSIRON 著」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "jissen-terraform",
+    "title": "実践Terraform AWSにおけるシステム設計とベストプラクティス",
+    "titleKana": "じっせんてらふぉーむえーだぶりゅーえすにおけるしすてむせっけいとべすとぷらくてぃす",
+    "authorIds": [
+      "nomura-tomoki"
+    ],
+    "techIds": [
+      "terraform",
+      "aws"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress-rd",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "TerraformでAWS上のシステムを構築する手順を、実際の構成を作りながら解説した本。リソースの記述方法から、モジュール分割、状態ファイルの扱い、複数環境の管理といった運用に効く話題まで踏み込む。書き始めた後に必ず出てくる設計上の迷いに答えてくれる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784844378136",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(インプレスR&D、2019年、ISBN 9784844378136)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「野村友規 著」による。"
+  },
+  {
+    "id": "aws-kiso-network-server",
+    "title": "Amazon Web Services基礎からのネットワーク&サーバー構築",
+    "titleKana": "あまぞんうぇぶさーゔぃすずきそからのねっとわーくあんどさーばーこうちく",
+    "authorIds": [
+      "osawa-fumitaka",
+      "tamagawa-ken",
+      "katayama-akio",
+      "imai-yuta"
+    ],
+    "techIds": [
+      "aws",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2014,
+    "synopsis": "AWS上にネットワークとサーバーを一から組み立てながら、クラウドインフラの基礎を学ぶ本。VPCの設計、サブネットとルーティング、ファイアウォール、Webサーバーとデータベースの配置を、画面を追いながら順に作っていく。ネットワークの基礎ごと身につけたい人に向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296202041",
+    "edition": "改訂3版",
+    "latestEditionYear": 2023,
+    "sourceNote": "書誌(日経BP、2023年、ISBN 9784296202041)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大澤文孝, 玉川憲, 片山暁雄, 今井雄太 著」による。初版の刊行年2014年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "sre-google",
+    "title": "SREサイトリライアビリティエンジニアリング",
+    "titleKana": "えすあーるいーさいとりらいあびりてぃえんじにありんぐ",
+    "authorIds": [
+      "betsy-beyer",
+      "chris-jones",
+      "jennifer-petoff",
+      "niall-murphy"
+    ],
+    "techIds": [
+      "observability",
+      "devops"
+    ],
+    "translatorIds": [
+      "sawada-takeo",
+      "sekine-tatsuo",
+      "hosokawa-kazushige",
+      "yabuki-daisuke",
+      "tamagawa-ryuji"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "team-process",
+      "practice",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2016,
+    "synopsis": "Googleが自社の運用をどう組み立てているかを、多数のエンジニアが分担して書いた本。サービスレベル目標とエラーバジェット、トイルの削減、オンコールの回し方、ポストモーテムの文化といった概念を提示し、運用を工学として扱う立場を示す。SREという職種の出発点になった一冊。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873117911",
+    "latestEditionYear": 2017,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Site Reliability Engineering",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2017年、ISBN 9784873117911)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy 編,澤田武男, 関根達夫, 細川一茂, 矢吹大輔 監訳,玉川竜司 訳」による。原著の初版年2016年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "devops-handbook",
+    "title": "The DevOpsハンドブック",
+    "titleKana": "ざでぶおぷすはんどぶっく",
+    "authorIds": [
+      "gene-kim",
+      "jez-humble",
+      "patrick-debois",
+      "john-willis"
+    ],
+    "techIds": [
+      "devops"
+    ],
+    "translatorIds": [
+      "nagao-takahiro"
+    ],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "team-process",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2016,
+    "synopsis": "DevOpsを、フロー・フィードバック・継続的な学習という三つの道筋に整理して解説した本。デプロイパイプラインの構築、テストの自動化、監視と telemetry、組織の壁の壊し方までを、多くの企業の事例とともに述べる。理念だけでなく何をどの順で変えるかが書かれている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784822285487",
+    "latestEditionYear": 2017,
+    "jpPublishedYear": 2017,
+    "originalTitle": "The DevOps Handbook",
+    "sourceNote": "邦訳版の書誌(日経BP社、2017年、ISBN 9784822285487)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「ジーン・キム, ジェズ・ハンブル, パトリック・ドボア, ジョン・ウィリス 著,榊原彰 監修,長尾高弘 訳」による。原著の初版年2016年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "shokai-aws-iac",
+    "title": "〈詳解〉AWS Infrastructure as Code",
+    "titleKana": "しょうかいえーだぶりゅーえすいんふらすとらくちゃーあずこーど",
+    "authorIds": [
+      "hara-tabito"
+    ],
+    "techIds": [
+      "terraform",
+      "aws"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2025,
+    "synopsis": "インフラをコードで管理する手法を、TerraformとAWS CDKという二つの道具を並べて比較しながら解説した本。同じ構成をそれぞれで書いてみることで、宣言的な記述と手続き的な記述の違い、状態管理の考え方の差が見えるようにしている。道具選びの判断材料になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297147242",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(技術評論社、2025年、ISBN 9784297147242)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「原旅人 著」による。初版の刊行年2016年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "linux-programming-interface",
+    "title": "Linuxプログラミングインタフェース",
+    "titleKana": "りなっくすぷろぐらみんぐいんたふぇーす",
+    "authorIds": [
+      "michael-kerrisk"
+    ],
+    "techIds": [
+      "linux",
+      "c",
+      "operating-system"
+    ],
+    "translatorIds": [
+      "senju-jiro"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "reference",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2010,
+    "synopsis": "Linuxのシステムコールとライブラリ関数を網羅的に解説した大著。ファイル、プロセス、シグナル、スレッド、プロセス間通信、ソケット、メモリ管理といった領域を、規格上の位置づけと実装の癖の両面から説明する。困ったときに引く辞書としても通読の教科書としても使える。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873115856",
+    "latestEditionYear": 2012,
+    "jpPublishedYear": 2012,
+    "originalTitle": "The Linux Programming Interface",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2012年、ISBN 9784873115856)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Michael Kerrisk 著,千住治郎 訳」による。原著の初版年2010年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "shokai-linux-kernel-3",
+    "title": "詳解Linuxカーネル",
+    "titleKana": "しょうかいlinuxかーねる",
+    "authorIds": [
+      "daniel-bovet",
+      "marco-cesati"
+    ],
+    "techIds": [
+      "linux",
+      "operating-system"
+    ],
+    "translatorIds": [
+      "takahashi-hirokazu"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2000,
+    "synopsis": "Linuxカーネルの内部を、ソースコードの構造に沿って解説した本。プロセススケジューリング、メモリ管理、割り込み処理、ファイルシステム、ブロックデバイス層といった主要な仕組みを、データ構造と処理の流れの両方から追う。カーネルのコードを読み始める前の地図になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873113135",
+    "edition": "第3版",
+    "latestEditionYear": 2007,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Understanding the Linux Kernel",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2007年、ISBN 9784873113135)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Daniel P.Bovet, Marco Cesati 著,高橋浩和 監訳,杉田由美子, 清水正明, 高杉昌督, 平松雅巳, 安井隆宏 訳」による。原著の初版年2000年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "binary-hacks-rebooted",
+    "title": "Binary Hacks Rebooted",
+    "titleKana": "ばいなりはっくすりぶーてっど",
+    "authorIds": [
+      "kawata-akira"
+    ],
+    "techIds": [
+      "c",
+      "linux",
+      "operating-system"
+    ],
+    "translatorIds": [],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2006,
+    "synopsis": "実行ファイルの形式、リンカとローダ、デバッガ、プロファイラといった低レイヤの道具立てを、短い実験の集まりとして解説した本。それぞれの項目が独立したテクニックになっており、動かして確かめながら読める。普段は意識しない層で何が起きているかを覗くための一冊。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814400850",
+    "latestEditionYear": 2024,
+    "sourceNote": "書誌(オライリー・ジャパン、2024年、ISBN 9784814400850)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「河田旺 [ほか] 著,鈴木創 [ほか] 寄稿」による。初版の刊行年2006年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "cpu-no-tsukurikata",
+    "title": "CPUの創りかた",
+    "titleKana": "cpuのつくりかた",
+    "authorIds": [
+      "watanami-kaoru"
+    ],
+    "techIds": [
+      "computer-architecture"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "build-to-learn",
+      "classic"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2003,
+    "synopsis": "市販のICを十個ほど組み合わせて、4ビットのCPUを実際に作る手順を解説した本。論理ゲートの動作から始めて、レジスタ、カウンタ、命令デコーダを組み上げ、最後に自作のCPUでプログラムを走らせるところまで進む。ハードウェアの側からコンピュータを理解したい人に向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "latestEditionYear": 2003,
+    "sourceNote": "書誌(毎日コミュニケーションズ、2003年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「渡波郁 著」による。"
+  },
+  {
+    "id": "computer-organization-design-6",
+    "title": "コンピュータの構成と設計",
+    "titleKana": "こんぴゅーたのこうせいとせっけい",
+    "authorIds": [
+      "david-patterson",
+      "john-hennessy"
+    ],
+    "techIds": [
+      "computer-architecture"
+    ],
+    "translatorIds": [
+      "narita-mitsuaki"
+    ],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "theory",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 1994,
+    "synopsis": "ハードウェアとソフトウェアの境目を主題にした、コンピュータアーキテクチャの定番教科書。命令セットの設計から、データパスと制御、パイプライン、キャッシュを含む記憶階層、並列処理までを、性能の定量的な評価と結びつけて説明する。大学の講義でも長く使われている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784296070091",
+    "edition": "第6版",
+    "latestEditionYear": 2021,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Computer Organization and Design",
+    "sourceNote": "邦訳版の書誌(日経BP、2021年、ISBN 9784296070091)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「パターソン, ヘネシー 著,成田光彰 訳」による。原著の初版年1994年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "processor-wo-sasaeru-gijutsu",
+    "title": "プロセッサを支える技術",
+    "titleKana": "ぷろせっさおささえるぎじゅつ",
+    "authorIds": [
+      "hisa-ando"
+    ],
+    "techIds": [
+      "computer-architecture"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2011,
+    "synopsis": "プロセッサが速さを稼ぐために何をしているかを解説した本。パイプライン、スーパースカラ、分岐予測、アウトオブオーダー実行、キャッシュ階層、マルチコアといった技法を、それぞれが何のボトルネックを解いているかという観点で並べる。性能の話を仕組みから理解したいときに読む。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784774145211",
+    "latestEditionYear": 2011,
+    "sourceNote": "書誌(技術評論社、2011年、ISBN 9784774145211)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Hisa Ando 著」による。"
+  },
+  {
+    "id": "hajimete-yomu-8086",
+    "title": "はじめて読む8086",
+    "titleKana": "はじめてよむはちまるはちろく",
+    "authorIds": [
+      "kamachi-terunao"
+    ],
+    "techIds": [
+      "computer-architecture",
+      "c"
+    ],
+    "translatorIds": [],
+    "publisherId": "ascii",
+    "themeIds": [
+      "classic",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 1987,
+    "synopsis": "8086というプロセッサを題材に、アセンブリ言語とCPUの動作を基礎から解説した本。レジスタとメモリの関係、アドレッシング、割り込みといった概念を、実際に短いプログラムを書きながら確かめる。刊行から時間が経っても、低レイヤの入り口として読み継がれている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "latestEditionYear": 1987,
+    "sourceNote": "書誌(アスキー、1987年)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「蒲地輝尚 著」による。"
+  },
+  {
+    "id": "compilers-dragon-2",
+    "title": "コンパイラ",
+    "titleKana": "こんぱいら",
+    "authorIds": [
+      "alfred-aho",
+      "monica-lam",
+      "ravi-sethi",
+      "jeffrey-ullman"
+    ],
+    "techIds": [
+      "compiler"
+    ],
+    "translatorIds": [
+      "harada-kenichi"
+    ],
+    "publisherId": "science-sha",
+    "themeIds": [
+      "theory",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 1986,
+    "synopsis": "コンパイラの構成を、理論と実装の両面から解説した教科書。字句解析と構文解析の形式的な扱いから、意味解析、中間表現、コード生成、そしてデータフロー解析に基づく最適化までを順に積み上げる。表紙の絵からドラゴンブックと呼ばれ、この分野の標準として扱われている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784781912295",
+    "edition": "第2版",
+    "latestEditionYear": 2009,
+    "jpPublishedYear": 2009,
+    "originalTitle": "Compilers: Principles, Techniques, and Tools",
+    "sourceNote": "邦訳版の書誌(サイエンス社、2009年、ISBN 9784781912295)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「A.V.エイホ, M.S.ラム, R.セシィ, J.D.ウルマン 共著,原田賢一 訳」による。原著の初版年1986年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "concurrency-in-go",
+    "title": "Go言語による並行処理",
+    "titleKana": "ごーげんごによるへいこうしょり",
+    "authorIds": [
+      "katherine-cox-buday"
+    ],
+    "techIds": [
+      "go"
+    ],
+    "translatorIds": [
+      "yamaguchi-yoshifumi"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "theory",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "firstPublishedYear": 2017,
+    "synopsis": "Goの並行処理を、goroutineとchannelという道具の背後にある考え方から解説した本。競合状態やデッドロックがなぜ起きるかを押さえたうえで、パイプラインやファンイン・ファンアウトといった組み立て方のパターン、contextによる終了の伝え方までを扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784873118468",
+    "latestEditionYear": 2018,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Concurrency in Go",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2018年、ISBN 9784873118468)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Katherine Cox-Buday 著,山口能迪 訳」による。原著の初版年2017年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "programming-language-go",
+    "title": "プログラミング言語Go",
+    "titleKana": "ぷろぐらみんぐげんごごー",
+    "authorIds": [
+      "alan-donovan",
+      "brian-kernighan"
+    ],
+    "techIds": [
+      "go"
+    ],
+    "translatorIds": [
+      "shibata-yoshiki"
+    ],
+    "publisherId": "maruzen",
+    "themeIds": [
+      "reference",
+      "classic"
+    ],
+    "origin": "overseas",
+    "level": "intermediate",
+    "firstPublishedYear": 2015,
+    "synopsis": "Goの言語仕様を、簡潔な例とともに順序立てて解説した本。基本的な型と制御構造から、メソッドとインタフェース、goroutineとchannel、リフレクションや低レベルの機能までを扱う。カーニハンらしく短く動くプログラムが多く、読みながら手を動かせる構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784621300251",
+    "latestEditionYear": 2016,
+    "jpPublishedYear": 2016,
+    "originalTitle": "The Go Programming Language",
+    "sourceNote": "邦訳版の書誌(丸善出版、2016年、ISBN 9784621300251)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「アラン・ドノバン, ブライアン・カーニハン 著,柴田芳樹 訳」による。原著の初版年2015年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "jitsuyo-go-gengo-2",
+    "title": "実用Go言語",
+    "titleKana": "じつようごーげんご",
+    "authorIds": [
+      "shibukawa-yoshiki"
+    ],
+    "techIds": [
+      "go"
+    ],
+    "translatorIds": [],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2022,
+    "synopsis": "Goで実際にシステムを作るときに迷う箇所を集めた本。エラーハンドリングの方針、構造体とインタフェースの設計、設定の扱い、ログ、テスト、並行処理の使いどころといった話題を、現場での判断基準とともに示す。文法を覚えた後の指針が欲しい段階に向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814401369",
+    "edition": "第2版",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(オライリー・ジャパン、2025年、ISBN 9784814401369)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「渋川よしき [ほか] 著」による。初版の刊行年2022年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "jissen-rust-nyumon",
+    "title": "実践Rust入門",
+    "titleKana": "じっせんらすとにゅうもん",
+    "authorIds": [
+      "keen",
+      "kono-tatsuya",
+      "komatsu-ayato"
+    ],
+    "techIds": [
+      "rust"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2019,
+    "synopsis": "Rustの言語仕様を、所有権と借用という中心概念から丁寧に積み上げる入門書。型システム、トレイト、エラー処理、非同期処理までを扱い、後半ではツールチェインやテスト、実際のアプリケーション開発の進め方にも触れる。日本語でRustを体系的に学ぶ土台になる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297105594",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(技術評論社、2019年、ISBN 9784297105594)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「κeen, 河野達也, 小松礼人 著」による。"
+  },
+  {
+    "id": "minna-no-python-5",
+    "title": "みんなのPython",
+    "titleKana": "みんなのぱいそん",
+    "authorIds": [
+      "shibata-atsushi"
+    ],
+    "techIds": [
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2006,
+    "synopsis": "Pythonの入門書として長く改訂されてきた一冊。文法の説明にとどまらず、Pythonがどういう思想で設計された言語なのかに触れながら進む。データ構造、関数、クラス、モジュールを押さえたあと、実際に小さなプログラムを組み立てるところまでを扱う。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815631529",
+    "edition": "第5版",
+    "latestEditionYear": 2025,
+    "sourceNote": "書誌(SBクリエイティブ、2025年、ISBN 9784815631529)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「柴田淳 著」による。初版の刊行年2006年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "automate-boring-stuff-3",
+    "title": "退屈なことはPythonにやらせよう",
+    "titleKana": "たいくつなことわぱいそんにやらせよう",
+    "authorIds": [
+      "al-sweigart"
+    ],
+    "techIds": [
+      "python"
+    ],
+    "translatorIds": [
+      "aikawa-aizo"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "beginner",
+    "firstPublishedYear": 2015,
+    "synopsis": "プログラミングを本職としない人が、日々の手作業をPythonで自動化するための本。ファイルの整理、Excelやワードの操作、Webからの情報取得、メール送信、画像処理といった題材を、必要な文法だけを補いながら扱う。目的が先にある学び方ができる構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784814401529",
+    "edition": "第3版",
+    "latestEditionYear": 2026,
+    "jpPublishedYear": 2026,
+    "originalTitle": "Automate the Boring Stuff with Python",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2026年、ISBN 9784814401529)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Al Sweigart 著,相川愛三 訳」による。原著の初版年2015年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "python-crawling-scraping-2",
+    "title": "Pythonクローリング&スクレイピング",
+    "titleKana": "ぱいそんくろーりんぐあんどすくれいぴんぐ",
+    "authorIds": [
+      "kato-kota"
+    ],
+    "techIds": [
+      "python",
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2017,
+    "synopsis": "Webから情報を集めて使える形に整えるまでを扱う本。HTTPでの取得、HTMLの解析、文字コードの処理から、Scrapyによる本格的なクローラの構築、収集したデータの保存と分析までを通す。相手のサーバーに負荷をかけない作法や法的な注意点にも触れている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297107383",
+    "edition": "増補改訂版",
+    "latestEditionYear": 2019,
+    "sourceNote": "書誌(技術評論社、2019年、ISBN 9784297107383)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「加藤耕太 著」による。初版の刊行年2017年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "kikai-gakushu-no-essence-2",
+    "title": "機械学習のエッセンス 第2版",
+    "titleKana": "きかいがくしゅうのえっせんすだいにはん",
+    "authorIds": [
+      "kato-koichi"
+    ],
+    "techIds": [
+      "machine-learning",
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "theory",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2018,
+    "synopsis": "機械学習の主要な手法を、数学の導出と自分で書く実装の両方から追う本。微分と線形代数の必要な部分を補ったうえで、回帰、分類、サポートベクターマシン、次元削減などをライブラリに頼らず組み立てる。仕組みを納得してから道具を使いたい人に向く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784815637903",
+    "edition": "第2版",
+    "latestEditionYear": 2026,
+    "sourceNote": "書誌(ＳＢクリエイティブ、2026年、ISBN 9784815637903)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「加藤公一 著・文・その他」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "hajimete-no-pattern-ninshiki",
+    "title": "はじめてのパターン認識",
+    "titleKana": "はじめてのぱたーんにんしき",
+    "authorIds": [
+      "hirai-yuzo"
+    ],
+    "techIds": [
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "morikita",
+    "themeIds": [
+      "theory",
+      "classic"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2012,
+    "synopsis": "パターン認識の基礎的な手法を、確率と統計の枠組みで整理した教科書。ベイズ識別、線形識別、部分空間法、サポートベクターマシン、識別器の評価とアンサンブル学習までを扱う。薄いながら密度が高く、機械学習の理論側へ進む前の足場として読まれている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784627850712",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(森北出版、2022年、ISBN 9784627850712)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「平井有三 著」による。初版の刊行年2012年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "bayes-suiron-kikai-gakushu",
+    "title": "ベイズ推論による機械学習入門",
+    "titleKana": "べいずすいろんによるきかいがくしゅうにゅうもん",
+    "authorIds": [
+      "suyama-atsushi",
+      "sugiyama-masashi"
+    ],
+    "techIds": [
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2017,
+    "synopsis": "機械学習をベイズ推論という一つの枠組みから捉え直した入門書。確率分布の扱いから始め、事後分布の計算、変分推論やサンプリングによる近似、混合モデルや線形回帰への適用までを一貫した記法で説明する。手法の寄せ集めではない見通しが得られる。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784061538320",
+    "latestEditionYear": 2017,
+    "sourceNote": "書誌(講談社、2017年、ISBN 9784061538320)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「須山敦志 著,杉山将 監修」による。"
+  },
+  {
+    "id": "deep-learning-wo-sasaeru-gijutsu",
+    "title": "ディープラーニングを支える技術",
+    "titleKana": "でぃーぷらーにんぐおささえるぎじゅつ",
+    "authorIds": [
+      "okanohara-daisuke"
+    ],
+    "techIds": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2022,
+    "synopsis": "深層学習がなぜうまくいくのかを、技術基礎の側から説明した本。ニューラルネットワークの構成要素、誤差逆伝播、最適化手法、正則化といった仕組みを、数式に頼りすぎず概念の役割として述べる。実装は一通りできるが原理の説明ができない、という段階に効く。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297125608",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(技術評論社、2022年、ISBN 9784297125608)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「岡野原大輔 著」による。"
+  },
+  {
+    "id": "kaggle-llm-nyumon",
+    "title": "Kaggleではじめる大規模言語モデル入門",
+    "titleKana": "かぐるではじめるだいきぼげんごもでるにゅうもん",
+    "authorIds": [
+      "takano-kaito",
+      "saito-shinichiro",
+      "ishihara-shotaro"
+    ],
+    "techIds": [
+      "llm",
+      "python",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "firstPublishedYear": 2023,
+    "synopsis": "大規模言語モデルを実際に動かしながら学ぶ本。事前学習済みモデルの利用、ファインチューニング、プロンプトの設計、評価の仕方といった流れを、Kaggleのコンペティションを題材に手順として示す。自然言語処理の実務に近い形で試せる構成になっている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784065415245",
+    "latestEditionYear": 2026,
+    "sourceNote": "書誌(講談社、2026年、ISBN 9784065415245)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「高野海斗, 齋藤慎一朗, 石原祥太郎 編著」による。初版の刊行年2023年は同APIで同書名の全版を引いて確認。"
+  },
+  {
+    "id": "web-performance-tuning",
+    "title": "達人が教えるWebパフォーマンスチューニング",
+    "titleKana": "たつじんがおしえるうぇぶぱふぉーまんすちゅーにんぐ",
+    "authorIds": [
+      "fujiwara-shunichiro",
+      "baba-toshiaki",
+      "nakanishi-kento",
+      "nagano-masahiro",
+      "kaneko-tatsuya",
+      "kusano-sho"
+    ],
+    "techIds": [
+      "web",
+      "relational-database",
+      "observability"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "performance",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "firstPublishedYear": 2022,
+    "synopsis": "Webアプリケーションの高速化を、計測から始める作業として解説した本。負荷試験の設計、プロファイリング、遅いSQLの特定、キャッシュの入れ方、OSやミドルウェアの設定までを、ISUCONという競技の題材を通して順に扱う。勘に頼らない改善の手順が身につく。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784297128463",
+    "latestEditionYear": 2022,
+    "sourceNote": "書誌(技術評論社、2022年、ISBN 9784297128463)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「藤原俊一郎, 馬場俊彰, 中西建登, 長野雅広, 金子達哉, 草野翔 著」による。"
+  },
+  {
+    "id": "shokai-html-css-js-jiten",
+    "title": "詳解HTML&CSS&JavaScript辞典",
+    "titleKana": "しょうかいえいちてぃーえむえるあんどしーえすえすあんどじゃばすくりぷとじてん",
+    "authorIds": [
+      "ofuji-miki",
+      "hanba-masato"
+    ],
+    "techIds": [
+      "html-css",
+      "javascript"
+    ],
+    "translatorIds": [],
+    "publisherId": "shuwa-system",
+    "themeIds": [
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "firstPublishedYear": 2017,
+    "synopsis": "HTML・CSS・JavaScriptの要素やプロパティ、構文を引けるようにまとめた辞典。それぞれの項目に用途と記述例が添えられており、仕様書を読むより早く目的の書き方に辿り着ける。制作中に手元に置いて、うろ覚えの記法を確かめる使い方に向いている。",
+    "externalLinks": {},
+    "updatedAt": "2026-08-06",
+    "isbn": "9784798050225",
+    "latestEditionYear": 2017,
+    "sourceNote": "書誌(秀和システム、2017年、ISBN 9784798050225)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大藤幹, 半場方人 著」による。"
   }
 ]

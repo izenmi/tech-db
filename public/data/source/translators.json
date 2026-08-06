@@ -286,5 +286,257 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hirasawa-akira-tr",
+    "name": "平澤章",
+    "nameKana": "ひらさわあきら",
+    "description": "日本のソフトウェア技術者。オブジェクト指向や保守開発に関する書籍の執筆と翻訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "ochi-noriko",
+    "name": "越智典子",
+    "nameKana": "おちのりこ",
+    "description": "日本の翻訳者。技術書の翻訳に携わっている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "inaba-nobuyuki",
+    "name": "稲葉信之",
+    "nameKana": "いなばのぶゆき",
+    "description": "日本のソフトウェア技術者・翻訳者。ソフトウェア開発手法に関する書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "tamura-tomohiko",
+    "name": "田村友彦",
+    "nameKana": "たむらともひこ",
+    "description": "日本のソフトウェア技術者・翻訳者。開発プロセス関連の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kobori-masayoshi",
+    "name": "小堀真義",
+    "nameKana": "こぼりまさよし",
+    "description": "日本のソフトウェア技術者・翻訳者。『レガシーコード改善ガイド』の共訳者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aoki-yasushi",
+    "name": "青木靖",
+    "nameKana": "あおきやすし",
+    "description": "日本の翻訳者・プログラマ。ソフトウェア開発に関する読み物やエッセイの翻訳で知られる。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wada-eiichi",
+    "name": "和田英一",
+    "nameKana": "わだえいいち",
+    "description": "日本の計算機科学者。東京大学名誉教授で、『計算機プログラムの構造と解釈』を訳した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "seya-keisuke",
+    "name": "瀬谷啓介",
+    "nameKana": "せやけいすけ",
+    "description": "日本のソフトウェア技術者・翻訳者。オブジェクト指向設計やアジャイル関連の書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "watanabe-koichi",
+    "name": "渡辺光一",
+    "nameKana": "わたなべこういち",
+    "description": "日本のソフトウェアエンジニア。継続的デリバリーやDevOps関連書籍の監訳を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "inoue-wataru",
+    "name": "井上渉",
+    "nameKana": "いのうえわたる",
+    "description": "日本のソフトウェアエンジニア・翻訳者。『入門継続的デリバリー』の共訳者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "shoji-yuma",
+    "name": "庄司祐馬",
+    "nameKana": "しょうじゆうま",
+    "description": "日本のソフトウェアエンジニア・翻訳者。『入門継続的デリバリー』の共訳者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "toyama-yuji",
+    "name": "遠山雄二",
+    "nameKana": "とおやまゆうじ",
+    "description": "日本のソフトウェアエンジニア・翻訳者。『入門継続的デリバリー』の共訳者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wada-yuichiro",
+    "name": "和田祐一郎",
+    "nameKana": "わだゆういちろう",
+    "description": "日本の技術者・翻訳者。Webのパフォーマンス関連書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "suzuki-kengo",
+    "name": "鈴木研吾",
+    "nameKana": "すずきけんご",
+    "description": "日本のセキュリティエンジニア・翻訳者。ゼロトラスト関連書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "mantani-nobutaka",
+    "name": "萬谷暢崇",
+    "nameKana": "まんたになぶたか",
+    "description": "日本のセキュリティ技術者。攻撃手法に関する書籍の監訳を担当している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "arai-yu",
+    "name": "新井悠",
+    "nameKana": "あらいゆう",
+    "description": "日本のセキュリティ研究者・翻訳者。脅威分析とマルウェア解析を専門とする。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "katou-hiroyuki",
+    "name": "加唐寛征",
+    "nameKana": "かとうひろゆき",
+    "description": "日本のセキュリティ技術者・翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "murakami-ryo",
+    "name": "村上涼",
+    "nameKana": "むらかみりょう",
+    "description": "日本のセキュリティ技術者・翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sawada-takeo",
+    "name": "澤田武男",
+    "nameKana": "さわだたけお",
+    "description": "日本のエンジニア。Googleでの経験をもとにSRE関連書籍を監訳した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "sekine-tatsuo",
+    "name": "関根達夫",
+    "nameKana": "せきねたつお",
+    "description": "日本のエンジニア。『SRE サイトリライアビリティエンジニアリング』の監訳者の一人。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "hosokawa-kazushige",
+    "name": "細川一茂",
+    "nameKana": "ほそかわかずしげ",
+    "description": "日本のエンジニア。『SRE サイトリライアビリティエンジニアリング』の監訳者の一人。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yabuki-daisuke",
+    "name": "矢吹大輔",
+    "nameKana": "やぶきだいすけ",
+    "description": "日本のエンジニア。『SRE サイトリライアビリティエンジニアリング』の監訳者の一人。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "senju-jiro",
+    "name": "千住治郎",
+    "nameKana": "せんじじろう",
+    "description": "日本の翻訳者。システムプログラミング関連書籍を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "takahashi-hirokazu",
+    "name": "高橋浩和",
+    "nameKana": "たかはしひろかず",
+    "description": "日本のソフトウェア技術者。Linuxカーネルに詳しく、『詳解Linuxカーネル』を監訳した。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "narita-mitsuaki",
+    "name": "成田光彰",
+    "nameKana": "なりたみつあき",
+    "description": "日本の翻訳者。コンピュータアーキテクチャの教科書を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "harada-kenichi",
+    "name": "原田賢一",
+    "nameKana": "はらだけんいち",
+    "description": "日本の計算機科学者・翻訳者。コンパイラやアルゴリズムの教科書を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "yamaguchi-yoshifumi",
+    "name": "山口能迪",
+    "nameKana": "やまぐちよしふみ",
+    "description": "日本のソフトウェアエンジニア。Goに関する書籍の翻訳を手がけている。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "aikawa-aizo",
+    "name": "相川愛三",
+    "nameKana": "あいかわあいぞう",
+    "description": "日本の翻訳者。Pythonの入門書や実用書を訳している。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]
