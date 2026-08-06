@@ -1117,5 +1117,26 @@
     "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
     "updatedAt": "2026-08-06",
     "releasedYear": 2005
+  },
+  {
+    "id": "vba",
+    "name": "Excel VBA",
+    "nameKana": "えくせるぶいびーえー",
+    "category": "language",
+    "description": "Microsoft Office上でマクロを記述するためのプログラミング言語。表計算の定型作業を自動化する用途で広く使われている。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06",
+    "releasedYear": 1993
+  },
+  {
+    "id": "rpa",
+    "name": "RPA",
+    "nameKana": "あーるぴーえー",
+    "category": "tool",
+    "description": "画面操作を記録・再現して定型業務を自動化するソフトウェアロボットの総称。UiPathやWinActorなどの製品がある。",
+    "externalLinks": {},
+    "sourceNote": "公式サイトおよび一般に流通している技術書の記述で確認。",
+    "updatedAt": "2026-08-06"
   }
 ]

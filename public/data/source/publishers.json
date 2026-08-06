@@ -549,5 +549,25 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "asakura-shoten",
+    "name": "朝倉書店",
+    "nameKana": "あさくらしょてん",
+    "description": "理工学・医学を中心とした専門書を刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1929
+  },
+  {
+    "id": "corona-sha",
+    "name": "コロナ社",
+    "nameKana": "ころなしゃ",
+    "description": "電気・情報・機械分野の学術書と教科書を刊行する日本の出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
+    "updatedAt": "2026-08-06",
+    "foundedYear": 1927
   }
 ]
