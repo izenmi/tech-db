@@ -663,5 +663,41 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(出版社名)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "nihon-jitsugyo",
+    "name": "日本実業出版社",
+    "nameKana": "にほんじつぎょうしゅっぱんしゃ",
+    "description": "ビジネス書・実用書を中心に刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および公式サイトで確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "alc",
+    "name": "アルク",
+    "nameKana": "あるく",
+    "description": "語学教材・英語学習書を専門に刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および公式サイトで確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "business-kyoiku",
+    "name": "ビジネス教育出版社",
+    "nameKana": "びじねすきょういくしゅっぱんしゃ",
+    "description": "ビジネス実務・資格分野の書籍を刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および公式サイトで確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "rights-sha",
+    "name": "ライツ社",
+    "nameKana": "らいつしゃ",
+    "description": "兵庫県明石市に拠点を置く出版社。「サイボウズ式ブックス」なども手がける。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌および公式サイトで確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]

@@ -25291,5 +25291,676 @@
     "jpPublishedYear": 2014,
     "originalTitle": "Effective C++",
     "sourceNote": "邦訳版の書誌(丸善出版、2014年、ISBN 9784621066096)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「スコット・メイヤーズ著 ; 小林健一郎訳」による。原著の初版年1991年はOpenLibrary/英語版Wikipediaの書誌による。"
+  },
+  {
+    "id": "nouhin-o-nakuseba-umaku-iku-sofutowea-gyoukai-no",
+    "title": "「納品」をなくせばうまくいく",
+    "titleKana": "のうひんおなくせばうまくいく",
+    "authorIds": [
+      "kuranukiyoshihito"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "nihon-jitsugyo",
+    "themeIds": [
+      "essay-career",
+      "team-process",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784534051943",
+    "firstPublishedYear": 2014,
+    "synopsis": "一括請負・人月・デスマーチという受託開発の構造的な問題に対し、「納品のない受託開発」という月額定額のモデルを提示する。ソフトウェアを成長させ続ける前提で契約から考え直した実践記。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2015,
+        "result": "ビジネス書部門大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hakka-no-gakkou",
+    "title": "ハッカーの学校",
+    "titleKana": "はっかーのがっこう",
+    "authorIds": [
+      "ipusiron"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "datahouse",
+    "themeIds": [
+      "practice",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784781701974",
+    "firstPublishedYear": 2015,
+    "synopsis": "攻撃手法を体系立てて学ぶための入門書。第3回ITエンジニア本大賞の特別賞に選ばれた。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2016,
+        "result": "特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。紹介文の典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kikai-gakushuu-nyuumon-borutsuman-kikai-gakushuu",
+    "title": "機械学習入門 ボルツマン機械学習から深層学習まで",
+    "titleKana": "きかいがくしゅうにゅうもん",
+    "authorIds": [
+      "ozeki-masayuki"
+    ],
+    "techIds": [
+      "machine-learning",
+      "deep-learning",
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784274219986",
+    "firstPublishedYear": 2016,
+    "synopsis": "各種の機械学習の根幹とされるボルツマン機械学習を中心に据え、そこから深層学習までの流れをイラストを交えて解説する入門書。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2018,
+        "result": "技術書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2018,
+        "result": "特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "issatsu-de-subete-mi-ni-tsuku-jaba-sukuriputo-ny",
+    "title": "1冊ですべて身につくJavaScript入門講座",
+    "titleKana": "いっさつですべてみにつくじゃばすくりぷとにゅうもんこうざ",
+    "authorIds": [
+      "mana"
+    ],
+    "techIds": [
+      "javascript",
+      "web",
+      "html-css"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784815615758",
+    "firstPublishedYear": 2023,
+    "synopsis": "JavaScriptの基礎から実際に動くものを作るところまでを、手を動かしながら順に学べる入門書。累計40万部を超える入門書シリーズの一冊。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2024,
+        "result": "技術書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2024,
+        "result": "特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "chimu-o-ugokasu-aiti-eigo-jissen-manyuaru",
+    "title": "チームを動かすIT英語実践マニュアル",
+    "titleKana": "ちーむおうごかすあいてぃーえいごじっせんまにゅある",
+    "authorIds": [
+      "author-931261"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "alc",
+    "themeIds": [
+      "practice",
+      "team-process",
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784757439917",
+    "firstPublishedYear": 2022,
+    "synopsis": "グローバルなITプロジェクトで英語コミュニケーションや多文化・リモート環境に苦労するエンジニアに向けて、現場で使う表現と進め方をまとめた実践マニュアル。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2024,
+        "result": "ビジネス書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2024,
+        "result": "技術書部門プレゼン大会進出"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "gijutsusho-no-dokushojutsu-tatsujin-ga-oshieru-e",
+    "title": "「技術書」の読書術 達人が教える選び方・読み方・情報発信＆共有のコツとテクニック",
+    "titleKana": "ぎじゅつしょのどくしょじゅつ",
+    "authorIds": [
+      "ipusiron",
+      "masui-toshikatsu"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "essay-career",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784798171548",
+    "firstPublishedYear": 2022,
+    "synopsis": "技術書をどう選び、どう読み、読んだあとにどう情報発信・共有するか。技術書の書き手でもある著者たちが、選書から積読の扱いまでを具体的に語る。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2024,
+        "result": "特別賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2024,
+        "result": "技術書部門プレゼン大会進出"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "purojekuto-manejimento-no-kihon-ga-zenbu-wakaru",
+    "title": "プロジェクトマネジメントの基本が全部わかる本 交渉・タスクマネジメント・計画立案から見積り・契約・要件定義・設計・テスト・保守改善まで",
+    "titleKana": "ぷろじぇくとまねじめんとのきほんがぜんぶわかるほん",
+    "authorIds": [
+      "hashimotomasayoshi"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "team-process",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784798177410",
+    "firstPublishedYear": 2022,
+    "synopsis": "交渉・タスクマネジメント・計画立案から見積り・契約・要件定義・設計・テスト・保守改善まで、プロジェクトマネジメントの全体像を通しで解説する。我流で進めて失敗しがちな領域を体系立てて整理した一冊。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2024,
+        "result": "ビジネス書部門プレゼン大会進出"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nanokakan-de-hakkingu-o-hajimeru-hon-torai-hakku",
+    "title": "7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性",
+    "titleKana": "なのかかんではっきんぐおはじめるほん",
+    "authorIds": [
+      "nomizonomizou"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784798181578",
+    "firstPublishedYear": 2024,
+    "synopsis": "TryHackMeという学習用Webサービスを使い、用意された攻撃ターゲットに対して実際に手を動かしながら攻撃手法と脆弱性を体験的に学ぶ。7日間の構成で通しで進められる。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2025,
+        "result": "技術書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2025,
+        "result": "特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kono-issatsu-de-zenbu-wakaru-chatto-jipiti-ando",
+    "title": "この一冊で全部わかる ChatGPT & Copilotの教科書",
+    "titleKana": "このいっさつでぜんぶわかるちゃっとじーぴーてぃーあんどこぱいろっとのきょうかしょ",
+    "authorIds": [
+      "nakajimadaisuke"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784815626068",
+    "firstPublishedYear": 2024,
+    "synopsis": "ChatGPTとGitHub Copilotを仕事でどう使うかを、基本の考え方から具体的な使い方まで一冊で解説する。生成AIを日常業務に取り込むための入門書。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2025,
+        "result": "技術書部門プレゼン大会進出"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "buichuba-sapu-ga-oshieru-paison-shoshinsha-no-ko",
+    "title": "VTuberサプーが教える！ Python 初心者のコード／プロのコード",
+    "titleKana": "ぶいちゅーばーさぷーがおしえるぱいそんしょしんしゃのこーどぷろのこーど",
+    "authorIds": [
+      "author-149130"
+    ],
+    "techIds": [
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "readability",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297142858",
+    "firstPublishedYear": 2024,
+    "synopsis": "「動くものは作れるが、そこからどう上達すればいいか分からない」という悩みに応える一冊。初心者が書くコードと実務で通用するコードを並べて比較しながら、書き方の差を示していく。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2025,
+        "result": "技術書部門プレゼン大会進出"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "aiti-enjinia-hatarakikata-choutaizen-shuushoku-t",
+    "title": "ITエンジニア働き方超大全 就職・転職からフリーランス、起業まで",
+    "titleKana": "あいてぃーえんじにあはたらきかたちょうたいぜん",
+    "authorIds": [
+      "onoayumu"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784296070923",
+    "firstPublishedYear": 2024,
+    "synopsis": "これからITエンジニアを目指す人に向けて、就職・転職からフリーランス、起業までの選択肢を通しで解説する。人材不足が続く業界の歩き方をまとめた一冊。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2025,
+        "result": "ビジネス書部門プレゼン大会進出"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "enjinia-no-jizokuteki-seichou-sanjuunana-no-hint",
+    "title": "エンジニアの持続的成長37のヒント",
+    "titleKana": "えんじにあのじぞくてきせいちょうさんじゅうななのひんと",
+    "authorIds": [
+      "sakagamimakoto"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "business-kyoiku",
+    "themeIds": [
+      "essay-career",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784828311142",
+    "firstPublishedYear": 2025,
+    "synopsis": "エンジニアが陳腐化しないために、仕事選び・組織選び・キャリア選びをどう考えるか。持続的に成長し続けるための視点を37のヒントとして整理している。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "ビジネス書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "ビジネス書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "genba-de-katsuyou-suru-tame-no-eai-ejento-jissen",
+    "title": "現場で活用するためのＡＩエージェント実践入門",
+    "titleKana": "げんばでかつようするためのえーあいえーじぇんとじっせんにゅうもん",
+    "authorIds": [
+      "author-926510"
+    ],
+    "techIds": [
+      "llm",
+      "nlp"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784065401408",
+    "firstPublishedYear": 2025,
+    "synopsis": "AIエージェントの基礎知識から構築・評価・改善までを扱う実践書。実務で動かすことを前提に、設計と運用の勘所をまとめている。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "特別賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eai-ejento-kaihatsu-unyou-nyuumon",
+    "title": "AIエージェント開発 / 運用入門 [生成AI深掘りガイド]",
+    "titleKana": "えーあいえーじぇんとかいはつうんようにゅうもん",
+    "authorIds": [
+      "onda-minoru",
+      "ootsuboyuu",
+      "tsukadamasaki"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784815636609",
+    "firstPublishedYear": 2025,
+    "synopsis": "AIエージェントの基本・作り方・活用方法を一冊で学べる入門書。生成AIを深掘りするガイドシリーズの一冊。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "enjinia-ikusei-genba-no-shippai-atsumete-mita-yo",
+    "title": "エンジニア育成現場の「失敗」集めてみた。 42の失敗事例で学ぶマネジメントのうまい進めかた",
+    "titleKana": "えんじにあいくせいげんばのしっぱいあつめてみた",
+    "authorIds": [
+      "deishisatoshi"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "team-process",
+      "essay-career",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784798189666",
+    "firstPublishedYear": 2025,
+    "synopsis": "エンジニアの育成・マネジメントで実際に起きた42の失敗事例を集め、何がまずかったのかとどう進めればよかったのかを示す。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jissen-saiba-sekyuriti-nyuumon-kouza",
+    "title": "実践サイバーセキュリティ入門講座 現場に残された痕跡からハッカーの攻撃を暴け",
+    "titleKana": "じっせんさいばーせきゅりてぃにゅうもんこうざ",
+    "authorIds": [
+      "hayashinoriaki"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784815634254",
+    "firstPublishedYear": 2025,
+    "synopsis": "現場に残された痕跡からハッカーの攻撃を読み解いていく、体験型のサイバーセキュリティ入門講座。手を動かしながら対応手段を学ぶ構成になっている。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hyakunichi-charenji-mainichi-renzoku-hyappon-apu",
+    "title": "＃100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった",
+    "titleKana": "ひゃくにちちゃれんじ",
+    "authorIds": [
+      "ootsukaami"
+    ],
+    "techIds": [
+      "llm",
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "essay-career",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784296071067",
+    "firstPublishedYear": 2025,
+    "synopsis": "大学4年生がChatGPTを使って毎日連続100本のアプリを作り続けた記録。プログラミングとの向き合い方が変わっていく過程が綴られる。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yasashii-moderu-kontekisuto-purotokoru-nyuumon-e",
+    "title": "やさしいMCP入門",
+    "titleKana": "やさしいもでるこんてきすとぷろとこるにゅうもん",
+    "authorIds": [
+      "onda-minoru",
+      "ootsuboyuu"
+    ],
+    "techIds": [
+      "llm",
+      "api-design"
+    ],
+    "translatorIds": [],
+    "publisherId": "shuwa-system",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784798075730",
+    "firstPublishedYear": 2025,
+    "synopsis": "AIエージェント時代の標準規格MCP(Model Context Protocol)の入門書。話題を集めた解説スライドをもとに書き起こされた。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "shakaijin-ichinensei-no-jouhou-sekyuriti-chounyu",
+    "title": "社会人１年生の情報セキュリティ超入門",
+    "titleKana": "しゃかいじんいちねんせいのじょうほうせきゅりてぃちょうにゅうもん",
+    "authorIds": [
+      "hakkakazu",
+      "ashitanoshigotoryokukenkyuujo"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297147228",
+    "firstPublishedYear": 2025,
+    "synopsis": "サイバー攻撃によるシステム停止や個人情報流出といったニュースを入り口に、社会人1年目が押さえておくべき情報セキュリティの基礎を解説する。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "ビジネス書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ryoukiki-no-purojekuto-manejimento-kekka-o-dashi",
+    "title": "両利きのプロジェクトマネジメント 結果を出しながらメンバーが主体性を取り戻す技術",
+    "titleKana": "りょうききのぷろじぇくとまねじめんと",
+    "authorIds": [
+      "yoneyamatomohiro"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "team-process",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784798185521",
+    "firstPublishedYear": 2025,
+    "synopsis": "リーダーに集中しがちな負担を減らしつつ成果も出すために、週1回30分の定例会議を軸にしたプロジェクト運営を提案する。メンバーの主体性を取り戻す進め方を扱う。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "ビジネス書部門ベスト10"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
   }
 ]

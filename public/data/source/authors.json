@@ -8968,5 +8968,158 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kuranukiyoshihito",
+    "name": "倉貫義人",
+    "nameKana": "くらぬきよしひと",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "author-931261",
+    "name": "ラファエル・ヴィアナ",
+    "nameKana": "ラファエル・ヴィアナ",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hashimotomasayoshi",
+    "name": "橋本将功",
+    "nameKana": "はしもとまさよし",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nomizonomizou",
+    "name": "野溝のみぞう",
+    "nameKana": "のみぞのみぞう",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nakajimadaisuke",
+    "name": "中島大介",
+    "nameKana": "なかじまだいすけ",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "author-149130",
+    "name": "サプー",
+    "nameKana": "サプー",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "onoayumu",
+    "name": "小野歩",
+    "nameKana": "おのあゆむ",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sakagamimakoto",
+    "name": "阪上誠",
+    "nameKana": "さかがみまこと",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "author-926510",
+    "name": "太田真人",
+    "nameKana": "太田真人",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ootsuboyuu",
+    "name": "大坪悠",
+    "nameKana": "おおつぼゆう",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsukadamasaki",
+    "name": "塚田真規",
+    "nameKana": "つかだまさき",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "deishisatoshi",
+    "name": "出石聡史",
+    "nameKana": "でいしさとし",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hayashinoriaki",
+    "name": "林憲明",
+    "nameKana": "はやしのりあき",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ootsukaami",
+    "name": "大塚あみ",
+    "nameKana": "おおつかあみ",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hakkakazu",
+    "name": "ハッカーかず",
+    "nameKana": "はっかーかず",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ashitanoshigotoryokukenkyuujo",
+    "name": "あしたの仕事力研究所",
+    "nameKana": "あしたのしごとりょくけんきゅうじょ",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yoneyamatomohiro",
+    "name": "米山知宏",
+    "nameKana": "よねやまともひろ",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]

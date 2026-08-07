@@ -235,6 +235,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:32:52.223Z"
   },
+  "aiti-enjinia-hatarakikata-choutaizen-shuushoku-t": {
+    "title": "ITエンジニア働き方超大全 就職・転職からフリーランス、起業まで",
+    "isbn": "9784296070923",
+    "matchedTitle": "ITエンジニア働き方超大全　就職・転職からフリーランス、起業まで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0923/9784296070923_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:11.671Z"
+  },
   "ajax-design-patterns": {
     "title": "Ajaxデザインパターン",
     "isbn": "9784873113234",
@@ -831,6 +839,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:48:55.121Z"
   },
+  "buichuba-sapu-ga-oshieru-paison-shoshinsha-no-ko": {
+    "title": "VTuberサプーが教える！ Python 初心者のコード／プロのコード",
+    "isbn": "9784297142858",
+    "matchedTitle": "VTuberサプーが教える！　Python　初心者のコード／プロのコード",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2858/9784297142858_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:10.512Z"
+  },
   "build-llm-from-scratch": {
     "title": "つくりながら学ぶ!LLM自作入門",
     "isbn": "9784839987800",
@@ -906,6 +922,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3965/2000006873965.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T22:20:46.419Z"
+  },
+  "chimu-o-ugokasu-aiti-eigo-jissen-manyuaru": {
+    "title": "チームを動かすIT英語実践マニュアル",
+    "isbn": "9784757439917",
+    "matchedTitle": "チームを動かすIT英語実践マニュアル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9917/9784757439917_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:03.561Z"
   },
   "china-cybersecurity-law": {
     "title": "ITビジネスの現場で役立つ中国サイバーセキュリティ法&個人情報保護法実践対策ガイド",
@@ -1627,6 +1651,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:52:02.661Z"
   },
+  "eai-ejento-kaihatsu-unyou-nyuumon": {
+    "title": "AIエージェント開発 / 運用入門 [生成AI深掘りガイド]",
+    "isbn": "9784815636609",
+    "matchedTitle": "AIエージェント開発 / 運用入門 [生成AI深掘りガイド]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6609/9784815636609_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:15.138Z"
+  },
   "effective-cpp": {
     "title": "Effective C++",
     "isbn": "9784621066096",
@@ -1780,6 +1812,22 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6053/9784774196053.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:23:59.788Z"
+  },
+  "enjinia-ikusei-genba-no-shippai-atsumete-mita-yo": {
+    "title": "エンジニア育成現場の「失敗」集めてみた。 42の失敗事例で学ぶマネジメントのうまい進めかた",
+    "isbn": "9784798189666",
+    "matchedTitle": "エンジニア育成現場の「失敗」集めてみた。 42の失敗事例で学ぶマネジメントのうまい進めかた",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9666/9784798189666_1_137.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:16.290Z"
+  },
+  "enjinia-no-jizokuteki-seichou-sanjuunana-no-hint": {
+    "title": "エンジニアの持続的成長37のヒント",
+    "isbn": "9784828311142",
+    "matchedTitle": "エンジニアの持続的成長37のヒント",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1142/9784828311142_1_94.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:12.845Z"
   },
   "essential-scrum": {
     "title": "エッセンシャルスクラム",
@@ -2079,6 +2127,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:18:53.472Z"
   },
+  "genba-de-katsuyou-suru-tame-no-eai-ejento-jissen": {
+    "title": "現場で活用するためのＡＩエージェント実践入門",
+    "isbn": "9784065401408",
+    "matchedTitle": "現場で活用するためのAIエージェント実践入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1408/9784065401408_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:13.967Z"
+  },
   "genba-de-tsukaeru-test": {
     "title": "現場で使えるソフトウェアテスト",
     "isbn": "9784798114637",
@@ -2132,6 +2188,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7685/2000008837685.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T21:37:53.853Z"
+  },
+  "gijutsusho-no-dokushojutsu-tatsujin-ga-oshieru-e": {
+    "title": "「技術書」の読書術 達人が教える選び方・読み方・情報発信＆共有のコツとテクニック",
+    "isbn": "9784798171548",
+    "matchedTitle": "「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1548/9784798171548_1_138.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:04.717Z"
   },
   "git-omoshiroihodo-wakaru": {
     "title": "Gitが、おもしろいほどわかる基本の使い方33",
@@ -2433,6 +2497,12 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:03:32.500Z"
   },
+  "hakka-no-gakkou": {
+    "title": "ハッカーの学校",
+    "isbn": "9784781701974",
+    "coverUrl": null,
+    "resolvedAt": "2026-08-07T21:29:00.020Z"
+  },
   "hands-on-ml-3": {
     "title": "scikit-learn、Keras、TensorFlowによる実践機械学習",
     "isbn": "9784814400935",
@@ -2544,6 +2614,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9644/9784883379644.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:44:25.325Z"
+  },
+  "hyakunichi-charenji-mainichi-renzoku-hyappon-apu": {
+    "title": "＃100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった",
+    "isbn": "9784296071067",
+    "matchedTitle": "＃100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1067/9784296071067_1_41.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:18.613Z"
   },
   "ichiban-yasashii-agile": {
     "title": "いちばんやさしいアジャイル開発の教本",
@@ -2774,6 +2852,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6163/9784817196163.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:22:21.707Z"
+  },
+  "issatsu-de-subete-mi-ni-tsuku-jaba-sukuriputo-ny": {
+    "title": "1冊ですべて身につくJavaScript入門講座",
+    "isbn": "9784815615758",
+    "matchedTitle": "1冊ですべて身につくJavaScript入門講座",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5758/9784815615758_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:02.395Z"
   },
   "isshukan-ccna": {
     "title": "1週間でCCNAの基礎が学べる本",
@@ -3008,6 +3094,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5594/9784297105594.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:26:25.763Z"
+  },
+  "jissen-saiba-sekyuriti-nyuumon-kouza": {
+    "title": "実践サイバーセキュリティ入門講座 現場に残された痕跡からハッカーの攻撃を暴け",
+    "isbn": "9784815634254",
+    "matchedTitle": "実践サイバーセキュリティ入門講座　現場に残された痕跡からハッカーの攻撃を暴け",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4254/9784815634254_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:17.451Z"
   },
   "jissen-scala-nyumon": {
     "title": "実践Scala入門",
@@ -3305,6 +3399,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:32:31.555Z"
   },
+  "kikai-gakushuu-nyuumon-borutsuman-kikai-gakushuu": {
+    "title": "機械学習入門 ボルツマン機械学習から深層学習まで",
+    "isbn": "9784274219986",
+    "matchedTitle": "機械学習入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9986/9784274219986.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:01.224Z"
+  },
   "kiso-data-kozo-algorithm": {
     "title": "基礎から学ぶデータ構造とアルゴリズム",
     "isbn": "9784320124912",
@@ -3374,6 +3476,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3488/2000000103488.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T21:22:21.297Z"
+  },
+  "kono-issatsu-de-zenbu-wakaru-chatto-jipiti-ando": {
+    "title": "この一冊で全部わかる ChatGPT & Copilotの教科書",
+    "isbn": "9784815641375",
+    "matchedTitle": "この一冊で全部わかる　ChatGPT & Copilotの教科書［改訂第2版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1375/9784815641375_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-07T21:29:09.356Z"
   },
   "korekara-no-kyoka-gakushu": {
     "title": "これからの強化学習",
@@ -4093,6 +4203,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T09:24:59.208Z"
   },
+  "nanokakan-de-hakkingu-o-hajimeru-hon-torai-hakku": {
+    "title": "7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性",
+    "isbn": "9784798181578",
+    "matchedTitle": "7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1578/9784798181578_1_130.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:07.028Z"
+  },
   "naze-java-oop": {
     "title": "なぜ、あなたはJavaでオブジェクト指向開発ができないのか",
     "isbn": "9784774122229",
@@ -4228,6 +4346,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6135/2000001856135.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T13:04:20.458Z"
+  },
+  "nouhin-o-nakuseba-umaku-iku-sofutowea-gyoukai-no": {
+    "title": "「納品」をなくせばうまくいく",
+    "isbn": "9784534051943",
+    "matchedTitle": "「納品」をなくせばうまくいく",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1943/9784534051943.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:28:39.707Z"
   },
   "numpy-data-shori-nyumon-2": {
     "title": "現場で使える!NumPyデータ処理入門",
@@ -4975,6 +5101,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T21:08:54.155Z"
   },
+  "purojekuto-manejimento-no-kihon-ga-zenbu-wakaru": {
+    "title": "プロジェクトマネジメントの基本が全部わかる本 交渉・タスクマネジメント・計画立案から見積り・契約・要件定義・設計・テスト・保守改善まで",
+    "isbn": "9784798177410",
+    "matchedTitle": "プロジェクトマネジメントの基本が全部わかる本 交渉・タスクマネジメント・計画立案から見積り・契約・要件定義・設計・テスト・保守改善まで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7410/9784798177410_1_136.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:05.874Z"
+  },
   "python-100knock": {
     "title": "Python実践データ分析100本ノック",
     "isbn": "9784798075662",
@@ -5401,6 +5535,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T12:55:19.117Z"
   },
+  "ryoukiki-no-purojekuto-manejimento-kekka-o-dashi": {
+    "title": "両利きのプロジェクトマネジメント 結果を出しながらメンバーが主体性を取り戻す技術",
+    "isbn": "9784798185521",
+    "matchedTitle": "両利きのプロジェクトマネジメント 結果を出しながらメンバーが主体性を取り戻す技術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5521/9784798185521_1_135.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:22.102Z"
+  },
   "sa-gokaku-kyohon": {
     "title": "システムアーキテクト合格教本",
     "isbn": null,
@@ -5596,6 +5738,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7006/2000008177006.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T21:31:05.639Z"
+  },
+  "shakaijin-ichinensei-no-jouhou-sekyuriti-chounyu": {
+    "title": "社会人１年生の情報セキュリティ超入門",
+    "isbn": "9784297147228",
+    "matchedTitle": "社会人1年生の情報セキュリティ超入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7228/9784297147228_1_41.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:20.940Z"
   },
   "shannon-joho-riron-nyumon": {
     "title": "シャノンの情報理論入門",
@@ -6844,6 +6994,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4593/9784877834593_1_2.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:48:46.407Z"
+  },
+  "yasashii-moderu-kontekisuto-purotokoru-nyuumon-e": {
+    "title": "やさしいMCP入門",
+    "isbn": "9784798075730",
+    "matchedTitle": "やさしいMCP入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5730/9784798075730_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-07T21:29:19.784Z"
   },
   "yasashiku-manabu-ml-math": {
     "title": "やさしく学ぶ機械学習を理解するための数学のきほん",
