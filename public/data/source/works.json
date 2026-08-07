@@ -23,10 +23,17 @@
     "firstPublishedYear": 2011,
     "synopsis": "コードは他人が最短時間で理解できるように書くべきだ、という一点を軸に据えた本。命名、コメントの書き方、制御フローの単純化、巨大な式の分割、無関係な下位問題の抽出といった小さな技法を、改善前後のコードを並べながら積み上げていく。特定の言語に縛られず、章も短いので、チームで読み合わせる最初の一冊として選ばれることが多い。",
     "externalLinks": {},
-    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2012年6月、ISBN 9784873115658)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。訳者が角征典であることは国立国会図書館サーチAPIの書誌で確認。原著 The Art of Readable Code の初版年2011年はOpenLibraryで確認。",
-    "updatedAt": "2026-08-06",
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2012年6月、ISBN 9784873115658)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。訳者が角征典であることは国立国会図書館サーチAPIの書誌で確認。原著 The Art of Readable Code の初版年2011年はOpenLibraryで確認。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "updatedAt": "2026-08-07",
     "originalTitle": "The Art of Readable Code",
-    "jpPublishedYear": 2012
+    "jpPublishedYear": 2012,
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2014,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "pragmatic-programmer-2",
@@ -497,8 +504,8 @@
     "firstPublishedYear": 2020,
     "synopsis": "テストを増やすこと自体を目的にせず、どのテストに価値があるのかを判断する基準を示す本。退行の検出、偽陽性への耐性、実行速度、保守しやすさという四つの観点でテストを評価し、モックをどこまで使うか、何を単体とみなすかという長年の論点に一つの立場から答えを出していく。",
     "externalLinks": {},
-    "sourceNote": "邦訳版の書誌(マイナビ出版、2022年12月、ISBN 9784839981723、訳: 須田智之)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著2020年刊はOpenLibraryで確認。ITエンジニア本大賞2024の技術書部門でプレゼン大会に進出したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。",
-    "updatedAt": "2026-08-06",
+    "sourceNote": "邦訳版の書誌(マイナビ出版、2022年12月、ISBN 9784839981723、訳: 須田智之)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。原著2020年刊はOpenLibraryで確認。ITエンジニア本大賞2024の技術書部門でプレゼン大会に進出したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "updatedAt": "2026-08-07",
     "originalTitle": "Unit Testing Principles, Practices, and Patterns",
     "jpPublishedYear": 2022,
     "awardResults": [
@@ -630,14 +637,29 @@
     "firstPublishedYear": 2016,
     "synopsis": "外部のディープラーニングフレームワークを使わず、NumPyだけでニューラルネットワークを一から組み上げていく本。パーセプトロンから始めて、活性化関数、誤差逆伝播法、最適化手法、畳み込みニューラルネットワークへと進む。数式と実装コードが常に並んで示されるため、ブラックボックスだった部分が順に開いていく。",
     "externalLinks": {},
-    "sourceNote": "書誌(オライリー・ジャパン、2016年9月、ISBN 9784873117584)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。ITエンジニア本大賞2017の技術書部門でプレゼン大会に進出したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。",
-    "updatedAt": "2026-08-06",
+    "sourceNote": "書誌(オライリー・ジャパン、2016年9月、ISBN 9784873117584)は楽天ブックスAPI(BooksBook/Search)の書誌で確認。ITエンジニア本大賞2017の技術書部門でプレゼン大会に進出したことは翔泳社の結果ページで確認(部門大賞は別の書籍)。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "updatedAt": "2026-08-07",
     "seriesName": "ゼロから作るDeep Learningシリーズ",
     "awardResults": [
       {
         "awardId": "it-engineer-book-award",
         "year": 2017,
         "result": "技術書部門ベスト10(プレゼン大会進出)"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2017,
+        "result": "技術書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2017,
+        "result": "特別賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2019,
+        "result": "特別賞"
       }
     ]
   },
@@ -872,12 +894,19 @@
     "firstPublishedYear": 2021,
     "synopsis": "コードを読むときに脳の中で何が起きているのかを、認知科学の知見から説明した本。長期記憶・短期記憶・ワーキングメモリの三つの働きで「読めない」原因を分解し、チャンク化や意図的な写経といった対処法に結びつける。命名がなぜ効くのか、新人が既存コードに詰まるのはなぜかといった日常の疑問に、経験則ではない裏づけを与えてくれる。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784798068534",
     "latestEditionYear": 2023,
     "jpPublishedYear": 2023,
     "originalTitle": "The Programmer's Brain",
-    "sourceNote": "邦訳版の書誌(秀和システム、2023年、ISBN 9784798068534)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Felienne Hermans 著,水野貴明 訳,水野いずみ 監訳」による。原著の初版年2021年はOpenLibrary/英語版Wikipediaの書誌による。"
+    "sourceNote": "邦訳版の書誌(秀和システム、2023年、ISBN 9784798068534)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Felienne Hermans 著,水野貴明 訳,水野いずみ 監訳」による。原著の初版年2021年はOpenLibrary/英語版Wikipediaの書誌による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2016,
+        "result": "技術書部門大賞"
+      }
+    ]
   },
   {
     "id": "go-system-programming-2",
@@ -1672,10 +1701,22 @@
     "firstPublishedYear": 2018,
     "synopsis": "開発の現場で起きる問題を「不確実性をどう減らすか」という一本の軸で読み解いた本。認知の歪み、情報の非対称性、技術的負債、組織構造とアーキテクチャの対応といった話題を、思考法と組織論の両面から扱う。個人の技術力では解けない詰まりに名前を与えてくれる。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784774196053",
     "latestEditionYear": 2018,
-    "sourceNote": "書誌(技術評論社、2018年、ISBN 9784774196053)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「広木大地 著」による。"
+    "sourceNote": "書誌(技術評論社、2018年、ISBN 9784774196053)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「広木大地 著」による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2019,
+        "result": "技術書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2019,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "soft-skills",
@@ -2005,11 +2046,18 @@
     "firstPublishedYear": 2018,
     "synopsis": "自宅の仮想環境に攻撃側と防御側の両方の機械を用意し、安全に攻撃を試せる練習場を作る手順を解説した本。仮想化ソフトの設定からKali Linuxの導入、脆弱なサーバーの用意、実際の侵入手順までを扱う。法に触れずに手を動かして学ぶための土台を整えてくれる。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784798174570",
     "edition": "改訂1版",
     "latestEditionYear": 2024,
-    "sourceNote": "書誌(翔泳社、2024年、ISBN 9784798174570)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「IPUSIRON 著」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。"
+    "sourceNote": "書誌(翔泳社、2024年、ISBN 9784798174570)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「IPUSIRON 著」による。初版の刊行年2018年は同APIで同書名の全版を引いて確認。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ]
   },
   {
     "id": "jissen-terraform",
@@ -3046,12 +3094,24 @@
     "firstPublishedYear": 2019,
     "synopsis": "チームの分け方とアーキテクチャの関係を主題にした本。ストリームアラインド、イネイブリング、コンプリケイテッド・サブシステム、プラットフォームという四つの型と、三つの相互作用のモードでチーム編成を設計する枠組みを示す。組織図から手をつける発想を与える。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784820729631",
     "latestEditionYear": 2021,
     "jpPublishedYear": 2021,
     "originalTitle": "Team Topologies",
-    "sourceNote": "邦訳版の書誌(日本能率協会マネジメントセンター、2021年、ISBN 9784820729631)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マシュー・スケルトン, マニュエル・パイス 著,原田騎郎, 永瀬美穂, 吉羽龍太郎 訳」による。原著の初版年2019年はOpenLibrary/英語版Wikipediaの書誌による。"
+    "sourceNote": "邦訳版の書誌(日本能率協会マネジメントセンター、2021年、ISBN 9784820729631)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「マシュー・スケルトン, マニュエル・パイス 著,原田騎郎, 永瀬美穂, 吉羽龍太郎 訳」による。原著の初版年2019年はOpenLibrary/英語版Wikipediaの書誌による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2023,
+        "result": "ビジネス書部門プレゼン大会進出"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2023,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "kaizen-journey",
@@ -3372,10 +3432,22 @@
     "firstPublishedYear": 2021,
     "synopsis": "プロダクトマネジメントの仕事の範囲を、事業戦略、開発、UX、マーケティング、組織運営まで含めて体系的に整理した本。個別の手法を並べるだけでなく、それぞれがどの判断につながるかを示す。この職種に何が求められるかの全体像を掴むための一冊。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784798166391",
     "latestEditionYear": 2021,
-    "sourceNote": "書誌(翔泳社、2021年、ISBN 9784798166391)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「及川卓也, 曽根原春樹, 小城久美子 著」による。"
+    "sourceNote": "書誌(翔泳社、2021年、ISBN 9784798166391)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「及川卓也, 曽根原春樹, 小城久美子 著」による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2022,
+        "result": "ビジネス書部門プレゼン大会進出"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2022,
+        "result": "ビジネス書部門大賞"
+      }
+    ]
   },
   {
     "id": "inspired",
@@ -4845,10 +4917,17 @@
     "firstPublishedYear": 2020,
     "synopsis": "アルゴリズムを、問題を解く道具としてどう選ぶかという観点から解説した本。全探索、二分探索、動的計画法、貪欲法、グラフ探索といった設計技法を、計算量の見積もりと結びつけて説明する。競技プログラミングの発想を実務側に開いた構成になっている。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784065128442",
     "latestEditionYear": 2020,
-    "sourceNote": "書誌(講談社、2020年、ISBN 9784065128442)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大槻兼資 著,秋葉拓哉 監修」による。"
+    "sourceNote": "書誌(講談社、2020年、ISBN 9784065128442)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大槻兼資 著,秋葉拓哉 監修」による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2021,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "pact-koshiki-text",
@@ -4903,10 +4982,17 @@
     "firstPublishedYear": 2022,
     "synopsis": "競技プログラミングで繰り返し使われる技法を、77の項目として整理した本。全探索の工夫、計算量の削減、データ構造の選択、数学的な考察といった話題を、演習問題とともに積み上げる。解法そのものより、思いつくための道筋に紙面を割いている。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784839977504",
     "latestEditionYear": 2022,
-    "sourceNote": "書誌(マイナビ出版、2022年、ISBN 9784839977504)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「米田優峻 著」による。"
+    "sourceNote": "書誌(マイナビ出版、2022年、ISBN 9784839977504)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「米田優峻 著」による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2023,
+        "result": "技術書部門プレゼン大会進出"
+      }
+    ]
   },
   {
     "id": "programming-contest-algorithm-ds",
@@ -6236,11 +6322,23 @@
     "firstPublishedYear": 2014,
     "synopsis": "GitHubを使ったチーム開発の進め方をまとめた本。プルリクエストを軸にした作業の流れ、ブランチ戦略の選び方、コードレビューの観点、Issueとプロジェクト管理の使い方を扱う。個人利用から共同作業に移る段階の指針になる。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784295604525",
     "edition": "改訂版",
     "latestEditionYear": 2026,
-    "sourceNote": "書誌(インプレスNextPublishing、2026年、ISBN 9784295604525)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大宮薫 著」による。初版の刊行年2014年は同APIで同書名の全版を引いて確認。"
+    "sourceNote": "書誌(インプレスNextPublishing、2026年、ISBN 9784295604525)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「大宮薫 著」による。初版の刊行年2014年は同APIで同書名の全版を引いて確認。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2015,
+        "result": "技術書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2015,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "team-kaihatsu-jissen-nyumon",
@@ -8546,13 +8644,20 @@
     "firstPublishedYear": 2020,
     "synopsis": "ソフトウェアアーキテクチャを体系的に扱う教科書。アーキテクチャ特性の定義と測定、コンポーネントの分割、代表的なアーキテクチャスタイルの比較、そして意思決定の記録やチームとの関わりまでを扱う。判断を言語化する道具が揃う。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784814401550",
     "edition": "第2版",
     "latestEditionYear": 2026,
     "jpPublishedYear": 2026,
     "originalTitle": "Fundamentals of Software Architecture",
-    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2026年、ISBN 9784814401550)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Mark Richards, Neal Ford 著,島田浩二 訳」による。原著の初版年2020年はOpenLibrary/英語版Wikipediaの書誌による。"
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2026年、ISBN 9784814401550)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Mark Richards, Neal Ford 著,島田浩二 訳」による。原著の初版年2020年はOpenLibrary/英語版Wikipediaの書誌による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2023,
+        "result": "技術書部門プレゼン大会進出"
+      }
+    ]
   },
   {
     "id": "software-architecture-hard-parts",
@@ -8675,13 +8780,20 @@
     "firstPublishedYear": 1999,
     "synopsis": "外から見た振る舞いを変えずにコードの内側を整える作業を、名前の付いた手順の集まりとして体系化した本。コードの臭いを手がかりに、どのリファクタリングを適用するかを選ぶ。第2版ではJavaScriptを例に、テストを土台に据えて書き直されている。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784274224546",
     "edition": "第2版",
     "latestEditionYear": 2019,
     "jpPublishedYear": 2019,
     "originalTitle": "Refactoring",
-    "sourceNote": "邦訳版の書誌(オーム社、2019年、ISBN 9784274224546)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Martin Fowler 著,児玉公信, 友野晶夫, 平澤章, 梅澤真史 共訳」による。原著の初版年1999年はOpenLibrary/英語版Wikipediaの書誌による。"
+    "sourceNote": "邦訳版の書誌(オーム社、2019年、ISBN 9784274224546)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「Martin Fowler 著,児玉公信, 友野晶夫, 平澤章, 梅澤真史 共訳」による。原著の初版年1999年はOpenLibrary/英語版Wikipediaの書誌による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2015,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "secure-by-design",
@@ -9312,10 +9424,22 @@
     "firstPublishedYear": 2022,
     "synopsis": "自然言語処理の基礎を、研究者が分担して体系的に解説した教科書。単語の分散表現、系列変換、注意機構とTransformer、事前学習済みモデルといった現在の中心的な手法を、数式を伴って扱う。この分野の論文を読む土台になる。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784274229008",
     "latestEditionYear": 2022,
-    "sourceNote": "書誌(オーム社、2022年、ISBN 9784274229008)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「岡﨑直観, 荒瀬由紀, 鈴木潤, 鶴岡慶雅, 宮尾祐介 共著」による。初版の刊行年1988年は同APIで同書名の全版を引いて確認。"
+    "sourceNote": "書誌(オーム社、2022年、ISBN 9784274229008)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「岡﨑直観, 荒瀬由紀, 鈴木潤, 鶴岡慶雅, 宮尾祐介 共著」による。初版の刊行年1988年は同APIで同書名の全版を引いて確認。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門大賞"
+      }
+    ]
   },
   {
     "id": "bert-nlp-nyumon",
@@ -12521,10 +12645,17 @@
     "firstPublishedYear": 2020,
     "synopsis": "TCP/IPの各プロトコルを、パケットの中身と機器の動きを対応させた図で説明する入門書。物理層からアプリケーション層まで一通り触れたうえで、実際の通信がどの順番で進むのかを追いかける構成になっている。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784815627058",
     "latestEditionYear": 2025,
-    "sourceNote": "書誌(SBクリエイティブ、2025年、ISBN 9784815627058)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「みやたひろし 著」による。初版の刊行年2020年は同APIで同書名の全版を引いて確認。"
+    "sourceNote": "書誌(SBクリエイティブ、2025年、ISBN 9784815627058)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「みやたひろし 著」による。初版の刊行年2020年は同APIで同書名の全版を引いて確認。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ]
   },
   {
     "id": "ouchi-network",
@@ -13331,10 +13462,27 @@
     "firstPublishedYear": 2022,
     "synopsis": "保守しづらいコードによく現れる型を「悪魔」として名前をつけ、その原因と直し方を対で示す設計の入門書。クラスの責務、条件分岐の整理、命名、コメント、リファクタリングの進め方まで、身近な例で扱っている。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784297146221",
     "latestEditionYear": 2025,
-    "sourceNote": "書誌(技術評論社、2025年、ISBN 9784297146221)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「仙塲大也 著」による。初版の刊行年2022年は同APIで同書名の全版を引いて確認。"
+    "sourceNote": "書誌(技術評論社、2025年、ISBN 9784297146221)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「仙塲大也 著」による。初版の刊行年2022年は同APIで同書名の全版を引いて確認。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2023,
+        "result": "技術書部門プレゼン大会進出"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2023,
+        "result": "技術書部門大賞"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門ベスト10"
+      }
+    ]
   },
   {
     "id": "software-mistakes-tradeoffs",
@@ -15858,12 +16006,24 @@
     "firstPublishedYear": 2020,
     "synopsis": "エンジニアリングマネージャーの日々の仕事を、時間の使い方、一対一の面談、委譲、採用、解雇、リモートワークまで具体的に記述した本。抽象的な心構えではなく、明日どう動くかが書かれている。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784873119946",
     "latestEditionYear": 2022,
     "jpPublishedYear": 2022,
     "originalTitle": "Become an Effective Software Engineering Manager",
-    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2022年、ISBN 9784873119946)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「James Stanier 著,吉羽龍太郎, 永瀬美穂, 原田騎郎, 竹葉美沙 訳」による。原著の初版年2020年はOpenLibrary/英語版Wikipediaの書誌による。"
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2022年、ISBN 9784873119946)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「James Stanier 著,吉羽龍太郎, 永瀬美穂, 原田騎郎, 竹葉美沙 訳」による。原著の初版年2020年はOpenLibrary/英語版Wikipediaの書誌による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2023,
+        "result": "ビジネス書部門プレゼン大会進出"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2023,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "engineer-chiteki-seisan",
@@ -15906,10 +16066,22 @@
     "firstPublishedYear": 2023,
     "synopsis": "マイクロソフト本社で働く著者が、周囲の一流エンジニアの仕事の進め方を観察して言語化した本。理解を優先して手を動かしすぎない、試行錯誤を減らす、休息を設計するといった習慣の違いを取り上げる。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784163917689",
     "latestEditionYear": 2023,
-    "sourceNote": "書誌(文藝春秋、2023年、ISBN 9784163917689)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「牛尾剛 著」による。"
+    "sourceNote": "書誌(文藝春秋、2023年、ISBN 9784163917689)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「牛尾剛 著」による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2025,
+        "result": "ビジネス書部門プレゼン大会進出"
+      },
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2025,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "shinriteki-anzensei",
@@ -16048,12 +16220,19 @@
     "firstPublishedYear": 2015,
     "synopsis": "保守できないコードが生まれる原因を開発の進め方に求め、九つの実践で断ち切ることを提案する本。小さく作る、継続的に統合する、実装ではなく振る舞いを検証するといった原則を、理由とともに説明する。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784873118864",
     "latestEditionYear": 2019,
     "jpPublishedYear": 2019,
     "originalTitle": "Beyond Legacy Code",
-    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2019年、ISBN 9784873118864)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「David Scott Bernstein 著,吉羽龍太郎, 永瀬美穂, 原田騎郎, 有野雅士 訳」による。原著の初版年2015年はOpenLibrary/英語版Wikipediaの書誌による。"
+    "sourceNote": "邦訳版の書誌(オライリー・ジャパン、2019年、ISBN 9784873118864)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「David Scott Bernstein 著,吉羽龍太郎, 永瀬美穂, 原田騎郎, 有野雅士 訳」による。原著の初版年2015年はOpenLibrary/英語版Wikipediaの書誌による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2020,
+        "result": "技術書部門大賞"
+      }
+    ]
   },
   {
     "id": "re-engineering-legacy-software",
@@ -18028,10 +18207,17 @@
     "firstPublishedYear": 2021,
     "synopsis": "1行のシェルコマンドで課題を解く問題を160本集めた演習書。ファイル整理、テキスト集計、画像や音声の一括処理などを題材に、パイプと標準コマンドを組み合わせる発想を鍛えられる。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784297122676",
     "latestEditionYear": 2021,
-    "sourceNote": "書誌(技術評論社、2021年、ISBN 9784297122676)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「上田隆一, 山田泰宏, 田代勝也, 中村壮一, 今泉光之, 上杉尚史 著」による。"
+    "sourceNote": "書誌(技術評論社、2021年、ISBN 9784297122676)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「上田隆一, 山田泰宏, 田代勝也, 中村壮一, 今泉光之, 上杉尚史 著」による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2022,
+        "result": "技術書部門プレゼン大会進出"
+      }
+    ]
   },
   {
     "id": "97-things-architect",
@@ -18476,10 +18662,17 @@
     "firstPublishedYear": 2021,
     "synopsis": "予測モデルの出力をどう説明するかを扱う本。特徴量重要度、部分依存プロット、SHAPといった手法の仕組みと限界を数式で追い、解釈を誤らないための前提条件を明確にしている。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784297122263",
     "latestEditionYear": 2021,
-    "sourceNote": "書誌(技術評論社、2021年、ISBN 9784297122263)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森下光之助 著」による。"
+    "sourceNote": "書誌(技術評論社、2021年、ISBN 9784297122263)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「森下光之助 著」による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2022,
+        "result": "技術書部門プレゼン大会進出"
+      }
+    ]
   },
   {
     "id": "keisanron-lambda",
@@ -19412,10 +19605,17 @@
     "firstPublishedYear": 2016,
     "synopsis": "技術文書やコミットメッセージで使う英語を、30の基本動詞の使い分けから整理する本。似た意味の語をどう選ぶか、目的語との組み合わせはどうかといった、辞書だけでは掴みにくい点を扱う。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784798074306",
     "latestEditionYear": 2025,
-    "sourceNote": "書誌(秀和システム、2025年、ISBN 9784798074306)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「板垣政樹 著」による。初版の刊行年2016年は同APIで同書名の全版を引いて確認。"
+    "sourceNote": "書誌(秀和システム、2025年、ISBN 9784798074306)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「板垣政樹 著」による。初版の刊行年2016年は同APIで同書名の全版を引いて確認。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2017,
+        "result": "特別賞"
+      }
+    ]
   },
   {
     "id": "engineer-zukai-shiko",
@@ -23049,10 +23249,17 @@
     "firstPublishedYear": 2015,
     "synopsis": "人工知能研究の歴史を三度のブームとして整理し、深層学習が何を突破したのかを一般読者に向けて説明する本。技術の限界と社会への影響についても、研究者の立場から見通しを述べている。",
     "externalLinks": {},
-    "updatedAt": "2026-08-06",
+    "updatedAt": "2026-08-07",
     "isbn": "9784040800202",
     "latestEditionYear": 2015,
-    "sourceNote": "書誌(KADOKAWA、2015年、ISBN 9784040800202)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松尾豊 [著]」による。"
+    "sourceNote": "書誌(KADOKAWA、2015年、ISBN 9784040800202)は国立国会図書館サーチAPI(opensearch)の検索結果で確認。著者・訳者は同APIの責任表示「松尾豊 [著]」による。 受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2016,
+        "result": "ビジネス書部門大賞"
+      }
+    ]
   },
   {
     "id": "practical-nlp",
