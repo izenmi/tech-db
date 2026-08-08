@@ -2518,5 +2518,35 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチAPIの書誌(責任表示)で確認。",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "kitahara-ken",
+    "name": "北原憲",
+    "nameKana": "きたはらけん",
+    "description": "北原憲。翻訳者。"
+  },
+  {
+    "id": "matsuzawa-toshiji",
+    "name": "松沢敏志",
+    "nameKana": "まつざわとしじ",
+    "description": "松沢敏志。翻訳者。"
+  },
+  {
+    "id": "kazama-yuji",
+    "name": "風間勇志",
+    "nameKana": "かざまゆうじ",
+    "description": "風間勇志。翻訳者。"
+  },
+  {
+    "id": "arai-shungo",
+    "name": "新井俊悟",
+    "nameKana": "あらいしゅんご",
+    "description": "新井俊悟。翻訳者。"
+  },
+  {
+    "id": "fukuda-haruka",
+    "name": "福田遙",
+    "nameKana": "ふくだはるか",
+    "description": "福田遙。翻訳者。"
   }
 ]
