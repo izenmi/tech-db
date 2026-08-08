@@ -648,16 +648,6 @@
       },
       {
         "awardId": "it-engineer-book-award",
-        "year": 2017,
-        "result": "技術書部門大賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2017,
-        "result": "特別賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
         "year": 2019,
         "result": "特別賞"
       }
@@ -694,11 +684,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2019,
         "result": "技術書部門ベスト10(プレゼン大会進出)"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2019,
-        "result": "特別賞"
       }
     ]
   },
@@ -1710,11 +1695,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2019,
         "result": "技術書部門大賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2019,
-        "result": "特別賞"
       }
     ]
   },
@@ -3105,11 +3085,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2023,
         "result": "ビジネス書部門プレゼン大会進出"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2023,
-        "result": "特別賞"
       }
     ]
   },
@@ -3441,11 +3416,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2022,
         "result": "ビジネス書部門プレゼン大会進出"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2022,
-        "result": "ビジネス書部門大賞"
       }
     ]
   },
@@ -6332,11 +6302,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2015,
         "result": "技術書部門大賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2015,
-        "result": "特別賞"
       }
     ]
   },
@@ -9433,11 +9398,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2026,
         "result": "技術書部門ベスト10"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2026,
-        "result": "技術書部門大賞"
       }
     ]
   },
@@ -13474,11 +13434,6 @@
       },
       {
         "awardId": "it-engineer-book-award",
-        "year": 2023,
-        "result": "技術書部門大賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
         "year": 2026,
         "result": "技術書部門ベスト10"
       }
@@ -16017,11 +15972,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2023,
         "result": "ビジネス書部門プレゼン大会進出"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2023,
-        "result": "特別賞"
       }
     ]
   },
@@ -16075,11 +16025,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2025,
         "result": "ビジネス書部門プレゼン大会進出"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2025,
-        "result": "特別賞"
       }
     ]
   },
@@ -25383,11 +25328,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2018,
         "result": "技術書部門大賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2018,
-        "result": "特別賞"
       }
     ],
     "externalLinks": {},
@@ -25422,11 +25362,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2024,
         "result": "技術書部門大賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2024,
-        "result": "特別賞"
       }
     ],
     "externalLinks": {},
@@ -25454,11 +25389,6 @@
     "firstPublishedYear": 2022,
     "synopsis": "グローバルなITプロジェクトで英語コミュニケーションや多文化・リモート環境に苦労するエンジニアに向けて、現場で使う表現と進め方をまとめた実践マニュアル。",
     "awardResults": [
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2024,
-        "result": "ビジネス書部門大賞"
-      },
       {
         "awardId": "it-engineer-book-award",
         "year": 2024,
@@ -25490,11 +25420,6 @@
     "firstPublishedYear": 2022,
     "synopsis": "技術書をどう選び、どう読み、読んだあとにどう情報発信・共有するか。技術書の書き手でもある著者たちが、選書から積読の扱いまでを具体的に語る。",
     "awardResults": [
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2024,
-        "result": "特別賞"
-      },
       {
         "awardId": "it-engineer-book-award",
         "year": 2024,
@@ -25561,11 +25486,6 @@
         "awardId": "it-engineer-book-award",
         "year": 2025,
         "result": "技術書部門大賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2025,
-        "result": "特別賞"
       }
     ],
     "externalLinks": {},
@@ -25688,11 +25608,6 @@
       {
         "awardId": "it-engineer-book-award",
         "year": 2026,
-        "result": "ビジネス書部門大賞"
-      },
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2026,
         "result": "ビジネス書部門ベスト10"
       }
     ],
@@ -25723,11 +25638,6 @@
     "firstPublishedYear": 2025,
     "synopsis": "AIエージェントの基礎知識から構築・評価・改善までを扱う実践書。実務で動かすことを前提に、設計と運用の勘所をまとめている。",
     "awardResults": [
-      {
-        "awardId": "it-engineer-book-award",
-        "year": 2026,
-        "result": "特別賞"
-      },
       {
         "awardId": "it-engineer-book-award",
         "year": 2026,
