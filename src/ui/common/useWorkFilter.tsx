@@ -1,6 +1,7 @@
 import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
 import type { WorkGenerated } from "../../types";
+import { bookYear } from "./bookYear";
 
 /**
  * 作品リストを持つページ(テーマ詳細・原作者/作画家/出版社/レーベル詳細・アワード詳細)で
@@ -76,8 +77,8 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
   }, [works, q, origin, theme]);
 
   const sorted = useMemo(() => {
-    if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
-    if (sort === "year-desc") return [...filtered].sort((a, b) => b.firstPublishedYear - a.firstPublishedYear);
+    if (sort === "year-asc") return [...filtered].sort((a, b) => bookYear(a) - bookYear(b));
+    if (sort === "year-desc") return [...filtered].sort((a, b) => bookYear(b) - bookYear(a));
     if (sort === "kana") return [...filtered].sort((a, b) => a.titleKana.localeCompare(b.titleKana, "ja"));
     return filtered;
   }, [filtered, sort]);

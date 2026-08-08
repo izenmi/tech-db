@@ -5,16 +5,16 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { TECH_CATEGORY_LABEL } from "../common/labels";
+import { useWorkFilter } from "../common/useWorkFilter";
 
-/** Unlike every other cross-reference page on the site, the book list here is NOT re-sortable:
- *  it is always newest edition first, because "which book should I read for this technology
- *  now?" is the question this page exists to answer, and for technical books the answer skews
- *  hard towards the most recent edition. generate-manifest.mjs already emits `works` in that
- *  order. */
+/** 既定の並びは新しい版が先。「この技術について今どれを読めばいいか」がこのページの用なので、
+ *  技術書では最新版が答えになりやすい。generate-manifest.mjs が既にその順で `works` を出している。
+ *  並べ替えと絞り込みは他の一覧ページと揃えて出す(既定を崩さないよう defaultSort は year-desc)。 */
 export function TechDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getTech(id!), [id]);
   const tech = state.status === "ready" ? state.data : undefined;
+  const { sorted, controls, hasActiveFilters } = useWorkFilter(tech?.works);
 
   useSeo({
     title: tech?.name,
@@ -60,10 +60,16 @@ export function TechDetailPage() {
               )}
             </p>
           )}
-          <h2 className="home-section__heading font-display">この技術の本(新しい順)</h2>
-          {state.data.works.length === 0 && <EmptyState text="登録されている本はまだありません。" />}
+          <h2 className="home-section__heading font-display">この技術の本</h2>
+          {controls}
+          {hasActiveFilters && (
+            <p className="page-subtitle">
+              絞り込み結果 {sorted.length}件 / 全{state.data.works.length}件
+            </p>
+          )}
+          {sorted.length === 0 && <EmptyState text="登録されている本はまだありません。" />}
           <div className="work-grid">
-            {state.data.works.map((w) => (
+            {sorted.map((w) => (
               <WorkCard work={w} key={w.id} />
             ))}
           </div>

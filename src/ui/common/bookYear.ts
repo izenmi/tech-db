@@ -11,11 +11,10 @@ import type { WorkGenerated, WorkSource } from "../../types";
  *  For a translated book the last of these is the wrong thing to show: 『Clean Architecture』 is a
  *  2017 book in English but the edition on this site is the 2026 Japanese one, and labelling the
  *  card "2017年" tells a Japanese reader nothing useful about how current it is. The original year
- *  still has its own home — the work detail page prints it as 原著◯◯年, and /timeline groups by it
- *  deliberately so the timeline reads as a history of computing books rather than of translations.
+ *  still has its own home — the work detail page prints it as 原著◯◯年.
  *
  *  Keep in sync with `editionYear()` in scripts/generate-manifest.mjs, which orders each tech
- *  page's book list and fills the cross-site search index with the same number. */
+ *  page's book list with the same number. */
 export function bookYear(work: WorkGenerated | WorkSource): number {
   return work.latestEditionYear ?? work.jpPublishedYear ?? work.firstPublishedYear;
 }
