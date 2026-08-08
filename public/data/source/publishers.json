@@ -744,5 +744,16 @@
     "externalLinks": {},
     "sourceNote": "楽天ブックスの書誌で確認(2026-08-08)。",
     "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "natsume-sha",
+    "name": "ナツメ社",
+    "nameKana": "なつめしゃ",
+    "description": "1973年創業の実用書系出版社。資格試験、語学、料理、育児など幅広い分野の入門書を刊行し、IT分野では図解中心の解説書を手がける。",
+    "externalLinks": {
+      "officialUrl": "https://www.natsume.co.jp/"
+    },
+    "sourceNote": "社名・刊行物は国立国会図書館サーチの書誌および公式サイトで確認(2026-08-08照会)。",
+    "updatedAt": "2026-08-08"
   }
 ]

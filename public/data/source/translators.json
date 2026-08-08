@@ -2548,5 +2548,23 @@
     "name": "福田遙",
     "nameKana": "ふくだはるか",
     "description": "福田遙。翻訳者。"
+  },
+  {
+    "id": "arai-shota",
+    "name": "新井翔太",
+    "nameKana": "あらいしょうた",
+    "description": "新井翔太。翻訳者。"
+  },
+  {
+    "id": "takayama-koumei",
+    "name": "高山洪銘",
+    "nameKana": "たかやまこうめい",
+    "description": "高山洪銘。翻訳者。"
+  },
+  {
+    "id": "yamashita-masahiro",
+    "name": "山下正浩",
+    "nameKana": "やましたまさひろ",
+    "description": "山下正浩。翻訳者。"
   }
 ]

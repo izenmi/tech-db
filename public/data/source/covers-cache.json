@@ -360,6 +360,14 @@
     "resolvedAt": "2026-08-06T21:20:36.858Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14584843/"
   },
+  "amazon-beddorokku-ejento-koa-jissen-nyuumon-suto": {
+    "title": "Amazon Bedrock AgentCore 実践入門",
+    "isbn": "9784815641238",
+    "matchedTitle": "Amazon Bedrock AgentCore 実践入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1238/9784815641238_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:24.931Z"
+  },
   "amazon-bedrock-nyumon": {
     "title": "Amazon Bedrock生成AIアプリ開発入門",
     "isbn": "9784815626440",
@@ -994,6 +1002,14 @@
     "resolvedAt": "2026-08-07T21:29:10.512Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17880195/"
   },
+  "build-a-text-to-image-generator": {
+    "title": "つくりながら学ぶ！画像生成AI 自作入門",
+    "isbn": "9784839990299",
+    "matchedTitle": "つくりながら学ぶ！画像生成AI 自作入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0299/9784839990299_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:42.573Z"
+  },
   "build-llm-from-scratch": {
     "title": "つくりながら学ぶ!LLM自作入門",
     "isbn": "9784839987800",
@@ -1002,6 +1018,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T20:55:37.340Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18111493/"
+  },
+  "building-applications-with-ai-agents": {
+    "title": "実践 AIエージェント開発",
+    "isbn": "9784814401598",
+    "matchedTitle": "実践 AIエージェント開発",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1598/9784814401598_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:47.103Z"
   },
   "building-evolutionary-architectures": {
     "title": "進化的アーキテクチャ",
@@ -1026,6 +1050,14 @@
     "isbn": "9784908686009",
     "coverUrl": null,
     "resolvedAt": "2026-08-06T21:22:14.389Z"
+  },
+  "burauza-de-ugokasu-erueruemu-jissou-nyuumon-gugu": {
+    "title": "ブラウザで動かすLLM実装入門　Google Colaboratoryで実践するLLM・RAG・ファインチューニング",
+    "isbn": "9784295024811",
+    "matchedTitle": "ブラウザで動かすLLM実装入門　Google Colaboratoryで実践するLLM・RAG・ファインチューニング",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4811/9784295024811_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:15.815Z"
   },
   "buttai-kenshutsu-gan": {
     "title": "物体検出とGAN、オートエンコーダー、画像処理入門",
@@ -1901,6 +1933,14 @@
     "resolvedAt": "2026-08-06T12:52:02.661Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17862274/"
   },
+  "eai-ejento-dounyuu-kaihatsu-unyou-totaru-gaido": {
+    "title": "AIエージェント 導入・開発・運用 トータルガイド",
+    "isbn": "9784296210251",
+    "matchedTitle": "AIエージェント 導入・開発・運用 トータルガイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0251/9784296210251_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:19.238Z"
+  },
   "eai-ejento-kaihatsu-unyou-nyuumon": {
     "title": "AIエージェント開発 / 運用入門 [生成AI深掘りガイド]",
     "isbn": "9784815636609",
@@ -1909,6 +1949,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-07T21:29:15.138Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18318234/"
+  },
+  "eai-ejento-sekkei-ando-jissou-kanzen-gaido-ro-ko": {
+    "title": "AIエージェント 設計＆実装 完全ガイド",
+    "isbn": "9784296208623",
+    "matchedTitle": "AIエージェント 設計＆実装 完全ガイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8623/9784296208623_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:40.283Z"
   },
   "eai-no-tame-no-nettowaku-sekkei-no-kyoukasho": {
     "title": "AIのためのネットワーク設計の教科書",
@@ -1927,6 +1975,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-08T11:30:04.204Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18601556/"
+  },
+  "edaburyuesu-de-hajimeru-eai-ejento-kaihatsu-unyo": {
+    "title": "AWSではじめるAIエージェント開発・運用",
+    "isbn": "9784296209880",
+    "matchedTitle": "AWSではじめるAIエージェント開発・運用",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9880/9784296209880_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:39.133Z"
   },
   "edaburyuesu-kuraudo-neitibu-dezain-patan": {
     "title": "AWSクラウドネイティブデザインパターン",
@@ -2012,6 +2068,14 @@
     "coverUrl": "https://c.bookwalker.jp/6415891/t_700x780.jpg",
     "source": "bookwalker",
     "resolvedAt": "2026-08-06T20:37:54.032Z"
+  },
+  "ejentikku-kodingu-seisei-eai-jidai-no-shisutemu": {
+    "title": "Agentic Coding　生成AI時代のシステム開発入門",
+    "isbn": "9784815636593",
+    "matchedTitle": "Agentic Coding　生成AI時代のシステム開発入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6593/9784815636593_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:27.219Z"
   },
   "elastic-leadership": {
     "title": "エラスティックリーダーシップ",
@@ -2139,6 +2203,30 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-07T21:29:12.845Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18093834/"
+  },
+  "erueruemu-ni-yoru-jouhou-chuushutsu-nyuumon-nich": {
+    "title": "LLMによる情報抽出入門〜日常のリアルなデータから価値ある情報を取り出す技術",
+    "isbn": "9784297157272",
+    "matchedTitle": "LLMによる情報抽出入門〜日常のリアルなデータから価値ある情報を取り出す技術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7272/9784297157272_1_44.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:16.967Z"
+  },
+  "erueruemuapurikeshonhyoukakudoukaihatsu-keizokut": {
+    "title": "LLMアプリケーション評価駆動開発 継続的に改善し運用していくための実践知",
+    "isbn": "9784798190723",
+    "matchedTitle": "LLMアプリケーション評価駆動開発 継続的に改善し運用していくための実践知",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0723/9784798190723_1_32.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:06.706Z"
+  },
+  "erueruemueaiejentoshisutemubesutopurakutisu": {
+    "title": "LLM・AIエージェントシステムベストプラクティス",
+    "isbn": "9784798194318",
+    "matchedTitle": "LLM・AIエージェントシステムベストプラクティス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4318/9784798194318_1_100.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:12.448Z"
   },
   "essential-scrum": {
     "title": "エッセンシャルスクラム",
@@ -2507,6 +2595,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T20:56:19.483Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15017530/"
+  },
+  "generative-ai-design-patterns": {
+    "title": "生成AIデザインパターン",
+    "isbn": "9784814401635",
+    "matchedTitle": "生成AIデザインパターン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1635/9784814401635_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:44.822Z"
   },
   "generative-deep-learning": {
     "title": "生成Deep Learning",
@@ -3146,6 +3242,14 @@
     "resolvedAt": "2026-08-06T12:12:19.296Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17747993/"
   },
+  "ima-to-mirai-ga-wakaru-seisei-eai-shinka-to-kats": {
+    "title": "今と未来がわかる生成AI 進化と活用",
+    "isbn": "9784816378614",
+    "matchedTitle": "今と未来がわかる生成AI 進化と活用",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8614/9784816378614_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:30.650Z"
+  },
   "implementing-slo": {
     "title": "SLOサービスレベル目標",
     "isbn": "9784814400348",
@@ -3374,6 +3478,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:31:13.656Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18116076/"
+  },
+  "isshuukandekurodokodonokisogamanaberuhon": {
+    "title": "1週間でClaude Codeの基礎が学べる本",
+    "isbn": "9784295025818",
+    "matchedTitle": "1週間でClaude Codeの基礎が学べる本",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5818/9784295025818_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:04.876Z"
   },
   "it-keiyaku-jitsumu-2": {
     "title": "システム開発を成功させるIT契約の実務",
@@ -3699,6 +3811,14 @@
     "resolvedAt": "2026-08-06T12:26:24.599Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18391697/"
   },
+  "jiwajiwa-wakaru-kikai-gakushuu-deta-bunseki-eai": {
+    "title": "じわじわわかる機械学習 データ分析・AIアルゴリズムのなかみ",
+    "isbn": "9784295024224",
+    "matchedTitle": "じわじわわかる機械学習 データ分析・AIアルゴリズムのなかみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4224/9784295024224_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:37.995Z"
+  },
   "joho-design-no-kyoshitsu": {
     "title": "情報デザインの教室",
     "isbn": "9784621082720",
@@ -3845,6 +3965,14 @@
     "resolvedAt": "2026-08-06T20:38:33.998Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12366730/"
   },
+  "kaihatsu-kouritsu-o-appu-suru-kurodo-kodo-jitsuy": {
+    "title": "開発効率をアップする！ Claude Code 実用入門",
+    "isbn": "9784839990206",
+    "matchedTitle": "開発効率をアップする！ Claude Code 実用入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0206/9784839990206_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:26.078Z"
+  },
   "kaizen-journey": {
     "title": "カイゼン・ジャーニー",
     "isbn": "9784798153346",
@@ -3894,6 +4022,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6910/2000006516910.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T22:49:13.833Z"
+  },
+  "kanzenkaisetsukurodokodotekunikkushuu": {
+    "title": "完全解説！Claude Codeテクニック集",
+    "isbn": "9784295025672",
+    "matchedTitle": "完全解説！Claude Codeテクニック集",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5672/9784295025672_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:13.588Z"
   },
   "keisanki-system-gairon": {
     "title": "計算機システム概論",
@@ -4123,6 +4259,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-08T12:27:23.201Z"
   },
+  "korekara-hajimeru-eaio-eai-saitekika-no-kyoukash": {
+    "title": "これからはじめるAIO AI最適化の教科書　AEO・GEO・LLMOがこれ1冊でわかる",
+    "isbn": "9784297154851",
+    "matchedTitle": "これからはじめるAIO AI最適化の教科書　AEO・GEO・LLMOがこれ1冊でわかる",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4851/9784297154851_1_58.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:29.506Z"
+  },
   "korekara-no-kyoka-gakushu": {
     "title": "これからの強化学習",
     "isbn": "9784627880313",
@@ -4148,6 +4292,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:19:54.969Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15583446/"
+  },
+  "korekarahajimeruseiseieaiandorokaruerueruemupuro": {
+    "title": "これからはじめる！生成AI＆ローカルLLMプログラミング",
+    "isbn": "9784296220762",
+    "matchedTitle": "これからはじめる！生成AI＆ローカルLLMプログラミング",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0762/9784296220762.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:11.312Z"
   },
   "korenara-wakaru-deep-learning": {
     "title": "これならわかる深層学習入門",
@@ -4271,6 +4423,46 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7350/9784296207350_1_24.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-08T12:27:06.126Z"
+  },
+  "kurodo-kodo-de-manabu-ejento-sukiru-nyuumon": {
+    "title": "Claude Codeで学ぶ Agent Skills入門",
+    "isbn": "9784297156985",
+    "matchedTitle": "Claude Codeで学ぶ Agent Skills入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6985/9784297156985_1_42.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:23.792Z"
+  },
+  "kurodokododetsukuttemanabu-eaikudouapurikaihatsu": {
+    "title": "Claude Codeで作って学ぶ AI駆動アプリ開発入門",
+    "isbn": "9784297158231",
+    "matchedTitle": "Claude Codeで作って学ぶ AI駆動アプリ開発入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8231/9784297158231.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:10.163Z"
+  },
+  "kurodokodojissennyuumonseiseieaifukaborigaido": {
+    "title": "Claude Code実践入門 [生成AI深掘りガイド]",
+    "isbn": "9784815643119",
+    "matchedTitle": "Claude Code実践入門 [生成AI深掘りガイド]",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3119/9784815643119_1_8.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:14.725Z"
+  },
+  "kurodokowakudehajimerushigotojidoukanyuumon": {
+    "title": "Claude Coworkではじめるシゴト自動化入門",
+    "isbn": "9784295025856",
+    "matchedTitle": "Claude Coworkではじめるシゴト自動化入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5856/9784295025856.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:02.585Z"
+  },
+  "kyarakutaotsukuriugokasugazoudougaseiseieaisutat": {
+    "title": "画像・動画生成AI　スタートガイド",
+    "isbn": "9784815637675",
+    "matchedTitle": "【キャラクターを創り動かす】　画像・動画生成AI　スタートガイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7675/9784815637675_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:09.023Z"
   },
   "kyogi-programming-tessoku": {
     "title": "競技プログラミングの鉄則",
@@ -4486,6 +4678,14 @@
     "resolvedAt": "2026-08-06T21:10:39.174Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5600444/"
   },
+  "llmops": {
+    "title": "LLMOps",
+    "isbn": "9784814401604",
+    "matchedTitle": "LLMOps",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1604/9784814401604_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:45.966Z"
+  },
   "low-level-programming": {
     "title": "低レベルプログラミング",
     "isbn": "9784798155036",
@@ -4700,6 +4900,14 @@
     "resolvedAt": "2026-08-06T20:40:55.186Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17163303/"
   },
+  "masutora-ni-yoru-eai-ejento-kaihatsu-unyou-jisse": {
+    "title": "MastraによるAIエージェント開発・運用［実践入門］",
+    "isbn": "9784297157661",
+    "matchedTitle": "MastraによるAIエージェント開発・運用［実践入門］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7661/9784297157661_1_33.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:18.101Z"
+  },
   "matlab-programming-nyumon": {
     "title": "MATLABプログラミング入門",
     "isbn": "9784434155918",
@@ -4800,6 +5008,14 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T13:19:31.270Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16145807/"
+  },
+  "minorunshiki-bijinesupasonnotamenokurodokodoshig": {
+    "title": "［みのるん式］ビジネスパーソンのためのClaude Code仕事術",
+    "isbn": "9784297159399",
+    "matchedTitle": "［みのるん式］ビジネスパーソンのためのClaude Code仕事術",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9399/9784297159399.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:07.852Z"
   },
   "ml-design-patterns": {
     "title": "機械学習デザインパターン",
@@ -5259,6 +5475,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5223/9784320125223.jpg?_ex=400x400",
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-08T12:27:36.913Z"
+  },
+  "nyuumon-maruchi-modaru-ragu-zuhyou-o-yomitoku-ea": {
+    "title": "入門マルチモーダルRAG",
+    "isbn": "9784274234934",
+    "matchedTitle": "入門マルチモーダルRAG",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4934/9784274234934_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:21.514Z"
   },
   "nyuumon-terafomu": {
     "title": "入門Terraform　クラウド時代のインフラ統合管理",
@@ -6731,6 +6955,22 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T13:00:26.019Z"
   },
+  "seisei-eai-apurikeshon-hyouka-nyuumon": {
+    "title": "生成AIアプリケーション評価入門",
+    "isbn": "9784297156145",
+    "matchedTitle": "生成AIアプリケーション評価入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6145/9784297156145_1_26.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:28.365Z"
+  },
+  "seisei-eai-no-anzensei-nyuumon": {
+    "title": "生成AIの安全性入門",
+    "isbn": "9784297157029",
+    "matchedTitle": "生成AIの安全性入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7029/9784297157029_1_48.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:20.381Z"
+  },
   "sekai-ichiryu-engineer": {
     "title": "世界一流エンジニアの思考法",
     "isbn": "9784163917689",
@@ -7525,6 +7765,14 @@
     "resolvedAt": "2026-08-06T12:25:10.543Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17685472/"
   },
+  "taminaru-kara-hajimeru-jisedai-eai-kodingu-kurod": {
+    "title": "ターミナルから始める次世代AIコーディング Claude Code入門",
+    "isbn": "9784798077017",
+    "matchedTitle": "ターミナルから始める次世代AIコーディング Claude Code入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7017/9784798077017_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:22.648Z"
+  },
   "tanoshii-binary": {
     "title": "たのしいバイナリの歩き方",
     "isbn": null,
@@ -7752,6 +8000,14 @@
     "resolvedAt": "2026-08-06T09:25:20.131Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15472730/"
   },
+  "transformers-in-action": {
+    "title": "モダンTransformer モデルの内部構造から、マルチモーダル／RAG／SLMの実装と最適化まで",
+    "isbn": "9784295024460",
+    "matchedTitle": "モダンTransformer モデルの内部構造から、マルチモーダル／RAG／SLMの実装と最適化まで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4460/9784295024460_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:43.722Z"
+  },
   "tsukurinagara-deep-rl": {
     "title": "つくりながら学ぶ!深層強化学習",
     "isbn": null,
@@ -7784,6 +8040,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6580/2000011526580.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-06T21:40:04.007Z"
+  },
+  "tsukutte-wakaru-daikibo-gengo-moderu-no-shikumi": {
+    "title": "作ってわかる大規模言語モデルの仕組み",
+    "isbn": "9784296205257",
+    "matchedTitle": "作ってわかる大規模言語モデルの仕組み",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5257/9784296205257_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:41.430Z"
   },
   "types-and-programming-languages": {
     "title": "型システム入門",
@@ -8727,6 +8991,22 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:25:11.686Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18224374/"
+  },
+  "zerokarawakaruguguruanchigurabitinokyoukashoeaie": {
+    "title": "ゼロからわかるGoogle Antigravityの教科書 〜AIエージェントを指揮する力が身につく",
+    "isbn": "9784297158835",
+    "matchedTitle": "ゼロからわかるGoogle Antigravityの教科書 〜AIエージェントを指揮する力が身につく",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8835/9784297158835.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:03.736Z"
+  },
+  "zukai-maruwakari-eai-ejento-no-shikumi": {
+    "title": "図解まるわかり AIエージェントのしくみ",
+    "isbn": "9784798193526",
+    "matchedTitle": "図解まるわかり AIエージェントのしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3526/9784798193526_1_150.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T12:50:31.799Z"
   },
   "zukai-nyumon-tcpip": {
     "title": "図解入門TCP/IP",

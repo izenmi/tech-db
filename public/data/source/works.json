@@ -28970,5 +28970,972 @@
     "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
     "updatedAt": "2026-08-07",
     "originalTitle": "The Cloud Data Lake"
+  },
+  {
+    "id": "kurodokowakudehajimerushigotojidoukanyuumon",
+    "title": "Claude Coworkではじめるシゴト自動化入門",
+    "titleKana": "くろーどこわーくではじめるしごとじどうかにゅうもん",
+    "authorIds": [
+      "kandayoshiki"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784295025856",
+    "firstPublishedYear": 2026,
+    "synopsis": "Claude Coworkを使って日常業務を自動化する入門書。AIに仕事を渡すための手順を扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zerokarawakaruguguruanchigurabitinokyoukashoeaie",
+    "title": "ゼロからわかるGoogle Antigravityの教科書 〜AIエージェントを指揮する力が身につく",
+    "titleKana": "ぜろからわかるぐーぐるあんちぐらびてぃのきょうかしょえーあいえーじぇんとをしきするちからがみにつく",
+    "authorIds": [
+      "ejiairabo"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297158835",
+    "firstPublishedYear": 2026,
+    "synopsis": "Googleのエージェント開発環境Antigravityを扱う入門書。AIエージェントに指示を出して開発を進める流れを学ぶ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "isshuukandekurodokodonokisogamanaberuhon",
+    "title": "1週間でClaude Codeの基礎が学べる本",
+    "titleKana": "いっしゅうかんでくろーどこーどのきそがまなべるほん",
+    "authorIds": [
+      "hatanofutomi"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784295025818",
+    "firstPublishedYear": 2026,
+    "synopsis": "コーディングエージェントClaude Codeの基礎を1週間で学ぶ入門書。導入から基本的な使い方までを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "erueruemuapurikeshonhyoukakudoukaihatsu-keizokut",
+    "title": "LLMアプリケーション評価駆動開発 継続的に改善し運用していくための実践知",
+    "titleKana": "えるえるえむあぷりけーしょんひょうかくどうかいはつけいぞくてきにかいぜんしうんようしていくためのじっせんち",
+    "authorIds": [
+      "uenoakihiro"
+    ],
+    "techIds": [
+      "llm",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "practice",
+      "testing",
+      "team-process"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784798190723",
+    "firstPublishedYear": 2026,
+    "synopsis": "LLMアプリケーションを評価によって改善していく開発の進め方を扱う。評価指標の設計と継続的な運用の実践知をまとめる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "minorunshiki-bijinesupasonnotamenokurodokodoshig",
+    "title": "［みのるん式］ビジネスパーソンのためのClaude Code仕事術",
+    "titleKana": "みのるんしきびじねすぱーそんのためのくろーどこーどしごとじゅつ",
+    "authorIds": [
+      "onda-minoru"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297159399",
+    "firstPublishedYear": 2026,
+    "synopsis": "ビジネス職の視点からClaude Codeを業務に取り込む方法を扱う。資料作成や情報整理といった実務の場面ごとに手順を示す。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kyarakutaotsukuriugokasugazoudougaseiseieaisutat",
+    "title": "画像・動画生成AI　スタートガイド",
+    "titleKana": "きゃらくたーをつくりうごかすがぞうどうがせいせいえーあいすたーとがいど",
+    "authorIds": [
+      "aikyuumediahenshuubu"
+    ],
+    "techIds": [
+      "machine-learning",
+      "deep-learning",
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784815637675",
+    "firstPublishedYear": 2026,
+    "synopsis": "画像・動画生成AIでオリジナルキャラクターを作ることを目標にした入門書。Google Colabを使った実践とリテラシーの両方を扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurodokododetsukuttemanabu-eaikudouapurikaihatsu",
+    "title": "Claude Codeで作って学ぶ AI駆動アプリ開発入門",
+    "titleKana": "くろーどこーどでつくってまなぶえーあいくどうあぷりかいはつにゅうもん",
+    "authorIds": [
+      "masuyamatomoshi"
+    ],
+    "techIds": [
+      "llm",
+      "web"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297158231",
+    "firstPublishedYear": 2026,
+    "synopsis": "Claude Codeでアプリケーションを実際に作りながら、AI駆動開発の進め方を学ぶ入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "korekarahajimeruseiseieaiandorokaruerueruemupuro",
+    "title": "これからはじめる！生成AI＆ローカルLLMプログラミング",
+    "titleKana": "これからはじめるせいせいえーあいあんどろーかるえるえるえむぷろぐらみんぐ",
+    "authorIds": [
+      "nikkeisofutouea"
+    ],
+    "techIds": [
+      "llm",
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784296220762",
+    "firstPublishedYear": 2026,
+    "synopsis": "ローカル環境でLLMを動かす方法を軸に、ハードウェア・ソフトウェアの選定からMCP・RAG・AIエージェントの実装までを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "erueruemueaiejentoshisutemubesutopurakutisu",
+    "title": "LLM・AIエージェントシステムベストプラクティス",
+    "titleKana": "えるえるえむえーあいえーじぇんとしすてむべすとぷらくてぃす",
+    "authorIds": [
+      "shibui-yusuke"
+    ],
+    "techIds": [
+      "llm",
+      "machine-learning",
+      "devops"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "design-architecture",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784798194318",
+    "firstPublishedYear": 2026,
+    "synopsis": "LLMおよびAIエージェントを組み込んだシステムの設計と運用について、実務で選ぶべき方針を整理する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kanzenkaisetsukurodokodotekunikkushuu",
+    "title": "完全解説！Claude Codeテクニック集",
+    "titleKana": "かんぜんかいせつくろーどこーどてくにっくしゅう",
+    "authorIds": [
+      "saitoutakayoshi"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784295025672",
+    "firstPublishedYear": 2026,
+    "synopsis": "Claude Codeの機能とテクニックを網羅的に整理した実践的なリファレンス。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurodokodojissennyuumonseiseieaifukaborigaido",
+    "title": "Claude Code実践入門 [生成AI深掘りガイド]",
+    "titleKana": "くろーどこーどじっせんにゅうもんせいせいえーあいふかぼりがいど",
+    "authorIds": [
+      "oikon"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "intro",
+      "practice",
+      "team-process"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784815643119",
+    "firstPublishedYear": 2026,
+    "synopsis": "Claude Codeをソフトウェア開発に組み込む全工程を扱う。環境設定から現場のノウハウ、組織導入のプロセスまで。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "burauza-de-ugokasu-erueruemu-jissou-nyuumon-gugu",
+    "title": "ブラウザで動かすLLM実装入門　Google Colaboratoryで実践するLLM・RAG・ファインチューニング",
+    "titleKana": "ぶらうざでうごかすえるえるえむじっそうにゅうもん",
+    "authorIds": [
+      "nakanishitakafumi"
+    ],
+    "techIds": [
+      "llm",
+      "python",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784295024811",
+    "firstPublishedYear": 2026,
+    "synopsis": "Google Colaboratoryでブラウザから動かしながら、LLM・RAG・ファインチューニングを実装して学ぶ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "erueruemu-ni-yoru-jouhou-chuushutsu-nyuumon-nich",
+    "title": "LLMによる情報抽出入門〜日常のリアルなデータから価値ある情報を取り出す技術",
+    "titleKana": "えるえるえむによるじょうほうちゅうしゅつにゅうもん",
+    "authorIds": [
+      "author-561291"
+    ],
+    "techIds": [
+      "llm",
+      "nlp",
+      "data-engineering"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784297157272",
+    "firstPublishedYear": 2026,
+    "synopsis": "テキスト・画像・音声といった非構造化データからLLMで情報を取り出す技術を扱う。実データを対象にした情報抽出の入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "masutora-ni-yoru-eai-ejento-kaihatsu-unyou-jisse",
+    "title": "MastraによるAIエージェント開発・運用［実践入門］",
+    "titleKana": "ますとらによるえーあいえーじぇんとかいはつうんようじっせんにゅうもん",
+    "authorIds": [
+      "ondaminoru"
+    ],
+    "techIds": [
+      "llm",
+      "typescript"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784297157661",
+    "firstPublishedYear": 2026,
+    "synopsis": "TypeScript製のAIエージェントフレームワークMastraを使い、エージェントの開発から運用までを扱う入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eai-ejento-dounyuu-kaihatsu-unyou-totaru-gaido",
+    "title": "AIエージェント 導入・開発・運用 トータルガイド",
+    "titleKana": "えーあいえーじぇんとどうにゅうかいはつうんようとーたるがいど",
+    "authorIds": [
+      "uedayuuto"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "practice",
+      "team-process",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784296210251",
+    "firstPublishedYear": 2026,
+    "synopsis": "AIエージェントを企業に導入し、開発・運用していくまでを通しで扱う。PoCで止まらないための進め方を示す。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seisei-eai-no-anzensei-nyuumon",
+    "title": "生成AIの安全性入門",
+    "titleKana": "せいせいえーあいのあんぜんせいにゅうもん",
+    "authorIds": [
+      "wataokakouki"
+    ],
+    "techIds": [
+      "llm",
+      "security",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784297157029",
+    "firstPublishedYear": 2026,
+    "synopsis": "生成AIが生む有害な出力や意図しない挙動といったリスクを定義し、その対処法を体系的にまとめる。エンジニア・研究者向け。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nyuumon-maruchi-modaru-ragu-zuhyou-o-yomitoku-ea",
+    "title": "入門マルチモーダルRAG",
+    "titleKana": "にゅうもんまるちもーだるらぐ",
+    "authorIds": [
+      "shinnouhiroyuki"
+    ],
+    "techIds": [
+      "llm",
+      "python",
+      "search"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohmsha",
+    "themeIds": [
+      "build-to-learn",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784274234934",
+    "firstPublishedYear": 2026,
+    "synopsis": "図や表を含む資料からも検索・活用できるマルチモーダルRAGを、実装しながら学ぶ入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "taminaru-kara-hajimeru-jisedai-eai-kodingu-kurod",
+    "title": "ターミナルから始める次世代AIコーディング Claude Code入門",
+    "titleKana": "たーみなるからはじめるじせだいえーあいこーでぃんぐくろーどこーどにゅうもん",
+    "authorIds": [
+      "shoda-tsuyano"
+    ],
+    "techIds": [
+      "llm",
+      "shell"
+    ],
+    "translatorIds": [],
+    "publisherId": "shuwa-system",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784798077017",
+    "firstPublishedYear": 2026,
+    "synopsis": "ターミナル上でのClaude Codeの基本操作から、アプリケーション開発、独自のMCPサーバ開発までを横断的に扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kurodo-kodo-de-manabu-ejento-sukiru-nyuumon",
+    "title": "Claude Codeで学ぶ Agent Skills入門",
+    "titleKana": "くろーどこーどでまなぶえーじぇんとすきるにゅうもん",
+    "authorIds": [
+      "author-665558"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784297156985",
+    "firstPublishedYear": 2026,
+    "synopsis": "AIエージェントに手順の知識を持たせるオープン標準Agent Skillsの基礎と実装を、Claude Codeを題材に解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "amazon-beddorokku-ejento-koa-jissen-nyuumon-suto",
+    "title": "Amazon Bedrock AgentCore 実践入門",
+    "titleKana": "あまぞんべっどろっくえーじぇんとこあじっせんにゅうもん",
+    "authorIds": [
+      "onda-minoru"
+    ],
+    "techIds": [
+      "llm",
+      "aws"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784815641238",
+    "firstPublishedYear": 2026,
+    "synopsis": "Amazon Bedrock AgentCoreとStrands Agentsを使い、AIエージェントをサーバーレスで構築・デプロイする方法を扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kaihatsu-kouritsu-o-appu-suru-kurodo-kodo-jitsuy",
+    "title": "開発効率をアップする！ Claude Code 実用入門",
+    "titleKana": "かいはつこうりつおあっぷするくろーどこーどじつようにゅうもん",
+    "authorIds": [
+      "osawa-fumitaka"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784839990206",
+    "firstPublishedYear": 2026,
+    "synopsis": "Claude Codeの性質を理解して正しく使うことに主眼を置いた実用入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ejentikku-kodingu-seisei-eai-jidai-no-shisutemu",
+    "title": "Agentic Coding　生成AI時代のシステム開発入門",
+    "titleKana": "えーじぇんてぃっくこーでぃんぐ",
+    "authorIds": [
+      "watanabeyouhei"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784815636593",
+    "firstPublishedYear": 2026,
+    "synopsis": "AIエージェントに開発工程を任せるAgentic Codingの考え方と進め方を扱う。Vibe Codingとの違いから説き起こす。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "seisei-eai-apurikeshon-hyouka-nyuumon",
+    "title": "生成AIアプリケーション評価入門",
+    "titleKana": "せいせいえーあいあぷりけーしょんひょうかにゅうもん",
+    "authorIds": [
+      "matsukishinsuke"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "testing",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784297156145",
+    "firstPublishedYear": 2026,
+    "synopsis": "確率的な振る舞いをする生成AIアプリケーションを、従来のソフトウェアとは異なる観点でどう評価するかを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "korekara-hajimeru-eaio-eai-saitekika-no-kyoukash",
+    "title": "これからはじめるAIO AI最適化の教科書　AEO・GEO・LLMOがこれ1冊でわかる",
+    "titleKana": "これからはじめるえーあいおーえーあいさいてきかのきょうかしょ",
+    "authorIds": [
+      "takiuchisatoshi"
+    ],
+    "techIds": [
+      "llm",
+      "web",
+      "search"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "practice",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784297154851",
+    "firstPublishedYear": 2026,
+    "synopsis": "AI OverviewsやAIモードの登場を踏まえ、生成AI時代のWeb集客とコンテンツ戦略をAEO・GEO・LLMOの観点から整理する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ima-to-mirai-ga-wakaru-seisei-eai-shinka-to-kats",
+    "title": "今と未来がわかる生成AI 進化と活用",
+    "titleKana": "いまとみらいがわかるせいせいえーあい",
+    "authorIds": [
+      "nakamuratoshiya"
+    ],
+    "techIds": [
+      "llm",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "natsume-sha",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784816378614",
+    "firstPublishedYear": 2026,
+    "synopsis": "AIの基本原理と、現在の生成AIを支える技術をビジュアル中心に解説する。ビジネスでの活用も扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zukai-maruwakari-eai-ejento-no-shikumi",
+    "title": "図解まるわかり AIエージェントのしくみ",
+    "titleKana": "ずかいまるわかりえーあいえーじぇんとのしくみ",
+    "authorIds": [
+      "uenomasahiro"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784798193526",
+    "firstPublishedYear": 2026,
+    "synopsis": "指示待ちのシステムから自律して動くAIへ。AIエージェントの基本概念、構成技術、活用事例、導入の進め方を図解で扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jiwajiwa-wakaru-kikai-gakushuu-deta-bunseki-eai",
+    "title": "じわじわわかる機械学習 データ分析・AIアルゴリズムのなかみ",
+    "titleKana": "じわじわわかるきかいがくしゅう",
+    "authorIds": [
+      "hashimototaiichi"
+    ],
+    "techIds": [
+      "machine-learning",
+      "deep-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "intro",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784295024224",
+    "firstPublishedYear": 2026,
+    "synopsis": "数式を使わず図解中心で機械学習の基礎を解説する超入門書。教師あり・なし学習から次元削減、深層学習、強化学習まで。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "edaburyuesu-de-hajimeru-eai-ejento-kaihatsu-unyo",
+    "title": "AWSではじめるAIエージェント開発・運用",
+    "titleKana": "えーだぶりゅーえすではじめるえーあいえーじぇんとかいはつうんよう",
+    "authorIds": [
+      "shoda-tsuyano"
+    ],
+    "techIds": [
+      "llm",
+      "aws",
+      "python"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784296209880",
+    "firstPublishedYear": 2026,
+    "synopsis": "Amazon Bedrockを使ったAIエージェント開発を、チャットボットとの違いから説き起こしてステップアップ式に解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eai-ejento-sekkei-ando-jissou-kanzen-gaido-ro-ko",
+    "title": "AIエージェント 設計＆実装 完全ガイド",
+    "titleKana": "えーあいえーじぇんとせっけいあんどじっそうかんぜんがいど",
+    "authorIds": [
+      "author-329534"
+    ],
+    "techIds": [
+      "llm"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "design-architecture",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784296208623",
+    "firstPublishedYear": 2026,
+    "synopsis": "AIエージェントの基礎・設計・実装を扱う技術書。Difyを用いた開発とユースケースを紹介する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "tsukutte-wakaru-daikibo-gengo-moderu-no-shikumi",
+    "title": "作ってわかる大規模言語モデルの仕組み",
+    "titleKana": "つくってわかるだいきぼげんごもでるのしくみ",
+    "authorIds": [
+      "inouekouki"
+    ],
+    "techIds": [
+      "llm",
+      "deep-learning",
+      "python",
+      "pytorch"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "build-to-learn",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784296205257",
+    "firstPublishedYear": 2026,
+    "synopsis": "GPTを一から作りながら、Transformerの基礎からアラインメント(SFT・DPO)の実装までを体系的に学ぶ。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "build-a-text-to-image-generator",
+    "title": "つくりながら学ぶ！画像生成AI 自作入門",
+    "titleKana": "つくりながらまなぶがぞうせいせいえーあいじさくにゅうもん",
+    "authorIds": [
+      "author-703599"
+    ],
+    "techIds": [
+      "deep-learning",
+      "pytorch",
+      "python"
+    ],
+    "translatorIds": [
+      "smoky",
+      "ipusiron-tr"
+    ],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "build-to-learn",
+      "theory"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "isbn": "9784839990299",
+    "firstPublishedYear": 2026,
+    "synopsis": "拡散モデルとVision TransformerをPyTorchで実装し、文章から画像を生成するモデルをゼロから作り上げる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Build a Text-to-Image Generator"
+  },
+  {
+    "id": "transformers-in-action",
+    "title": "モダンTransformer モデルの内部構造から、マルチモーダル／RAG／SLMの実装と最適化まで",
+    "titleKana": "もだんとらんすふぉーまー",
+    "authorIds": [
+      "author-848697"
+    ],
+    "techIds": [
+      "deep-learning",
+      "llm",
+      "nlp"
+    ],
+    "translatorIds": [
+      "quipu"
+    ],
+    "publisherId": "impress",
+    "themeIds": [
+      "theory",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "isbn": "9784295024460",
+    "firstPublishedYear": 2026,
+    "synopsis": "Transformerモデルの内部構造から、マルチモーダル・RAG・小規模言語モデルの実装と最適化までをコードを交えて解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Transformers in Action"
+  },
+  {
+    "id": "generative-ai-design-patterns",
+    "title": "生成AIデザインパターン",
+    "titleKana": "せいせいえーあいでざいんぱたーん",
+    "authorIds": [
+      "author-804578"
+    ],
+    "techIds": [
+      "llm",
+      "design-pattern"
+    ],
+    "translatorIds": [
+      "nakata-hideki"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "design-architecture",
+      "reference"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "isbn": "9784814401635",
+    "firstPublishedYear": 2026,
+    "synopsis": "ハルシネーション、非決定的な出力、知識の欠落、コストといった生成AIアプリ開発の共通課題に対し、32のデザインパターンを示す。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Generative AI Design Patterns"
+  },
+  {
+    "id": "llmops",
+    "title": "LLMOps",
+    "titleKana": "えるえるえむおぷす",
+    "authorIds": [
+      "author-75438"
+    ],
+    "techIds": [
+      "llm",
+      "devops",
+      "observability"
+    ],
+    "translatorIds": [
+      "shimada-kenji-tr",
+      "arai-shota"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "practice",
+      "team-process"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "isbn": "9784814401604",
+    "firstPublishedYear": 2026,
+    "synopsis": "LLMの導入・運用に固有の課題を扱うLLMOpsの実践ガイド。評価・ガバナンス・監査、RAGやエージェントの運用、性能監視まで。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "LLMOps"
+  },
+  {
+    "id": "building-applications-with-ai-agents",
+    "title": "実践 AIエージェント開発",
+    "titleKana": "じっせんえーあいえーじぇんとかいはつ",
+    "authorIds": [
+      "author-184604"
+    ],
+    "techIds": [
+      "llm",
+      "machine-learning"
+    ],
+    "translatorIds": [
+      "suzuki-shun",
+      "takayama-koumei",
+      "yamashita-masahiro"
+    ],
+    "publisherId": "oreilly-japan",
+    "themeIds": [
+      "design-architecture",
+      "practice"
+    ],
+    "origin": "overseas",
+    "level": "advanced",
+    "isbn": "9784814401598",
+    "firstPublishedYear": 2026,
+    "synopsis": "自律的な計画と修正を行うAIエージェントを設計・実装するための実用ガイド。導入時に組織が直面する技術的難所を扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07",
+    "originalTitle": "Building Applications with AI Agents"
   }
 ]
