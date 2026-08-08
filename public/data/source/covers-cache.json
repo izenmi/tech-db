@@ -273,6 +273,24 @@
     "source": "oreilly-japan",
     "resolvedAt": "2026-08-06T20:38:49.906Z"
   },
+  "ajuru-kuraudo-sekkei-kanzen-gaido-saiteki-na-sab": {
+    "title": "Azureクラウド設計完全ガイド",
+    "isbn": "9784296208609",
+    "matchedTitle": "Azureクラウド設計完全ガイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8609/9784296208609_1_31.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:48.037Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18476509/"
+  },
+  "ajuru-kuraudo-sekkei-kanzen-gaido-saiteki-na-sab-2": {
+    "title": "Azureクラウド設計完全ガイド",
+    "isbn": "9784296208609",
+    "matchedTitle": "Azureクラウド設計完全ガイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8609/9784296208609_1_31.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:14.053Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18476509/"
+  },
   "algorithm-jiten": {
     "title": "C言語による標準アルゴリズム事典",
     "isbn": "9784774196909",
@@ -764,6 +782,15 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:50:06.044Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17551518/"
+  },
+  "azure-1nensei-cloud-no-shikumi": {
+    "title": "Azure1年生 クラウドのしくみ 図解でわかる！会話でまなべる！",
+    "isbn": "9784798190730",
+    "matchedTitle": "Azure1年生 クラウドのしくみ 図解でわかる！会話でまなべる！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0730/9784798190730_1_129.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:30.709Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18659354/"
   },
   "azure-jissen-guide": {
     "title": "Microsoft Azure実践ガイド",
@@ -1818,6 +1845,42 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-07T21:29:15.138Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18318234/"
+  },
+  "eai-no-tame-no-nettowaku-sekkei-no-kyoukasho": {
+    "title": "AIのためのネットワーク設計の教科書",
+    "isbn": "9784863545144",
+    "matchedTitle": "AIのためのネットワーク設計の教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5144/9784863545144_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:38.813Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18601556/"
+  },
+  "eai-no-tame-no-nettowaku-sekkei-no-kyoukasho-2": {
+    "title": "AIのためのネットワーク設計の教科書",
+    "isbn": "9784863545144",
+    "matchedTitle": "AIのためのネットワーク設計の教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5144/9784863545144_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:04.204Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18601556/"
+  },
+  "edaburyuesu-ramuda-honkaku-nyuumon-rasuto-to-ter": {
+    "title": "AWS　Lambda　本格入門　RustとTerraformでつくるサーバーレスシステム",
+    "isbn": "9784065436660",
+    "matchedTitle": "AWS　Lambda　本格入門　RustとTerraformでつくるサーバーレスシステム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6660/9784065436660_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:41.120Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18596384/"
+  },
+  "edaburyuesu-ramuda-honkaku-nyuumon-rasuto-to-ter-2": {
+    "title": "AWS　Lambda　本格入門　RustとTerraformでつくるサーバーレスシステム",
+    "isbn": "9784065436660",
+    "matchedTitle": "AWS　Lambda　本格入門　RustとTerraformでつくるサーバーレスシステム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6660/9784065436660_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:06.509Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18596384/"
   },
   "effective-cpp": {
     "title": "Effective C++",
@@ -3016,6 +3079,24 @@
     "resolvedAt": "2026-08-06T12:12:20.450Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17644921/"
   },
+  "infura-enjinia-o-mezasu-hito-ga-saisho-ni-yomu-h": {
+    "title": "インフラエンジニアを目指す人が最初に読む本",
+    "isbn": "9784863545137",
+    "matchedTitle": "インフラエンジニアを目指す人が最初に読む本",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5137/9784863545137_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:39.968Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18600018/"
+  },
+  "infura-enjinia-o-mezasu-hito-ga-saisho-ni-yomu-h-2": {
+    "title": "インフラエンジニアを目指す人が最初に読む本",
+    "isbn": "9784863545137",
+    "matchedTitle": "インフラエンジニアを目指す人が最初に読む本",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5137/9784863545137_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:05.357Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18600018/"
+  },
   "inspired": {
     "title": "INSPIRED",
     "isbn": "9784820727507",
@@ -3512,6 +3593,24 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:21:57.420Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14677779/"
+  },
+  "jouhou-nettowaku": {
+    "title": "情報ネットワーク",
+    "isbn": "9784320123038",
+    "matchedTitle": "情報ネットワーク",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3038/9784320123038_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:43.420Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11437383/"
+  },
+  "jouhou-nettowaku-2": {
+    "title": "情報ネットワーク",
+    "isbn": "9784320123038",
+    "matchedTitle": "情報ネットワーク",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3038/9784320123038_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:08.816Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11437383/"
   },
   "jquery-saiko-kyokasho": {
     "title": "jQuery最高の教科書",
@@ -4383,6 +4482,24 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-06T13:09:44.400Z"
   },
+  "meniyasashiidaikatsujiinfuraenjiniaomezasuhitoga": {
+    "title": "目にやさしい大活字　インフラエンジニアを目指す人が最初に読む本",
+    "isbn": "9784863549258",
+    "matchedTitle": "目にやさしい大活字　インフラエンジニアを目指す人が最初に読む本",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9258/9784863549258_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:33.015Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18676484/"
+  },
+  "meniyasashiidaikatsujiinfuraenjiniaomezasuhitoga-2": {
+    "title": "目にやさしい大活字　インフラエンジニアを目指す人が最初に読む本",
+    "isbn": "9784863549258",
+    "matchedTitle": "目にやさしい大活字　インフラエンジニアを目指す人が最初に読む本",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9258/9784863549258_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:58.408Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18676484/"
+  },
   "metaheuristics-no-suri": {
     "title": "メタヒューリスティクスの数理",
     "isbn": null,
@@ -4648,6 +4765,42 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-06T20:56:18.334Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1737768/"
+  },
+  "nettowaku-shisutemu-ni-tsuite-kataru-tokini-ware": {
+    "title": "ネットワークシステムについて語るときに我々の語ること",
+    "isbn": "9784908686252",
+    "matchedTitle": "ネットワークシステムについて語るときに我々の語ること",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6252/9784908686252_1_23.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:36.494Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18668679/"
+  },
+  "nettowaku-shisutemu-ni-tsuite-kataru-tokini-ware-2": {
+    "title": "ネットワークシステムについて語るときに我々の語ること",
+    "isbn": "9784908686252",
+    "matchedTitle": "ネットワークシステムについて語るときに我々の語ること",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6252/9784908686252_1_23.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:01.887Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18668679/"
+  },
+  "nettowakuzu-no-egakikata-nyuumon-wakariyasusa-mi": {
+    "title": "ネットワーク図の描き方入門",
+    "isbn": "9784296207381",
+    "matchedTitle": "ネットワーク図の描き方入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7381/9784296207381_1_38.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:49.194Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18470316/"
+  },
+  "nettowakuzu-no-egakikata-nyuumon-wakariyasusa-mi-2": {
+    "title": "ネットワーク図の描き方入門",
+    "isbn": "9784296207381",
+    "matchedTitle": "ネットワーク図の描き方入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7381/9784296207381_1_38.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:15.219Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18470316/"
   },
   "network-dosa-shiken-nyumon": {
     "title": "インフラ/ネットワークエンジニアのためのネットワーク「動作試験」入門",
@@ -6114,6 +6267,24 @@
     "source": "kobo",
     "resolvedAt": "2026-08-06T22:49:56.764Z"
   },
+  "saiba-sekyuriti-no-tame-no-deta-enjiniaringu-kyo": {
+    "title": "サイバーセキュリティのためのデータエンジニアリング教科書",
+    "isbn": "9784839991609",
+    "matchedTitle": "サイバーセキュリティのためのデータエンジニアリング教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1609/9784839991609_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:35.339Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18634123/"
+  },
+  "saiba-sekyuriti-no-tame-no-deta-enjiniaringu-kyo-2": {
+    "title": "サイバーセキュリティのためのデータエンジニアリング教科書",
+    "isbn": "9784839991609",
+    "matchedTitle": "サイバーセキュリティのためのデータエンジニアリング教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1609/9784839991609_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:00.727Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18634123/"
+  },
   "saru-demo-wakaru-git": {
     "title": "サルでもわかるGit入門",
     "isbn": null,
@@ -6638,6 +6809,24 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:51:51.209Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17303427/"
+  },
+  "sofutowea-dezain-fo-biginazu": {
+    "title": "Software Design for Beginners3 ネットワーク技術入門",
+    "isbn": "9784297157586",
+    "matchedTitle": "Software Design for Beginners3 ネットワーク技術入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7586/9784297157586_1_23.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:34.174Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18634094/"
+  },
+  "sofutowea-dezain-fo-biginazu-2": {
+    "title": "Software Design for Beginners3 ネットワーク技術入門",
+    "isbn": "9784297157586",
+    "matchedTitle": "Software Design for Beginners3 ネットワーク技術入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7586/9784297157586_1_23.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:59.562Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18634094/"
   },
   "sokudo-kakuritsu-lebesgue": {
     "title": "測度・確率・ルベーグ積分",
@@ -7267,6 +7456,15 @@
     "resolvedAt": "2026-08-06T12:44:20.672Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17149713/"
   },
+  "ubuntu-26-04-lts-katsuyou-guide": {
+    "title": "Ubuntu 26.04 LTS 活用ガイド --Linuxの基本操作からサーバ構築まで",
+    "isbn": "9784297158545",
+    "matchedTitle": "Ubuntu 26.04 LTS 活用ガイド --Linuxの基本操作からサーバ構築まで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8545/9784297158545.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:29.542Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18742752/"
+  },
   "ugoku-webdesign-idea": {
     "title": "動くWebデザインアイディア帳",
     "isbn": "9784802612289",
@@ -7669,6 +7867,132 @@
     "resolvedAt": "2026-08-06T21:38:26.402Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17754969/"
   },
+  "work": {
+    "title": "Ubuntu 26.04 LTS 活用ガイド --Linuxの基本操作からサーバ構築まで",
+    "isbn": "9784297158545",
+    "matchedTitle": "Ubuntu 26.04 LTS 活用ガイド --Linuxの基本操作からサーバ構築まで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8545/9784297158545.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:54.946Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18742752/"
+  },
+  "work-10": {
+    "title": "図解でスッキリ サーバーのきほんとしくみ",
+    "isbn": "9784295023968",
+    "matchedTitle": "図解でスッキリ サーバーのきほんとしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3968/9784295023968_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:07.667Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18550407/"
+  },
+  "work-11": {
+    "title": "セキュリティ技術の教科書　第4版",
+    "isbn": "9784865753516",
+    "matchedTitle": "セキュリティ技術の教科書　第4版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3516/9784865753516_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:09.970Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18538469/"
+  },
+  "work-12": {
+    "title": "DNSがよくわかる教科書 第2版",
+    "isbn": "9784815622657",
+    "matchedTitle": "DNSがよくわかる教科書 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2657/9784815622657_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:11.126Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18389591/"
+  },
+  "work-13": {
+    "title": "技術者必携 図解で身に付く 最新ネットワークセキュリティー",
+    "isbn": "9784296210558",
+    "matchedTitle": "技術者必携 図解で身に付く 最新ネットワークセキュリティー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0558/9784296210558_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:12.283Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18549023/"
+  },
+  "work-14": {
+    "title": "左門至峰の出るとこネスペ教科書　最短距離で合格できるネットワークスペシャリスト　増補改訂版",
+    "isbn": "9784296208685",
+    "matchedTitle": "左門至峰の出るとこネスペ教科書　最短距離で合格できるネットワークスペシャリスト　増補改訂版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8685/9784296208685_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:18.707Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18445785/"
+  },
+  "work-2": {
+    "title": "Azure1年生 クラウドのしくみ 図解でわかる！会話でまなべる！",
+    "isbn": "9784798190730",
+    "matchedTitle": "Azure1年生 クラウドのしくみ 図解でわかる！会話でまなべる！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0730/9784798190730_1_129.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:56.105Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18659354/"
+  },
+  "work-3": {
+    "title": "技術者必携　図解で身に付く　ネットワークの基礎",
+    "isbn": "9784296210930",
+    "matchedTitle": "技術者必携　図解で身に付く　ネットワークの基礎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0930/9784296210930_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:37.659Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18563691/"
+  },
+  "work-4": {
+    "title": "図解でスッキリ サーバーのきほんとしくみ",
+    "isbn": "9784295023968",
+    "matchedTitle": "図解でスッキリ サーバーのきほんとしくみ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3968/9784295023968_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:42.267Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18550407/"
+  },
+  "work-5": {
+    "title": "セキュリティ技術の教科書　第4版",
+    "isbn": "9784865753516",
+    "matchedTitle": "セキュリティ技術の教科書　第4版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3516/9784865753516_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:44.576Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18538469/"
+  },
+  "work-6": {
+    "title": "DNSがよくわかる教科書 第2版",
+    "isbn": "9784815622657",
+    "matchedTitle": "DNSがよくわかる教科書 第2版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2657/9784815622657_1_11.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:45.730Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18389591/"
+  },
+  "work-7": {
+    "title": "技術者必携 図解で身に付く 最新ネットワークセキュリティー",
+    "isbn": "9784296210558",
+    "matchedTitle": "技術者必携 図解で身に付く 最新ネットワークセキュリティー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0558/9784296210558_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:46.880Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18549023/"
+  },
+  "work-8": {
+    "title": "左門至峰の出るとこネスペ教科書　最短距離で合格できるネットワークスペシャリスト　増補改訂版",
+    "isbn": "9784296208685",
+    "matchedTitle": "左門至峰の出るとこネスペ教科書　最短距離で合格できるネットワークスペシャリスト　増補改訂版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8685/9784296208685_1_21.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:52.632Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18445785/"
+  },
+  "work-9": {
+    "title": "技術者必携　図解で身に付く　ネットワークの基礎",
+    "isbn": "9784296210930",
+    "matchedTitle": "技術者必携　図解で身に付く　ネットワークの基礎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0930/9784296210930_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:03.040Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18563691/"
+  },
   "writing-interpreter-in-go": {
     "title": "Go言語でつくるインタプリタ",
     "isbn": "9784873118222",
@@ -7782,6 +8106,42 @@
     "resolvedAt": "2026-08-06T12:47:04.062Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16637816/"
   },
+  "zero-kara-no-sekyua-nettowaku-kouchiku-no-kyouka": {
+    "title": "ゼロからのセキュアネットワーク構築の教科書",
+    "isbn": "9784839991593",
+    "matchedTitle": "ゼロからのセキュアネットワーク構築の教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1593/9784839991593_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:31.860Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18632144/"
+  },
+  "zero-kara-no-sekyua-nettowaku-kouchiku-no-kyouka-2": {
+    "title": "ゼロからのセキュアネットワーク構築の教科書",
+    "isbn": "9784839991593",
+    "matchedTitle": "ゼロからのセキュアネットワーク構築の教科書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1593/9784839991593_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:57.252Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18632144/"
+  },
+  "zero-kara-no-tishipi-aipi-purotokoru-sutakku-jis": {
+    "title": "ゼロからのTCP/IPプロトコルスタック自作入門",
+    "isbn": "9784839981242",
+    "matchedTitle": "ゼロからのTCP/IPプロトコルスタック自作入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1242/9784839981242_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:51.475Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18372908/"
+  },
+  "zero-kara-no-tishipi-aipi-purotokoru-sutakku-jis-2": {
+    "title": "ゼロからのTCP/IPプロトコルスタック自作入門",
+    "isbn": "9784839981242",
+    "matchedTitle": "ゼロからのTCP/IPプロトコルスタック自作入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1242/9784839981242_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:17.546Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18372908/"
+  },
   "zero-kara-wakaru-aws": {
     "title": "ゼロからわかるAWS超入門",
     "isbn": "9784297140892",
@@ -7790,6 +8150,24 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T22:49:30.057Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17781976/"
+  },
+  "zero-torasuto-jidai-no-sekyuriti-shinnyuumon": {
+    "title": "ゼロトラスト時代のセキュリティ新入門",
+    "isbn": "9784295023173",
+    "matchedTitle": "ゼロトラスト時代のセキュリティ新入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3173/9784295023173_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:50.320Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18360137/"
+  },
+  "zero-torasuto-jidai-no-sekyuriti-shinnyuumon-2": {
+    "title": "ゼロトラスト時代のセキュリティ新入門",
+    "isbn": "9784295023173",
+    "matchedTitle": "ゼロトラスト時代のセキュリティ新入門",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3173/9784295023173_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:30:16.387Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18360137/"
   },
   "zero-trust-networks-2": {
     "title": "ゼロトラストネットワーク",
@@ -7817,5 +8195,23 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T12:42:32.838Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15568963/"
+  },
+  "zukaisokusenryokuinfuraenjinianochishikitojitsum": {
+    "title": "図解即戦力　インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書　［改訂2版］",
+    "isbn": "9784297158873",
+    "matchedTitle": "図解即戦力　インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書　［改訂2版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8873/9784297158873.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:28.387Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18747983/"
+  },
+  "zukaisokusenryokuinfuraenjinianochishikitojitsum-2": {
+    "title": "図解即戦力　インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書　［改訂2版］",
+    "isbn": "9784297158873",
+    "matchedTitle": "図解即戦力　インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書　［改訂2版］",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8873/9784297158873.gif?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T11:29:53.786Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18747983/"
   }
 }

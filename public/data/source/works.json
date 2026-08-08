@@ -25936,5 +25936,1179 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zukaisokusenryokuinfuraenjinianochishikitojitsum",
+    "title": "図解即戦力　インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書　［改訂2版］",
+    "titleKana": "ずかいそくせんりょくいんふらえんじにあのちしきとじつむがこれいっさつでしっかりわかるきょうかしょかいていにはん",
+    "authorIds": [
+      "dijitarugurosuakademia"
+    ],
+    "techIds": [
+      "network",
+      "linux",
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297158873",
+    "firstPublishedYear": 2026,
+    "synopsis": "インフラエンジニアに求められる知識と実務を1冊にまとめた入門書。サーバ・ネットワーク・OS・運用まで図解で整理している。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。紹介文の典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ubuntu-26-04-lts-katsuyou-guide",
+    "title": "Ubuntu 26.04 LTS 活用ガイド --Linuxの基本操作からサーバ構築まで",
+    "titleKana": "",
+    "authorIds": [
+      "mizunohajime"
+    ],
+    "techIds": [
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297158545",
+    "firstPublishedYear": 2026,
+    "synopsis": "Ubuntu 26.04 LTS を対象に、Linuxの基本操作からサーバ構築までを解説する活用ガイド。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。紹介文の典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "azure-1nensei-cloud-no-shikumi",
+    "title": "Azure1年生 クラウドのしくみ 図解でわかる！会話でまなべる！",
+    "titleKana": "",
+    "authorIds": [
+      "author-390211"
+    ],
+    "techIds": [
+      "aws",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784798190730",
+    "firstPublishedYear": 2026,
+    "synopsis": "Microsoft Azure の全体像を会話形式と図解で学ぶ入門書。クラウドの考え方から主要サービスまでを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zero-kara-no-sekyua-nettowaku-kouchiku-no-kyouka",
+    "title": "ゼロからのセキュアネットワーク構築の教科書",
+    "titleKana": "ぜろからのせきゅあねっとわーくこうちくのきょうかしょ",
+    "authorIds": [
+      "author-915198"
+    ],
+    "techIds": [
+      "network",
+      "security",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "practice",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784839991593",
+    "firstPublishedYear": 2026,
+    "synopsis": "OpenBSD のパケットフィルタ(PF)を軸に、安全なネットワークを構築するための設計と運用を解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meniyasashiidaikatsujiinfuraenjiniaomezasuhitoga",
+    "title": "目にやさしい大活字　インフラエンジニアを目指す人が最初に読む本",
+    "titleKana": "めにやさしいだいかつじいんふらえんじにあをめざすひとがさいしょによむほん",
+    "authorIds": [
+      "sano-yutaka"
+    ],
+    "techIds": [
+      "network",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "essay-career",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784863549258",
+    "firstPublishedYear": 2026,
+    "synopsis": "インフラエンジニアという仕事の内容・魅力・キャリアパスを、未経験者向けに解説する。大活字版。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sofutowea-dezain-fo-biginazu",
+    "title": "Software Design for Beginners3 ネットワーク技術入門",
+    "titleKana": "そふとうぇあでざいんふぉーびぎなーず",
+    "authorIds": [
+      "murayama-yukihiro"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297157586",
+    "firstPublishedYear": 2026,
+    "synopsis": "雑誌『Software Design』のネットワーク特集を再編集した入門書。基礎から体系立てて学べる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saiba-sekyuriti-no-tame-no-deta-enjiniaringu-kyo",
+    "title": "サイバーセキュリティのためのデータエンジニアリング教科書",
+    "titleKana": "さいばーせきゅりてぃのためのでーたえんじにありんぐきょうかしょ",
+    "authorIds": [
+      "author-867638"
+    ],
+    "techIds": [
+      "security",
+      "data-engineering"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784839991609",
+    "firstPublishedYear": 2026,
+    "synopsis": "セキュリティデータを一元管理し、リアルタイム検出とインシデント対応を支える技術基盤の作り方を解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nettowaku-shisutemu-ni-tsuite-kataru-tokini-ware",
+    "title": "ネットワークシステムについて語るときに我々の語ること",
+    "titleKana": "ねっとわーくしすてむについてかたるときにわれわれのかたること",
+    "authorIds": [
+      "author-248800"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "lambdanote",
+    "themeIds": [
+      "theory",
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784908686252",
+    "firstPublishedYear": 2026,
+    "synopsis": "インターネットのアーキテクチャ、プロトコル実装、仮想化など、ネットワークをめぐる論点を対話的に掘り下げる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-3",
+    "title": "技術者必携　図解で身に付く　ネットワークの基礎",
+    "titleKana": "",
+    "authorIds": [
+      "nikkeinetwork"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784296210930",
+    "firstPublishedYear": 2026,
+    "synopsis": "ネットワーク機器や回線の選定から最新の技術トレンドまで、実務で必要な知識を図解で整理した一冊。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eai-no-tame-no-nettowaku-sekkei-no-kyoukasho",
+    "title": "AIのためのネットワーク設計の教科書",
+    "titleKana": "えーあいのためのねっとわーくせっけいのきょうかしょ",
+    "authorIds": [
+      "shisukoshisutemuzugoudougaisha"
+    ],
+    "techIds": [
+      "network",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "design-architecture",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784863545144",
+    "firstPublishedYear": 2026,
+    "synopsis": "分散AIの学習・推論を支えるネットワークの設計と運用を、ジョブ進行の視点から解説する。テール遅延や集合通信の扱いを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "infura-enjinia-o-mezasu-hito-ga-saisho-ni-yomu-h",
+    "title": "インフラエンジニアを目指す人が最初に読む本",
+    "titleKana": "いんふらえんじにあおめざすひとがさいしょによむほん",
+    "authorIds": [
+      "sano-yutaka"
+    ],
+    "techIds": [
+      "network",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "essay-career",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784863545137",
+    "firstPublishedYear": 2026,
+    "synopsis": "インフラエンジニアを目指す人に向けて、仕事の内容とキャリアの築き方を解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "edaburyuesu-ramuda-honkaku-nyuumon-rasuto-to-ter",
+    "title": "AWS　Lambda　本格入門　RustとTerraformでつくるサーバーレスシステム",
+    "titleKana": "えーだぶりゅーえすらむだほんかくにゅうもん",
+    "authorIds": [
+      "hara-tabito"
+    ],
+    "techIds": [
+      "aws",
+      "rust",
+      "devops"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784065436660",
+    "firstPublishedYear": 2026,
+    "synopsis": "AWS Lambda を Rust で実装し、Terraform でデプロイする。SQS・S3・API Gateway 連携まで扱うサーバーレス開発の入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-4",
+    "title": "図解でスッキリ サーバーのきほんとしくみ",
+    "titleKana": "",
+    "authorIds": [
+      "fukunaga-yuji"
+    ],
+    "techIds": [
+      "linux",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784295023968",
+    "firstPublishedYear": 2026,
+    "synopsis": "サーバの役割と種類、ハードウェア、OS、仮想化、運用までを見開き単位の図解で整理した入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jouhou-nettowaku",
+    "title": "情報ネットワーク",
+    "titleKana": "じょうほうねっとわーく",
+    "authorIds": [
+      "shiratorinorio"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "kyoritsu",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784320123038",
+    "firstPublishedYear": 2011,
+    "synopsis": "情報ネットワークの基礎をOSI参照モデルから丁寧に解説する教科書。第2版で技術動向を更新している。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-5",
+    "title": "セキュリティ技術の教科書　第4版",
+    "titleKana": "",
+    "authorIds": [
+      "author-907429"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "itec",
+    "themeIds": [
+      "reference",
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784865753516",
+    "firstPublishedYear": 2026,
+    "synopsis": "情報処理安全確保支援士試験の対策も視野に、セキュリティ技術を分野ごとに整理した教科書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-6",
+    "title": "DNSがよくわかる教科書 第2版",
+    "titleKana": "",
+    "authorIds": [
+      "author-463396"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784815622657",
+    "firstPublishedYear": 2026,
+    "synopsis": "DNSの仕組みからリソースレコード、運用ノウハウ、DNSSEC とプライバシー保護までを扱う。7年ぶりの改訂版。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-7",
+    "title": "技術者必携 図解で身に付く 最新ネットワークセキュリティー",
+    "titleKana": "",
+    "authorIds": [
+      "nikkeinetwork"
+    ],
+    "techIds": [
+      "security",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784296210558",
+    "firstPublishedYear": 2026,
+    "synopsis": "ランサムウェア被害や認証技術の変化を踏まえ、最新のネットワークセキュリティを図解で解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ajuru-kuraudo-sekkei-kanzen-gaido-saiteki-na-sab",
+    "title": "Azureクラウド設計完全ガイド",
+    "titleKana": "あじゅーるくらうどせっけいかんぜんがいど",
+    "authorIds": [
+      "author-860418"
+    ],
+    "techIds": [
+      "aws",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "design-architecture",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784296208609",
+    "firstPublishedYear": 2026,
+    "synopsis": "Microsoft Azure のサービス体系を踏まえた、設計・構築の勘所を解説するアーキテクチャガイド。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nettowakuzu-no-egakikata-nyuumon-wakariyasusa-mi",
+    "title": "ネットワーク図の描き方入門",
+    "titleKana": "ねっとわーくずのえがきかたにゅうもん",
+    "authorIds": [
+      "hagiwaramanabu"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "practice",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784296207381",
+    "firstPublishedYear": 2025,
+    "synopsis": "ネットワーク構成図の描き方を、分かりやすさ・見やすさのルールから解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zero-torasuto-jidai-no-sekyuriti-shinnyuumon",
+    "title": "ゼロトラスト時代のセキュリティ新入門",
+    "titleKana": "ぜろとらすとじだいのせきゅりてぃしんにゅうもん",
+    "authorIds": [
+      "author-836975"
+    ],
+    "techIds": [
+      "security",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784295023173",
+    "firstPublishedYear": 2025,
+    "synopsis": "ゼロトラストの概念を初学者向けに解きほぐし、現代のセキュリティの前提が変わったことを説明する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zero-kara-no-tishipi-aipi-purotokoru-sutakku-jis",
+    "title": "ゼロからのTCP/IPプロトコルスタック自作入門",
+    "titleKana": "ぜろからのてぃーしーぴーあいぴーぷろとこるすたっくじさくにゅうもん",
+    "authorIds": [
+      "yamamotomasaya"
+    ],
+    "techIds": [
+      "network",
+      "linux",
+      "c"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "build-to-learn",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784839981242",
+    "firstPublishedYear": 2025,
+    "synopsis": "OSのネットワーク機能そのものであるプロトコルスタックを自作する。パケット処理からデバイス管理、アプリへの機能提供までを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-8",
+    "title": "左門至峰の出るとこネスペ教科書　最短距離で合格できるネットワークスペシャリスト　増補改訂版",
+    "titleKana": "",
+    "authorIds": [
+      "samonshihou"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "certification",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784296208685",
+    "firstPublishedYear": 2025,
+    "synopsis": "情報処理技術者試験「ネットワークスペシャリスト」の頻出分野に絞った教科書。増補改訂版。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zukaisokusenryokuinfuraenjinianochishikitojitsum-2",
+    "title": "図解即戦力　インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書　［改訂2版］",
+    "titleKana": "ずかいそくせんりょくいんふらえんじにあのちしきとじつむがこれいっさつでしっかりわかるきょうかしょかいていにはん",
+    "authorIds": [
+      "dijitarugurosuakademia"
+    ],
+    "techIds": [
+      "network",
+      "linux",
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297158873",
+    "firstPublishedYear": 2026,
+    "synopsis": "インフラエンジニアに求められる知識と実務を1冊にまとめた入門書。サーバ・ネットワーク・OS・運用まで図解で整理している。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。紹介文の典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work",
+    "title": "Ubuntu 26.04 LTS 活用ガイド --Linuxの基本操作からサーバ構築まで",
+    "titleKana": "",
+    "authorIds": [
+      "mizunohajime"
+    ],
+    "techIds": [
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297158545",
+    "firstPublishedYear": 2026,
+    "synopsis": "Ubuntu 26.04 LTS を対象に、Linuxの基本操作からサーバ構築までを解説する活用ガイド。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。紹介文の典拠が見つからなかったため、内容の記述は書誌事項から確認できる範囲にとどめている。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-2",
+    "title": "Azure1年生 クラウドのしくみ 図解でわかる！会話でまなべる！",
+    "titleKana": "",
+    "authorIds": [
+      "author-390211"
+    ],
+    "techIds": [
+      "aws",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "shoeisha",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784798190730",
+    "firstPublishedYear": 2026,
+    "synopsis": "Microsoft Azure の全体像を会話形式と図解で学ぶ入門書。クラウドの考え方から主要サービスまでを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zero-kara-no-sekyua-nettowaku-kouchiku-no-kyouka-2",
+    "title": "ゼロからのセキュアネットワーク構築の教科書",
+    "titleKana": "ぜろからのせきゅあねっとわーくこうちくのきょうかしょ",
+    "authorIds": [
+      "author-915198"
+    ],
+    "techIds": [
+      "network",
+      "security",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "practice",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784839991593",
+    "firstPublishedYear": 2026,
+    "synopsis": "OpenBSD のパケットフィルタ(PF)を軸に、安全なネットワークを構築するための設計と運用を解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "meniyasashiidaikatsujiinfuraenjiniaomezasuhitoga-2",
+    "title": "目にやさしい大活字　インフラエンジニアを目指す人が最初に読む本",
+    "titleKana": "めにやさしいだいかつじいんふらえんじにあをめざすひとがさいしょによむほん",
+    "authorIds": [
+      "sano-yutaka"
+    ],
+    "techIds": [
+      "network",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "essay-career",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784863549258",
+    "firstPublishedYear": 2026,
+    "synopsis": "インフラエンジニアという仕事の内容・魅力・キャリアパスを、未経験者向けに解説する。大活字版。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "sofutowea-dezain-fo-biginazu-2",
+    "title": "Software Design for Beginners3 ネットワーク技術入門",
+    "titleKana": "そふとうぇあでざいんふぉーびぎなーず",
+    "authorIds": [
+      "murayama-yukihiro"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "gijutsu-hyoronsha",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784297157586",
+    "firstPublishedYear": 2026,
+    "synopsis": "雑誌『Software Design』のネットワーク特集を再編集した入門書。基礎から体系立てて学べる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "saiba-sekyuriti-no-tame-no-deta-enjiniaringu-kyo-2",
+    "title": "サイバーセキュリティのためのデータエンジニアリング教科書",
+    "titleKana": "さいばーせきゅりてぃのためのでーたえんじにありんぐきょうかしょ",
+    "authorIds": [
+      "author-867638"
+    ],
+    "techIds": [
+      "security",
+      "data-engineering"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "practice",
+      "design-architecture"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784839991609",
+    "firstPublishedYear": 2026,
+    "synopsis": "セキュリティデータを一元管理し、リアルタイム検出とインシデント対応を支える技術基盤の作り方を解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nettowaku-shisutemu-ni-tsuite-kataru-tokini-ware-2",
+    "title": "ネットワークシステムについて語るときに我々の語ること",
+    "titleKana": "ねっとわーくしすてむについてかたるときにわれわれのかたること",
+    "authorIds": [
+      "author-248800"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "lambdanote",
+    "themeIds": [
+      "theory",
+      "essay-career"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784908686252",
+    "firstPublishedYear": 2026,
+    "synopsis": "インターネットのアーキテクチャ、プロトコル実装、仮想化など、ネットワークをめぐる論点を対話的に掘り下げる。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-9",
+    "title": "技術者必携　図解で身に付く　ネットワークの基礎",
+    "titleKana": "",
+    "authorIds": [
+      "nikkeinetwork"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784296210930",
+    "firstPublishedYear": 2026,
+    "synopsis": "ネットワーク機器や回線の選定から最新の技術トレンドまで、実務で必要な知識を図解で整理した一冊。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "eai-no-tame-no-nettowaku-sekkei-no-kyoukasho-2",
+    "title": "AIのためのネットワーク設計の教科書",
+    "titleKana": "えーあいのためのねっとわーくせっけいのきょうかしょ",
+    "authorIds": [
+      "shisukoshisutemuzugoudougaisha"
+    ],
+    "techIds": [
+      "network",
+      "machine-learning"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "design-architecture",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784863545144",
+    "firstPublishedYear": 2026,
+    "synopsis": "分散AIの学習・推論を支えるネットワークの設計と運用を、ジョブ進行の視点から解説する。テール遅延や集合通信の扱いを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "infura-enjinia-o-mezasu-hito-ga-saisho-ni-yomu-h-2",
+    "title": "インフラエンジニアを目指す人が最初に読む本",
+    "titleKana": "いんふらえんじにあおめざすひとがさいしょによむほん",
+    "authorIds": [
+      "sano-yutaka"
+    ],
+    "techIds": [
+      "network",
+      "linux"
+    ],
+    "translatorIds": [],
+    "publisherId": "cr-kenkyusho",
+    "themeIds": [
+      "essay-career",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784863545137",
+    "firstPublishedYear": 2026,
+    "synopsis": "インフラエンジニアを目指す人に向けて、仕事の内容とキャリアの築き方を解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "edaburyuesu-ramuda-honkaku-nyuumon-rasuto-to-ter-2",
+    "title": "AWS　Lambda　本格入門　RustとTerraformでつくるサーバーレスシステム",
+    "titleKana": "えーだぶりゅーえすらむだほんかくにゅうもん",
+    "authorIds": [
+      "hara-tabito"
+    ],
+    "techIds": [
+      "aws",
+      "rust",
+      "devops"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "practice",
+      "build-to-learn"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784065436660",
+    "firstPublishedYear": 2026,
+    "synopsis": "AWS Lambda を Rust で実装し、Terraform でデプロイする。SQS・S3・API Gateway 連携まで扱うサーバーレス開発の入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-10",
+    "title": "図解でスッキリ サーバーのきほんとしくみ",
+    "titleKana": "",
+    "authorIds": [
+      "fukunaga-yuji"
+    ],
+    "techIds": [
+      "linux",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784295023968",
+    "firstPublishedYear": 2026,
+    "synopsis": "サーバの役割と種類、ハードウェア、OS、仮想化、運用までを見開き単位の図解で整理した入門書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "jouhou-nettowaku-2",
+    "title": "情報ネットワーク",
+    "titleKana": "じょうほうねっとわーく",
+    "authorIds": [
+      "shiratorinorio"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "kyoritsu",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784320123038",
+    "firstPublishedYear": 2011,
+    "synopsis": "情報ネットワークの基礎をOSI参照モデルから丁寧に解説する教科書。第2版で技術動向を更新している。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-11",
+    "title": "セキュリティ技術の教科書　第4版",
+    "titleKana": "",
+    "authorIds": [
+      "author-907429"
+    ],
+    "techIds": [
+      "security"
+    ],
+    "translatorIds": [],
+    "publisherId": "itec",
+    "themeIds": [
+      "reference",
+      "certification"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784865753516",
+    "firstPublishedYear": 2026,
+    "synopsis": "情報処理安全確保支援士試験の対策も視野に、セキュリティ技術を分野ごとに整理した教科書。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-12",
+    "title": "DNSがよくわかる教科書 第2版",
+    "titleKana": "",
+    "authorIds": [
+      "author-463396"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "reference",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784815622657",
+    "firstPublishedYear": 2026,
+    "synopsis": "DNSの仕組みからリソースレコード、運用ノウハウ、DNSSEC とプライバシー保護までを扱う。7年ぶりの改訂版。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-13",
+    "title": "技術者必携 図解で身に付く 最新ネットワークセキュリティー",
+    "titleKana": "",
+    "authorIds": [
+      "nikkeinetwork"
+    ],
+    "techIds": [
+      "security",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784296210558",
+    "firstPublishedYear": 2026,
+    "synopsis": "ランサムウェア被害や認証技術の変化を踏まえ、最新のネットワークセキュリティを図解で解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "ajuru-kuraudo-sekkei-kanzen-gaido-saiteki-na-sab-2",
+    "title": "Azureクラウド設計完全ガイド",
+    "titleKana": "あじゅーるくらうどせっけいかんぜんがいど",
+    "authorIds": [
+      "author-860418"
+    ],
+    "techIds": [
+      "aws",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "design-architecture",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784296208609",
+    "firstPublishedYear": 2026,
+    "synopsis": "Microsoft Azure のサービス体系を踏まえた、設計・構築の勘所を解説するアーキテクチャガイド。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "nettowakuzu-no-egakikata-nyuumon-wakariyasusa-mi-2",
+    "title": "ネットワーク図の描き方入門",
+    "titleKana": "ねっとわーくずのえがきかたにゅうもん",
+    "authorIds": [
+      "hagiwaramanabu"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "practice",
+      "intro"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784296207381",
+    "firstPublishedYear": 2025,
+    "synopsis": "ネットワーク構成図の描き方を、分かりやすさ・見やすさのルールから解説する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zero-torasuto-jidai-no-sekyuriti-shinnyuumon-2",
+    "title": "ゼロトラスト時代のセキュリティ新入門",
+    "titleKana": "ぜろとらすとじだいのせきゅりてぃしんにゅうもん",
+    "authorIds": [
+      "author-836975"
+    ],
+    "techIds": [
+      "security",
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "impress",
+    "themeIds": [
+      "intro",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784295023173",
+    "firstPublishedYear": 2025,
+    "synopsis": "ゼロトラストの概念を初学者向けに解きほぐし、現代のセキュリティの前提が変わったことを説明する。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "zero-kara-no-tishipi-aipi-purotokoru-sutakku-jis-2",
+    "title": "ゼロからのTCP/IPプロトコルスタック自作入門",
+    "titleKana": "ぜろからのてぃーしーぴーあいぴーぷろとこるすたっくじさくにゅうもん",
+    "authorIds": [
+      "yamamotomasaya"
+    ],
+    "techIds": [
+      "network",
+      "linux",
+      "c"
+    ],
+    "translatorIds": [],
+    "publisherId": "mynavi",
+    "themeIds": [
+      "build-to-learn",
+      "theory"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784839981242",
+    "firstPublishedYear": 2025,
+    "synopsis": "OSのネットワーク機能そのものであるプロトコルスタックを自作する。パケット処理からデバイス管理、アプリへの機能提供までを扱う。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "work-14",
+    "title": "左門至峰の出るとこネスペ教科書　最短距離で合格できるネットワークスペシャリスト　増補改訂版",
+    "titleKana": "",
+    "authorIds": [
+      "samonshihou"
+    ],
+    "techIds": [
+      "network"
+    ],
+    "translatorIds": [],
+    "publisherId": "nikkei-bp",
+    "themeIds": [
+      "certification",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "intermediate",
+    "isbn": "9784296208685",
+    "firstPublishedYear": 2025,
+    "synopsis": "情報処理技術者試験「ネットワークスペシャリスト」の頻出分野に絞った教科書。増補改訂版。",
+    "awardResults": [],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
   }
 ]

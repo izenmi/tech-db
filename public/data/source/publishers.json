@@ -699,5 +699,50 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌および公式サイトで確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "fastbook",
+    "name": "ファストブック",
+    "nameKana": "ふぁすとぶっく",
+    "description": "オンデマンド出版を手がける出版社。",
+    "externalLinks": {},
+    "sourceNote": "楽天ブックスの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "miracle-solution",
+    "name": "ミラクルソリューション",
+    "nameKana": "みらくるそりゅーしょん",
+    "description": "IT関連書籍を刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "楽天ブックスの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "shojihomu",
+    "name": "商事法務",
+    "nameKana": "しょうじほうむ",
+    "description": "法律・実務書を刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "楽天ブックスの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "jikkyo-shuppan",
+    "name": "実教出版",
+    "nameKana": "じっきょうしゅっぱん",
+    "description": "教科書・実務書を刊行する出版社。",
+    "externalLinks": {},
+    "sourceNote": "楽天ブックスの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ipa",
+    "name": "情報処理推進機構",
+    "nameKana": "じょうほうしょりすいしんきこう",
+    "description": "独立行政法人。情報処理技術者試験の運営やセキュリティ関連の資料を発行している。",
+    "externalLinks": {},
+    "sourceNote": "楽天ブックスの書誌で確認(2026-08-08)。",
+    "updatedAt": "2026-08-08"
   }
 ]
