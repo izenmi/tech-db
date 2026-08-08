@@ -8,8 +8,6 @@ const LINKS = [
   { to: "/translators", label: "翻訳者" },
   { to: "/publishers", label: "出版社" },
   { to: "/awards", label: "アワード" },
-  { to: "/timeline", label: "年表" },
-  { to: "/search", label: "横断検索" },
 ];
 
 export function TopNav() {

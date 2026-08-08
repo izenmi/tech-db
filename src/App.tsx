@@ -12,8 +12,6 @@ import { TechListPage } from "./ui/techs/TechListPage";
 import { TechDetailPage } from "./ui/techs/TechDetailPage";
 import { AwardListPage } from "./ui/awards/AwardListPage";
 import { AwardDetailPage } from "./ui/awards/AwardDetailPage";
-import { TimelinePage } from "./ui/timeline/TimelinePage";
-import { CrossSearchPage } from "./ui/search/CrossSearchPage";
 import { AboutPage } from "./ui/about/AboutPage";
 import { NotFoundPage } from "./ui/common/NotFoundPage";
 import { AffiliateNotice } from "./ui/common/AffiliateNotice";
@@ -39,8 +37,6 @@ export function App() {
         <Route path="/publishers/:id" element={<PersonDetailPage kind="publisher" />} />
         <Route path="/awards" element={<AwardListPage />} />
         <Route path="/awards/:id" element={<AwardDetailPage />} />
-        <Route path="/timeline" element={<TimelinePage />} />
-        <Route path="/search" element={<CrossSearchPage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>

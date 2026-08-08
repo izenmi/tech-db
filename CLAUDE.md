@@ -195,14 +195,6 @@ mystery-dbの構成をそのまま移植している。
 - **静的ルートを追加したら4箇所に追記が必要**: `src/App.tsx` / `src/ui/common/TopNav.tsx` / `scripts/prerender.mjs`の`routes` / `scripts/generate-manifest.mjs`の`sitemapEntries`
 - Google Analytics: `index.html`にGA4のgtagスニペットを直書きしている(測定ID `G-FKN7MFW3HQ`)。**姉妹サイトはそれぞれ固有のプロパティを持つ**(ranobe-db `G-2NR0M8VN1N` / manga-db `G-01FCSJVHQX` / mystery-db `G-JM8SW0R904` / game-db `G-V6407CNZ8Y`)ので、サイト間でIDを流用しないこと
 
-## 5サイト横断検索 `/search`
-
-らのべDB・まんがDB・ミステリDB・ゲームDB・技術書DBの5サイトを検索する。各サイトが`public/data/generated/search-index.json`を出力し、`/search`がそれらを読み比べるだけで成立している(全サイトが`izenmi.github.io`配下なので同一オリジンfetchで済む)。
-
-- `src/ui/search/CrossSearchPage.tsx`。移植時に変えるのは`SELF_SITE`定数だけ
-- **新サイトを足したら既存4サイトの`CrossSearchPage.tsx`(`SISTER_INDEX_URLS`/`SITE_ORDER`)・`HomePage.tsx`(`SISTER_SITES`)・`common.css`(`.sister-site-card--<key>`)も更新する**
-- 索引の`y`(年)は`editionYear()`の値、つまり邦訳版・改訂版の年
-- `Promise.allSettled`で読み込み、失敗したサイトは黙って除外する
 
 ## 姉妹サイト間の相互リンク
 
