@@ -84,7 +84,7 @@ export function WorkDetailPage() {
               </a>
               <a
                 className="cover-link"
-                href={rakutenBooksUrl(state.data.title, state.data.authorNames[0], state.data.isbn)}
+                href={rakutenBooksUrl(state.data.title, state.data.authorNames[0], state.data.isbn, state.data.rakutenItemUrl)}
                 target="_blank"
                 rel="noreferrer"
               >
