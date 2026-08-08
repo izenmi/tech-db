@@ -4,7 +4,7 @@ import { getWork, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
-import { WorkCover, amazonSearchUrl } from "../common/WorkCover";
+import { WorkCover, amazonSearchUrl, rakutenBooksUrl } from "../common/WorkCover";
 import { BASE_PATH, DEFAULT_OG_IMAGE, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { LEVEL_LABEL } from "../common/labels";
 import { bookYear } from "../common/bookYear";
@@ -76,11 +76,19 @@ export function WorkDetailPage() {
               <WorkCover title={state.data.title} coverUrl={state.data.coverUrl} size="lg" />
               <a
                 className="cover-link"
-                href={amazonSearchUrl(state.data.title, state.data.authorNames[0])}
+                href={amazonSearchUrl(state.data.title, state.data.authorNames[0], state.data.isbn)}
                 target="_blank"
                 rel="noreferrer"
               >
                 Amazonで購入
+              </a>
+              <a
+                className="cover-link"
+                href={rakutenBooksUrl(state.data.title, state.data.authorNames[0], state.data.isbn)}
+                target="_blank"
+                rel="noreferrer"
+              >
+                楽天ブックスで購入
               </a>
             </div>
             <div className="work-card__body">
