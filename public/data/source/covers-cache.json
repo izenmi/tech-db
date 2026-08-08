@@ -2557,6 +2557,15 @@
     "resolvedAt": "2026-08-06T12:45:55.193Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17442878/"
   },
+  "habado-sutanfodo-okkusufodo-kagakuteki-ni-shoume": {
+    "title": "すごい習慣大百科",
+    "isbn": "9784815633417",
+    "matchedTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3417/9784815633417_1_22.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T06:17:19.067Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18192179/"
+  },
   "hacker-no-teguchi": {
     "title": "ハッカーの手口",
     "isbn": null,
@@ -3887,6 +3896,15 @@
     "source": "rakuten-books-isbn",
     "resolvedAt": "2026-08-06T21:37:57.293Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14295117/"
+  },
+  "kotoba-no-imi-o-keisan-suru-shikumi-keisan-gengo": {
+    "title": "ことばの意味を計算するしくみ",
+    "isbn": "9784065369845",
+    "matchedTitle": "ことばの意味を計算するしくみ　計算言語学と自然言語処理の基礎",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9845/9784065369845_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books-isbn",
+    "resolvedAt": "2026-08-08T06:17:17.927Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17988464/"
   },
   "kubernetes-container-security": {
     "title": "リスクから学ぶKubernetesコンテナセキュリティ",

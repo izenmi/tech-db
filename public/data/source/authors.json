@@ -9121,5 +9121,23 @@
     "externalLinks": {},
     "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "yanakahitomi",
+    "name": "谷中瞳",
+    "nameKana": "やなかひとみ",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "hottashuugo",
+    "name": "堀田秀吾",
+    "nameKana": "ほったしゅうご",
+    "description": "技術書の著者。",
+    "externalLinks": {},
+    "sourceNote": "国立国会図書館サーチの書誌で確認(2026-08-07)。",
+    "updatedAt": "2026-08-07"
   }
 ]

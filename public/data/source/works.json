@@ -25962,5 +25962,69 @@
     "externalLinks": {},
     "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
     "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "kotoba-no-imi-o-keisan-suru-shikumi-keisan-gengo",
+    "title": "ことばの意味を計算するしくみ",
+    "titleKana": "ことばのいみおけいさんするしくみ",
+    "authorIds": [
+      "yanakahitomi"
+    ],
+    "techIds": [
+      "llm",
+      "machine-learning",
+      "math"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "theory",
+      "reference"
+    ],
+    "origin": "jp",
+    "level": "advanced",
+    "isbn": "9784065369845",
+    "firstPublishedYear": 2024,
+    "synopsis": "人の頭の中で行われる意味理解の処理を、計算機で再現できるかを問う一冊。計算言語学と統計的言語処理という2つのアプローチから、ことばの意味を計算するしくみを解説する。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "技術書部門大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
+  },
+  {
+    "id": "habado-sutanfodo-okkusufodo-kagakuteki-ni-shoume",
+    "title": "すごい習慣大百科",
+    "titleKana": "はーばーどすたんふぉーどおっくすふぉーどかがくてきにしょうめいされたすごいしゅうかんだいひゃっか",
+    "authorIds": [
+      "hottashuugo"
+    ],
+    "techIds": [],
+    "translatorIds": [],
+    "publisherId": "sb-creative",
+    "themeIds": [
+      "essay-career",
+      "practice"
+    ],
+    "origin": "jp",
+    "level": "beginner",
+    "isbn": "9784815633417",
+    "firstPublishedYear": 2025,
+    "synopsis": "仕事・健康・勉強・目標達成を「習慣化」の観点から扱い、エビデンスのあるテクニックを集めた実用書。",
+    "awardResults": [
+      {
+        "awardId": "it-engineer-book-award",
+        "year": 2026,
+        "result": "特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "書名・著者・出版社・刊行年・ISBNは国立国会図書館サーチAPI(opensearch)の書誌で、受賞歴はITエンジニア本大賞公式サイト(shoeisha.co.jp/campaign/award/)の各年の結果ページで確認(2026-08-07照会)。紹介文は版元の内容紹介を参考にした独自要約(コピペなし)。",
+    "updatedAt": "2026-08-07"
   }
 ]
