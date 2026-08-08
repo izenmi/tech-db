@@ -1,18 +1,6 @@
-import type { BookLevel, TechCategory } from "../../types";
+import type { TechCategory } from "../../types";
 
-/** Display labels for the two enums that appear in filters, cards and headings alike. Kept in one
- *  place so a wording change lands everywhere at once. */
-export const LEVEL_LABEL: Record<BookLevel, string> = {
-  beginner: "入門",
-  intermediate: "中級",
-  advanced: "上級",
-};
 
-export const LEVEL_OPTIONS: { value: BookLevel; label: string }[] = [
-  { value: "beginner", label: "入門" },
-  { value: "intermediate", label: "中級" },
-  { value: "advanced", label: "上級" },
-];
 
 export const TECH_CATEGORY_LABEL: Record<TechCategory, string> = {
   language: "プログラミング言語",

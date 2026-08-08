@@ -13,11 +13,6 @@ import type { WorkGenerated } from "../../types";
  * 統合していない。ここに置くのは**どの詳細ページでも意味がある条件だけ**にしている。
  */
 
-const LEVEL_OPTIONS = [
-  { value: "beginner", label: "入門" },
-  { value: "intermediate", label: "中級" },
-  { value: "advanced", label: "上級" },
-];
 
 const ORIGIN_OPTIONS = [
   { value: "jp", label: "日本語オリジナル" },
@@ -64,7 +59,6 @@ export function themeOptionsOf(works: WorkGenerated[] | undefined, exclude?: str
 export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = "year-desc") {
   const [params, setParams] = useSearchParams();
   const q = params.get("q") ?? "";
-  const level = params.get("level") ?? "";
   const origin = params.get("origin") ?? "";
   const theme = params.get("theme") ?? "";
   const sort = params.get("sort") ?? defaultSort;
@@ -75,12 +69,11 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
     const keyword = q.trim().toLowerCase();
     return works.filter((w) => {
       if (!matchesKeyword(w, keyword)) return false;
-      if (level && w.level !== level) return false;
       if (origin && w.origin !== origin) return false;
       if (theme && !w.themeIds.includes(theme)) return false;
       return true;
     });
-  }, [works, q, level, origin, theme]);
+  }, [works, q, origin, theme]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -97,7 +90,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || level || origin || theme);
+  const hasActiveFilters = Boolean(q || origin || theme);
 
   const controls = (
     <div className="filter-row">
@@ -108,14 +101,6 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
         aria-label="タイトル・著者で絞り込み"
         onChange={(e) => updateParam("q", e.target.value)}
       />
-      <select value={level} onChange={(e) => updateParam("level", e.target.value)}>
-        <option value="">難易度で絞り込み</option>
-        {LEVEL_OPTIONS.map((o) => (
-          <option value={o.value} key={o.value}>
-            {o.label}
-          </option>
-        ))}
-      </select>
       <select value={origin} onChange={(e) => updateParam("origin", e.target.value)}>
         <option value="">原著の言語で絞り込み</option>
         {ORIGIN_OPTIONS.map((o) => (
@@ -150,7 +135,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           className="filter-clear-btn"
           onClick={() => {
             const next = new URLSearchParams(params);
-            ["q", "level", "origin", "theme"].forEach((k) => next.delete(k));
+            ["q", "origin", "theme"].forEach((k) => next.delete(k));
             setParams(next, { replace: true });
           }}
         >

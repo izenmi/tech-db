@@ -5,7 +5,7 @@ import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
 import { useSeo } from "../common/useSeo";
-import { LEVEL_OPTIONS, TECH_CATEGORY_LABEL, TECH_CATEGORY_ORDER } from "../common/labels";
+import { TECH_CATEGORY_LABEL, TECH_CATEGORY_ORDER } from "../common/labels";
 import { bookYear } from "../common/bookYear";
 
 const ORIGIN_OPTIONS: { value: string; label: string }[] = [
@@ -100,7 +100,6 @@ export function WorkListPage() {
   const themeId = params.get("theme") ?? "";
   const publisherId = params.get("publisher") ?? "";
   const techId = params.get("tech") ?? "";
-  const level = params.get("level") ?? "";
   const origin = params.get("origin") ?? "";
   const award = params.get("award") ?? "";
   const freshness = params.get("freshness") ?? "";
@@ -133,7 +132,6 @@ export function WorkListPage() {
       if (themeId && !w.themeIds.includes(themeId)) return false;
       if (publisherId && w.publisherId !== publisherId) return false;
       if (techId && !w.techIds.includes(techId)) return false;
-      if (level && w.level !== level) return false;
       if (origin && w.origin !== origin) return false;
       if (award === "yes" && w.awardSummaries.length === 0) return false;
       if (freshness && currentYear - bookYear(w) > Number(freshness)) {
@@ -141,7 +139,7 @@ export function WorkListPage() {
       }
       return true;
     });
-  }, [worksState, q, themeId, publisherId, techId, level, origin, award, freshness]);
+  }, [worksState, q, themeId, publisherId, techId, origin, award, freshness]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => bookYear(a) - bookYear(b));
@@ -172,14 +170,14 @@ export function WorkListPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["q", "theme", "publisher", "tech", "level", "origin", "award", "freshness", "page"]) {
+    for (const key of ["q", "theme", "publisher", "tech", "origin", "award", "freshness", "page"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
   const hasActiveFilters = Boolean(
-    q || themeId || publisherId || techId || level || origin || award || freshness
+    q || themeId || publisherId || techId || origin || award || freshness
   );
 
   return (
@@ -211,14 +209,6 @@ export function WorkListPage() {
             })}
           </select>
         )}
-        <select value={level} onChange={(e) => updateParam("level", e.target.value)}>
-          <option value="">対象レベルで絞り込み</option>
-          {LEVEL_OPTIONS.map((o) => (
-            <option value={o.value} key={o.value}>
-              {o.label}
-            </option>
-          ))}
-        </select>
         {themesState.status === "ready" && (
           <select value={themeId} onChange={(e) => updateParam("theme", e.target.value)}>
             <option value="">テーマで絞り込み</option>

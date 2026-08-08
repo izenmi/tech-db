@@ -6,7 +6,6 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
 import { matchesKeyword, themeOptionsOf } from "../common/useWorkFilter";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
-import { LEVEL_OPTIONS } from "../common/labels";
 import { bookYear } from "../common/bookYear";
 
 const ORIGIN_OPTIONS: { value: string; label: string }[] = [
@@ -44,7 +43,6 @@ export function ThemeDetailPage() {
   // このページ自身のテーマは全作品が持っていて絞り込みにならないので選択肢から外す
   const other = params.get("theme") ?? "";
   const origin = params.get("origin") ?? "";
-  const level = params.get("level") ?? "";
   const sort = params.get("sort") ?? "year-desc";
 
   const options = useMemo(
@@ -59,10 +57,9 @@ export function ThemeDetailPage() {
       if (!matchesKeyword(w, keyword)) return false;
       if (other && !w.themeIds.includes(other)) return false;
       if (origin && w.origin !== origin) return false;
-      if (level && w.level !== level) return false;
       return true;
     });
-  }, [state, origin, level, q, other]);
+  }, [state, origin, q, other]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => bookYear(a) - bookYear(b));
@@ -80,13 +77,13 @@ export function ThemeDetailPage() {
 
   function clearFilters() {
     const next = new URLSearchParams(params);
-    for (const key of ["q", "theme", "origin", "level"]) {
+    for (const key of ["q", "theme", "origin"]) {
       next.delete(key);
     }
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || other || origin || level);
+  const hasActiveFilters = Boolean(q || other || origin);
 
   return (
     <div className="page">
@@ -116,14 +113,6 @@ export function ThemeDetailPage() {
                 ))}
               </select>
             )}
-            <select value={level} onChange={(e) => updateParam("level", e.target.value)}>
-              <option value="">対象レベルで絞り込み</option>
-              {LEVEL_OPTIONS.map((o) => (
-                <option value={o.value} key={o.value}>
-                  {o.label}
-                </option>
-              ))}
-            </select>
             <select value={origin} onChange={(e) => updateParam("origin", e.target.value)}>
               <option value="">原著/翻訳で絞り込み</option>
               {ORIGIN_OPTIONS.map((o) => (

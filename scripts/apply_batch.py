@@ -20,7 +20,7 @@ batch.json の形式:
   存在しない参照があればその work 自体を反映せずレポートする
 - isbn は任意だが、指定する場合はハイフンなしの13桁(978/979始まり)であることを検証する
 - origin ごとの必須項目(翻訳書なら translatorIds と originalTitle、日本語オリジナルならそれらが
-  空であること)と level の値も検証する。generate-manifest.mjs と同じルール
+  空であること)も検証する。generate-manifest.mjs と同じルール
 - 既存work idと重複するworkはスキップ
 """
 import json
@@ -30,7 +30,6 @@ from pathlib import Path
 
 SRC = Path(__file__).resolve().parent.parent / "public" / "data" / "source"
 
-LEVELS = {"beginner", "intermediate", "advanced"}
 TECH_CATEGORIES = {"language", "framework", "infra", "database", "tool", "concept"}
 
 def load(name):
@@ -134,9 +133,6 @@ def main():
         isbn = w.get("isbn")
         if isbn is not None and not re.fullmatch(r"97[89]\d{10}", str(isbn)):
             missing.append(f"isbn must be a 13-digit ISBN with no hyphens (got {isbn!r})")
-
-        if w.get("level") not in LEVELS:
-            missing.append(f"level must be one of {sorted(LEVELS)} (got {w.get('level')!r})")
 
         origin = w.get("origin")
         if origin not in ("jp", "overseas"):

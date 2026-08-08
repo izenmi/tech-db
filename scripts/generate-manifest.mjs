@@ -34,7 +34,6 @@ const publishersById = new Map(publishers.map((p) => [p.id, p]));
 const themesById = new Map(themes.map((t) => [t.id, t]));
 const awardsById = new Map(awards.map((a) => [a.id, a]));
 
-const LEVELS = ["beginner", "intermediate", "advanced"];
 const TECH_CATEGORIES = ["language", "framework", "infra", "database", "tool", "concept"];
 
 const errors = [];
@@ -59,10 +58,6 @@ for (const w of works) {
   // the build the same way a bad id reference does.
   if (w.isbn != null && !/^97[89]\d{10}$/.test(w.isbn)) {
     errors.push(`work "${w.id}": isbn must be a 13-digit ISBN with no hyphens (got "${w.isbn}")`);
-  }
-
-  if (!LEVELS.includes(w.level)) {
-    errors.push(`work "${w.id}": level must be one of ${LEVELS.join("/")} (got "${w.level}")`);
   }
 
   // origin drives which translation fields are meaningful; catching a mismatch here is what

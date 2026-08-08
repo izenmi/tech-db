@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import type { WorkGenerated } from "../../types";
 import { WorkCover } from "./WorkCover";
-import { LEVEL_LABEL } from "./labels";
 import { bookYear } from "./bookYear";
 
 function authorLine(work: WorkGenerated): string {
@@ -11,7 +10,7 @@ function authorLine(work: WorkGenerated): string {
 }
 
 /** Fuller card for the main book list page: cover thumbnail on the left, and a right-hand
- *  column (title/author/publisher/level/awards + clickable theme tags). The whole card navigates
+ *  column (title/author/publisher/awards + clickable theme tags). The whole card navigates
  *  to the book page via a "stretched link" (`work-card__cover-link`, an absolutely-positioned
  *  <Link> covering the entire card) rather than a `<div onClick>` — that keeps the click target
  *  a real `<a>` so middle-click/ctrl-click "open in new tab" and keyboard nav work natively. The
@@ -31,7 +30,6 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
         </div>
         {work.seriesName && <div className="work-card__series">{work.seriesName}</div>}
         <div className="chip-row">
-          <span className={`chip level-chip level-chip--${work.level}`}>{LEVEL_LABEL[work.level]}</span>
           {work.targetVersion && <span className="chip version-chip">{work.targetVersion}</span>}
         </div>
         {work.techNames.length > 0 && (

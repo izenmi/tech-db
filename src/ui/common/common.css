@@ -695,33 +695,7 @@ h1 {
   line-height: 1.4;
 }
 
-/* ---- Level and version chips ----
-   The reader level is the one piece of metadata worth colour-coding: it's what someone scanning
-   a grid of cards is actually filtering on in their head. Three steps of the same hue rather
-   than three different colours, so the row still reads as one scale (入門 → 上級) and not as
-   unrelated categories. These are static labels, never links, so they get no hover state. */
-
-.chip.level-chip {
-  border-color: var(--color-teal-strong);
-  color: var(--color-teal-deep);
-  background: transparent;
-}
-
-.chip.level-chip--beginner {
-  border-color: var(--color-mint-strong);
-  color: var(--color-mint-strong);
-}
-
-.chip.level-chip--intermediate {
-  border-color: var(--color-teal-strong);
-  color: var(--color-teal-deep);
-}
-
-.chip.level-chip--advanced {
-  border-color: var(--color-peach-strong);
-  color: var(--color-peach-strong);
-}
-
+/* ---- Version chips ----
 /* Target versions ("Python 3.11") are reference detail, not a browse axis — deliberately the
    quietest chip on the card. */
 .chip.version-chip {

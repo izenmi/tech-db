@@ -117,8 +117,7 @@ annot.json では短いキーで最小限だけ書く(`n` は probe.json の候�
 
 ```json
 {"works": [{"n": 2, "id": "programmers-brain", "a": ["felienne-hermans"],
-            "tr": ["mizuno-takaaki"], "t": ["python"], "lv": "intermediate",
-            "th": ["essay-career"], "o": "ov", "ot": "The Programmer's Brain",
+            "tr": ["mizuno-takaaki"], "t": ["python"], "th": ["essay-career"], "o": "ov", "ot": "The Programmer's Brain",
             "fy": 2021, "ed": "第2版", "syn": "…"}]}
 ```
 
@@ -279,3 +278,14 @@ game-db の `scripts/suggest-candidates.mjs`(IGDB版)と同じ発想。
 既刊シリーズの途中巻(『ONE PIECE 115』『キングダム 80』)が大量に出る。
 このサイトはシリーズ単位で登録するため、**巻数付きタイトルはシリーズ名に丸めてから
 重複判定し直す**必要がある。
+
+## 読者レベル(入門/中級/上級)は廃止した(2026-08-08)
+
+`BookLevel` と `work.level` を型・データ・UI・取り込みスクリプトから削除した。
+
+**理由**: 判定が当てにならなかった。同じ「入門」でもプログラミング未経験者向けと
+実務経験者向けが混在し、逆に「上級」も分野が違えば比較できない。1冊ずつ中身を読まずに
+書誌情報から機械的に付けていたので、フィルターとして信用できる粒度になっていなかった。
+
+代わりの browse 軸はテーマ(`intro` / `practice` / `theory` など)で足りている。
+**再導入しないこと**。付け直すなら中身を読んだうえで基準を決める必要がある。

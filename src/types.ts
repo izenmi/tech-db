@@ -18,7 +18,6 @@ export type WorkOrigin = "jp" | "overseas";
 
 /** Who the book is written for. The single most useful axis when picking a technical book, which
  *  is why it lives on the work itself rather than being expressed as just another theme tag. */
-export type BookLevel = "beginner" | "intermediate" | "advanced";
 
 export interface WorkSource {
   id: string;
@@ -36,7 +35,6 @@ export interface WorkSource {
   /** Plain display text such as "Software Design plus シリーズ" — deliberately not an entity. */
   seriesName?: string;
   origin: WorkOrigin;
-  level: BookLevel;
   /** Year the book was first published in its original language. Translated works therefore sort
    *  alongside Japanese ones on a single timeline of computing-book history. */
   firstPublishedYear: number;

@@ -6,7 +6,6 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
 import { WorkCover, amazonSearchUrl, rakutenBooksUrl } from "../common/WorkCover";
 import { BASE_PATH, DEFAULT_OG_IMAGE, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
-import { LEVEL_LABEL } from "../common/labels";
 import { bookYear } from "../common/bookYear";
 import type { WorkGenerated } from "../../types";
 
@@ -127,9 +126,6 @@ export function WorkDetailPage() {
               {state.data.seriesName && <p className="page-subtitle">{state.data.seriesName}</p>}
 
               <div className="chip-row">
-                <span className={`chip level-chip level-chip--${state.data.level}`}>
-                  {LEVEL_LABEL[state.data.level]}向け
-                </span>
               </div>
 
               <p className="page-subtitle">

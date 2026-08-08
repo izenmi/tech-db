@@ -4,8 +4,8 @@
   python3 scripts/gen_batch.py prep.json anno.tsv batch.json
 
 anno.tsv(1行1冊、タブ区切り):
-  <n> <themeIds(カンマ区切り)> <techIds(カンマ区切り)> <level> <紹介文> [<flags>] [<overrides>]
-    level     … beginner / intermediate / advanced
+  <n> <themeIds(カンマ区切り)> <techIds(カンマ区切り)> <未使用> <紹介文> [<flags>] [<overrides>]
+    未使用    … かつての読者レベル欄。2026-08-08に廃止したので何を書いても無視される
     flags     … o=海外原著(origin=overseas), x=採用しない, n=紹介文の典拠が無く内容未確認
     overrides … title / kana / pub(=publisherId) / author(名前、カンマ区切り) / year / isbn / id /
                 awards(=「年:結果」を | 区切り。awardIdは it-engineer-book-award 固定)
@@ -102,7 +102,6 @@ def main():
         n = int(f[0])
         theme_str = f[1] if len(f) > 1 else ""
         tech_str = f[2] if len(f) > 2 else ""
-        level = (f[3] if len(f) > 3 else "").strip() or "intermediate"
         synopsis = f[4] if len(f) > 4 else ""
         flags = f[5] if len(f) > 5 else ""
         ov = {}
@@ -184,7 +183,6 @@ def main():
             "authorIds": author_ids, "techIds": techs_l, "translatorIds": [],
             "publisherId": pub_id, "themeIds": themes_l,
             "origin": "overseas" if "o" in flags else "jp",
-            "level": level,
             "isbn": ov.get("isbn") or nd.get("isbn") or "",
             "firstPublishedYear": int(ov.get("year") or nd.get("firstYear") or 0) or None,
             "synopsis": synopsis,

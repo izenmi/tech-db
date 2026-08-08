@@ -16,7 +16,6 @@ annot.json の形式(キーを短くしてあるのは手書き量を減らす�
      "tr": ["mizuno-takaaki"],   # translatorIds(翻訳書のみ)
      "p":  "shuwa-system",       # publisherId。省略時はNDLの出版社名から自動解決
      "t":  ["python"],           # techIds(空可)
-     "lv": "intermediate",       # level
      "th": ["essay-career"],     # themeIds
      "o":  "ov",                 # origin: "jp" | "ov"
      "ot": "The Programmer's Brain",  # 翻訳書の原題(NDLが持っていれば省略可)
@@ -155,7 +154,6 @@ def main():
             "publisherId": pid,
             "themeIds": a.get("th", []),
             "origin": "overseas" if overseas else "jp",
-            "level": a.get("lv"),
             "firstPublishedYear": first,
             "synopsis": a.get("syn", ""),
             "externalLinks": {},
