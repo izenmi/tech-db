@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { getTech } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { WorkCard } from "../common/WorkCard";
+import { WorkGrid } from "../common/WorkGrid";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { TECH_CATEGORY_LABEL } from "../common/labels";
 import { useWorkFilter } from "../common/useWorkFilter";
@@ -14,7 +14,7 @@ export function TechDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getTech(id!), [id]);
   const tech = state.status === "ready" ? state.data : undefined;
-  const { sorted, controls, hasActiveFilters } = useWorkFilter(tech?.works);
+  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(tech?.works);
 
   useSeo({
     title: tech?.name,
@@ -68,11 +68,7 @@ export function TechDetailPage() {
             </p>
           )}
           {sorted.length === 0 && <EmptyState text="登録されている本はまだありません。" />}
-          <div className="work-grid">
-            {sorted.map((w) => (
-              <WorkCard work={w} key={w.id} />
-            ))}
-          </div>
+          <WorkGrid works={sorted} coverView={coverView} />
         </>
       )}
     </div>

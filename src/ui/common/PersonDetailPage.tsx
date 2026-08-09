@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { getAuthor, getTranslator, getPublisher } from "../../data/manifest";
 import { useAsyncData } from "./useAsyncData";
 import { Loading, ErrorState, EmptyState } from "./Status";
-import { WorkCard } from "./WorkCard";
+import { WorkGrid } from "./WorkGrid";
 import { useWorkFilter } from "./useWorkFilter";
 import type { PersonKind } from "./PersonListPage";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "./useSeo";
@@ -24,7 +24,7 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
   const state = useAsyncData(() => FETCHER[kind](id!), [kind, id]);
   const person = state.status === "ready" ? state.data : undefined;
   const info = LIST_INFO[kind];
-  const { sorted, controls, hasActiveFilters } = useWorkFilter(person?.works);
+  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(person?.works);
 
   useSeo({
     title: person?.name,
@@ -71,11 +71,7 @@ export function PersonDetailPage({ kind }: { kind: PersonKind }) {
             {hasActiveFilters ? `${sorted.length}件 / 全${state.data.works.length}件` : `${sorted.length}件`}
           </p>
           {sorted.length === 0 && <EmptyState />}
-          <div className="work-grid">
-            {sorted.map((w) => (
-              <WorkCard work={w} key={w.id} />
-            ))}
-          </div>
+          <WorkGrid works={sorted} coverView={coverView} />
         </>
       )}
     </div>

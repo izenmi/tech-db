@@ -2,6 +2,7 @@ import { useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
 import type { WorkGenerated } from "../../types";
 import { bookYear } from "./bookYear";
+import { useCoverView } from "./useCoverView";
 
 /**
  * 作品リストを持つページ(テーマ詳細・原作者/作画家/出版社/レーベル詳細・アワード詳細)で
@@ -64,6 +65,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
   const theme = params.get("theme") ?? "";
   const sort = params.get("sort") ?? defaultSort;
   const options = useMemo(() => themeOptionsOf(works), [works]);
+  const { coverView, gridClassName, toggle } = useCoverView();
 
   const filtered = useMemo(() => {
     if (!works) return [];
@@ -143,8 +145,9 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           フィルターをクリア
         </button>
       )}
+      {toggle}
     </div>
   );
 
-  return { filtered, sorted, controls, hasActiveFilters };
+  return { filtered, sorted, controls, hasActiveFilters, coverView, gridClassName };
 }

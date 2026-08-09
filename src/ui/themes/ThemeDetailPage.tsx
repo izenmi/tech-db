@@ -3,7 +3,8 @@ import { useParams, useSearchParams } from "react-router-dom";
 import { getTheme } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { WorkCard } from "../common/WorkCard";
+import { WorkGrid } from "../common/WorkGrid";
+import { useCoverView } from "../common/useCoverView";
 import { matchesKeyword, themeOptionsOf } from "../common/useWorkFilter";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { bookYear } from "../common/bookYear";
@@ -23,6 +24,7 @@ export function ThemeDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getTheme(id!), [id]);
   const theme = state.status === "ready" ? state.data : undefined;
+  const { coverView, toggle } = useCoverView();
 
   useSeo({
     title: theme?.name,
@@ -136,13 +138,10 @@ export function ThemeDetailPage() {
                 フィルターをクリア
               </button>
             )}
+            {toggle}
           </div>
           {sorted.length === 0 && <EmptyState />}
-          <div className="work-grid">
-            {sorted.map((w) => (
-              <WorkCard work={w} key={w.id} />
-            ))}
-          </div>
+          <WorkGrid works={sorted} coverView={coverView} />
         </>
       )}
     </div>

@@ -3,7 +3,8 @@ import { useSearchParams } from "react-router-dom";
 import { getPublishers, getTechs, getThemes, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
-import { WorkCard } from "../common/WorkCard";
+import { WorkGrid } from "../common/WorkGrid";
+import { useCoverView } from "../common/useCoverView";
 import { useSeo } from "../common/useSeo";
 import { TECH_CATEGORY_LABEL, TECH_CATEGORY_ORDER } from "../common/labels";
 import { bookYear } from "../common/bookYear";
@@ -105,6 +106,7 @@ export function WorkListPage() {
   const freshness = params.get("freshness") ?? "";
   const sort = params.get("sort") ?? "year-desc";
   const pageParam = Math.max(1, parseInt(params.get("page") ?? "1", 10) || 1);
+  const { coverView, toggle } = useCoverView();
 
   const worksState = useAsyncData(getWorks, []);
   const themesState = useAsyncData(getThemes, []);
@@ -264,6 +266,7 @@ export function WorkListPage() {
             フィルターをクリア
           </button>
         )}
+        {toggle}
       </div>
 
       {worksState.status === "loading" && <Loading />}
@@ -276,11 +279,7 @@ export function WorkListPage() {
           </p>
           {filtered.length === 0 && <EmptyState />}
           {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
-          <div className="work-grid">
-            {pageItems.map((w) => (
-              <WorkCard work={w} key={w.id} />
-            ))}
-          </div>
+          <WorkGrid works={pageItems} coverView={coverView} />
           {totalPages > 1 && <Pager page={page} totalPages={totalPages} onGoToPage={goToPage} />}
         </>
       )}
