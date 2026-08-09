@@ -401,15 +401,12 @@ h1 {
   border-color: var(--color-primary-strong);
 }
 
+/* 書影は切らずに全体を収める。枠(92:131)と実際の書影の比率のズレは、上下または左右の
+   余白として出す。cover(はみ出しを切る)だと、正方形に近い技術書や帯付きの書影で
+   タイトルや版数が切れてしまう。余白は枠の背景色(カードと同じ surface)になるので目立たない。 */
 .work-cover--image {
-  object-fit: cover;
-  background: var(--color-surface);
-}
-
-/* 表紙が主役のモードでは書影を切らない。枠(1:1.42)と実際の書影の比率のズレは、
-   上下または左右の余白として出す。小さいカードは従来どおり cover で揃える。 */
-.work-cover--xl.work-cover--image {
   object-fit: contain;
+  background: var(--color-surface);
 }
 
 .cover-link {
