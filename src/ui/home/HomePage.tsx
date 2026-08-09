@@ -126,7 +126,7 @@ export function HomePage() {
   useSeo({
     description:
       state.status === "ready"
-        ? `ITエンジニア向けの技術書${state.data.works}冊を技術スタック・対象レベル・著者・出版社・受賞歴・テーマから検索できるデータベース。`
+        ? `ITエンジニア向けの技術書${state.data.works}冊を技術スタック・著者・出版社・受賞歴・テーマから検索できるデータベース。`
         : undefined,
     jsonLd: {
       "@context": "https://schema.org",
@@ -145,7 +145,7 @@ export function HomePage() {
     <div className="page">
       <div className="home-hero">
         <h1 className="font-display">技術書DB</h1>
-        <p className="page-subtitle">ITエンジニアの技術書を技術スタック・対象レベル・テーマから探せるデータベース</p>
+        <p className="page-subtitle">ITエンジニアの技術書を技術スタック・テーマから探せるデータベース</p>
         <p className="home-intro">
           次に読む技術書探しに使えるデータベースです。言語・フレームワーク・インフラなどの技術スタックや、入門書・設計・テストといったテーマで絞り込めます。改訂版がある本は収録した版と刊行年を明記しています。
         </p>

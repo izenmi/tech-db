@@ -5,7 +5,7 @@ export const SITE_ORIGIN = "https://izenmi.github.io";
 export const BASE_PATH = import.meta.env.BASE_URL;
 export const SITE_URL = `${SITE_ORIGIN}${BASE_PATH}`;
 export const DEFAULT_DESCRIPTION =
-  "ITエンジニア向けの技術書を技術スタック・対象レベル・著者・翻訳者・出版社・受賞歴・テーマから検索できるデータベース。";
+  "ITエンジニア向けの技術書を技術スタック・著者・翻訳者・出版社・受賞歴・テーマから検索できるデータベース。";
 export const DEFAULT_OG_IMAGE = `${SITE_URL}og-image.png`;
 
 function setMeta(attr: "name" | "property", key: string, content: string) {

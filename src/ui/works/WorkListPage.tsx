@@ -117,7 +117,7 @@ export function WorkListPage() {
     title: "本を探す",
     description:
       worksState.status === "ready"
-        ? `技術書${worksState.data.length}冊を技術スタック・対象レベル・テーマ・出版社などから検索・絞り込みできます。`
+        ? `技術書${worksState.data.length}冊を技術スタック・テーマ・出版社などから検索・絞り込みできます。`
         : undefined,
   });
 

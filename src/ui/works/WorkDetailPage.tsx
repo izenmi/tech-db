@@ -57,7 +57,7 @@ export function WorkDetailPage() {
   useSeo({
     title: work?.title,
     description: work
-      ? `${work.title}(${work.authorNames.join("・")}/${work.publisherName})の内容・刊行年・対象レベル・扱う技術をまとめて紹介。${work.synopsis.slice(0, 60)}…`
+      ? `${work.title}(${work.authorNames.join("・")}/${work.publisherName})の内容・刊行年・収録した版・扱う技術をまとめて紹介。${work.synopsis.slice(0, 60)}…`
       : undefined,
     image: work?.coverUrl ?? DEFAULT_OG_IMAGE,
     jsonLd: work ? workJsonLd(id!, work) : undefined,
