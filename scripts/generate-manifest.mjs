@@ -310,7 +310,9 @@ const recommendTagIds = new Set(techs.map((t) => t.id));
 const recommendIndex = {
   tags: techsGenerated
     .filter((t) => t.workCount > 0 && recommendTagIds.has(t.id))
-    .map((t) => ({ id: t.id, name: t.name, count: t.workCount })),
+    .map((t) => ({ id: t.id, name: t.name, count: t.workCount }))
+    // チップは件数の多い順に並べる(techsGenerated 自体は五十音順なのでここで並べ替える)
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name, "ja")),
   items: works.map((x) => ({
     id: x.id,
     tagIds: x.techIds.filter((t) => recommendTagIds.has(t)),
