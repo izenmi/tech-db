@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { getTech } from "../../data/manifest";
+import { getTech, getWorksByIds } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkGrid } from "../common/WorkGrid";
@@ -14,7 +14,14 @@ export function TechDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getTech(id!), [id]);
   const tech = state.status === "ready" ? state.data : undefined;
-  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(tech?.works);
+  // 作品の実データは works.json 側にある(エンティティは workIds しか持たない)。
+  // 取得済みならキャッシュから返るので追加の通信はほぼ発生しない。
+  const resolvedWorksState = useAsyncData(
+    () => (tech ? getWorksByIds(tech.workIds) : Promise.resolve([])),
+    [tech],
+  );
+  const resolvedWorks = resolvedWorksState.status === "ready" ? resolvedWorksState.data : undefined;
+  const { sorted, controls, hasActiveFilters, coverView } = useWorkFilter(resolvedWorks);
 
   useSeo({
     title: tech?.name,
@@ -64,7 +71,7 @@ export function TechDetailPage() {
           {controls}
           {hasActiveFilters && (
             <p className="page-subtitle">
-              絞り込み結果 {sorted.length}件 / 全{state.data.works.length}件
+              絞り込み結果 {sorted.length}件 / 全{state.data.workCount}件
             </p>
           )}
           {sorted.length === 0 && <EmptyState text="登録されている本はまだありません。" />}

@@ -199,7 +199,9 @@ function relatedIdsFor(item) {
 const relatedById = new Map(works.map((x) => [x.id, relatedIdsFor(x)]));
 
 // ---- generated/works.json ----
-const worksGenerated = works.map((w) => ({
+// あらすじ・出典メモ・updatedAt はここに入れない(作品詳細ページでしか使わないのに
+// works.json の3分の1を占める)。詳細ページ用は work-texts.json に分ける。
+const worksGenerated = works.map(({ synopsis, sourceNote, updatedAt, ...w }) => ({
   relatedWorkIds: relatedById.get(w.id),
   ...w,
   authorNames: w.authorIds.map((id) => authorsById.get(id).name),
@@ -220,18 +222,11 @@ const worksGenerated = works.map((w) => ({
   rakutenItemUrl: coversCache[w.id]?.rakutenItemUrl ?? undefined,
 }));
 
-// Cross-reference lists (author/tech/translator/publisher/theme pages) embed the full
-// denormalized work — same shape as generated/works.json — so those pages can render a full
-// WorkCard (cover, publisher, awards, theme tags) instead of just a bare title+year link.
-const worksGeneratedById = new Map(worksGenerated.map((w) => [w.id, w]));
-
-function fullWork(w) {
-  // Only the work detail page renders related works, and each work is embedded in roughly seven
-  // of these cross-reference lists, so keeping relatedWorkIds out of the embedded copies avoids
-  // a large amount of duplicated ids across generated/.
-  const { relatedWorkIds, ...rest } = worksGeneratedById.get(w.id);
-  return rest;
-}
+// 相互参照リスト(著者・翻訳者・出版社・テーマ・技術スタックの各詳細ページ)は作品を**idの配列**で
+// 持ち、表示側は works.json(取得済みキャッシュ)から引き直して WorkCard を描く。
+// 作品をフル展開して埋め込むと1作品が平均7つのリストに重複して入り、生成JSONが数MB膨らむ
+// (2026-08-12に是正)。
+const idsBy = (list, cmp) => [...list].sort(cmp).map((w) => w.id);
 
 function byPublicationYear(a, b) {
   return a.firstPublishedYear - b.firstPublishedYear;
@@ -253,7 +248,7 @@ function buildPersonList(people, worksByPersonId) {
         description: p.description,
         externalLinks: p.externalLinks,
         workCount: theirWorks.length,
-        works: theirWorks.map(fullWork).sort(byPublicationYear),
+        workIds: idsBy(theirWorks, byPublicationYear),
       };
     })
     .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
@@ -288,7 +283,7 @@ const techsGenerated = techs
     return {
       ...t,
       workCount: theirWorks.length,
-      works: theirWorks.map(fullWork).sort(byEditionYearDesc),
+      workIds: idsBy(theirWorks, byEditionYearDesc),
     };
   })
   .sort((a, b) => a.nameKana.localeCompare(b.nameKana, "ja"));
@@ -301,10 +296,16 @@ const themesGenerated = themes
     return {
       ...t,
       workCount: theirWorks.length,
-      works: theirWorks.map(fullWork).sort(byPublicationYear),
+      workIds: idsBy(theirWorks, byPublicationYear),
     };
   })
   .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));
+
+// ---- generated/work-texts.json ----
+// 作品詳細ページだけが読む長文(あらすじ・出典メモ)。キーは作品id。
+const workTexts = Object.fromEntries(
+  works.map((w) => [w.id, { synopsis: w.synopsis, sourceNote: w.sourceNote }]),
+);
 
 // ---- generated/awards.json ----
 // 受賞歴の result は「2013年版 国内編 第1位」「大賞」「第5位」のような自由文なので、
@@ -359,6 +360,7 @@ writeFileSync(path.join(outDir, "translators.json"), JSON.stringify(translatorsG
 writeFileSync(path.join(outDir, "publishers.json"), JSON.stringify(publishersGenerated), "utf-8");
 writeFileSync(path.join(outDir, "themes.json"), JSON.stringify(themesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "work-texts.json"), JSON.stringify(workTexts), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
 console.log(

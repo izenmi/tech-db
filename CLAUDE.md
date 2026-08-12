@@ -6,6 +6,24 @@ ITエンジニア向けの技術書を技術スタック・対象レベル・著
 - リポジトリ: `izenmi/tech-db`(public。GitHub Pagesは無料枠だとpublicでないと使えない)
 - スタック: React 18 + TypeScript + Vite 5 + `react-router-dom`(`BrowserRouter`)。姉妹サイトと同じ
 
+
+### 転送量の設計(2026-08-12。**作品をフル展開して埋め込まない**)
+
+著者・翻訳者・出版社・テーマ・技術スタックの各生成ファイルは作品を **`workIds`(id配列)** で持ち、
+表示側は `getWorksByIds()`(works.json の取得済みキャッシュ)から引き直す。
+あらすじと出典メモは作品詳細でしか使わないので **`work-texts.json`** に分けてある。
+
+以前は作品をフル展開して埋め込んでいたため1作品が平均7つのリストに重複して入っていた。
+現在は gzip で works 201KB / work-texts 163KB / themes 14KB / authors 79KB / techs 26KB /
+publishers 16KB / translators 18KB(以前は works 370KB / themes 530KB / authors 486KB /
+techs 482KB / publishers 315KB / translators 192KB)。
+
+- **新しい生成ファイルに作品を埋め込みたくなったら、まずidで足りないかを疑う**
+- **作品詳細ページはあらすじが揃うまで「読み込み中」を出し続ける**こと(`prerender.mjs` が
+  「読み込み中」の消滅を待って静的HTMLを書くため、先に描くとあらすじ抜きのHTMLが焼き付く)
+- **`useMemo` の依存配列に注意**。エンティティのstateだけを見ていると、後から解決する作品配列で
+  再計算されず一覧が空になる
+
 ## なぜ mystery-db をベースにしたか
 
 - 技術書も**1冊1エントリ**で登録する。シリーズ単位のranobe-db/manga-dbではなく、1タイトル単位のmystery-dbと同じ粒度
