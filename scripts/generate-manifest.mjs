@@ -301,6 +301,22 @@ const themesGenerated = themes
   })
   .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));
 
+// ---- generated/recommend-index.json ----
+// 「好みからおすすめ」(/recommend)専用の軽量索引。技術選択チップとスコア計算に必要な分だけ。
+// techs.json / works.json を選択前に読ませないためにこれがある。
+// **読み手は /recommend だけ。ページを消すならこの生成も消すこと**(横断検索を消したとき、
+// 専用の search-index.json が読み手のいないまま残りかけた)。
+const recommendTagIds = new Set(techs.map((t) => t.id));
+const recommendIndex = {
+  tags: techsGenerated
+    .filter((t) => t.workCount > 0 && recommendTagIds.has(t.id))
+    .map((t) => ({ id: t.id, name: t.name, count: t.workCount })),
+  items: works.map((x) => ({
+    id: x.id,
+    tagIds: x.techIds.filter((t) => recommendTagIds.has(t)),
+  })),
+};
+
 // ---- generated/work-texts.json ----
 // 作品詳細ページだけが読む長文(あらすじ・出典メモ)。キーは作品id。
 const workTexts = Object.fromEntries(
@@ -360,6 +376,7 @@ writeFileSync(path.join(outDir, "translators.json"), JSON.stringify(translatorsG
 writeFileSync(path.join(outDir, "publishers.json"), JSON.stringify(publishersGenerated), "utf-8");
 writeFileSync(path.join(outDir, "themes.json"), JSON.stringify(themesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "recommend-index.json"), JSON.stringify(recommendIndex), "utf-8");
 writeFileSync(path.join(outDir, "work-texts.json"), JSON.stringify(workTexts), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
@@ -387,6 +404,7 @@ const sitemapEntries = [
   urlEntry("/authors"),
   ...authors.map((a) => urlEntry(`/authors/${a.id}`, a.updatedAt?.slice(0, 10))),
   urlEntry("/techs"),
+  urlEntry("/recommend"),
   ...techs.map((t) => urlEntry(`/techs/${t.id}`, t.updatedAt?.slice(0, 10))),
   urlEntry("/translators"),
   ...translators.map((t) => urlEntry(`/translators/${t.id}`, t.updatedAt?.slice(0, 10))),
