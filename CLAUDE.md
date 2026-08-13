@@ -324,3 +324,24 @@ game-db の `scripts/suggest-candidates.mjs`(IGDB版)と同じ発想。
 - 選択状態はURLの `?tags=<id>,<id>,<id>`。知らないidは黙って捨て、3つ上限は未選択チップの無効化で表現
 - **導線はトップの「人気技術」節のみ。TopNav には足していない**(ナビを増やす変更は過去に撤去されている)
 - 未選択時に `<Loading />` を出さないこと(`prerender.mjs` が「読み込み中」の消滅を待つため)
+
+### 本起点モード「本から」(2026-08-13、ranobe-dbから移植)
+
+`/recommend` 内のタブ切替で、好きな本を最大3冊選んで似た本を出す第2モード
+(`src/ui/recommend/WorkRecommendSection.tsx`)。別ルートにはしていない。
+
+- **モード判定は `?works=<id>,<id>,<id>` の有無**(tags= と同居しても works 優先)。`?mode=works` は
+  空選択状態の保持用。タブ切替時は相手側のクエリを消す
+- **タグ軸が2本あるのはこのサイト固有の事情**。テーマ起点タブが選ばせるのは `techIds` だが、
+  ビルド側 `relatedIdsFor`(詳細ページの「この本が好きなら」)のコサインは `themeIds` で計算されている。
+  本を種にするこのモードは**詳細ページ側に合わせて `themeIds`** を使う(`visibleThemes()`)。
+  そのおかげでシード1冊のとき詳細ページの関連6件と完全に同じ並びになる
+- **スコアは各シードとの類似度(ビルド側と同一式: themeIds のIDFコサイン + 同技術+0.15 +
+  同著者+0.1)を個別に計算して算術平均**。ボーナスで1.0を超えるので **%表示は
+  `Math.min(100, …)` で頭打ち**
+- **データは works.json だけ**。recommend-index.json は読まないし拡張もしない
+- 結果グリッドとタイブレークは `RecommendPage.tsx` の `RecommendGrid` / `tieBreakKey`(export化)を
+  両モードで共用。このモードは works.json ロード中に `<Loading />` を出してよい(プリレンダーが
+  見る素の `/recommend` はテーマ起点のため)
+- **ギャラリー表示(`?view=gallery`)はこのサイトには入れていない**(表紙を大判で眺める価値は
+  イラストレーター/作画家のいる ranobe-db・manga-db 固有)
