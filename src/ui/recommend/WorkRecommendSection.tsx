@@ -6,6 +6,7 @@ import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { matchesKeyword } from "../common/useWorkFilter";
 import { useCoverView } from "../common/useCoverView";
+import { bookYear } from "../common/bookYear";
 import { RECOMMEND_COUNT, RecommendGrid, tieBreakKey } from "./RecommendPage";
 
 const MAX_SEEDS = 3;
@@ -119,7 +120,7 @@ export function WorkRecommendSection() {
         (a, b) =>
           prefix(a) - prefix(b) ||
           tieBreakKey(b) - tieBreakKey(a) ||
-          b.firstPublishedYear - a.firstPublishedYear ||
+          bookYear(b) - bookYear(a) ||
           a.id.localeCompare(b.id),
       )
       .slice(0, CANDIDATE_COUNT);
@@ -196,7 +197,7 @@ export function WorkRecommendSection() {
             >
               <span className="work-picker__title">{w.title}</span>
               <span className="work-picker__meta">
-                {w.authorNames.join("・")} / {w.publisherName} / {w.firstPublishedYear}年
+                {w.authorNames.join("・")} / {w.publisherName} / {bookYear(w)}年
               </span>
             </button>
           ))}
